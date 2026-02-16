@@ -11,7 +11,7 @@
   --mapH: clamp(260px, 36vh, 420px);
 
   /* overall height for the bottom block */
-  --rowH: clamp(300px, 38vh, 440px);
+  --rowH: clamp(260px, 34vh, 420px);
 
   /* header height is consistent everywhere */
   --headerH: 54px;
@@ -80,14 +80,14 @@ body{
 .dashboard{
   width:100%;
   display:grid;
-  grid-template-columns: minmax(0, 1.2fr) minmax(0, 1.8fr);
+  grid-template-columns: minmax(0, 0.95fr) minmax(0, 2.05fr);
   gap:var(--gap);
   align-items:start;
 }
 
 /* LEFT: LIVE NEWS */
 .news-block{
-  height:var(--rowH);
+  height:var(--liveH);
   border:1px solid var(--border);
   border-radius:var(--radius);
   overflow:hidden;
@@ -196,7 +196,9 @@ iframe{
   flex-direction:column;
   min-height:0;
 
-  aspect-ratio: 4 / 5;  /* ✅ makes them squares */
+  height: clamp(320px, 42vh, 520px);
+}
+  
 }
 
 
@@ -388,10 +390,8 @@ iframe{
 }
 .news-btn:hover{ background: rgba(255,255,255,0.14); }
 
-/* Mobile */
 @media (max-width:1100px){
-  .dashboard{ grid-template-columns:1fr; }
-  .right-col{ height:auto; grid-template-columns:1fr; }
-  .news-block{ height: clamp(420px, 55vh, 620px); }
-  .panel{ height: clamp(240px, 30vh, 340px); }
+  .news-block{ height: clamp(260px, 34vh, 420px); } /* smaller */
+  .panel{ height: clamp(300px, 42vh, 520px); }     /* bigger */
 }
+
