@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- External CSS (cache-bust) -->
-  <script src="app.js?v=11" defer></script>
+  <link rel="stylesheet" href="style.css?v=10" />
 
   <!-- Leaflet (Map library) -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -14,7 +14,7 @@
 
   <!-- Chart.js + PapaParse (Democracy Trend) -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 </head>
 
 <body>
@@ -76,7 +76,7 @@
           <div class="panel-header">
             <div class="panel-title">TOP NEWS</div>
             <div class="meta-right">
-              <select class="news-select" id="newsCategory">
+              <select class="news-select" id="newsCategory" onchange="refreshTopNews()">
                 <option value="all" selected>All</option>
                 <option value="world">World</option>
                 <option value="politics">Politics</option>
@@ -85,7 +85,7 @@
                 <option value="environment">Environment</option>
               </select>
 
-              <select class="news-select" id="newsN">
+              <select class="news-select" id="newsN" onchange="refreshTopNews()">
                 <option value="20">20</option>
                 <option value="40">40</option>
                 <option value="60" selected>60</option>
@@ -180,7 +180,9 @@
     </div>
   </aside>
 
-  <!-- External JS -->
-  <script src="app.js" defer></script>
+  <!-- External JS (cache-bust) -->
+  <script src="app.js?v=13" defer></script>
 </body>
 </html>
+
+window.refreshTopNews = refreshTopNews;
