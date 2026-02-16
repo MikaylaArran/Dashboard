@@ -1,0 +1,12 @@
+{
+  "generated_at_utc": "2026-02-16T00:00:00Z",
+  "window_days": 7,
+  "countries": [
+    { "country": "South Africa", "score": 58, "U": 18, "C": 14, "S": 12, "I": 14 },
+    { "country": "United Kingdom", "score": 43, "U": 10, "C": 9,  "S": 12, "I": 12 },
+    { "country": "India", "score": 66, "U": 24, "C": 14, "S": 14, "I": 14 },
+    { "country": "United States", "score": 52, "U": 14, "C": 12, "S": 12, "I": 14 },
+    { "country": "France", "score": 49, "U": 12, "C": 12, "S": 12, "I": 13 },
+    { "country": "Brazil", "score": 61, "U": 20, "C": 13, "S": 14, "I": 14 }
+  ]
+}
