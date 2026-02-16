@@ -268,6 +268,60 @@ function initCountryDrawer(){
     if (e.key === "Escape") closeCountryDrawer();
   });
 }
+/* -----------------------------
+   MAP
+----------------------------- */
+function initMap(){
+  const el = document.getElementById("worldMap");
+  if (!el || typeof L === "undefined") {
+    console.warn("Map not initialised:", { elExists: !!el, leaflet: typeof L });
+    return;
+  }
+
+  const map = L.map("worldMap", {
+    zoomControl: true,
+    attributionControl: false,
+    worldCopyJump: true
+  }).setView([15, 10], 2);
+
+  L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+    maxZoom: 19
+  }).addTo(map);
+
+  const points = [
+    { name: "South Africa", lat: -29, lon: 24,  color: "#f59e0b" },
+    { name: "UK",           lat: 55,  lon: -3,  color: "#22c55e" },
+    { name: "India",        lat: 22,  lon: 78,  color: "#ef4444" },
+    { name: "USA",          lat: 37,  lon: -95, color: "#60a5fa" }
+  ];
+
+  points.forEach(p => {
+    L.circleMarker([p.lat, p.lon], {
+      radius: 6,
+      weight: 1,
+      color: p.color,
+      fillColor: p.color,
+      fillOpacity: 0.85,
+      opacity: 0.95
+    })
+    .bindTooltip(p.name, { direction: "top", offset: [0, -6] })
+    .addTo(map);
+  });
+
+  function updateMapTime(){
+    const now = new Date();
+    const label = document.getElementById("mapTime");
+    if (label) label.textContent = now.toUTCString().replace("GMT","UTC");
+  }
+  updateMapTime();
+  setInterval(updateMapTime, 1000);
+
+  function fixMapSize(){
+    setTimeout(() => map.invalidateSize(), 150);
+  }
+  window.addEventListener("load", fixMapSize);
+  window.addEventListener("resize", fixMapSize);
+}
 
 /* -----------------------------
    BOOT
