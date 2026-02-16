@@ -575,3 +575,7 @@ iframe{
   color:rgba(255,255,255,0.85);
 }
 .type-row span{ color:rgba(255,255,255,0.6); }
+/* Democracy Trend panel spans 2 columns for wider chart */
+#democracyPanel{
+  grid-column: span 2;
+}
