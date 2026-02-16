@@ -1,9 +1,9 @@
 name: Update top news (NewsData.io)
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 */2 * * *"   # every 2 hours (UTC)
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -23,7 +23,7 @@ jobs:
       - name: Install deps
         run: pip install requests
 
-      - name: Fetch NewsData.io and write data/top_news.json
+      - name: Generate top news JSON
         env:
           NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
         run: python scripts/generate_top_news_newsdata.py
@@ -33,10 +33,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/top_news.json
-          git diff --cached --quiet || (git commit -m "Auto-update top_news.json (NewsData.io)" && git push)
-
-      - name: Show generated file
-        run: |
-          ls -la data || true
-          echo "----- top_news.json -----"
-          cat data/top_news.json || true
+          git diff --cached --quiet || (git commit -m "Auto-update top_news.json" && git push)
