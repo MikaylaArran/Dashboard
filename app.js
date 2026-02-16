@@ -109,6 +109,10 @@ function renderInstability(rows, meta){
         U:${item.U ?? 0} C:${item.C ?? 0} S:${item.S ?? 0} I:${item.I ?? 0}
       </div>
     `;
+
+    // ✅ ADD CLICK: open the report drawer for this country
+    card.addEventListener("click", () => openCountryDrawer(item));
+
     list.appendChild(card);
   });
 }
@@ -300,11 +304,90 @@ function initMap(){
   window.addEventListener("load", fixMapSize);
   window.addEventListener("resize", fixMapSize);
 }
+/* -----------------------------
+   COUNTRY REPORT DRAWER
+----------------------------- */
+function openCountryDrawer(item){
+  const drawer = document.getElementById("countryDrawer");
+  const overlay = document.getElementById("drawerOverlay");
+  const title = document.getElementById("drawerCountry");
+  const content = document.getElementById("drawerContent");
+
+  if (!drawer || !overlay || !title || !content) return;
+
+  title.textContent = item.country ?? "Unknown";
+
+  const score = Number(item.score ?? 0);
+  const sev = severityFor(score);
+
+  content.innerHTML = `
+    <div class="news-item">
+      <div style="display:flex; align-items:center; justify-content:space-between; gap:10px;">
+        <div>
+          <div class="summary-title">Instability Score</div>
+          <div style="font-size:28px; font-weight:900; letter-spacing:.04em;">
+            ${score}<span style="opacity:.6; font-size:14px;">/100</span>
+          </div>
+        </div>
+        <div class="severity" style="border-color:${sev.color}55; background:${sev.color}22; color:${sev.color}; font-weight:800;">
+          ${sev.label}
+        </div>
+      </div>
+
+      <div class="bar" style="margin-top:10px;">
+        <div style="width:${Math.max(0, Math.min(100, score))}%; background:${sev.color};"></div>
+      </div>
+
+      <div class="breakdown" style="margin-top:10px;">
+        UNREST: ${item.U ?? 0} &nbsp;|&nbsp; CONFLICT: ${item.C ?? 0} &nbsp;|&nbsp; SECURITY: ${item.S ?? 0} &nbsp;|&nbsp; INFO: ${item.I ?? 0}
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="summary-title">What this means</div>
+      <div class="summary-text">
+        This panel is your “report view”. Next, we can add: a short explanation, recent headlines for this country,
+        and any trend change (e.g., +21 vs last period) if your JSON includes it.
+      </div>
+      <div class="news-meta">Tip: we can also add a “View full report” link or generate one page per country.</div>
+    </div>
+  `;
+
+  drawer.classList.add("open");
+  overlay.classList.add("open");
+  drawer.setAttribute("aria-hidden", "false");
+  overlay.setAttribute("aria-hidden", "false");
+}
+
+function closeCountryDrawer(){
+  const drawer = document.getElementById("countryDrawer");
+  const overlay = document.getElementById("drawerOverlay");
+  if (!drawer || !overlay) return;
+
+  drawer.classList.remove("open");
+  overlay.classList.remove("open");
+  drawer.setAttribute("aria-hidden", "true");
+  overlay.setAttribute("aria-hidden", "true");
+}
+
+function initCountryDrawer(){
+  const overlay = document.getElementById("drawerOverlay");
+  const closeBtn = document.getElementById("drawerClose");
+
+  if (overlay) overlay.addEventListener("click", closeCountryDrawer);
+  if (closeBtn) closeBtn.addEventListener("click", closeCountryDrawer);
+
+  // ESC to close
+  window.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeCountryDrawer();
+  });
+}
 
 /* -----------------------------
    BOOT
 ----------------------------- */
 document.addEventListener("DOMContentLoaded", () => {
+  initCountryDrawer(); 
   initLiveNews();
   initInstability();
   initTopNews();
