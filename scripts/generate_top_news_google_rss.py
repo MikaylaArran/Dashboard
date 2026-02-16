@@ -17,11 +17,9 @@ CATEGORY_QUERIES = {
 LANGUAGE = "en"
 REGION = "US"
 CEID = "US:en"
-MAX_ITEMS = 100
+MAX_ITEMS = 120  # you can increase/decrease
 
 def google_news_rss_url(query: str) -> str:
-    # Google News RSS Search
-    # hl = language, gl = region, ceid = edition
     q = requests.utils.quote(query)
     return f"https://news.google.com/rss/search?q={q}&hl={LANGUAGE}&gl={REGION}&ceid={CEID}"
 
@@ -50,28 +48,44 @@ def parse_rss(xml_text: str):
 
     return items
 
+def write_json(path: str, payload: dict):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
 def main():
     os.makedirs("data", exist_ok=True)
 
-    category = os.environ.get("NEWS_CATEGORY", "all").strip().lower()
-    query = CATEGORY_QUERIES.get(category, CATEGORY_QUERIES["all"])
+    now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
 
-    url = google_news_rss_url(query)
-    r = requests.get(url, timeout=30)
-    r.raise_for_status()
+    # Generate one file per category
+    for category, query in CATEGORY_QUERIES.items():
+        url = google_news_rss_url(query)
+        r = requests.get(url, timeout=30)
+        r.raise_for_status()
 
-    articles = parse_rss(r.text)[:MAX_ITEMS]
+        articles = parse_rss(r.text)[:MAX_ITEMS]
 
-    payload = {
-        "generated_at_utc": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
-        "category": category,
+        payload = {
+            "generated_at_utc": now,
+            "category": category,
+            "language": "en",
+            "summary": f"Top headlines pulled from Google News RSS (free, English). Category: {category}.",
+            "articles": articles
+        }
+
+        out_path = f"data/top_news_{category}.json"
+        write_json(out_path, payload)
+
+    # Also write a default file for backward compatibility
+    # (so data/top_news.json still works)
+    default_path = "data/top_news.json"
+    write_json(default_path, {
+        "generated_at_utc": now,
+        "category": "all",
         "language": "en",
-        "summary": "Top headlines pulled from Google News RSS (free, English).",
-        "articles": articles
-    }
-
-    with open("data/top_news.json", "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
+        "summary": "Top headlines pulled from Google News RSS (free, English). Category: all.",
+        "articles": json.load(open("data/top_news_all.json", "r", encoding="utf-8"))["articles"]
+    })
 
 if __name__ == "__main__":
     main()
