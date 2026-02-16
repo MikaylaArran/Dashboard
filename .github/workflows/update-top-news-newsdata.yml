@@ -1,9 +1,9 @@
 name: Update top news (NewsData.io)
 
 on:
-  schedule:
-    - cron: "0 */2 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
