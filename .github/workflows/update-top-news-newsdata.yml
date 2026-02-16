@@ -1,36 +1,45 @@
-name: Update top news (NewsData.io)
+name: Update Top News (GDELT)
 
 on:
-  schedule:
-    - cron: "0 */2 * * *"   # every 2 hours (UTC)
   workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes (change if you want)
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install deps
-        run: pip install requests
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: Generate top news JSON
+      - name: Generate top_news.json from GDELT
         env:
-          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
-        run: python scripts/generate_top_news_newsdata.py
+          NEWS_MAX: "20"
+          NEWS_QUERY: '(war OR conflict OR election OR "central bank" OR inflation OR AI OR cyber OR climate OR protest)'
+        run: |
+          python scripts/generate_top_news_gdelt.py
 
-      - name: Commit & push if changed
+      - name: Commit and push updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/top_news.json
-          git diff --cached --quiet || (git commit -m "Auto-update top_news.json" && git push)
+          git commit -m "Update top_news.json (GDELT)" || echo "No changes to commit"
+          git push
