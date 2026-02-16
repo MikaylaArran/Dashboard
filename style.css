@@ -230,11 +230,14 @@ iframe{
   padding: 0 14px;
   border-bottom: 1px solid var(--border);
   background: var(--top);
+
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 12px;
+
   flex: 0 0 auto;
+  line-height: 1;           /* IMPORTANT: stops baseline weirdness */
 }
 
 /* KEY: title can shrink + truncates instead of wrapping */
@@ -258,19 +261,36 @@ iframe{
 .meta-right{
   flex: 0 0 auto;
   display: flex;
-  align-items: center;
+  align-items: center;   /* center everything vertically */
   gap: 8px;
-  flex-wrap: nowrap;        /* IMPORTANT: keep one line */
-  white-space: nowrap;      /* IMPORTANT: keep one line */
+
+  flex-wrap: nowrap;
+  white-space: nowrap;
+
+  line-height: 1;        /* IMPORTANT */
 }
 
 
 .panel-title{
-  font-weight:700;
-  letter-spacing:0.16em;
-  font-size:12px;
-  text-transform:uppercase;
+  flex: 1 1 auto;
+  min-width: 0;
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  font-weight: 800;
+  font-size: 12px;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+
+  line-height: 1;           /* IMPORTANT */
+  padding-top: 1px;         /* tiny nudge to match reference */
+  opacity: 0.95;
+
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
+
 
 .meta-right{
   display:flex;
@@ -282,13 +302,11 @@ iframe{
 }
 
 .badge{
-  border:1px solid rgba(255,255,255,0.15);
-  padding:3px 8px;
-  border-radius:999px;
-  font-size:11px;
-  opacity:0.85;
-  background:rgba(255,255,255,0.04);
-  white-space:nowrap;
+  height: 24px;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 8px;
+  line-height: 1;
 }
 
 /* ✅ THIS guarantees scrolling inside panels */
@@ -420,24 +438,32 @@ iframe{
   color: rgba(255,255,255,0.86);
 }
 
+.news-select,
+.news-btn{
+  height: 28px;
+  padding: 0 10px;
+  line-height: 28px;
+
+  border-radius: 9px;
+  font-size: 12px;
+
+  border: 1px solid rgba(255,255,255,0.15);
+  color: rgba(255,255,255,0.92);
+}
+
+/* keep their different backgrounds */
 .news-select{
   background: rgba(0,0,0,0.35);
-  color: rgba(255,255,255,0.92);
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 10px;
-  padding: 6px 10px;
-  font-size: 12px;
   outline: none;
 }
 
 .news-btn{
   background: rgba(255,255,255,0.08);
-  color: rgba(255,255,255,0.92);
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 10px;
-  padding: 6px 10px;
-  font-size: 12px;
   cursor: pointer;
+}
+
+.news-btn:hover{
+  background: rgba(255,255,255,0.14);
 }
 .news-btn:hover{ background: rgba(255,255,255,0.14); }
 
