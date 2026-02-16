@@ -451,3 +451,4 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(initInstability, 60_000);
   setInterval(refreshTopNews, 60_000);
 });
+console.log("APP.JS LOADED ✅", new Date().toISOString());
