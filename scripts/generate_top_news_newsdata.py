@@ -22,22 +22,42 @@ def fetch_latest():
     if QUERY:
         params["q"] = QUERY
 
-    r = requests.get(URL, params=params, timeout=45)
-    r.raise_for_status()
-    return r.json()
+    # Retry with exponential backoff on 429 (Too Many Requests)
+    for attempt in range(5):
+        r = requests.get(URL, params=params, timeout=45)
+
+        if r.status_code == 429:
+            wait = (2 ** attempt) * 15  # 15s, 30s, 60s, 120s, 240s
+            print(f"NewsData rate limit (429). Waiting {wait}s then retrying...")
+            time.sleep(wait)
+            continue
+
+        r.raise_for_status()
+        return r.json()
+
+    # If still rate-limited after retries, don't crash the workflow
+    print("Still rate limited after retries. Returning empty results.")
+    return {"results": []}
 
 def normalize(payload):
-    # NewsData.io commonly returns results list in "results"
     results = payload.get("results") or []
+
+    summary_text = ""
+    if not results:
+        summary_text = "Rate limited by NewsData.io (429) or no results returned. Showing empty feed."
 
     articles = []
     for a in results[:50]:
+        cat = a.get("category")
+        if isinstance(cat, list):
+            cat = cat[0] if cat else ""
+
         articles.append({
             "title": a.get("title") or "Untitled",
             "link": a.get("link") or "",
             "pubDate": a.get("pubDate") or a.get("publishedAt") or "",
             "source": a.get("source_id") or a.get("source") or "",
-            "category": (a.get("category")[0] if isinstance(a.get("category"), list) and a.get("category") else a.get("category")) or "",
+            "category": cat or "",
             "language": a.get("language") or "",
         })
 
@@ -45,7 +65,7 @@ def normalize(payload):
         "generated_at_utc": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
         "category": "all",
         "language": LANGUAGE,
-        "summary": "",
+        "summary": summary_text,
         "articles": articles
     }
 
