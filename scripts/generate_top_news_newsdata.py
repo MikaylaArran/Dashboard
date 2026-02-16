@@ -9,8 +9,8 @@ URL = "https://newsdata.io/api/1/news"
 
 # Choose your defaults
 LANGUAGE = "en"
-COUNTRY = ""      # e.g. "za" for South Africa, "us", etc. (leave blank for global)
-QUERY = ""        QUERY = "politics OR war OR conflict OR government OR protest"
+COUNTRY = "us"
+QUERY = "politics OR war OR conflict OR government OR protest"
 
 def fetch_latest():
     params = {
@@ -33,11 +33,14 @@ def fetch_latest():
             continue
 
         r.raise_for_status()
-        return r.json()
+data = r.json()
 
-    # If still rate-limited after retries, don't crash the workflow
-    print("Still rate limited after retries. Returning empty results.")
-    return {"results": []}
+print("NewsData results:", len(data.get("results", [])))
+
+return data
+    
+print("Still rate limited → empty results")
+return {"results": []}
 
 def normalize(payload):
     results = payload.get("results") or []
