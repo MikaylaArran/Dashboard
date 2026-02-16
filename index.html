@@ -8,12 +8,16 @@
   <!-- External CSS (cache-bust) -->
   <link rel="stylesheet" href="style.css?v=10" />
 
-  <!-- Leaflet -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+  <!-- Leaflet (Map library) -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 </head>
 
 <body>
+  <noscript style="color:white; padding:12px; display:block;">
+    This dashboard needs JavaScript enabled to load the map and data panels.
+  </noscript>
+
   <!-- FULL WIDTH MAP -->
   <div class="map-strip">
     <div class="map-banner">
@@ -36,7 +40,8 @@
         <div class="tabs" id="tabs"></div>
 
         <div class="player">
-          <iframe id="player"
+          <iframe
+            id="player"
             allow="autoplay; encrypted-media; picture-in-picture"
             allowfullscreen>
           </iframe>
@@ -155,24 +160,25 @@
     </div>
   </div>
 
-  <!-- External JS -->
   <!-- COUNTRY REPORT DRAWER (hidden by default) -->
-<div class="drawer-overlay" id="drawerOverlay" aria-hidden="true"></div>
+  <div class="drawer-overlay" id="drawerOverlay" aria-hidden="true"></div>
 
-<aside class="drawer" id="countryDrawer" aria-hidden="true">
-  <div class="drawer-header">
-    <div class="drawer-title">
-      <div class="drawer-kicker">WORLD MONITOR</div>
-      <div class="drawer-country" id="drawerCountry">Country</div>
+  <aside class="drawer" id="countryDrawer" aria-hidden="true">
+    <div class="drawer-header">
+      <div class="drawer-title">
+        <div class="drawer-kicker">WORLD MONITOR</div>
+        <div class="drawer-country" id="drawerCountry">Country</div>
+      </div>
+
+      <button class="drawer-close" id="drawerClose" aria-label="Close">✕</button>
     </div>
 
-    <button class="drawer-close" id="drawerClose" aria-label="Close">✕</button>
-  </div>
+    <div class="drawer-content" id="drawerContent">
+      <!-- JS will render content here -->
+    </div>
+  </aside>
 
-  <div class="drawer-content" id="drawerContent">
-    <!-- JS will render content here -->
-  </div>
-</aside>
+  <!-- External JS -->
   <script src="app.js" defer></script>
 </body>
 </html>
