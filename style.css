@@ -446,3 +446,98 @@ iframe{
     grid-auto-rows: clamp(280px, 40vh, 520px);
   }
 }
+/* -----------------------------
+   COUNTRY REPORT DRAWER
+----------------------------- */
+.drawer-overlay{
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.55);
+  backdrop-filter: blur(3px);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 180ms ease;
+  z-index: 9998;
+}
+
+.drawer{
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: min(520px, 92vw);
+  background: rgba(15,20,27,0.98);
+  border-left: 1px solid rgba(255,255,255,0.12);
+  box-shadow: -30px 0 80px rgba(0,0,0,0.6);
+  transform: translateX(105%);
+  transition: transform 220ms ease;
+  z-index: 9999;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.drawer.open{
+  transform: translateX(0);
+}
+
+.drawer-overlay.open{
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.drawer-header{
+  height: var(--headerH);
+  padding: 0 14px;
+  border-bottom: 1px solid rgba(255,255,255,0.12);
+  background: rgba(12,17,24,0.95);
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.drawer-kicker{
+  font-size: 10px;
+  letter-spacing: .22em;
+  opacity: .7;
+  text-transform: uppercase;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.drawer-country{
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: .06em;
+  margin-top: 2px;
+}
+
+.drawer-close{
+  height: 30px;
+  width: 34px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.15);
+  background: rgba(255,255,255,0.06);
+  color: rgba(255,255,255,0.92);
+  cursor: pointer;
+}
+.drawer-close:hover{
+  background: rgba(255,255,255,0.12);
+}
+
+.drawer-content{
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow: auto;
+  padding: 14px;
+}
+
+/* Make the country cards feel clickable */
+.country-card{
+  cursor: pointer;
+}
+.country-card:hover{
+  border-color: rgba(255,255,255,0.18);
+  background: rgba(0,0,0,0.24);
+}
