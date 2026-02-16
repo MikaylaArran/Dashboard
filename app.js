@@ -147,7 +147,14 @@ function safeText(s){
 /* -----------------------------
    COUNTRY REPORT DRAWER
 ----------------------------- */
-function openCountryDrawer(item){
+function trendBadge(delta){
+  const d = Number(delta ?? 0);
+  if (d > 0) return { txt: `↑ ${d}`, cls: "trend-up" };
+  if (d < 0) return { txt: `↓ ${Math.abs(d)}`, cls: "trend-down" };
+  return { txt: "→ 0", cls: "trend-flat" };
+}
+
+async function openCountryDrawer(item){
   const drawer = document.getElementById("countryDrawer");
   const overlay = document.getElementById("drawerOverlay");
   const title = document.getElementById("drawerCountry");
@@ -172,6 +179,26 @@ function openCountryDrawer(item){
     ? safeText(meaningRaw).replace(/\n/g, "<br>")
     : "No explanation available yet (meaning missing in instability.json).";
 
+  const { txt: trendTxt, cls: trendCls } = trendBadge(item.delta);
+
+  const eventsTotal = Number(item.events_total ?? 0);
+  const fatalitiesTotal = Number(item.fatalities_total ?? 0);
+
+  const types = Array.isArray(item.top_event_types) ? item.top_event_types : [];
+  const typesHtml = types.length
+    ? `
+      <div class="summary-title" style="margin-top:12px;">Top event types</div>
+      <div class="type-list">
+        ${types.map(t => `
+          <div class="type-row">
+            <div><strong>${safeText(t.name)}</strong></div>
+            <span>${Number(t.count ?? 0)}</span>
+          </div>
+        `).join("")}
+      </div>
+    `
+    : `<div class="news-meta" style="margin-top:10px;">No event type breakdown available yet.</div>`;
+
   content.innerHTML = `
     <div class="news-item">
       <div style="display:flex; align-items:center; justify-content:space-between; gap:10px;">
@@ -181,8 +208,14 @@ function openCountryDrawer(item){
             ${score}<span style="opacity:.6; font-size:14px;">/100</span>
           </div>
         </div>
-        <div class="severity" style="border-color:${sev.color}55; background:${sev.color}22; color:${sev.color}; font-weight:800;">
-          ${sev.label}
+
+        <div style="display:flex; align-items:center; gap:10px;">
+          <div class="severity" style="border-color:${sev.color}55; background:${sev.color}22; color:${sev.color}; font-weight:800;">
+            ${sev.label}
+          </div>
+          <div class="severity ${trendCls}" style="border-color:rgba(255,255,255,0.15); background:rgba(255,255,255,0.05); font-weight:900;">
+            ${trendTxt}
+          </div>
         </div>
       </div>
 
@@ -193,12 +226,19 @@ function openCountryDrawer(item){
       <div class="breakdown" style="margin-top:10px;">
         UNREST: ${item.U ?? 0} &nbsp;|&nbsp; CONFLICT: ${item.C ?? 0} &nbsp;|&nbsp; SOCIETAL: ${item.S ?? 0} &nbsp;|&nbsp; IMPACT: ${item.I ?? 0}
       </div>
+
+      <div class="kv-row">
+        <div class="kv">Events: <strong>${eventsTotal}</strong></div>
+        <div class="kv">Fatalities: <strong>${fatalitiesTotal}</strong></div>
+      </div>
+
+      ${typesHtml}
     </div>
 
     <div class="news-item">
       <div class="summary-title">What this means</div>
       <div class="summary-text">${meaningText}</div>
-      <div class="news-meta">Source: ACLED-derived scoring model</div>
+      <div class="news-meta">Source: ACLED (window ${7} days)</div>
     </div>
   `;
 
