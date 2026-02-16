@@ -145,6 +145,119 @@ function safeText(s){
 }
 
 /* -----------------------------
+   TOP NEWS
+----------------------------- */
+async function loadTopNews(){
+  const res = await fetch("data/top_news.json?ts=" + Date.now(), { cache: "no-store" });
+  if (!res.ok) throw new Error("Missing data/top_news.json");
+  return await res.json();
+}
+
+function renderTopNews(payload){
+  const list = document.getElementById("topNewsList");
+  const updated = document.getElementById("topNewsUpdated");
+  const newsNEl = document.getElementById("newsN");
+  const categoryEl = document.getElementById("newsCategory");
+
+  if (!list || !updated || !newsNEl) return;
+
+  list.classList.remove("is-empty");
+  list.innerHTML = "";
+
+  // ✅ Support both formats:
+  // A) payload = [ ...articles ]
+  // B) payload = { generated_at_utc, articles: [...] }
+  const rawArticles = Array.isArray(payload)
+    ? payload
+    : (payload?.articles || []);
+
+  // Updated timestamp
+  const ts = Array.isArray(payload) ? null : payload?.generated_at_utc;
+  if (ts) {
+    const dt = new Date(ts);
+    updated.textContent = (!isNaN(dt)) ? ("Updated " + dt.toLocaleString()) : ("Updated " + ts);
+  } else {
+    updated.textContent = "Updated";
+  }
+
+  // Filter by category (only if your JSON includes "category" field per article)
+  const chosenCategory = categoryEl ? (categoryEl.value || "all") : "all";
+  const filtered = (chosenCategory === "all")
+    ? rawArticles
+    : rawArticles.filter(a => String(a.category || "").toLowerCase() === chosenCategory);
+
+  if (!filtered.length){
+    list.classList.add("is-empty");
+    list.innerHTML = `
+      <div class="news-item">
+        <strong>No news found.</strong>
+        <div class="news-meta">Data loaded, but there are no articles for this filter.</div>
+      </div>
+    `;
+    return;
+  }
+
+  const n = parseInt(newsNEl.value, 10) || 60;
+  const displayCount = Math.min(n, 20);
+
+  filtered.slice(0, displayCount).forEach(a => {
+    const item = document.createElement("div");
+    item.className = "news-item";
+
+    const title = a.title || "Untitled";
+    const link = a.link || "";
+    const source = a.source || "";
+    const pubDate = a.pubDate || a.published_at || "";
+
+    item.innerHTML = `
+      <div>
+        ${link
+          ? `<a href="${safeText(link)}" target="_blank" rel="noopener noreferrer"><strong>${safeText(title)}</strong></a>`
+          : `<strong>${safeText(title)}</strong>`
+        }
+      </div>
+      <div class="news-meta">${safeText(pubDate)}${source ? ` | ${safeText(source)}` : ""}</div>
+    `;
+    list.appendChild(item);
+  });
+}
+
+async function refreshTopNews(){
+  const list = document.getElementById("topNewsList");
+  try {
+    const updated = document.getElementById("topNewsUpdated");
+    if (updated) updated.textContent = "Loading…";
+    const payload = await loadTopNews();
+    renderTopNews(payload);
+  } catch (e) {
+    const updated = document.getElementById("topNewsUpdated");
+    if (updated) updated.textContent = "No data yet";
+    if (list) {
+      list.classList.add("is-empty");
+      list.innerHTML = `
+        <div class="news-item">
+          <strong>Top news data not found.</strong>
+          <div class="news-meta">${safeText(e.message)}</div>
+          <div class="news-meta">Expected <code>data/top_news.json</code> to exist on GitHub Pages.</div>
+        </div>
+      `;
+    }
+  }
+}
+
+function initTopNews(){
+  const newsCategoryEl = document.getElementById("newsCategory");
+  const newsNEl = document.getElementById("newsN");
+  const newsRefreshBtn = document.getElementById("newsRefresh");
+
+  if (newsCategoryEl) newsCategoryEl.addEventListener("change", refreshTopNews);
+  if (newsNEl) newsNEl.addEventListener("change", refreshTopNews);
+  if (newsRefreshBtn) newsRefreshBtn.addEventListener("click", refreshTopNews);
+
+  refreshTopNews();
+}
+
+/* -----------------------------
    COUNTRY REPORT DRAWER
 ----------------------------- */
 function trendBadge(delta){
@@ -238,7 +351,7 @@ async function openCountryDrawer(item){
     <div class="news-item">
       <div class="summary-title">What this means</div>
       <div class="summary-text">${meaningText}</div>
-      <div class="news-meta">Source: ACLED (window ${7} days)</div>
+      <div class="news-meta">Source: ACLED-derived scoring model</div>
     </div>
   `;
 
@@ -268,6 +381,7 @@ function initCountryDrawer(){
     if (e.key === "Escape") closeCountryDrawer();
   });
 }
+
 /* -----------------------------
    MAP
 ----------------------------- */
@@ -330,7 +444,10 @@ document.addEventListener("DOMContentLoaded", () => {
   initCountryDrawer();
   initLiveNews();
   initInstability();
+  initTopNews();
   initMap();
 
-  setInterval(initInstability, 60000);
+  // Auto-refresh
+  setInterval(initInstability, 60_000);
+  setInterval(refreshTopNews, 60_000);
 });
