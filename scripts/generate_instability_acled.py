@@ -48,17 +48,28 @@ def fetch_events(token: str, country: str, start_date: str, end_date: str, limit
         "fields": "event_id_cnty|event_date|event_type|sub_event_type|disorder_type|fatalities|country",
         "limit": str(limit),
     }
+
+    # Try Bearer token first
     r = requests.get(
         ACLED_READ_URL,
         params=params,
-        headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+        headers={"Authorization": f"Bearer {token}"},
         timeout=60,
     )
+
+    # If forbidden, try token as query param (some ACLED configs need this)
+    if r.status_code == 403:
+        params["key"] = token
+        r = requests.get(ACLED_READ_URL, params=params, timeout=60)
+
     r.raise_for_status()
     payload = r.json()
 
     if str(payload.get("status")) != "200":
-        raise RuntimeError(f"ACLED returned status={payload.get('status')} for {country}: {payload.get('message')}")
+        raise RuntimeError(
+            f"ACLED returned status={payload.get('status')} for {country}: {payload.get('message')}"
+        )
+
     return payload.get("data", [])
 
 def score_country(events):
