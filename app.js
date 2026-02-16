@@ -52,9 +52,6 @@ function initLiveNews(){
    INSTABILITY INDEX (LIVE API)
 ----------------------------- */
 
-// 🔴 CHANGE THIS TO YOUR REAL VERCEL DOMAIN
-const API_BASE = "https://global-monitor-api.vercel.app/api/instability/summary";
-
 function severityFor(score){
   if (score >= 80) return { label: "CRITICAL", color: "#ef4444" };
   if (score >= 65) return { label: "HIGH",     color: "#f59e0b" };
@@ -63,10 +60,11 @@ function severityFor(score){
 }
 
 async function loadInstabilityFromJson(){
-  const res = await fetch(`${API_BASE}/api/instability/summary?ts=` + Date.now(), { cache: "no-store" });
-  if (!res.ok) throw new Error("Instability API not reachable");
+  const res = await fetch("data/instability.json?ts=" + Date.now(), { cache: "no-store" });
+  if (!res.ok) throw new Error("instability.json not found");
   return await res.json();
 }
+
 
 function renderInstability(rows, meta){
   const list = document.getElementById("instabilityList");
