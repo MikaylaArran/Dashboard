@@ -124,41 +124,56 @@ async function initInstability(){
 ----------------------------- */
 async function refreshTopNews(){
   const list = document.getElementById("topNewsList");
+  const catEl = document.getElementById("newsCategory");
   const updated = document.getElementById("topNewsUpdated");
-  const cat = document.getElementById("newsCategory")?.value || "all";
 
   if (!list) return;
 
-  try{
-    const res = await fetch(`data/top_news_${cat}.json?ts=${Date.now()}`, {cache:"no-store"});
-    if(!res.ok) throw new Error("top news missing");
-    const data = await res.json();
+  const category = (catEl ? catEl.value : "all").toLowerCase().trim();
+  const file = `data/top_news_${category}.json?ts=${Date.now()}`;
 
-    list.innerHTML="";
-    (data.articles||[]).slice(0,40).forEach(a=>{
-      const item=document.createElement("div");
-      item.className="news-item";
-      item.innerHTML=`
-        <a href="${safeText(a.link)}" target="_blank"><strong>${safeText(a.title)}</strong></a>
-        <div class="news-meta">${safeText(a.pubDate||"")}</div>
-      `;
-      list.appendChild(item);
-    });
+  try {
+    // show what we're loading (so you can SEE the dropdown works)
+    if (updated) updated.textContent = `Loading: ${category}…`;
 
-    if(updated){
-      const dt=new Date(data.generated_at_utc);
-      updated.textContent=isNaN(dt)?"Updated":"Updated "+dt.toLocaleString();
-    }
-
-  }catch(e){
-    list.innerHTML=`
+    list.classList.remove("is-empty");
+    list.innerHTML = `
       <div class="news-item">
-        <strong>Top news missing</strong>
-        <div class="news-meta">${safeText(e.message)}</div>
+        <strong>Loading ${safeText(category)}…</strong>
+        <div class="news-meta">${safeText(file)}</div>
       </div>
     `;
+
+    const res = await fetch(file, { cache: "no-store" });
+
+    if (!res.ok) {
+      // no silent fallback — tell you exactly what's wrong
+      throw new Error(`Missing file for "${category}": data/top_news_${category}.json (HTTP ${res.status})`);
+    }
+
+    const payload = await res.json();
+    renderTopNews(payload);
+
+    // also stamp the category in the badge so you SEE it
+    if (updated) {
+      const dt = payload?.generated_at_utc ? new Date(payload.generated_at_utc) : null;
+      const when = (dt && !isNaN(dt)) ? dt.toLocaleString() : "Updated";
+      updated.textContent = `${category.toUpperCase()} • ${when}`;
+    }
+
+  } catch (e) {
+    if (updated) updated.textContent = "No data";
+    list.classList.add("is-empty");
+    list.innerHTML = `
+      <div class="news-item">
+        <strong>Top news failed</strong>
+        <div class="news-meta">${safeText(e?.message || String(e))}</div>
+      </div>
+    `;
+    console.error(e);
   }
 }
+
 
 /* -----------------------------
    MAP
