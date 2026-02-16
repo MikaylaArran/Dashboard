@@ -261,6 +261,7 @@ document.addEventListener("DOMContentLoaded",()=>{
   initInstability();
   refreshTopNews();
   initMap();
+  initTopNews(); 
   initDemocracyTrends();
 });
 
