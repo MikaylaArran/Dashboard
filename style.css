@@ -8,12 +8,13 @@
   --radius:14px;
 
   --container: 1320px;
-
-  /* Map height */
   --mapH: clamp(260px, 36vh, 420px);
 
-  /* Whole row height */
+  /* overall height for the bottom block */
   --rowH: clamp(520px, 60vh, 680px);
+
+  /* header height is consistent everywhere */
+  --headerH: 54px;
 }
 
 *{ box-sizing:border-box; }
@@ -27,10 +28,7 @@ body{
 }
 
 /* FULL WIDTH MAP */
-.map-strip{
-  width:100%;
-  padding:22px 18px 0;
-}
+.map-strip{ width:100%; padding:22px 18px 0; }
 .map-banner{
   width:100%;
   height:var(--mapH);
@@ -65,9 +63,7 @@ body{
   color:rgba(255,255,255,0.9) !important;
   border:1px solid rgba(255,255,255,0.15) !important;
 }
-.leaflet-control-zoom a:hover{
-  background:rgba(0,0,0,0.75) !important;
-}
+.leaflet-control-zoom a:hover{ background:rgba(0,0,0,0.75) !important; }
 
 /* CENTERED CONTENT */
 .page{
@@ -84,7 +80,7 @@ body{
 .dashboard{
   width:100%;
   display:grid;
-  grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1.75fr) minmax(0, 1fr);
   gap:var(--gap);
   align-items:start;
 }
@@ -103,9 +99,10 @@ body{
 }
 
 .header{
+  height:var(--headerH);
   display:flex;
   align-items:center;
-  padding:14px 16px;
+  padding:0 16px;
   border-bottom:1px solid var(--border);
   background:var(--top);
   flex:0 0 auto;
@@ -155,11 +152,7 @@ body{
   opacity:0.7;
   user-select:none;
 }
-.tab.active{
-  background:red;
-  border-color:red;
-  opacity:1;
-}
+.tab.active{ background:red; border-color:red; opacity:1; }
 
 .player{
   flex:1 1 auto;
@@ -184,15 +177,17 @@ iframe{
   flex:0 0 auto;
 }
 
-/* RIGHT: 3 NEAT BLOCKS */
+/* RIGHT: tighter grid (no empty look) */
 .right-col{
   height:var(--rowH);
   display:grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap:var(--gap);
   min-height:0;
+  align-items:stretch;
 }
 
+/* Panels: fixed header + scrollable body */
 .panel{
   border:1px solid var(--border);
   border-radius:var(--radius);
@@ -205,7 +200,8 @@ iframe{
 }
 
 .panel-header{
-  padding:14px 14px;
+  height:var(--headerH);
+  padding:0 14px;
   border-bottom:1px solid var(--border);
   background:var(--top);
   display:flex;
@@ -241,18 +237,27 @@ iframe{
   white-space:nowrap;
 }
 
+/* ✅ THIS guarantees scrolling inside panels */
 .panel-body{
+  flex:1 1 auto;
+  min-height:0;
+  overflow-y:auto;
+  overflow-x:hidden;
+
   padding:12px;
+  padding-right:8px;
   display:flex;
   flex-direction:column;
   gap:10px;
-  overflow-y:auto;
-  overflow-x:hidden;
-  flex:1 1 auto;
-  min-height:0;
-  padding-right:8px;
 }
 
+/* When there’s only a short “no data” message, center it so it doesn’t look like empty space */
+.panel-body.is-empty{
+  justify-content:center;
+  align-items:flex-start;
+}
+
+/* Scrollbars */
 .panel-body::-webkit-scrollbar{ width:10px; }
 .panel-body::-webkit-scrollbar-track{
   background:rgba(255,255,255,0.04);
@@ -266,6 +271,7 @@ iframe{
   background:rgba(255,255,255,0.28);
 }
 
+/* Cards */
 .country-card, .news-item{
   border:1px solid rgba(255,255,255,0.10);
   border-radius:12px;
@@ -319,10 +325,7 @@ iframe{
   white-space:nowrap;
 }
 
-.score{
-  font-size:18px;
-  font-weight:800;
-}
+.score{ font-size:18px; font-weight:800; }
 
 .bar{
   margin-top:6px;
@@ -331,11 +334,7 @@ iframe{
   background:rgba(255,255,255,.10);
   overflow:hidden;
 }
-.bar > div{
-  height:100%;
-  width:0%;
-  border-radius:999px;
-}
+.bar > div{ height:100%; width:0%; border-radius:999px; }
 
 .breakdown{
   margin-top:6px;
@@ -345,10 +344,7 @@ iframe{
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-.news-item a{
-  color:rgba(255,255,255,0.95);
-  text-decoration:none;
-}
+.news-item a{ color:rgba(255,255,255,0.95); text-decoration:none; }
 .news-item a:hover{ text-decoration:underline; }
 
 .news-meta{
