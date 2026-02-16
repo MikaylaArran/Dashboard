@@ -1,4 +1,9 @@
-/* app.js - FULL FILE */
+/* app.js - FULL FILE (REVISED)
+   - Removes TOP NEWS "Summary" card
+   - Removes Refresh button logic (no newsRefresh)
+   - Fixes duplicate functions + duplicate initTopNews calls
+   - Uses Google News RSS JSON files: data/top_news_<category>.json (fallback to all)
+*/
 
 /* -----------------------------
    LIVE NEWS (YouTube Embed)
@@ -145,119 +150,14 @@ function safeText(s){
 }
 
 /* -----------------------------
-   TOP NEWS
------------------------------ */
-async function loadTopNews(){
-  const res = await fetch("data/top_news.json?ts=" + Date.now(), { cache: "no-store" });
-  if (!res.ok) throw new Error("Missing data/top_news.json");
-  return await res.json();
-}
-
-function renderTopNews(payload){
-  const list = document.getElementById("topNewsList");
-  const updated = document.getElementById("topNewsUpdated");
-  const newsNEl = document.getElementById("newsN");
-  const categoryEl = document.getElementById("newsCategory");
-
-  if (!list || !updated || !newsNEl) return;
-
-  list.classList.remove("is-empty");
-  list.innerHTML = "";
-
-  // ✅ Support both formats:
-  // A) payload = [ ...articles ]
-  // B) payload = { generated_at_utc, articles: [...] }
-  const rawArticles = Array.isArray(payload)
-    ? payload
-    : (payload?.articles || []);
-
-  // Updated timestamp
-  const ts = Array.isArray(payload) ? null : payload?.generated_at_utc;
-  if (ts) {
-    const dt = new Date(ts);
-    updated.textContent = (!isNaN(dt)) ? ("Updated " + dt.toLocaleString()) : ("Updated " + ts);
-  } else {
-    updated.textContent = "Updated";
-  }
-
-  // Filter by category (only if your JSON includes "category" field per article)
-  const chosenCategory = categoryEl ? (categoryEl.value || "all") : "all";
-  const filtered = (chosenCategory === "all")
-    ? rawArticles
-    : rawArticles.filter(a => String(a.category || "").toLowerCase() === chosenCategory);
-
-  if (!filtered.length){
-    list.classList.add("is-empty");
-    list.innerHTML = `
-      <div class="news-item">
-        <strong>No news found.</strong>
-        <div class="news-meta">Data loaded, but there are no articles for this filter.</div>
-      </div>
-    `;
-    return;
-  }
-
-  const n = parseInt(newsNEl.value, 10) || 60;
-  const displayCount = Math.min(n, 20);
-
-  filtered.slice(0, displayCount).forEach(a => {
-    const item = document.createElement("div");
-    item.className = "news-item";
-
-    const title = a.title || "Untitled";
-    const link = a.link || "";
-    const source = a.source || "";
-    const pubDate = a.pubDate || a.published_at || "";
-
-    item.innerHTML = `
-      <div>
-        ${link
-          ? `<a href="${safeText(link)}" target="_blank" rel="noopener noreferrer"><strong>${safeText(title)}</strong></a>`
-          : `<strong>${safeText(title)}</strong>`
-        }
-      </div>
-      <div class="news-meta">${safeText(pubDate)}${source ? ` | ${safeText(source)}` : ""}</div>
-    `;
-    list.appendChild(item);
-  });
-}
-
-async function refreshTopNews(){
-  const list = document.getElementById("topNewsList");
-  try {
-    const updated = document.getElementById("topNewsUpdated");
-    if (updated) updated.textContent = "Loading…";
-    const payload = await loadTopNews();
-    renderTopNews(payload);
-  } catch (e) {
-    const updated = document.getElementById("topNewsUpdated");
-    if (updated) updated.textContent = "No data yet";
-    if (list) {
-      list.classList.add("is-empty");
-      list.innerHTML = `
-        <div class="news-item">
-          <strong>Top news data not found.</strong>
-          <div class="news-meta">${safeText(e.message)}</div>
-          <div class="news-meta">Expected <code>data/top_news.json</code> to exist on GitHub Pages.</div>
-        </div>
-      `;
-    }
-  }
-}
-
-function initTopNews(){
-  const newsCategoryEl = document.getElementById("newsCategory");
-  const newsNEl = document.getElementById("newsN");
-  const newsRefreshBtn = document.getElementById("newsRefresh");
-
-  if (newsCategoryEl) newsCategoryEl.addEventListener("change", refreshTopNews);
-  if (newsNEl) newsNEl.addEventListener("change", refreshTopNews);
-  if (newsRefreshBtn) newsRefreshBtn.addEventListener("click", refreshTopNews);
-
-  refreshTopNews();
-}
-/* -----------------------------
    TOP NEWS (Google RSS JSON files)
+   Expects:
+     data/top_news_all.json
+     data/top_news_world.json
+     data/top_news_politics.json
+     data/top_news_business.json
+     data/top_news_technology.json
+     data/top_news_environment.json
 ----------------------------- */
 async function loadTopNews(category){
   const cat = String(category || "all").toLowerCase().trim();
@@ -288,21 +188,10 @@ function renderTopNews(payload){
     const dt = new Date(payload.generated_at_utc);
     updated.textContent = (!isNaN(dt)) ? ("Updated " + dt.toLocaleString()) : ("Updated " + payload.generated_at_utc);
   } else {
-    updated.textContent = "Updated (no timestamp)";
+    updated.textContent = "Updated";
   }
 
-  if (payload?.summary) {
-    const summary = document.createElement("div");
-    summary.className = "news-item";
-    summary.innerHTML = `
-      <div class="summary-title">Summary</div>
-      <div class="summary-text">${safeText(payload.summary)}</div>
-      <div class="news-meta">
-        ${payload?.category ? safeText(payload.category) : ""}${payload?.language ? ` | ${safeText(payload.language)}` : ""}
-      </div>
-    `;
-    list.appendChild(summary);
-  }
+  // ✅ REMOVE SUMMARY BLOCK (do not render it at all)
 
   const n = parseInt(newsNEl.value, 10) || 60;
   const articles = payload?.articles || [];
@@ -371,11 +260,9 @@ async function refreshTopNews(){
 function initTopNews(){
   const newsCategoryEl = document.getElementById("newsCategory");
   const newsNEl = document.getElementById("newsN");
-  const newsRefreshBtn = document.getElementById("newsRefresh");
 
   if (newsCategoryEl) newsCategoryEl.addEventListener("change", refreshTopNews);
   if (newsNEl) newsNEl.addEventListener("change", refreshTopNews);
-  if (newsRefreshBtn) newsRefreshBtn.addEventListener("click", refreshTopNews);
 
   refreshTopNews();
 }
@@ -569,10 +456,10 @@ document.addEventListener("DOMContentLoaded", () => {
   initInstability();
   initTopNews();
   initMap();
-  initTopNews(); 
 
   // Auto-refresh
   setInterval(initInstability, 60_000);
   setInterval(refreshTopNews, 60_000);
 });
+
 console.log("APP.JS LOADED ✅", new Date().toISOString());
