@@ -5,7 +5,7 @@
   --border:rgba(255,255,255,0.15);
   --shadow:0 20px 60px rgba(0,0,0,0.5);
   --gap:18px;
-  --radius:14px;
+  --radius:0px;
 
   --container: 1320px;
   --mapH: clamp(260px, 36vh, 420px);
