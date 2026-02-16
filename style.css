@@ -10,10 +10,7 @@
   --container: 1320px;
   --mapH: clamp(260px, 36vh, 420px);
 
-  /* overall height for the bottom block */
-  --rowH: clamp(260px, 34vh, 420px);
-
-  /* header height is consistent everywhere */
+  /* consistent header height */
   --headerH: 54px;
 }
 
@@ -71,43 +68,47 @@ body{
   max-width:var(--container);
   margin:0 auto;
   padding:18px 18px 40px;
-  display:flex;
-  flex-direction:column;
-  gap:var(--gap);
 }
 
-/* DASHBOARD GRID */
+/* WORLD-MONITOR STYLE GRID:
+   4 columns: Live tile + 3 columns of panels
+   Live tile spans 2 rows */
 .dashboard{
   width:100%;
   display:grid;
-  grid-template-columns: minmax(0, 0.95fr) minmax(0, 2.05fr);
-  gap:var(--gap);
-  align-items:start;
+  grid-template-columns: 1.45fr 1fr 1fr 1fr;
+  gap: var(--gap);
+  align-items: stretch;
 }
 
-/* LEFT: LIVE NEWS */
+/* LEFT: LIVE NEWS (span two rows) */
 .news-block{
-  height:var(--liveH);
+  grid-column: 1 / 2;
+  grid-row: 1 / span 2;
+
   border:1px solid var(--border);
   border-radius:var(--radius);
   overflow:hidden;
   background:var(--card);
   box-shadow:var(--shadow);
+
   display:flex;
   flex-direction:column;
   min-height:0;
 }
 
+/* LIVE NEWS HEADER */
 .header{
   height: var(--headerH);
-  display: flex;
-  align-items: center;
-  justify-content: space-between;  /* makes it cleaner */
-  padding: 0 16px;
-  border-bottom: 1px solid var(--border);
-  background: var(--top);
-  flex: 0 0 auto;
-  gap: 12px;
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  padding:0 16px;
+  border-bottom:1px solid var(--border);
+  background:var(--top);
+  flex:0 0 auto;
+  gap:12px;
+  line-height: 1;
 }
 
 .title{
@@ -118,357 +119,28 @@ body{
   text-overflow: ellipsis;
 
   font-weight: 800;
-  letter-spacing: 0.22em;
+  letter-spacing: 0.24em;
   font-size: 13px;
   text-transform: uppercase;
+  line-height: 1;
+  padding-top: 1px;
+  opacity: 0.95;
 
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 .live{
-  flex: 0 0 auto;
-  white-space: nowrap;
-}
-
-
-.title{
-  font-weight:700;
-  letter-spacing:0.18em;
-  font-size:16px;
-  text-transform:uppercase;
-}
-
-.live{
-  margin-left:12px;
+  flex:0 0 auto;
   display:flex;
   align-items:center;
   gap:6px;
-  font-size:13px;
+  font-size:12px;
   opacity:0.85;
+  white-space: nowrap;
 }
 
 .dot{
   width:10px;
   height:10px;
   background:red;
-  border-radius:50%;
-  box-shadow:0 0 10px red;
-}
-
-.tabs{
-  display:flex;
-  gap:10px;
-  padding:10px;
-  border-bottom:1px solid rgba(255,255,255,0.1);
-  overflow-x:auto;
-  background:var(--top);
-  flex:0 0 auto;
-}
-
-.tab{
-  border:1px solid rgba(255,255,255,0.15);
-  padding:8px 14px;
-  border-radius:10px;
-  cursor:pointer;
-  font-size:12px;
-  white-space:nowrap;
-  opacity:0.7;
-  user-select:none;
-}
-.tab.active{ background:red; border-color:red; opacity:1; }
-
-.player{
-  background:black;
-  position:relative;
-  aspect-ratio: 20 / 9; /* slightly flatter video */
-  flex:0 0 auto;
-}
-iframe{
-  position:absolute;
-  inset:0;
-  width:100%;
-  height:100%;
-  border:none;
-}
-
-.hint{
-  padding:10px 16px;
-  font-size:12px;
-  color:rgba(255,255,255,0.65);
-  border-top:1px solid rgba(255,255,255,0.08);
-  background:rgba(0,0,0,0.2);
-  flex:0 0 auto;
-}
-
-/* RIGHT: tighter grid (no empty look) */
-.right-col{
-  display:grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap:var(--gap);
-  align-items:start;   /* important */
-}
-
-/* Panels: fixed header + scrollable body */
-.panel{
-  border:1px solid var(--border);
-  border-radius:var(--radius);
-  overflow:hidden;
-  background:var(--card);
-  box-shadow:var(--shadow);
-  display:flex;
-  flex-direction:column;
-  min-height:0;
-
-  height: clamp(320px, 42vh, 520px);
-}
-  
-}
-
-
-.panel-header{
-  height: var(--headerH);
-  padding: 0 14px;
-  border-bottom: 1px solid var(--border);
-  background: var(--top);
-
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-
-  flex: 0 0 auto;
-  line-height: 1;           /* IMPORTANT: stops baseline weirdness */
-}
-
-/* KEY: title can shrink + truncates instead of wrapping */
-.panel-title{
-  flex: 1 1 auto;
-  min-width: 0;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-
-  font-weight: 800;
-  font-size: 12px;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-
-  /* optional: makes it feel like the reference UI */
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-}
-
-/* KEY: right side never pushes the title into 2 lines */
-.meta-right{
-  flex: 0 0 auto;
-  display: flex;
-  align-items: center;   /* center everything vertically */
-  gap: 8px;
-
-  flex-wrap: nowrap;
-  white-space: nowrap;
-
-  line-height: 1;        /* IMPORTANT */
-}
-
-
-.panel-title{
-  flex: 1 1 auto;
-  min-width: 0;
-
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-
-  font-weight: 800;
-  font-size: 12px;
-  letter-spacing: 0.24em;
-  text-transform: uppercase;
-
-  line-height: 1;           /* IMPORTANT */
-  padding-top: 1px;         /* tiny nudge to match reference */
-  opacity: 0.95;
-
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-}
-
-
-.meta-right{
-  display:flex;
-  align-items:center;
-  gap:8px;
-  flex:0 0 auto;
-  flex-wrap:wrap;
-  justify-content:flex-end;
-}
-
-.badge{
-  height: 24px;
-  display: inline-flex;
-  align-items: center;
-  padding: 0 8px;
-  line-height: 1;
-}
-
-/* ✅ THIS guarantees scrolling inside panels */
-.panel-body{
-  flex:1 1 auto;
-  min-height:0;
-  overflow-y:auto;
-  overflow-x:hidden;
-
-  padding:12px;
-  padding-right:8px;
-  display:flex;
-  flex-direction:column;
-  gap:10px;
-}
-
-/* When there’s only a short “no data” message, center it so it doesn’t look like empty space */
-.panel-body.is-empty{
-  justify-content:center;
-  align-items:flex-start;
-}
-
-/* Scrollbars */
-.panel-body::-webkit-scrollbar{ width:10px; }
-.panel-body::-webkit-scrollbar-track{
-  background:rgba(255,255,255,0.04);
-  border-radius:999px;
-}
-.panel-body::-webkit-scrollbar-thumb{
-  background:rgba(255,255,255,0.18);
-  border-radius:999px;
-}
-.panel-body::-webkit-scrollbar-thumb:hover{
-  background:rgba(255,255,255,0.28);
-}
-
-/* Cards */
-.country-card, .news-item{
-  border:1px solid rgba(255,255,255,0.10);
-  border-radius:12px;
-  padding:10px;
-  background:rgba(0,0,0,0.18);
-}
-
-.country-top{
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  gap:10px;
-}
-
-.country-left{
-  display:flex;
-  align-items:center;
-  gap:8px;
-  min-width:0;
-}
-
-.country-dot{
-  width:10px;
-  height:10px;
-  border-radius:50%;
-  flex:0 0 auto;
-}
-
-.country-name{
-  font-size:13px;
-  white-space:nowrap;
-  overflow:hidden;
-  text-overflow:ellipsis;
-  max-width:220px;
-}
-
-.score-wrap{
-  display:flex;
-  align-items:center;
-  gap:8px;
-  flex:0 0 auto;
-}
-
-.severity{
-  font-size:11px;
-  padding:3px 8px;
-  border-radius:999px;
-  border:1px solid rgba(255,255,255,0.15);
-  background:rgba(255,255,255,0.04);
-  opacity:0.95;
-  white-space:nowrap;
-}
-
-.score{ font-size:18px; font-weight:800; }
-
-.bar{
-  margin-top:6px;
-  height:5px;
-  border-radius:999px;
-  background:rgba(255,255,255,.10);
-  overflow:hidden;
-}
-.bar > div{ height:100%; width:0%; border-radius:999px; }
-
-.breakdown{
-  margin-top:6px;
-  color:rgba(255,255,255,.55);
-  font-size:11px;
-  letter-spacing:.06em;
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-}
-
-.news-item a{ color:rgba(255,255,255,0.95); text-decoration:none; }
-.news-item a:hover{ text-decoration:underline; }
-
-.news-meta{
-  margin-top:6px;
-  font-size:11px;
-  color:rgba(255,255,255,0.6);
-}
-
-.summary-title{
-  letter-spacing: .12em;
-  font-size: 12px;
-  opacity: .85;
-  margin-bottom: 6px;
-  text-transform: uppercase;
-}
-.summary-text{
-  font-size: 13px;
-  line-height: 1.35;
-  color: rgba(255,255,255,0.86);
-}
-
-.news-select,
-.news-btn{
-  height: 28px;
-  padding: 0 10px;
-  line-height: 28px;
-
-  border-radius: 9px;
-  font-size: 12px;
-
-  border: 1px solid rgba(255,255,255,0.15);
-  color: rgba(255,255,255,0.92);
-}
-
-/* keep their different backgrounds */
-.news-select{
-  background: rgba(0,0,0,0.35);
-  outline: none;
-}
-
-.news-btn{
-  background: rgba(255,255,255,0.08);
-  cursor: pointer;
-}
-
-.news-btn:hover{
-  background: rgba(255,255,255,0.14);
-}
-.news-btn:hover{ background: rgba(255,255,255,0.14); }
-
-@media (max-width:1100px){
-  .news-block{ height: clamp(260px, 34vh, 420px); } /* smaller */
-  .panel{ height: clamp(300px, 42vh, 520px); }     /* bigger */
-}
-
+  border-radius:5
