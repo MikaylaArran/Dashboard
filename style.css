@@ -11,7 +11,7 @@
   --mapH: clamp(260px, 36vh, 420px);
 
   /* overall height for the bottom block */
-  --rowH: clamp(520px, 60vh, 680px);
+  --rowH: clamp(360px, 46vh, 520px);
 
   /* header height is consistent everywhere */
   --headerH: 54px;
@@ -155,10 +155,10 @@ body{
 .tab.active{ background:red; border-color:red; opacity:1; }
 
 .player{
-  flex:1 1 auto;
-  min-height:0;
   background:black;
   position:relative;
+  aspect-ratio: 16 / 9;   /* ✅ keeps it clean */
+  flex:0 0 auto;          /* ✅ stops stretching */
 }
 iframe{
   position:absolute;
@@ -179,12 +179,10 @@ iframe{
 
 /* RIGHT: tighter grid (no empty look) */
 .right-col{
-  height:var(--rowH);
   display:grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap:var(--gap);
-  min-height:0;
-  align-items:stretch;
+  align-items:start;   /* important */
 }
 
 /* Panels: fixed header + scrollable body */
@@ -197,7 +195,10 @@ iframe{
   display:flex;
   flex-direction:column;
   min-height:0;
+
+  aspect-ratio: 1 / 1;  /* ✅ makes them squares */
 }
+
 
 .panel-header{
   height:var(--headerH);
