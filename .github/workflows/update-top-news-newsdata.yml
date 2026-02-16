@@ -2,7 +2,7 @@ name: Update top news (NewsData.io)
 
 on:
   schedule:
-    - cron: "*/ * * * *"   # every hour (UTC)
+    - cron: "0 * * * *"   # every hour (UTC)
   workflow_dispatch:
 
 permissions:
