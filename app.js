@@ -309,4 +309,9 @@ document.addEventListener("DOMContentLoaded", () => {
   initInstability();
   initTopNews();
   initMap();
+
+  // Auto-refresh data panels (every 60 seconds)
+  setInterval(initInstability, 60_000);
+  setInterval(refreshTopNews, 60_000);
 });
+
