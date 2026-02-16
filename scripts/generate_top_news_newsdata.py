@@ -5,12 +5,12 @@ import requests
 API_KEY = os.environ["NEWSDATA_API_KEY"]
 
 # NewsData.io 'latest' endpoint (past 48h). :contentReference[oaicite:2]{index=2}
-URL = "https://newsdata.io/api/1/latest"
+URL = "https://newsdata.io/api/1/news"
 
 # Choose your defaults
 LANGUAGE = "en"
 COUNTRY = ""      # e.g. "za" for South Africa, "us", etc. (leave blank for global)
-QUERY = ""        # e.g. "war OR election OR protest" (optional)
+QUERY = ""        QUERY = "politics OR war OR conflict OR government OR protest"
 
 def fetch_latest():
     params = {
