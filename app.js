@@ -418,124 +418,17 @@ function initMap(){
 /* -----------------------------
    DEMOCRACY TRENDS (CSV)
 ----------------------------- */
-const DEM_CSV_PATH = "data/VDEM_small.csv";
+function initDemocracyTrends(){
+  const body = document.getElementById("demBody");
+  if (!body) return;
 
-const DEM_MEASURES = [
-  { key: "electoral_democracy_index", label: "Electoral Democracy" },
-  { key: "liberal_democracy_index", label: "Liberal Democracy" },
-  { key: "electoral_fairness_index", label: "Electoral Fairness" },
-  { key: "vote_buying", label: "Vote Buying" },
-  { key: "freedom_of_expression_index", label: "Freedom of Expression" }
-];
-
-let demRows = [];
-let demChart = null;
-let demSelected = new Set(DEM_MEASURES.map(m => m.key)); // all on by default
-
-function n(x){
-  const v = Number(x);
-  return Number.isFinite(v) ? v : null;
-}
-
-function mean(arr){
-  const vals = arr.filter(v => v !== null);
-  if (!vals.length) return null;
-  return vals.reduce((a,b)=>a+b,0) / vals.length;
-}
-
-function min(arr){
-  const vals = arr.filter(v => v !== null);
-  return vals.length ? Math.min(...vals) : null;
-}
-
-function max(arr){
-  const vals = arr.filter(v => v !== null);
-  return vals.length ? Math.max(...vals) : null;
-}
-
-function fmt(v){
-  if (v === null || v === undefined) return "—";
-  const num = Number(v);
-  if (!Number.isFinite(num)) return "—";
-  return (Math.round(num * 1000) / 1000).toString();
-}
-
-function renderTable(elId, rows){
-  const el = document.getElementById(elId);
-  if (!el) return;
-
-  if (!rows.length){
-    el.innerHTML = `<div class="news-meta">No data.</div>`;
-    return;
-  }
-
-  const headers = Object.keys(rows[0]);
-
-  el.innerHTML = `
-    <table>
-      <thead>
-        <tr>${headers.map(h => `<th>${safeText(h)}</th>`).join("")}</tr>
-      </thead>
-      <tbody>
-        ${rows.map(r => `
-          <tr>${headers.map(h => `<td>${safeText(r[h])}</td>`).join("")}</tr>
-        `).join("")}
-      </tbody>
-    </table>
+  body.innerHTML = `
+    <div class="news-item">
+      <strong>Democracy Trend module is running ✅</strong>
+      <div class="news-meta">Next step: load CSV and render chart.</div>
+    </div>
   `;
 }
-
-function buildMeasureToggles(){
-  const wrap = document.getElementById("demMeasures");
-  if (!wrap) return;
-
-  wrap.innerHTML = "";
-  DEM_MEASURES.forEach(m => {
-    const label = document.createElement("label");
-    label.className = "dem-chip";
-    label.innerHTML = `
-      <input type="checkbox" data-key="${safeText(m.key)}" ${demSelected.has(m.key) ? "checked" : ""}>
-      <span>${safeText(m.label)}</span>
-    `;
-    wrap.appendChild(label);
-  });
-
-  wrap.addEventListener("change", (e) => {
-    const t = e.target;
-    if (!t || t.tagName !== "INPUT") return;
-    const key = t.getAttribute("data-key");
-    if (!key) return;
-
-    if (t.checked) demSelected.add(key);
-    else demSelected.delete(key);
-
-    refreshDemocracyPanel();
-  });
-}
-
-function getCountries(){
-  const set = new Set(demRows.map(r => r.country).filter(Boolean));
-  return Array.from(set).sort((a,b) => a.localeCompare(b));
-}
-
-function setCountryOptions(){
-  const sel = document.getElementById("demCountry");
-  if (!sel) return;
-
-  const countries = getCountries();
-  sel.innerHTML = countries.map(c => `<option value="${safeText(c)}">${safeText(c)}</option>`).join("");
-
-  // default to South Africa if present, else first
-  const preferred = countries.includes("South Africa") ? "South Africa" : (countries[0] || "");
-  if (preferred) sel.value = preferred;
-
-  sel.addEventListener("change", refreshDemocracyPanel);
-}
-
-function getCountrySeries(country){
-  return demRows
-    .filter(r => r.country === country
-
 /* -----------------------------
    BOOT
 ----------------------------- */
