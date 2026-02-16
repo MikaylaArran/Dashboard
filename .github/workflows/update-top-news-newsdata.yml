@@ -34,3 +34,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/top_news.json
           git diff --cached --quiet || (git commit -m "Auto-update top_news.json (NewsData.io)" && git push)
+
+      - name: Show generated file
+        run: |
+          ls -la data || true
+          echo "----- top_news.json -----"
+          cat data/top_news.json || true
