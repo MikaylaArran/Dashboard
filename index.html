@@ -5,8 +5,8 @@
   <title>Global Monitor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!-- ✅ External CSS -->
-  <link rel="stylesheet" href="style.css?v=5" />
+  <!-- External CSS (cache-bust) -->
+  <link rel="stylesheet" href="style.css?v=10" />
 
   <!-- Leaflet -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
@@ -26,7 +26,7 @@
   <div class="page">
     <div class="dashboard">
 
-      <!-- LEFT: LIVE NEWS -->
+      <!-- LEFT: LIVE NEWS (spans 2 rows via CSS) -->
       <div class="news-block">
         <div class="header">
           <div class="title">LIVE NEWS</div>
@@ -47,9 +47,10 @@
         </div>
       </div>
 
-      <!-- RIGHT: 3 PANELS SIDE BY SIDE -->
+      <!-- RIGHT: 3x2 PANEL GRID -->
       <div class="right-col">
 
+        <!-- Row 1 -->
         <div class="panel" id="instabilityPanel">
           <div class="panel-header">
             <div class="panel-title">COUNTRY INSTABILITY INDEX</div>
@@ -83,7 +84,6 @@
               </select>
 
               <button class="news-btn" id="newsRefresh">Refresh</button>
-
               <span class="badge" id="topNewsUpdated">Loading…</span>
             </div>
           </div>
@@ -105,11 +105,57 @@
           </div>
         </div>
 
+        <!-- Row 2 (placeholders) -->
+        <div class="panel" id="panel4">
+          <div class="panel-header">
+            <div class="panel-title">AI INSIGHTS</div>
+            <div class="meta-right">
+              <span class="badge">LIVE</span>
+            </div>
+          </div>
+          <div class="panel-body" id="panel4Body">
+            <div class="news-item">
+              <strong>Placeholder</strong>
+              <div class="news-meta">Add content later.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel" id="panel5">
+          <div class="panel-header">
+            <div class="panel-title">INTEL FEED</div>
+            <div class="meta-right">
+              <span class="badge">LIVE</span>
+            </div>
+          </div>
+          <div class="panel-body" id="panel5Body">
+            <div class="news-item">
+              <strong>Placeholder</strong>
+              <div class="news-meta">Add content later.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel" id="panel6">
+          <div class="panel-header">
+            <div class="panel-title">LIVE INTELLIGENCE</div>
+            <div class="meta-right">
+              <span class="badge">LIVE</span>
+            </div>
+          </div>
+          <div class="panel-body" id="panel6Body">
+            <div class="news-item">
+              <strong>Placeholder</strong>
+              <div class="news-meta">Add content later.</div>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
   </div>
 
-  <!-- ✅ External JS -->
+  <!-- External JS -->
   <script src="app.js" defer></script>
 </body>
 </html>
