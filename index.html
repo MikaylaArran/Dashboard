@@ -178,9 +178,15 @@
   </aside>
 
   <!-- External JS -->
-  <script src="app.js?v=11" defer></script>
-  <script>
-  console.log("INDEX LOADED ✅", new Date().toISOString());
+<script src="app.js?v=11" defer></script>
+<script>
+  document.getElementById("debugBadge").textContent = "HTML loaded + inline script ran ✅";
 </script>
+  
+<div id="debugBadge" style="position:fixed;bottom:10px;left:10px;z-index:99999;
+background:rgba(0,0,0,.7);border:1px solid rgba(255,255,255,.2);
+color:#fff;padding:6px 10px;border-radius:10px;font:12px monospace;">
+  HTML loaded
+</div>  
 </body>
 </html>
