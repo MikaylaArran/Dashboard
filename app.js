@@ -418,17 +418,84 @@ function initMap(){
 /* -----------------------------
    DEMOCRACY TRENDS (CSV)
 ----------------------------- */
-function initDemocracyTrends(){
+async function initDemocracyTrends(){
   const body = document.getElementById("demBody");
-  if (!body) return;
+  const countrySel = document.getElementById("demCountry");
+  const chartCanvas = document.getElementById("demChart");
 
-  body.innerHTML = `
-    <div class="news-item">
-      <strong>Democracy Trend module is running ✅</strong>
-      <div class="news-meta">Next step: load CSV and render chart.</div>
-    </div>
-  `;
+  if (!body || !countrySel || !chartCanvas) return;
+
+  body.innerHTML = `<div class="news-meta">Loading democracy data…</div>`;
+
+  try {
+    const res = await fetch("data/VDEM_small.csv?ts=" + Date.now());
+    const text = await res.text();
+
+    const parsed = Papa.parse(text, { header: true, dynamicTyping: true });
+    const rows = parsed.data.filter(r => r.country && r.year);
+
+    if (!rows.length){
+      body.innerHTML = `<div class="news-item"><strong>No democracy data found</strong></div>`;
+      return;
+    }
+
+    // Countries
+    const countries = [...new Set(rows.map(r => r.country))].sort();
+    countrySel.innerHTML = countries.map(c => `<option value="${c}">${c}</option>`).join("");
+
+    if (countries.includes("South Africa")) countrySel.value = "South Africa";
+
+    function render(country){
+      const data = rows
+        .filter(r => r.country === country)
+        .sort((a,b)=>a.year-b.year);
+
+      const years = data.map(d => d.year);
+
+      const measures = [
+        { key:"electoral_democracy_index", label:"Electoral Democracy" },
+        { key:"liberal_democracy_index", label:"Liberal Democracy" },
+        { key:"electoral_fairness_index", label:"Electoral Fairness" },
+        { key:"vote_buying", label:"Vote Buying" },
+        { key:"freedom_of_expression_index", label:"Freedom of Expression" }
+      ];
+
+      const datasets = measures.map(m => ({
+        label: m.label,
+        data: data.map(d => d[m.key]),
+        tension: 0.3
+      }));
+
+      if (window.demChart) window.demChart.destroy();
+
+      window.demChart = new Chart(chartCanvas, {
+        type: "line",
+        data: { labels: years, datasets },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { labels: { color: "#fff" } }
+          },
+          scales: {
+            x: { ticks:{ color:"#aaa" }, grid:{ color:"rgba(255,255,255,0.05)" }},
+            y: { ticks:{ color:"#aaa" }, grid:{ color:"rgba(255,255,255,0.05)" }}
+          }
+        }
+      });
+
+      body.querySelector(".news-meta")?.remove();
+    }
+
+    render(countrySel.value || countries[0]);
+    countrySel.addEventListener("change", e => render(e.target.value));
+
+  } catch (e){
+    body.innerHTML = `<div class="news-item"><strong>Error loading CSV</strong><div class="news-meta">${e}</div></div>`;
+    console.error(e);
+  }
 }
+
 /* -----------------------------
    BOOT
 ----------------------------- */
