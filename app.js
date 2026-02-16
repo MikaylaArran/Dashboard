@@ -68,6 +68,8 @@ function renderInstability(rows, meta){
   const windowBadge = document.getElementById("instabilityWindow");
   if (!list || !count || !updated || !windowBadge) return;
 
+  list.classList.remove("is-empty");
+
   const sorted = [...rows].sort((a,b) => (b.score ?? 0) - (a.score ?? 0));
   count.textContent = sorted.length;
 
@@ -112,14 +114,15 @@ function renderInstability(rows, meta){
 }
 
 async function initInstability(){
+  const list = document.getElementById("instabilityList");
   try {
     const payload = await loadInstabilityFromJson();
     renderInstability(payload.countries || [], payload);
   } catch (e) {
     const updated = document.getElementById("instabilityUpdated");
-    const list = document.getElementById("instabilityList");
     if (updated) updated.textContent = "No data yet";
     if (list) {
+      list.classList.add("is-empty");
       list.innerHTML = `
         <div class="country-card">
           <strong>Instability data not found.</strong>
@@ -131,7 +134,7 @@ async function initInstability(){
 }
 
 /* -----------------------------
-   TOP NEWS (from /data/top_news.json)
+   TOP NEWS
 ----------------------------- */
 function safeText(s){
   return String(s ?? "").replace(/[&<>"']/g, (c) => ({
@@ -151,9 +154,9 @@ function renderTopNews(payload){
   const newsNEl = document.getElementById("newsN");
   if (!list || !updated || !newsNEl) return;
 
+  list.classList.remove("is-empty");
   list.innerHTML = "";
 
-  // timestamp
   if (payload?.generated_at_utc) {
     const dt = new Date(payload.generated_at_utc);
     updated.textContent = (!isNaN(dt)) ? ("Updated " + dt.toLocaleString()) : ("Updated " + payload.generated_at_utc);
@@ -161,7 +164,6 @@ function renderTopNews(payload){
     updated.textContent = "Updated (no timestamp)";
   }
 
-  // summary card
   if (payload?.summary) {
     const summary = document.createElement("div");
     summary.className = "news-item";
@@ -176,10 +178,11 @@ function renderTopNews(payload){
   }
 
   const n = parseInt(newsNEl.value, 10) || 60;
-
   const articles = payload?.articles || [];
+
   if (!articles.length){
-    list.innerHTML += `
+    list.classList.add("is-empty");
+    list.innerHTML = `
       <div class="news-item">
         <strong>No news found.</strong>
         <div class="news-meta">The JSON exists but has no articles.</div>
@@ -188,7 +191,7 @@ function renderTopNews(payload){
     return;
   }
 
-  const displayCount = Math.min(n, 10);
+  const displayCount = Math.min(n, 20);
   articles.slice(0, displayCount).forEach(a => {
     const item = document.createElement("div");
     item.className = "news-item";
@@ -212,6 +215,7 @@ function renderTopNews(payload){
 }
 
 async function refreshTopNews(){
+  const list = document.getElementById("topNewsList");
   try {
     const updated = document.getElementById("topNewsUpdated");
     if (updated) updated.textContent = "Loading…";
@@ -219,9 +223,9 @@ async function refreshTopNews(){
     renderTopNews(payload);
   } catch (e) {
     const updated = document.getElementById("topNewsUpdated");
-    const list = document.getElementById("topNewsList");
     if (updated) updated.textContent = "No data yet";
     if (list) {
+      list.classList.add("is-empty");
       list.innerHTML = `
         <div class="news-item">
           <strong>Top news data not found.</strong>
@@ -238,8 +242,6 @@ function initTopNews(){
   const newsNEl = document.getElementById("newsN");
   const newsRefreshBtn = document.getElementById("newsRefresh");
 
-  // Note: your JSON does not include per-article categories,
-  // so category dropdown is UI-only unless you extend your JSON later.
   if (newsCategoryEl) newsCategoryEl.addEventListener("change", refreshTopNews);
   if (newsNEl) newsNEl.addEventListener("change", refreshTopNews);
   if (newsRefreshBtn) newsRefreshBtn.addEventListener("click", refreshTopNews);
@@ -265,9 +267,9 @@ function initMap(){
   }).addTo(map);
 
   const points = [
-    { name: "South Africa", lat: -29, lon: 24, color: "#f59e0b" },
-    { name: "UK",           lat: 55,  lon: -3, color: "#22c55e" },
-    { name: "India",        lat: 22,  lon: 78, color: "#ef4444" },
+    { name: "South Africa", lat: -29, lon: 24,  color: "#f59e0b" },
+    { name: "UK",           lat: 55,  lon: -3,  color: "#22c55e" },
+    { name: "India",        lat: 22,  lon: 78,  color: "#ef4444" },
     { name: "USA",          lat: 37,  lon: -95, color: "#60a5fa" }
   ];
 
