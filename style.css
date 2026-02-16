@@ -11,7 +11,7 @@
   --mapH: clamp(260px, 36vh, 420px);
 
   /* overall height for the bottom block */
-  --rowH: clamp(360px, 46vh, 520px);
+  --rowH: clamp(300px, 38vh, 440px);
 
   /* header height is consistent everywhere */
   --headerH: 54px;
@@ -80,7 +80,7 @@ body{
 .dashboard{
   width:100%;
   display:grid;
-  grid-template-columns: minmax(0, 1.75fr) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 1.8fr);
   gap:var(--gap);
   align-items:start;
 }
@@ -157,8 +157,8 @@ body{
 .player{
   background:black;
   position:relative;
-  aspect-ratio: 16 / 9;   /* ✅ keeps it clean */
-  flex:0 0 auto;          /* ✅ stops stretching */
+  aspect-ratio: 20 / 9; /* slightly flatter video */
+  flex:0 0 auto;
 }
 iframe{
   position:absolute;
@@ -196,7 +196,7 @@ iframe{
   flex-direction:column;
   min-height:0;
 
-  aspect-ratio: 1 / 1;  /* ✅ makes them squares */
+  aspect-ratio: 4 / 5;  /* ✅ makes them squares */
 }
 
 
