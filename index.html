@@ -156,6 +156,23 @@
   </div>
 
   <!-- External JS -->
+  <!-- COUNTRY REPORT DRAWER (hidden by default) -->
+<div class="drawer-overlay" id="drawerOverlay" aria-hidden="true"></div>
+
+<aside class="drawer" id="countryDrawer" aria-hidden="true">
+  <div class="drawer-header">
+    <div class="drawer-title">
+      <div class="drawer-kicker">WORLD MONITOR</div>
+      <div class="drawer-country" id="drawerCountry">Country</div>
+    </div>
+
+    <button class="drawer-close" id="drawerClose" aria-label="Close">✕</button>
+  </div>
+
+  <div class="drawer-content" id="drawerContent">
+    <!-- JS will render content here -->
+  </div>
+</aside>
   <script src="app.js" defer></script>
 </body>
 </html>
