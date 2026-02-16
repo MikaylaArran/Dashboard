@@ -256,6 +256,129 @@ function initTopNews(){
 
   refreshTopNews();
 }
+/* -----------------------------
+   TOP NEWS (Google RSS JSON files)
+----------------------------- */
+async function loadTopNews(category){
+  const cat = String(category || "all").toLowerCase().trim();
+  const file = `data/top_news_${cat}.json?ts=` + Date.now();
+
+  const res = await fetch(file, { cache: "no-store" });
+
+  // fallback if category file missing
+  if (!res.ok) {
+    const fallback = await fetch("data/top_news_all.json?ts=" + Date.now(), { cache: "no-store" });
+    if (!fallback.ok) throw new Error("Missing top news JSON files");
+    return await fallback.json();
+  }
+
+  return await res.json();
+}
+
+function renderTopNews(payload){
+  const list = document.getElementById("topNewsList");
+  const updated = document.getElementById("topNewsUpdated");
+  const newsNEl = document.getElementById("newsN");
+  if (!list || !updated || !newsNEl) return;
+
+  list.classList.remove("is-empty");
+  list.innerHTML = "";
+
+  if (payload?.generated_at_utc) {
+    const dt = new Date(payload.generated_at_utc);
+    updated.textContent = (!isNaN(dt)) ? ("Updated " + dt.toLocaleString()) : ("Updated " + payload.generated_at_utc);
+  } else {
+    updated.textContent = "Updated (no timestamp)";
+  }
+
+  if (payload?.summary) {
+    const summary = document.createElement("div");
+    summary.className = "news-item";
+    summary.innerHTML = `
+      <div class="summary-title">Summary</div>
+      <div class="summary-text">${safeText(payload.summary)}</div>
+      <div class="news-meta">
+        ${payload?.category ? safeText(payload.category) : ""}${payload?.language ? ` | ${safeText(payload.language)}` : ""}
+      </div>
+    `;
+    list.appendChild(summary);
+  }
+
+  const n = parseInt(newsNEl.value, 10) || 60;
+  const articles = payload?.articles || [];
+
+  if (!articles.length){
+    list.classList.add("is-empty");
+    list.innerHTML = `
+      <div class="news-item">
+        <strong>No news found.</strong>
+        <div class="news-meta">The JSON exists but has no articles.</div>
+      </div>
+    `;
+    return;
+  }
+
+  const displayCount = Math.min(n, 40);
+  articles.slice(0, displayCount).forEach(a => {
+    const item = document.createElement("div");
+    item.className = "news-item";
+
+    const title = a.title || "Untitled";
+    const link = a.link || "";
+    const source = a.source || "";
+    const pubDate = a.pubDate || "";
+
+    item.innerHTML = `
+      <div>
+        ${link
+          ? `<a href="${safeText(link)}" target="_blank" rel="noopener noreferrer"><strong>${safeText(title)}</strong></a>`
+          : `<strong>${safeText(title)}</strong>`
+        }
+      </div>
+      <div class="news-meta">${safeText(pubDate)}${source ? ` | ${safeText(source)}` : ""}</div>
+    `;
+
+    list.appendChild(item);
+  });
+}
+
+async function refreshTopNews(){
+  const list = document.getElementById("topNewsList");
+  const catEl = document.getElementById("newsCategory");
+  const updated = document.getElementById("topNewsUpdated");
+
+  const category = catEl ? catEl.value : "all";
+
+  try {
+    if (updated) updated.textContent = "Loading…";
+    const payload = await loadTopNews(category);
+    renderTopNews(payload);
+  } catch (e) {
+    if (updated) updated.textContent = "No data yet";
+    if (list) {
+      list.classList.add("is-empty");
+      list.innerHTML = `
+        <div class="news-item">
+          <strong>Top news data not found.</strong>
+          <div class="news-meta">${safeText(e.message)}</div>
+          <div class="news-meta">Expected <code>data/top_news_*.json</code> to exist.</div>
+        </div>
+      `;
+    }
+  }
+}
+
+function initTopNews(){
+  const newsCategoryEl = document.getElementById("newsCategory");
+  const newsNEl = document.getElementById("newsN");
+  const newsRefreshBtn = document.getElementById("newsRefresh");
+
+  if (newsCategoryEl) newsCategoryEl.addEventListener("change", refreshTopNews);
+  if (newsNEl) newsNEl.addEventListener("change", refreshTopNews);
+  if (newsRefreshBtn) newsRefreshBtn.addEventListener("click", refreshTopNews);
+
+  refreshTopNews();
+}
 
 /* -----------------------------
    COUNTRY REPORT DRAWER
@@ -446,6 +569,7 @@ document.addEventListener("DOMContentLoaded", () => {
   initInstability();
   initTopNews();
   initMap();
+  initTopNews(); 
 
   // Auto-refresh
   setInterval(initInstability, 60_000);
