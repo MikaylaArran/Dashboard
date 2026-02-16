@@ -11,6 +11,10 @@
   <!-- Leaflet (Map library) -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- Chart.js + PapaParse (Democracy Trend) -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 </head>
 
 <body>
@@ -109,37 +113,36 @@
           </div>
         </div>
 
-        <!-- Row 2 (placeholders) -->
-        <div class="panel" id="panel4">
+        <!-- Row 2: DEMOCRACY TREND (THIS IS THE COMBINED PANEL 4+5) -->
+        <div class="panel" id="democracyPanel">
           <div class="panel-header">
-            <div class="panel-title">AI INSIGHTS</div>
+            <div class="panel-title">DEMOCRACY TREND</div>
             <div class="meta-right">
-              <span class="badge">LIVE</span>
+              <select class="news-select" id="demCountry"></select>
+              <span class="badge" id="demUpdated">CSV</span>
             </div>
           </div>
-          <div class="panel-body" id="panel4Body">
+
+          <div class="panel-body" id="demBody">
+            <div class="dem-controls" id="demMeasures"></div>
+
+            <div class="dem-chart-wrap">
+              <canvas id="demChart"></canvas>
+            </div>
+
             <div class="news-item">
-              <strong>Placeholder</strong>
-              <div class="news-meta">Add content later.</div>
+              <div class="summary-title">Summary Statistics</div>
+              <div class="dem-table" id="demStats"></div>
+            </div>
+
+            <div class="news-item">
+              <div class="summary-title">Recent 5-Year Change</div>
+              <div class="dem-table" id="demChange"></div>
             </div>
           </div>
         </div>
 
-        <div class="panel" id="panel5">
-          <div class="panel-header">
-            <div class="panel-title">INTEL FEED</div>
-            <div class="meta-right">
-              <span class="badge">LIVE</span>
-            </div>
-          </div>
-          <div class="panel-body" id="panel5Body">
-            <div class="news-item">
-              <strong>Placeholder</strong>
-              <div class="news-meta">Add content later.</div>
-            </div>
-          </div>
-        </div>
-
+        <!-- Row 2: keep Panel 6 as-is -->
         <div class="panel" id="panel6">
           <div class="panel-header">
             <div class="panel-title">LIVE INTELLIGENCE</div>
