@@ -299,55 +299,90 @@ async function initDemocracyTrends(){
   const countrySel = document.getElementById("demCountry");
   const chartCanvas = document.getElementById("demChart");
 
-  if(!body || !countrySel || !chartCanvas) return;
+  if (!body || !countrySel || !chartCanvas) return;
 
-  // Keep the chart visible by giving the canvas a height via CSS (you already have dem-chart-wrap)
+  // Keep a private chart instance (NOT on window)
+  let chartInstance = null;
+
+  // Small helper
+  const destroyChart = () => {
+    try {
+      if (chartInstance && typeof chartInstance.destroy === "function") {
+        chartInstance.destroy();
+      }
+    } catch (_) {
+      // ignore
+    } finally {
+      chartInstance = null;
+    }
+  };
+
   body.innerHTML = `<div class="news-meta">Loading democracy data…</div>`;
 
-  try{
+  try {
     const url = "data/VDEM_small.csv?ts=" + Date.now();
-    const res = await fetch(url, { cache:"no-store" });
+    const res = await fetch(url, { cache: "no-store" });
 
-    if(!res.ok){
+    if (!res.ok) {
       throw new Error(`CSV not found (${res.status}). Put it at data/VDEM_small.csv`);
     }
 
     const text = await res.text();
-    const parsed = Papa.parse(text, { header:true, dynamicTyping:true, skipEmptyLines:true });
+    const parsed = Papa.parse(text, {
+      header: true,
+      dynamicTyping: true,
+      skipEmptyLines: true
+    });
+
     const rows = (parsed.data || []).filter(r => r && r.country && r.year);
 
-    if(!rows.length){
+    if (!rows.length) {
       body.innerHTML = `<div class="news-item"><strong>No democracy data</strong></div>`;
       return;
     }
 
-    const countries = [...new Set(rows.map(r => r.country))].sort((a,b)=>String(a).localeCompare(String(b)));
-    countrySel.innerHTML = countries.map(c => `<option value="${safeText(c)}">${safeText(c)}</option>`).join("");
+    // Countries dropdown
+    const countries = [...new Set(rows.map(r => String(r.country).trim()))]
+      .filter(Boolean)
+      .sort((a, b) => a.localeCompare(b));
+
+    countrySel.innerHTML = countries
+      .map(c => `<option value="${safeText(c)}">${safeText(c)}</option>`)
+      .join("");
+
     countrySel.value = countries.includes("South Africa") ? "South Africa" : countries[0];
 
-    // Render shell (so we don't wipe out the whole panel on each change)
+    // Render shell ONCE (do not wipe the whole panel on change)
     body.innerHTML = `
       <div class="dem-chart-wrap">
         <canvas id="demChart"></canvas>
       </div>
+      <div class="news-meta" id="demNote" style="margin-top:10px;"></div>
     `;
 
     const canvas = document.getElementById("demChart");
+    const note = document.getElementById("demNote");
+
+    const measures = [
+      { key:"electoral_democracy_index", label:"Electoral" },
+      { key:"liberal_democracy_index", label:"Liberal" },
+      { key:"electoral_fairness_index", label:"Fairness" },
+      { key:"vote_buying", label:"Vote Buying" },
+      { key:"freedom_of_expression_index", label:"Expression" }
+    ];
 
     function render(country){
       const data = rows
-        .filter(r => r.country === country)
-        .sort((a,b)=>Number(a.year)-Number(b.year));
+        .filter(r => String(r.country).trim() === String(country).trim())
+        .sort((a,b) => Number(a.year) - Number(b.year));
+
+      if (!data.length) {
+        destroyChart();
+        if (note) note.textContent = "No rows found for this country in the CSV.";
+        return;
+      }
 
       const years = data.map(d => d.year);
-
-      const measures = [
-        { key:"electoral_democracy_index", label:"Electoral" },
-        { key:"liberal_democracy_index", label:"Liberal" },
-        { key:"electoral_fairness_index", label:"Fairness" },
-        { key:"vote_buying", label:"Vote Buying" },
-        { key:"freedom_of_expression_index", label:"Expression" }
-      ];
 
       const datasets = measures.map(m => ({
         label: m.label,
@@ -355,27 +390,33 @@ async function initDemocracyTrends(){
         tension: 0.3
       }));
 
-      if (window.demChart) window.demChart.destroy();
+      destroyChart();
 
-      window.demChart = new Chart(canvas, {
+      chartInstance = new Chart(canvas, {
         type: "line",
         data: { labels: years, datasets },
         options: {
           responsive: true,
           maintainAspectRatio: false,
-          plugins: { legend: { labels: { color: "#fff" } } },
+          plugins: {
+            legend: { labels: { color: "#fff" } }
+          },
           scales: {
-            x: { ticks: { color: "#aaa" }, grid: { color:"rgba(255,255,255,0.05)" } },
-            y: { ticks: { color: "#aaa" }, grid: { color:"rgba(255,255,255,0.05)" } }
+            x: { ticks: { color: "#aaa" }, grid: { color: "rgba(255,255,255,0.05)" } },
+            y: { ticks: { color: "#aaa" }, grid: { color: "rgba(255,255,255,0.05)" } }
           }
         }
       });
+
+      if (note) note.textContent = "";
     }
 
     render(countrySel.value);
-    countrySel.addEventListener("change", (e) => render(e.target.value));
 
-  }catch(e){
+    // IMPORTANT: avoid stacking multiple listeners if init runs again
+    countrySel.onchange = (e) => render(e.target.value);
+
+  } catch (e) {
     body.innerHTML = `
       <div class="news-item">
         <strong>Error loading CSV</strong>
@@ -385,6 +426,7 @@ async function initDemocracyTrends(){
     console.error(e);
   }
 }
+
 
 /* -----------------------------
    BOOT
