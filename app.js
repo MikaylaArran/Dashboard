@@ -144,12 +144,10 @@ async function loadTopNews(category){
   const res = await fetch(file, { cache: "no-store" });
 
   if (!res.ok) {
-    // hard fallback to all (so UI keeps working even if one file missing)
     const fallback = await fetch(`data/top_news_all.json?ts=${Date.now()}`, { cache: "no-store" });
     if (!fallback.ok) throw new Error(`Missing top news JSON (tried ${file} and fallback top_news_all.json)`);
     return await fallback.json();
   }
-
   return await res.json();
 }
 
@@ -163,7 +161,6 @@ function renderTopNews(payload){
   list.classList.remove("is-empty");
   list.innerHTML = "";
 
-  // Updated badge
   if (updated){
     if (payload?.generated_at_utc){
       const dt = new Date(payload.generated_at_utc);
@@ -187,7 +184,6 @@ function renderTopNews(payload){
     return;
   }
 
-  // your UI currently caps at 40 for readability
   const displayCount = Math.min(nWanted, 40);
 
   articles.slice(0, displayCount).forEach(a => {
@@ -244,11 +240,10 @@ function initTopNews(){
   if (newsCategoryEl) newsCategoryEl.addEventListener("change", refreshTopNews);
   if (newsNEl) newsNEl.addEventListener("change", refreshTopNews);
 
-  // initial load
   refreshTopNews();
 }
 
-// Support inline onchange="refreshTopNews()" if you keep it in HTML:
+// if you keep inline onchange="refreshTopNews()" in HTML:
 window.refreshTopNews = refreshTopNews;
 
 /* -----------------------------
@@ -259,8 +254,6 @@ let _map;
 function initMap(){
   const el = document.getElementById("worldMap");
   if (!el || !window.L) return;
-
-  // prevent double-init if script reloads
   if (_map) return;
 
   _map = L.map("worldMap", {
@@ -283,7 +276,6 @@ function initMap(){
   updateMapTime();
   setInterval(updateMapTime, 1000);
 
-  // Fix Leaflet sizing in CSS grids
   function fixSize(){
     setTimeout(() => _map && _map.invalidateSize(), 150);
   }
@@ -293,47 +285,38 @@ function initMap(){
 
 /* -----------------------------
    DEMOCRACY TRENDS (CSV)
+   FIX: do NOT use window.demChart (Safari treats #demChart as window.demChart)
 ----------------------------- */
+let demChartInstance = null; // ✅ SAFE: not tied to element IDs
+
+function destroyDemChart(){
+  try {
+    if (demChartInstance && typeof demChartInstance.destroy === "function") {
+      demChartInstance.destroy();
+    }
+  } catch (_) {
+    // ignore
+  } finally {
+    demChartInstance = null;
+  }
+}
+
 async function initDemocracyTrends(){
   const body = document.getElementById("demBody");
   const countrySel = document.getElementById("demCountry");
-  const chartCanvas = document.getElementById("demChart");
 
-  if (!body || !countrySel || !chartCanvas) return;
-
-  // Keep a private chart instance (NOT on window)
-  let chartInstance = null;
-
-  // Small helper
-  const destroyChart = () => {
-    try {
-      if (chartInstance && typeof chartInstance.destroy === "function") {
-        chartInstance.destroy();
-      }
-    } catch (_) {
-      // ignore
-    } finally {
-      chartInstance = null;
-    }
-  };
+  // IMPORTANT: do NOT capture the canvas early, get it after DOM exists
+  if (!body || !countrySel) return;
 
   body.innerHTML = `<div class="news-meta">Loading democracy data…</div>`;
 
   try {
     const url = "data/VDEM_small.csv?ts=" + Date.now();
     const res = await fetch(url, { cache: "no-store" });
-
-    if (!res.ok) {
-      throw new Error(`CSV not found (${res.status}). Put it at data/VDEM_small.csv`);
-    }
+    if (!res.ok) throw new Error(`CSV not found (${res.status}). Put it at data/VDEM_small.csv`);
 
     const text = await res.text();
-    const parsed = Papa.parse(text, {
-      header: true,
-      dynamicTyping: true,
-      skipEmptyLines: true
-    });
-
+    const parsed = Papa.parse(text, { header:true, dynamicTyping:true, skipEmptyLines:true });
     const rows = (parsed.data || []).filter(r => r && r.country && r.year);
 
     if (!rows.length) {
@@ -341,27 +324,34 @@ async function initDemocracyTrends(){
       return;
     }
 
-    // Countries dropdown
     const countries = [...new Set(rows.map(r => String(r.country).trim()))]
       .filter(Boolean)
-      .sort((a, b) => a.localeCompare(b));
+      .sort((a,b)=>a.localeCompare(b));
 
-    countrySel.innerHTML = countries
-      .map(c => `<option value="${safeText(c)}">${safeText(c)}</option>`)
-      .join("");
-
+    countrySel.innerHTML = countries.map(c => `<option value="${safeText(c)}">${safeText(c)}</option>`).join("");
     countrySel.value = countries.includes("South Africa") ? "South Africa" : countries[0];
 
-    // Render shell ONCE (do not wipe the whole panel on change)
-    body.innerHTML = `
-      <div class="dem-chart-wrap">
-        <canvas id="demChart"></canvas>
-      </div>
-      <div class="news-meta" id="demNote" style="margin-top:10px;"></div>
-    `;
+    // ✅ DO NOT recreate the canvas id in a way that makes window.demChart appear.
+    // Just reuse the existing canvas already in index.html if it exists.
+    // If your index.html already has <canvas id="demChart"></canvas>, we keep it.
+    // If not, we inject it once.
+    if (!document.getElementById("demChart")) {
+      body.innerHTML = `
+        <div class="dem-chart-wrap">
+          <canvas id="demChart"></canvas>
+        </div>
+        <div class="news-meta" id="demNote" style="margin-top:10px;"></div>
+      `;
+    } else {
+      // Keep existing layout, but ensure note exists
+      if (!document.getElementById("demNote")) {
+        body.insertAdjacentHTML("beforeend", `<div class="news-meta" id="demNote" style="margin-top:10px;"></div>`);
+      }
+    }
 
     const canvas = document.getElementById("demChart");
     const note = document.getElementById("demNote");
+    if (!canvas) throw new Error("Canvas #demChart not found in DOM");
 
     const measures = [
       { key:"electoral_democracy_index", label:"Electoral" },
@@ -374,33 +364,30 @@ async function initDemocracyTrends(){
     function render(country){
       const data = rows
         .filter(r => String(r.country).trim() === String(country).trim())
-        .sort((a,b) => Number(a.year) - Number(b.year));
+        .sort((a,b)=>Number(a.year)-Number(b.year));
 
       if (!data.length) {
-        destroyChart();
+        destroyDemChart();
         if (note) note.textContent = "No rows found for this country in the CSV.";
         return;
       }
 
       const years = data.map(d => d.year);
-
       const datasets = measures.map(m => ({
         label: m.label,
         data: data.map(d => d[m.key]),
         tension: 0.3
       }));
 
-      destroyChart();
+      destroyDemChart();
 
-      chartInstance = new Chart(canvas, {
+      demChartInstance = new Chart(canvas, {
         type: "line",
         data: { labels: years, datasets },
         options: {
           responsive: true,
           maintainAspectRatio: false,
-          plugins: {
-            legend: { labels: { color: "#fff" } }
-          },
+          plugins: { legend: { labels: { color: "#fff" } } },
           scales: {
             x: { ticks: { color: "#aaa" }, grid: { color: "rgba(255,255,255,0.05)" } },
             y: { ticks: { color: "#aaa" }, grid: { color: "rgba(255,255,255,0.05)" } }
@@ -413,7 +400,7 @@ async function initDemocracyTrends(){
 
     render(countrySel.value);
 
-    // IMPORTANT: avoid stacking multiple listeners if init runs again
+    // ✅ prevents stacked listeners
     countrySel.onchange = (e) => render(e.target.value);
 
   } catch (e) {
@@ -427,18 +414,16 @@ async function initDemocracyTrends(){
   }
 }
 
-
 /* -----------------------------
    BOOT
 ----------------------------- */
 document.addEventListener("DOMContentLoaded", () => {
   initLiveNews();
   initInstability();
-  initTopNews();          // attaches listeners + loads news
+  initTopNews();
   initMap();
   initDemocracyTrends();
 
-  // auto refresh (safe)
   setInterval(initInstability, 60_000);
   setInterval(refreshTopNews, 60_000);
 });
