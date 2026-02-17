@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- External CSS (cache-bust) -->
-  <link rel="stylesheet" href="style.css?v=10" />
+  <link rel="stylesheet" href="style.css?v=14" />
 
   <!-- Leaflet (Map library) -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -34,7 +34,7 @@
   <div class="page">
     <div class="dashboard">
 
-      <!-- LEFT: LIVE NEWS (spans 2 rows via CSS) -->
+      <!-- LEFT: LIVE NEWS -->
       <div class="news-block">
         <div class="header">
           <div class="title">LIVE NEWS</div>
@@ -56,7 +56,7 @@
         </div>
       </div>
 
-      <!-- RIGHT: 3x2 PANEL GRID -->
+      <!-- RIGHT: PANELS -->
       <div class="right-col">
 
         <!-- Row 1 -->
@@ -76,7 +76,8 @@
           <div class="panel-header">
             <div class="panel-title">TOP NEWS</div>
             <div class="meta-right">
-              <select class="news-select" id="newsCategory" onchange="refreshTopNews()">
+              <!-- IMPORTANT: no inline onchange here -->
+              <select class="news-select" id="newsCategory">
                 <option value="all" selected>All</option>
                 <option value="world">World</option>
                 <option value="politics">Politics</option>
@@ -85,7 +86,7 @@
                 <option value="environment">Environment</option>
               </select>
 
-              <select class="news-select" id="newsN" onchange="refreshTopNews()">
+              <select class="news-select" id="newsN">
                 <option value="20">20</option>
                 <option value="40">40</option>
                 <option value="60" selected>60</option>
@@ -113,7 +114,7 @@
           </div>
         </div>
 
-        <!-- Row 2: DEMOCRACY TREND (THIS IS THE COMBINED PANEL 4+5) -->
+        <!-- Row 2: DEMOCRACY TREND -->
         <div class="panel" id="democracyPanel">
           <div class="panel-header">
             <div class="panel-title">DEMOCRACY TREND</div>
@@ -142,7 +143,7 @@
           </div>
         </div>
 
-        <!-- Row 2: keep Panel 6 as-is -->
+        <!-- Row 2: Panel 6 -->
         <div class="panel" id="panel6">
           <div class="panel-header">
             <div class="panel-title">LIVE INTELLIGENCE</div>
@@ -162,7 +163,7 @@
     </div>
   </div>
 
-  <!-- COUNTRY REPORT DRAWER (hidden by default) -->
+  <!-- COUNTRY REPORT DRAWER -->
   <div class="drawer-overlay" id="drawerOverlay" aria-hidden="true"></div>
 
   <aside class="drawer" id="countryDrawer" aria-hidden="true">
@@ -175,12 +176,10 @@
       <button class="drawer-close" id="drawerClose" aria-label="Close">✕</button>
     </div>
 
-    <div class="drawer-content" id="drawerContent">
-      <!-- JS will render content here -->
-    </div>
+    <div class="drawer-content" id="drawerContent"></div>
   </aside>
 
   <!-- External JS (cache-bust) -->
-  <script src="app.js?v=13" defer></script>
+  <script src="app.js?v=20" defer></script>
 </body>
 </html>
