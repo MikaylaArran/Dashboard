@@ -1,50 +1,14 @@
 {
-  "generated_at_utc": "2026-02-17T06:14:29.785343Z",
+  "generated_at_utc": "2026-02-17T07:30:29.600275Z",
   "category": "technology",
   "language": "en",
   "summary": "Top headlines pulled from Google News RSS (free, English). Category: technology.",
   "articles": [
     {
-      "title": "How technology has already changed the world in my lifetime - Noahpinion | Noah Smith",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52d29UR1pzUmtpS3RCS29ZOG1oLXp6bEdlS1p0ZWtjaDhzTDVWUGpEaGxmX09Jc3hRa2d4NTh1MkJaUmdZWllIR1FOeVcxTFpyeG5TZmRIUHR5Z3h4UVRpRXRjOFVoc3Vwa3hsVXNNU3ZCQQ?oc=5",
-      "source": "Noahpinion | Noah Smith",
-      "pubDate": "Sun, 15 Feb 2026 07:12:13 GMT"
-    },
-    {
-      "title": "Claims that AI can help fix climate dismissed as greenwashing - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkhjWktRSVpwRmxYa05yZ3FYU2x3OFRkR1BWZWpoWDdncHczMWE2NzEydjZmMGo0eTRTQWtXRWpOQkpTWTVRQVU1ZVNQX0x0YTBuUnNzN1Nmell5R1JxellLSkx6aWRrb3d6MjF1VWlRN3hNUHZlMFNzZDhCWlBWMG5IUEgydVNvd1FpS2RQODhBSTdwU09VelBobFRNbEVaZzRaaDlRRWlhc2RkNHJYZG54ckZ4NFE?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Tue, 17 Feb 2026 05:00:00 GMT"
-    },
-    {
-      "title": "SpaceX to Compete in Pentagon Contest for Autonomous Drone Tech - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzRJZzJDcUhIVnhsS0FMTHd3Rzg1N0lhbkR6eW5fMHhJeWR5UUlXTnVMS1BuU1E5blJSTUVycUJHUXYtWjM1aE5VQWJsbVRCRGNOS2taVzlzeVp2WUZBdEJXa0U1YUVrdVJ2Q2tzMnZKa3FUMEMwd3BUMGxhVzUzalJUVlZlTWMwbTJjT1UwQkcyVUVrUThZd2ZhU0IwbzlESmpHVHRYdnRlVE1ZWUYtREJMcVU?oc=5",
-      "source": "Bloomberg.com",
-      "pubDate": "Mon, 16 Feb 2026 18:24:17 GMT"
-    },
-    {
-      "title": "US conducts first air transport of nuclear microreactor in bid to show technology's viability - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVzJ5enlZZEg1Q1RsamdRUElIRUd4YUxLbTJ0OFFxNmRvVE4wcFNCRWRFVGZ4QW1HeEZnQ0dPdTh5UW9OZlBzbVE5WnpVWW1IQ3dHeGphQVRpTV9mVVUtR1F6ZE5Zam03LWN6ZGY2OENwaTdzSk9xelNmYnZUWWlma0hKcDVpSVZjejd4d2ZXSEYwdGJpb0dTX2RMS2JGQnNCTERJMXkzVkpUc1RteVY2STdUeXZ2ZHZkLWJEWkhGMERtX1E?oc=5",
-      "source": "Reuters",
-      "pubDate": "Mon, 16 Feb 2026 05:10:00 GMT"
-    },
-    {
-      "title": "How the sound of sport is being reimagined for deaf fans - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORDJtSFFPZWk1MjR1eTJYUmc0RXd2QVc1Z1oxU21yb0ZLM1RfMU5GOXlnbTRHaklhZ1NOdmh4Q0IzazA2RDRUdXlUbkQ5U1VKUXE0R1VNODF5V3lVcHQ0UHMzOHNtS2hoOF96M3h4RnByWkZVUkVmWU1hWTRLcjhQaUNGMDFtN1VmbkhvRTA4ZDMwSkJEUktJbjBoMHJIZTRPWHc?oc=5",
+      "title": "India's AI summit: Delegates complain of long queues and confusion on opening day - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NUpwWEZHM2k0bkNzd2hUbDVDRzRTa0JjRThCNWpBSlBwM1ZheEs0NmNVVXNkdmQ4OGdRa01fY0NXUmJUSG5aLUk1R2pPY0VGeFhXR2dka2xrdw?oc=5",
       "source": "BBC",
-      "pubDate": "Mon, 16 Feb 2026 14:00:00 GMT"
-    },
-    {
-      "title": "CT woman’s death raises questions about technology and staffing. She somehow got through a door. - Hartford Courant",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMDgwc0xNSVViSnBiNHpza2pnaG9QTW4xeXhRbWx4LTRKdGZ1TW1BejRlUjBsOHhpV21NMF9JdmEzYWM1UEw5MExMZVpZa0VYVjFCaGhPV2FxZjB4V2kwZ1FmN3pQTGJ6UXhCeVJhVmtVWVRaM2o2RVRydmJGTHV6d2Zwc0tfRHZlX0c5eGJNRnV3WG5vOHVlMzJWV3A3amc?oc=5",
-      "source": "Hartford Courant",
-      "pubDate": "Mon, 16 Feb 2026 10:21:38 GMT"
-    },
-    {
-      "title": "India’s hosts AI Impact Summit, drawing world leaders, tech giants - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQlZBdmR2a2RBM1FGaWpuS2kxMENjYlBuNXpDdHRUVmlCYU1tNWlmUEVBQUlHUDJEa1J3TW5INldHY0YwUFFBcXVGZldpaE1jei1iOE9PNHNNNExJVGtCSExqYXl2MXJ6aDVIR1R4ZEdka3JUT2RzZllFVVZwbU96UjNOY1pOMUluai1teEFQbXFWemc3SGwwSlFvRENyVHVva3Vzczdn0gGrAUFVX3lxTE9sRHhEek8yVnU3dEw5T3V0bndfQmltdENibUNHLVpDZ0JkdVJEakxaRHE3Y0NUQVhudjRpVFJXeW12anRuZzRYalBtNXBvOXJING45ZExTZXloY2xxYmtNMTF0ZDhZdWE3NXFZSTdkY3diOUJrdTktR29fMS1TQmdQX2JfQ0p3MmRCMFk0SjdBeGZBVVl1RTVodzNJWGxHX05jS2Qxc2VMT09LSQ?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Mon, 16 Feb 2026 14:54:09 GMT"
+      "pubDate": "Tue, 17 Feb 2026 07:15:42 GMT"
     },
     {
       "title": "Europe seen as key market for data sovereignty technology - Euronews.com",
@@ -53,16 +17,52 @@
       "pubDate": "Sun, 15 Feb 2026 17:08:01 GMT"
     },
     {
-      "title": "Global technology leaders launch Trusted Tech Alliance - Microsoft Source",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGd0YWZpcUN2Ry1sd2JoUGJPalNzVEU3RmxhMmM3bUxEVGVHVVFsbFJCNXUwcUctSVlkcThHX0dfTDEyRWh1UzhodmNRWU9RRTdkS3dHbzZXNUhBTktfcmRPTmN1MFlaNl9BSnBSNUxJT0FQcXk0bloydk80amhZLVQ4SkZpWkpnNk1MZjdRUkhKNWc5YTJpYS05LW5Vd19aRGc?oc=5",
-      "source": "Microsoft Source",
-      "pubDate": "Fri, 13 Feb 2026 17:03:29 GMT"
+      "title": "CT woman’s death raises questions about technology and staffing. She somehow got through a door. - Hartford Courant",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMDgwc0xNSVViSnBiNHpza2pnaG9QTW4xeXhRbWx4LTRKdGZ1TW1BejRlUjBsOHhpV21NMF9JdmEzYWM1UEw5MExMZVpZa0VYVjFCaGhPV2FxZjB4V2kwZ1FmN3pQTGJ6UXhCeVJhVmtVWVRaM2o2RVRydmJGTHV6d2Zwc0tfRHZlX0c5eGJNRnV3WG5vOHVlMzJWV3A3amc?oc=5",
+      "source": "Hartford Courant",
+      "pubDate": "Mon, 16 Feb 2026 10:21:38 GMT"
     },
     {
-      "title": "Lanzante 95-59 Is Pioneering Technology Not Even Bugatti Uses Yet - CarBuzz",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxX2ItUDJTM21lRXRYTWsteUJ5WGM1SjFaelVSV2ZNeXM5MXc3dFpOTDlfWkZhZ0syTGJ1OGg4Z2NyMUR5Yi02Vy1zN05WelhyZ3BJbkFJRG10VVZQU1FyZDRQZnpULTNxekE?oc=5",
-      "source": "CarBuzz",
-      "pubDate": "Mon, 16 Feb 2026 20:16:03 GMT"
+      "title": "How a UIC professor is using technology to help Team USA figure skaters - NBC 5 Chicago",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2dIWW52VUMzYUxlNzdxdk00RXlsOWlidEJuelByTTFfai1WM3E5M0JWMUxBUlNfYUZUb1hLN0ZDSk5TTHE4blhpWDYzVzRkNzR4YWI4Nmx3ZEQydnk4YUo5YmhYY2lyd0dpeTN1eUVOYTVjX1UwOU1Da2dRSXAza1Q4UjBZeWpYdU5RZmhDUlNuaGlKZWFXLUxPXzBSTFdnLTFiWE1QWmVwSXRXSnFpb0c4VlZ5QnhJMkHSAcIBQVVfeXFMTzUwN3k4a2piaU9rVUtmMHRfcnZLYkZabXpzTXdYRm1ObjhBUHlOd2x0ZXhVMUZhMWdDZ2t5VVdmM0d3cVRtNVA4Mmp3eGlYR0RxbTA1dTc5YXhIV3YwQWdiX09NYXJQRC1YX2Nkd1hUdzJmUkNIaFdUems2bmlKNHFwem1abEIzdDhNRHlqM2lpcDc0UUw1LU5vaHlSRWExQ1NRaTl4SnNqYUJzbWxzVWtUcWtHMm12VS1rdkxhSlpsLVE?oc=5",
+      "source": "NBC 5 Chicago",
+      "pubDate": "Tue, 17 Feb 2026 03:28:39 GMT"
+    },
+    {
+      "title": "SpaceX to Compete in Pentagon Contest for Autonomous Drone Tech - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzRJZzJDcUhIVnhsS0FMTHd3Rzg1N0lhbkR6eW5fMHhJeWR5UUlXTnVMS1BuU1E5blJSTUVycUJHUXYtWjM1aE5VQWJsbVRCRGNOS2taVzlzeVp2WUZBdEJXa0U1YUVrdVJ2Q2tzMnZKa3FUMEMwd3BUMGxhVzUzalJUVlZlTWMwbTJjT1UwQkcyVUVrUThZd2ZhU0IwbzlESmpHVHRYdnRlVE1ZWUYtREJMcVU?oc=5",
+      "source": "Bloomberg.com",
+      "pubDate": "Mon, 16 Feb 2026 18:24:17 GMT"
+    },
+    {
+      "title": "NBA previews live 'POV mode' at NBA All-Star Technology Summit - NBA",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sVGFsa2lBem9YSGhQQk9nTkZTckRUOTR2aWZjY3hLc0VHdERJenBuMDlta2NvRkpaQmdKLWVtd3pSOTlKdnZwSmUyZjVNRDNmTkxrMkFHT1d0TlZzcDgxYmU5RG1rUHdhbXdLZWZJelI5bFhDOW9wcQ?oc=5",
+      "source": "NBA",
+      "pubDate": "Fri, 13 Feb 2026 22:30:13 GMT"
+    },
+    {
+      "title": "Claims that AI can help fix climate dismissed as greenwashing - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkhjWktRSVpwRmxYa05yZ3FYU2x3OFRkR1BWZWpoWDdncHczMWE2NzEydjZmMGo0eTRTQWtXRWpOQkpTWTVRQVU1ZVNQX0x0YTBuUnNzN1Nmell5R1JxellLSkx6aWRrb3d6MjF1VWlRN3hNUHZlMFNzZDhCWlBWMG5IUEgydVNvd1FpS2RQODhBSTdwU09VelBobFRNbEVaZzRaaDlRRWlhc2RkNHJYZG54ckZ4NFE?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Tue, 17 Feb 2026 05:00:00 GMT"
+    },
+    {
+      "title": "Elon Musk, Tim Cook add voices to chorus of warnings about ‘unprecedented’ chip crisis - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWjQyMWRtTjc3MmFILUhna011U29qbDRvei04NUtjOVIydWpLa0ZNM1J5TnpVMElUWkZJeFpwNG5acUozSl91NnBkRGRITDlib0NkQjRQakdNTFVpSkJyNi1JcHNONFNQXy1JQ3ItdHJFX0o3OTlfbWNpaDMtN3gtTFA0OVBqRjhPdUZRZ0ZwS3U4bUFpRDhIeEF3TXFoM0FaTkYxbkNydmduWk5sLUFmQmVpRndvZWc0cDVtd25oeGJkNjlxQlZ2SG9ZUjhWREcxUjBYejBqS0J0dw?oc=5",
+      "source": "Dallas News",
+      "pubDate": "Mon, 16 Feb 2026 21:32:16 GMT"
+    },
+    {
+      "title": "Wearable robotics are changing how we walk and run - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGRDd3dzNjTGp5UzdRTHFZZmlJbVRkTWV6dXpJQ1VsY21ORlpiTklpZnV2a2JFdjNkT052WGlNSFU5TWlvNW9DM2RUYTZheE9jV2dLQXZicVZzOTdaX0FFa2pKcmFtLW5GSFZLcU9VTEdyRmRmS2kwaFhiONIBgAFBVV95cUxNanVCc1ZsNlVFZE1KRFpzOC1OV1JxVHJUTm9teXh2WG1yTlpaTnpGZzJUSTFzYnlfZTZCb2JoSDgyLWNBdkFxYjVvaFQ2Q3U0cXZJVjZjUFBYdlowVGNvbUJmQXZncG9ZTWVDUVpVMjNVemlRa0dFM05URHhQcUhaYw?oc=5",
+      "source": "Fox News",
+      "pubDate": "Mon, 16 Feb 2026 17:30:11 GMT"
+    },
+    {
+      "title": "India’s hosts AI Impact Summit, drawing world leaders, tech giants - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQlZBdmR2a2RBM1FGaWpuS2kxMENjYlBuNXpDdHRUVmlCYU1tNWlmUEVBQUlHUDJEa1J3TW5INldHY0YwUFFBcXVGZldpaE1jei1iOE9PNHNNNExJVGtCSExqYXl2MXJ6aDVIR1R4ZEdka3JUT2RzZllFVVZwbU96UjNOY1pOMUluai1teEFQbXFWemc3SGwwSlFvRENyVHVva3Vzczdn0gGrAUFVX3lxTE9sRHhEek8yVnU3dEw5T3V0bndfQmltdENibUNHLVpDZ0JkdVJEakxaRHE3Y0NUQVhudjRpVFJXeW12anRuZzRYalBtNXBvOXJING45ZExTZXloY2xxYmtNMTF0ZDhZdWE3NXFZSTdkY3diOUJrdTktR29fMS1TQmdQX2JfQ0p3MmRCMFk0SjdBeGZBVVl1RTVodzNJWGxHX05jS2Qxc2VMT09LSQ?oc=5",
+      "source": "Al Jazeera",
+      "pubDate": "Mon, 16 Feb 2026 14:54:09 GMT"
     },
     {
       "title": "Colorado Springs police transitioning to new translation technology - KKTV",
@@ -77,16 +77,22 @@
       "pubDate": "Mon, 16 Feb 2026 22:46:09 GMT"
     },
     {
+      "title": "Governing Pandora: Leading in the Age of Generative AI and Exponential Technology, with Andrea Bonime-Blanc - Columbia University Club of Washington, D.C.",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qLU1FbXhXQzZvc1JLYi1Xelhoejk4OWlsZk9DZVR5eV9ROHBncExieE5CZE9GejhXdlFqS0tweHRTWFFHcGlXdlR6dFo1V0hRZ3lqa0N6NktYTW5Q?oc=5",
+      "source": "Columbia University Club of Washington, D.C.",
+      "pubDate": "Tue, 17 Feb 2026 06:30:12 GMT"
+    },
+    {
+      "title": "FBI using ‘signal sniffer’ technology to search for Nancy Guthrie’s pacemaker - KCBD",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbmJQVGdpOTJXWWZ6cFhLMXpSV1dPUlpob0pkSnJzdnBpdDBqOXI1Z3ViRENTM0lxTXhOanRxX2dCZW81OFZ3eEVqY21GalBXaDBxT2RnR1hsR1g0c0EwX3daN3ktc1ZYRUM1R1p3ZkltNnJyRUpnZ1BRVl96VzJ1NUc2aV9xcDE5RDREQ2d5NjdGS3h4QTVqUXIyQ3FHNDlZV3fSAbYBQVVfeXFMTnI5MGpWUHNqSFNBLTVHb3pLaGdqWFJJdlpsaHdVQmN2MENyaVNBT2JaWTktbmpFTExaTVZQZXhHekYyYUJjaERGcDl5NDREUkFnaDNlTG9FU1dMZlI1azRvd1ZXLXBwT29BX3VDRHlMSDRrQjVFamEwcVMyVlNUdzhVT1dzSldhWU96SXlfbmtyd2pERENuVmwtaWlFSmNfTUJ4Zm5GaGtIWjMzVU52UkJNWWZqeUE?oc=5",
+      "source": "KCBD",
+      "pubDate": "Tue, 17 Feb 2026 07:01:00 GMT"
+    },
+    {
       "title": "UCF Launches School of Technology, Leadership and Innovation to Help Organizations Turn Technology into Performance - University of Central Florida",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSXBKUEFzZFVCSXBIWHk5YWI0NDRFYjRlRjVXSDdNZ1ZUZ2pVc3F2azg3UjNralQ2aWd6a2ZhSWduVFZ2dzdLQko3UmQ5aTlGZjkxekpJdFZtWURmaHVlZmY5c2NVZlhVdzJadUlVTHBPQnRuUzN1YW1UU1V0dF9PNGxpNjc5bVdqT0REb05uWk1zOTlzTjBsaGx6YjU2QUZ0SVFENXJ3S0p1Vzk0MDRyUHRXWWlNUnBMT2taQTdTdjRTREJyNEg0Q250eTB6Uk50a3FCNVJGaw?oc=5",
       "source": "University of Central Florida",
       "pubDate": "Mon, 16 Feb 2026 14:05:26 GMT"
-    },
-    {
-      "title": "How a UIC professor is using technology to help Team USA figure skaters - NBC 5 Chicago",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2dIWW52VUMzYUxlNzdxdk00RXlsOWlidEJuelByTTFfai1WM3E5M0JWMUxBUlNfYUZUb1hLN0ZDSk5TTHE4blhpWDYzVzRkNzR4YWI4Nmx3ZEQydnk4YUo5YmhYY2lyd0dpeTN1eUVOYTVjX1UwOU1Da2dRSXAza1Q4UjBZeWpYdU5RZmhDUlNuaGlKZWFXLUxPXzBSTFdnLTFiWE1QWmVwSXRXSnFpb0c4VlZ5QnhJMkHSAcIBQVVfeXFMTzUwN3k4a2piaU9rVUtmMHRfcnZLYkZabXpzTXdYRm1ObjhBUHlOd2x0ZXhVMUZhMWdDZ2t5VVdmM0d3cVRtNVA4Mmp3eGlYR0RxbTA1dTc5YXhIV3YwQWdiX09NYXJQRC1YX2Nkd1hUdzJmUkNIaFdUems2bmlKNHFwem1abEIzdDhNRHlqM2lpcDc0UUw1LU5vaHlSRWExQ1NRaTl4SnNqYUJzbWxzVWtUcWtHMm12VS1rdkxhSlpsLVE?oc=5",
-      "source": "NBC 5 Chicago",
-      "pubDate": "Tue, 17 Feb 2026 03:28:39 GMT"
     },
     {
       "title": "Jackson College Applied Technology Center Ribbon cutting 2-16-2026 | Photo Gallery - JTV Jackson",
@@ -95,16 +101,16 @@
       "pubDate": "Tue, 17 Feb 2026 02:16:51 GMT"
     },
     {
-      "title": "CSX.com - CSX's Advanced Locomotive Technology Reduces Fuel Consumption and Emissions - CSX",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZEFneFNqQnBkVjhVM2ZOQUZYWVFiOHdELTRzRUhvZ1diSGl3M18yLS0yaTRrekZ2UVdwNm9VSm5RSFlsaHBfS1gtOFd2V1BHc0lvd3R0Q2JrcC1jMHdXdk5maHV2M053Sl9oRnZMWURHYnEzZEdpMWpNNGJOTnQ3ZmR4Q3NITEVpbmlPYU1aM1ROaEtycnF1TXo2UW14YzB5RjRBZ1BuU3FKczRway1NR0NPYUc?oc=5",
-      "source": "CSX",
-      "pubDate": "Mon, 16 Feb 2026 23:04:49 GMT"
-    },
-    {
       "title": "Varsity Brands Names Former Chewy Exec as Chief Technology & Product Officer - Dallas Innovates",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnV5Z0hneGdpYnJITDZrb3FBNFlOX003X2F4WUFoVnFEVmRpLW5zQlhYWDZHZEJJTWhVYTc4clJvRnVjN0VBN1lHM1k4eWs1ZmY2R1ZiYlMyaE5CcWVkOUtiREtFYXEtZm82V2RMWWtNYTlDOUNZZ2oyX0U2dmVEN1A5OFhYdTJQMTNkcFVaVnZFUUQ0alZCZElRcXF1MjB0RTBSdUhR?oc=5",
       "source": "Dallas Innovates",
       "pubDate": "Tue, 17 Feb 2026 02:19:04 GMT"
+    },
+    {
+      "title": "CSX.com - CSX's Advanced Locomotive Technology Reduces Fuel Consumption and Emissions - CSX",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZEFneFNqQnBkVjhVM2ZOQUZYWVFiOHdELTRzRUhvZ1diSGl3M18yLS0yaTRrekZ2UVdwNm9VSm5RSFlsaHBfS1gtOFd2V1BHc0lvd3R0Q2JrcC1jMHdXdk5maHV2M053Sl9oRnZMWURHYnEzZEdpMWpNNGJOTnQ3ZmR4Q3NITEVpbmlPYU1aM1ROaEtycnF1TXo2UW14YzB5RjRBZ1BuU3FKczRway1NR0NPYUc?oc=5",
+      "source": "CSX",
+      "pubDate": "Mon, 16 Feb 2026 23:04:49 GMT"
     },
     {
       "title": "Documenting Historically Significant Sites with Modern Technology - Geo Week News",
@@ -113,16 +119,22 @@
       "pubDate": "Tue, 17 Feb 2026 05:27:43 GMT"
     },
     {
+      "title": "U.S. ramps up investment in counter-drone technology as threats evolve - WOAI",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXRldzdyOWstUzM1cmpyajhEUVlJbGtxaGliaFlIX1pNeDlVd181M2pUWFFfUnQyQ2I2UE5PX2hFMmxOZnc2Mzc3Rkp3WWR5d3ptSDBaT2xEakVkU3hYM1ExYUNHa3owNmxfcGRWRGR6YVdYWFliN2pQZi00YnI5Qzlab09ibjRmcnQ3ci02RUJHLU9ZVDh3LXcxTlBUUnNPZ0oyekxhR0pRbWI0bkZzR3l6d2hCVzA?oc=5",
+      "source": "WOAI",
+      "pubDate": "Tue, 17 Feb 2026 00:39:50 GMT"
+    },
+    {
+      "title": "FBI using 'signal sniffer' technology to search for Nancy Guthrie’s pacemaker - WSAZ",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWlwTDRESnp1VjNta1hkcHg2c1EyTnVoM3RXX3FFemZzZjBWOVdOeVk0UjRHazFSS1JVU0VrNlVpZDlWTHgyS3JpUHVGaWZjN3U2WmI1MGhSRDFMOHAtUkd1SzBqWktPR014RWtlOEVkMElwcUtJREdUelJSQWoxNnJ3VGRRRk9FeVVqdXBXRWZKMFdmNzJUU1liTFRhNnlsNnlreWk5VzhhQQ?oc=5",
+      "source": "WSAZ",
+      "pubDate": "Tue, 17 Feb 2026 05:00:42 GMT"
+    },
+    {
       "title": "Spark Community welcomes new technology champion - 501 LIFE Magazine",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fWlkwOHVwbWs0RVBaNkhZeGNEczRIYjB6RjktM244cHNEeE9IWmN1ZlZBa3M4WkF5R2ljZUhBTW5tRlk4REZYaTdMbWU1MHh1THQ4WFBOaG5tYWJkNVd2NF9GLWQtLURyRGVkZDNNX2d5aGVaS0VnTkVzdUQ?oc=5",
       "source": "501 LIFE Magazine",
       "pubDate": "Mon, 16 Feb 2026 23:45:55 GMT"
-    },
-    {
-      "title": "RIT Athletics Preview: Feb. 16-22 - Rochester Institute of Technology Athletics",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlp2aFozTmkycmpqZGVzZWRCVlk2OXg5azFTV2VPVFpYTkxqdlZ1NTBYVTJxQU5zWGlIQms1VTRRbWtQazV5QUZGRWQtY1RHZnpESW5HQ3FOSkVLdXZCMHh1d1V1cWVmaXBibGYzRDFtOTB3RXpNRDloNHdLOVlJTnZLZlBTLUtaQU9tRHl2ay03WnU0Uk9wQ3ln?oc=5",
-      "source": "Rochester Institute of Technology Athletics",
-      "pubDate": "Mon, 16 Feb 2026 19:23:18 GMT"
     },
     {
       "title": "New Legislation Denies Tax Incentives to Companies Using Adversarial Technology - MeriTalk",
@@ -135,6 +147,12 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOWNKb3ltZWFKbS11MUV0T0lXdW5sdDhjZkxFcE5ld0pfdnBLNUgxV0paTGV5MXUxMGtrSmRqNjhOSzdQTk9oV2J0OVRUQVB6MlVSSEc2WW12N1RfcDRNMHF6N1ZiS0hMU2tKOTBHdUg1MURKNlVEUW5zWFp0ZXgwa00zMW1PYXhKTkp6U2hWMno?oc=5",
       "source": "Aviation Week",
       "pubDate": "Mon, 16 Feb 2026 21:00:48 GMT"
+    },
+    {
+      "title": "Five Tigers land Liberty League weekly honors - Rochester Institute of Technology Athletics",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXItckZKOFFUSzRNcUxnclc4V2I2UGFsYXBkcVVCaFlFdHl0ZnluWGRjcVJDRnJUWlh3TUdPR1VtQmJrblE4d0J4V1FJc002RlNZT3dIWWsxNl9lVUFHcGlIZHhqNVNzSFB5bXZvSzd1bGRhb0J0YjVBZjFhOXAwU0llTkhtM3pQVTZiZjVlNFdoWEtfeEdvWGM0SXl5UjFCSnp0ZmtBbw?oc=5",
+      "source": "Rochester Institute of Technology Athletics",
+      "pubDate": "Mon, 16 Feb 2026 19:13:18 GMT"
     },
     {
       "title": "Nevada university uses actors, advanced technology to train medical professionals - FOX5 Vegas",
@@ -155,16 +173,16 @@
       "pubDate": "Mon, 16 Feb 2026 22:54:00 GMT"
     },
     {
-      "title": "U.S. ramps up investment in counter-drone technology as threats evolve - WOAI",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXRldzdyOWstUzM1cmpyajhEUVlJbGtxaGliaFlIX1pNeDlVd181M2pUWFFfUnQyQ2I2UE5PX2hFMmxOZnc2Mzc3Rkp3WWR5d3ptSDBaT2xEakVkU3hYM1ExYUNHa3owNmxfcGRWRGR6YVdYWFliN2pQZi00YnI5Qzlab09ibjRmcnQ3ci02RUJHLU9ZVDh3LXcxTlBUUnNPZ0oyekxhR0pRbWI0bkZzR3l6d2hCVzA?oc=5",
-      "source": "WOAI",
-      "pubDate": "Tue, 17 Feb 2026 00:39:50 GMT"
-    },
-    {
       "title": "First 911 call turns 58, technology transforms emergency response - WVLT",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZWQ4aTI4VHlORkd3VzdfVGlNblE4Qjc1RUdUSTljNFFXLXJiMmk1VFhkbnlXbFpYM1hnR0lHZzBXU25MeWNERXpmZENzNkFqUC1VZnM5UkVkcS02RjhvdmdTN0JkUndtcG83dVBLTmQ1TlhiUHBpdlVPMS1GcXpoYjc0c1M4MC1TZVdEbVFfNjhwamZvdU9PSVBRTlfSAbABQVVfeXFMTUhKMmtBMDlIVFZvMTNuWmJjX08wVEN1NDdnZWpLYy1MbUxuRkVPMmZSU2UxOU00V2ZiTm9OeURFMFpSUlUxeTFaU0FiUHM1LVZDcDhVa1U0ZC1rLVBzMDc2M1FuajJSZnROZXF3TDZPenhsX0haZXlpNUZMY3RZYXJaZDVReHNvMGlxTThXS3FkOWlnSkVFUmR1SlY4N3kwcU1iY2JZbmZrU1FHVFlXaTQ?oc=5",
       "source": "WVLT",
       "pubDate": "Tue, 17 Feb 2026 00:20:00 GMT"
+    },
+    {
+      "title": "Munich, defense, and edge technology- opinion - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EVFVuRUtDcmhadDVIdlF1ZFpOazlqdER3RHNQdVFLamQ2MWNKUEJ1VXdySmZJNmRXYXRsU1E3bmVQOGkwNUw1S1ZNeEo2UFl1MkdXdEJUckE5WkhldE1LdVdpZw?oc=5",
+      "source": "The Jerusalem Post",
+      "pubDate": "Tue, 17 Feb 2026 06:57:19 GMT"
     },
     {
       "title": "ICM and Energy Integration announce strategic partnership to commercialize MVR technology - Ethanol Producer Magazine",
@@ -173,16 +191,16 @@
       "pubDate": "Tue, 17 Feb 2026 01:11:51 GMT"
     },
     {
-      "title": "Five Tigers land Liberty League weekly honors - Rochester Institute of Technology Athletics",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXItckZKOFFUSzRNcUxnclc4V2I2UGFsYXBkcVVCaFlFdHl0ZnluWGRjcVJDRnJUWlh3TUdPR1VtQmJrblE4d0J4V1FJc002RlNZT3dIWWsxNl9lVUFHcGlIZHhqNVNzSFB5bXZvSzd1bGRhb0J0YjVBZjFhOXAwU0llTkhtM3pQVTZiZjVlNFdoWEtfeEdvWGM0SXl5UjFCSnp0ZmtBbw?oc=5",
-      "source": "Rochester Institute of Technology Athletics",
-      "pubDate": "Mon, 16 Feb 2026 19:13:18 GMT"
-    },
-    {
       "title": "Supply Chain Technology Is Entering Its Second Phase - Collapsing Coordination Latency Across Nodes - Logistics Viewpoints -",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdFBPOHNJelh5aE41T1VlVEZ1ZHRoRzc4UE1FS1BBVGdOX0h5WU1WZ3c0VlA0aEduOFdyRnJaQmlpRV9KMVpZNHZrVkpwWTFNZnU4X01pV1VCUnNya3h6eTNCaC1PSF9JbFBxblU2eFBRTlN5YVhaa2l3aml4LWpERUhqTEFWZEtyQl9meDdIcmwxTEFlODVETmFIRlA3aFFyek5RU1YxRmZ3MkxzYk4tLUJDdDJmVXJRcVFGRnRjUzREeE9VQ1VhWWtmNDhKNnF3UzNZRGdiZWc?oc=5",
       "source": "Logistics Viewpoints -",
       "pubDate": "Mon, 16 Feb 2026 18:45:16 GMT"
+    },
+    {
+      "title": "FBI using ‘signal sniffer’ technology to search for Nancy Guthrie’s pacemaker - KOLD",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUVRRNWFNaDJubHZ6dHJwazdWOGhoaC1UYm5DbVNxREpjTmZyXzl2bEM2blRaNTNzdjlwbVZ6SHlrZXdFM3U2SXgzNmZXQ25DaGludEUwejEwaVA0cUFsMWIxMW05RVM3aGNKNFlUZy1lTm53MmNnTnRIOWE1NmhPdDBMc0E3dEx3V3JuQ01KVUVtMzBLX3VGNDJzQ2p3SGFsY1HSAbYBQVVfeXFMTkFDY1Q3RmQyTGNjbDRseFJBelIyR3VEUHBkSlJzN3VScVRBb2o3Mzc1X2Q3SHJla25TbWd1Z3NJMUpqSFFRdUdWTlFHWVdUYzFrQW1qVWUwMW1TTzRCWGZ4Tlg0SVhGcnZrYllyTThidWd2TnBaMWxXbjVaWWxjSGwxM1pxWmJ1SE1XOVVhTi0zY2tSRzVjZ2ZCMy1obG5RenJsakh4TnhzaWp6dEprVGUzdmgyRnc?oc=5",
+      "source": "KOLD",
+      "pubDate": "Tue, 17 Feb 2026 05:26:00 GMT"
     },
     {
       "title": "How Progress Ends: Technology, Innovation, and the Fate of Nations - Foreign Affairs",
@@ -197,10 +215,10 @@
       "pubDate": "Tue, 17 Feb 2026 02:50:00 GMT"
     },
     {
-      "title": "FBI using 'signal sniffer' technology to search for Nancy Guthrie’s pacemaker - KOLD",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMUtXb280MkZtVUtwdlB3RWdrdkdGZ2F5eHQyVHR2Y2R5c3U3QUppZG14SnY2VWJKUHF1MUpOTkx0cGZlZG5RX1h0Y0xGVC1FVFlNcDhHam5qTEVVTnZfOHUxQk1waHlPa2hIRnlPNUtaR0pTOU9vY0tNUTIxY01TX0dEOE16YnB0UEhKM290bEpYNGdLYUNRblBqQS1zc1FfaFkxeUYzeVRZZw?oc=5",
-      "source": "KOLD",
-      "pubDate": "Tue, 17 Feb 2026 01:29:32 GMT"
+      "title": "Assessing Microchip Technology (MCHP) Valuation After Fresh Analyst Optimism And New Edge AI And Automotive Moves - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaTRIekM5Vml0b3BjWkFZcVYyTE5sQUhFSlF0NDRVeGI5Sk5wbUhKUmZxSFpxNlIxSFNkcGJZNUlEb196LW9PT3FsOFd1SEdUUF9sRFY1dWxhVGpDQUh5d1pQanBGMEkySjkzUUp4aUlqd1FVY0tEY09NZlFibFVsNUN3YUkxNEJYUXdNWkI3QnI2amVJX05oOHU4X21fTmd6N3h0YTRKdEstUmtvV0RucE0xVUc3ZGtwMXJ0Y2tNNHpCZmwzd2liYnIzdVoxYU0xUTZwcXRwSnV5ZExBX1E?oc=5",
+      "source": "simplywall.st",
+      "pubDate": "Tue, 17 Feb 2026 06:13:39 GMT"
     },
     {
       "title": "Keith Manufacturing to showcase RX Technology at Mid‑America Trucking Show 2026 - Recycling Today",
@@ -209,28 +227,28 @@
       "pubDate": "Mon, 16 Feb 2026 19:06:00 GMT"
     },
     {
-      "title": "Sen. McCormick tours Pittsburgh-based space technology developer headquarters - WPXI",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQm1VMFZMWnBtNUNIRC1Da3plc3Y2VUVNNS1nMm9aRjR1S3VxNDFseXliNU5ZSlBBS1FoNTR3QzM2a3RFaHE4N3c0Z1hud003eTZieUpGYXNEZ3BvTFlLOU1VSHFEWXM4aVh6QXRTak1EZ2tmalZBaUJPMWlmcHR3Vmg5OS0zaDFSRDJJcWhZUFphQVdQREV6ZjdYYXpMbDhVTjVQc2pxV1QxS0p3aC0zVTNWcHN6dXgyWUJTX09lanNKYVZONkhybnZ4TENmV0J6TXfSAeYBQVVfeXFMTjlNRzVBbFVkNzJOemFyTXNfT2o3VG11dllwLU1iWTZyalBaem0tZEVySEVxQ09OXzF1RGVSQTc4cjZZMUlnUXJRWFRfQVZ6Qm40UFNBaERzU3NlNHV2V1VCczZhaHJqUzJKb0s2ZWd2Mjd4dGNQckJwT0hsZWgyNnJId3lmbi1QTTc4N1pzdXNqamJEUnl1a2ZSQjhyYmY3MjNGU2dxMXgzalNmeHVfSHpmUUpkWlAzLURrdXo2blpCU2c4aVM4OGhteHpCUTJHLXVoWS1NSFFlUk1mU3hCSWRmNzhabUE?oc=5",
-      "source": "WPXI",
-      "pubDate": "Tue, 17 Feb 2026 01:01:00 GMT"
-    },
-    {
       "title": "Documentary on Young Children and Screen Time Addresses Technology Challenges for Families, Schools - KCLY Radio",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVDJzZ3ZScWJBeF93dlUwTW1CaTVIbWRyQlZIOVVrXzVTR1c4ZWt1UEtRb2xLMGJKVzBUYnpGWk52aFZyUEwzcUFEWFFFWHVtMjVMb3Eyb1dlNlNwcGZoUHJHQTlIQndjTnZGZjlEWDVrV3pvY1F0dlA0eHBnN1FLbzNDc0JzaVJTYWNHd19fMUNFZ1pXMlNhbWdiT2h5UThvZFZLM0tvVHlpYk9EdU5SU0xyLU54N2tqNDNTbEo1MS1wcmx5?oc=5",
       "source": "KCLY Radio",
       "pubDate": "Mon, 16 Feb 2026 21:09:42 GMT"
     },
     {
-      "title": "FBI using ‘signal sniffer’ technology to search for Nancy Guthrie’s pacemaker - KOLD",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUVRRNWFNaDJubHZ6dHJwazdWOGhoaC1UYm5DbVNxREpjTmZyXzl2bEM2blRaNTNzdjlwbVZ6SHlrZXdFM3U2SXgzNmZXQ25DaGludEUwejEwaVA0cUFsMWIxMW05RVM3aGNKNFlUZy1lTm53MmNnTnRIOWE1NmhPdDBMc0E3dEx3V3JuQ01KVUVtMzBLX3VGNDJzQ2p3SGFsY1HSAbYBQVVfeXFMTkFDY1Q3RmQyTGNjbDRseFJBelIyR3VEUHBkSlJzN3VScVRBb2o3Mzc1X2Q3SHJla25TbWd1Z3NJMUpqSFFRdUdWTlFHWVdUYzFrQW1qVWUwMW1TTzRCWGZ4Tlg0SVhGcnZrYllyTThidWd2TnBaMWxXbjVaWWxjSGwxM1pxWmJ1SE1XOVVhTi0zY2tSRzVjZ2ZCMy1obG5RenJsakh4TnhzaWp6dEprVGUzdmgyRnc?oc=5",
-      "source": "KOLD",
-      "pubDate": "Tue, 17 Feb 2026 05:26:00 GMT"
+      "title": "How technology has already changed the world in my lifetime - Noahpinion | Noah Smith",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52d29UR1pzUmtpS3RCS29ZOG1oLXp6bEdlS1p0ZWtjaDhzTDVWUGpEaGxmX09Jc3hRa2d4NTh1MkJaUmdZWllIR1FOeVcxTFpyeG5TZmRIUHR5Z3h4UVRpRXRjOFVoc3Vwa3hsVXNNU3ZCQQ?oc=5",
+      "source": "Noahpinion | Noah Smith",
+      "pubDate": "Sun, 15 Feb 2026 07:12:13 GMT"
     },
     {
-      "title": "Better financing technology can expand health care access - Medical Economics",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRkN6TDQtMlVIckd5UFd3RGVSZEpfT1pRbkJQTnpOWTZHbGJmcFlZWWtzOFNmSjEweGhXM2twR0t6NkliWTl5OVRaUzVOZE9ueW5ibC16MVM0VU9odzdpOG5LWlR6c3JhTXJGbGdTMVFEanZYTUdUVGp3WlNNZkc5OERoQnhzT0pPc0JrcDEzR0ZDZWlIcm5wY3lBbw?oc=5",
-      "source": "Medical Economics",
-      "pubDate": "Mon, 16 Feb 2026 16:49:01 GMT"
+      "title": "Sen. McCormick tours Pittsburgh-based space technology developer headquarters - WPXI",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQm1VMFZMWnBtNUNIRC1Da3plc3Y2VUVNNS1nMm9aRjR1S3VxNDFseXliNU5ZSlBBS1FoNTR3QzM2a3RFaHE4N3c0Z1hud003eTZieUpGYXNEZ3BvTFlLOU1VSHFEWXM4aVh6QXRTak1EZ2tmalZBaUJPMWlmcHR3Vmg5OS0zaDFSRDJJcWhZUFphQVdQREV6ZjdYYXpMbDhVTjVQc2pxV1QxS0p3aC0zVTNWcHN6dXgyWUJTX09lanNKYVZONkhybnZ4TENmV0J6TXfSAeYBQVVfeXFMTjlNRzVBbFVkNzJOemFyTXNfT2o3VG11dllwLU1iWTZyalBaem0tZEVySEVxQ09OXzF1RGVSQTc4cjZZMUlnUXJRWFRfQVZ6Qm40UFNBaERzU3NlNHV2V1VCczZhaHJqUzJKb0s2ZWd2Mjd4dGNQckJwT0hsZWgyNnJId3lmbi1QTTc4N1pzdXNqamJEUnl1a2ZSQjhyYmY3MjNGU2dxMXgzalNmeHVfSHpmUUpkWlAzLURrdXo2blpCU2c4aVM4OGhteHpCUTJHLXVoWS1NSFFlUk1mU3hCSWRmNzhabUE?oc=5",
+      "source": "WPXI",
+      "pubDate": "Tue, 17 Feb 2026 01:01:00 GMT"
+    },
+    {
+      "title": "HP Multi Jet Fusion Technology Expands Design & Manufacturing Options for UAV Components - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRVFLUXU5Tl9mT2hzNGVNTFdnaFJLZ0RUbjlRUTdRdjBqOWVkeXMzRXhfM1FjM2NuN3VQY0RlV2IzbjBsMHhRNmJLZWl1YzRNTUUzSkNzOGdzcDlDMlZYRXh4amZqZzBDZU1WaW5XUWRnZHotOFpuTTUxQVVoSFFaTzBEUGpmT1ljXzQ3RmJHakw3b3lEUF94X1FxZUd6STd1aExKbXVTVmdCXy0xdThWbFBnbmJXU2ZiMWQtSmhUMG9YTWxTcHB4UkNTZ29MVGU1T2gw?oc=5",
+      "source": "Unmanned Systems Technology",
+      "pubDate": "Tue, 17 Feb 2026 07:03:47 GMT"
     },
     {
       "title": "Pulse Technology Names Bella Crimaldi as Sales Representative - The Cannata Report -",
@@ -239,10 +257,10 @@
       "pubDate": "Mon, 16 Feb 2026 19:31:50 GMT"
     },
     {
-      "title": "Flock Aligns License Plate Reader Technology with State-Specific Legal Frameworks - Flock Safety",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHFha3hEa2kyWXl2dWlFNDNCa2lBemFvNGVBVzZjOEpDU202OWFERGpqeVI3OW1obmZkWXUtYVBPZW1adkk2Vk5yQzhsRndSekpOVHJGcDFPSllTQ1Y4ZjBEZmpuRjNTeDJ3REhHSktMX0RLc1lIYXdld1NvbkRnTWFKZUdEaHpVNU5hV2hXd3l3YTdKZkE2NFZIQTRicHpyVy1PTE5JN1NoVmNrMjRpc2RqN0Q?oc=5",
-      "source": "Flock Safety",
-      "pubDate": "Mon, 16 Feb 2026 17:44:56 GMT"
+      "title": "Better financing technology can expand health care access - Medical Economics",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRkN6TDQtMlVIckd5UFd3RGVSZEpfT1pRbkJQTnpOWTZHbGJmcFlZWWtzOFNmSjEweGhXM2twR0t6NkliWTl5OVRaUzVOZE9ueW5ibC16MVM0VU9odzdpOG5LWlR6c3JhTXJGbGdTMVFEanZYTUdUVGp3WlNNZkc5OERoQnhzT0pPc0JrcDEzR0ZDZWlIcm5wY3lBbw?oc=5",
+      "source": "Medical Economics",
+      "pubDate": "Mon, 16 Feb 2026 16:49:01 GMT"
     },
     {
       "title": "IMPRESSIONS: Experiments in Art and Technology “9 Evenings: Theatre & Engineering” at Anthology Film Archives - The Dance Enthusiast",
@@ -251,10 +269,10 @@
       "pubDate": "Mon, 16 Feb 2026 20:08:55 GMT"
     },
     {
-      "title": "Assessing Marvell Technology (MRVL) Valuation After Recent Mixed Share Performance - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkhXQ1RMQVZCcVl4eGV0b0gxTDlJcy1rT05qYkZxenVIVVZzbGZVeE9hLWMyRmhhaW13ZE50enI2OUF6RUNxVlp6eHpfbjZVMXZnckN2UFNuZUtueXQxRnVzSHh6OXpwbkJlekJual9WTTdPZEs0Nm5TdWhXQm90YnFvZWlGdTAxbjFBdjlOZnVIeTQ?oc=5",
-      "source": "Yahoo Finance",
-      "pubDate": "Mon, 16 Feb 2026 22:08:17 GMT"
+      "title": "Flock Aligns License Plate Reader Technology with State-Specific Legal Frameworks - Flock Safety",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHFha3hEa2kyWXl2dWlFNDNCa2lBemFvNGVBVzZjOEpDU202OWFERGpqeVI3OW1obmZkWXUtYVBPZW1adkk2Vk5yQzhsRndSekpOVHJGcDFPSllTQ1Y4ZjBEZmpuRjNTeDJ3REhHSktMX0RLc1lIYXdld1NvbkRnTWFKZUdEaHpVNU5hV2hXd3l3YTdKZkE2NFZIQTRicHpyVy1PTE5JN1NoVmNrMjRpc2RqN0Q?oc=5",
+      "source": "Flock Safety",
+      "pubDate": "Mon, 16 Feb 2026 17:44:56 GMT"
     },
     {
       "title": "AI developers’ mass resignations a ‘real wake-up call,’ expert says - NewsNation",
@@ -263,58 +281,28 @@
       "pubDate": "Tue, 17 Feb 2026 04:30:21 GMT"
     },
     {
-      "title": "AI offers LMICs a unique chance to enhance public service… - Tony Blair Institute for Global Change",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa25MY2tpXy1JLU1xTnFLM2VSZnRidnhzc1J3Q2ktNWlvamlveFVtZTRuWF9FZGdKbVJ5RG82dEpYUEN4UGVEbHVmb1B6d2pWRl9Xa2ZVTDhvN21MdVlLWkp2cHB3UW84OE5hU2dhTnl5cThzRkFJTGdIYWR4clRtelBVcWJ3bWFfdXhKcFUwcU12alBoRG9sRUdkSHIxdWJIamVtSWw2N3JMSkJ3bWNoeXJ6dklRT3NWYUdKaVlaQWdaVUc5WEltSmFsSWRCZnczVnBLdGlB?oc=5",
-      "source": "Tony Blair Institute for Global Change",
-      "pubDate": "Mon, 16 Feb 2026 23:03:07 GMT"
-    },
-    {
       "title": "Delaware Poultry Farmers Turn to AI Technology for Better Data Analysis - Fine Day 102.3",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY0tsLUVady1hNUh3TkJPRVF2c0s2UktYVG1SRDhzemM2c3JNYm9nYlBxMno2ZjZxT2h0d1RXQTdIYlR2bXZfRVp1TkRYRDRSSW05UUlicG9qXy1zUk5RM0FSakZ1cVlibGIyN0s2QkRkWWthYmUyanIxYTVMaE04ZlpobzBuZTVibUdBTk1ES1dmTzF2dWk3Z1FFS09wZkJPeWdSbm9lSXBtNGZvM1ItS1cyM3UwWlIwZDFRVlpseVFmcXdsMk5xcA?oc=5",
       "source": "Fine Day 102.3",
       "pubDate": "Tue, 17 Feb 2026 01:08:05 GMT"
     },
     {
-      "title": "Assessing Microchip Technology (MCHP) Valuation After Fresh Analyst Optimism And New Edge AI And Automotive Moves - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaTRIekM5Vml0b3BjWkFZcVYyTE5sQUhFSlF0NDRVeGI5Sk5wbUhKUmZxSFpxNlIxSFNkcGJZNUlEb196LW9PT3FsOFd1SEdUUF9sRFY1dWxhVGpDQUh5d1pQanBGMEkySjkzUUp4aUlqd1FVY0tEY09NZlFibFVsNUN3YUkxNEJYUXdNWkI3QnI2amVJX05oOHU4X21fTmd6N3h0YTRKdEstUmtvV0RucE0xVUc3ZGtwMXJ0Y2tNNHpCZmwzd2liYnIzdVoxYU0xUTZwcXRwSnV5ZExBX1E?oc=5",
-      "source": "simplywall.st",
-      "pubDate": "Tue, 17 Feb 2026 06:13:39 GMT"
+      "title": "People working on counter drone technology at Grand Sky in Grand Forks - The Flag - AM 1100 and FM 92.3 WZFG",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVRpc1pUM1FnNkxtLVVEWUtOcURqUXQ2NXc1Q2tXRmpLQ0VnRkd4RDNQTzlROHpIQ3Q1cjlYX2lCSmlqMG5VTGdIenl2WHg1SEpuTnVhSnI4bDIzcmVzVTlnZ2puUndTSTVQQTdvdjhEQjMtZ0ZqTkJSUkxmYmFkUVlQM2JpTVFXQWhTNFpVUHZTWkw5T2ZWeFgxTGpMY2VoS3A0QVE4dy1kdw?oc=5",
+      "source": "The Flag - AM 1100 and FM 92.3 WZFG",
+      "pubDate": "Tue, 17 Feb 2026 00:47:35 GMT"
     },
     {
-      "title": "Indiana teachers support expanded classroom technology ban - WDRB",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMlJLdmdBMjhEcm5QeVlHMEpJN2N4MnVrbEdjOVZYYXlzakVTQ2JUM0ptekFtSTdpYll3bUVDUmxxMWxsd2JHWkhHOGRuU3g1NU5lN2ZWUEs2ejRPM1BKZE9qOUo2NnEtTlVMaWpaVlJzWDR5ZmZLQ1BwcWltUzJoQTdMX05hZWtsT0dJdUNnajFUeGdIX1dqTHpvYVNyQjAzcmtfdjRWc05tdlRGZno0TFJiUVVUMzFsWHU0SVdxRmJGNzBtc0JYMDR5bU9TZDZ2Z01UV2ZnYXRHMUVX?oc=5",
-      "source": "WDRB",
-      "pubDate": "Mon, 16 Feb 2026 20:48:00 GMT"
+      "title": "Assessing Marvell Technology (MRVL) Valuation After Recent Mixed Share Performance - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkhXQ1RMQVZCcVl4eGV0b0gxTDlJcy1rT05qYkZxenVIVVZzbGZVeE9hLWMyRmhhaW13ZE50enI2OUF6RUNxVlp6eHpfbjZVMXZnckN2UFNuZUtueXQxRnVzSHh6OXpwbkJlekJual9WTTdPZEs0Nm5TdWhXQm90YnFvZWlGdTAxbjFBdjlOZnVIeTQ?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "Mon, 16 Feb 2026 22:08:17 GMT"
     },
     {
-      "title": "Product and Platform Models: The Operating Model Enterprises Need to Scale Technology and Generate Recurring Business Value - Alvarez & Marsal",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTmlfMXlDTTdUaVBOUTJVQ09OTlhjaGdpbXNkNUN0Nm15RWRGNW83SE0yajVlWWk1U2xfYVMyN285ME9YMXpxN2RIY0haak82bWZmRzBVaDJ5Zm1ydWpBSGVfeXl3R1Z5dW84SHR5S2xrbWIwR3I0M1J3aU45S1V5Z0I5MmQyazQ0NzJfZUZxNXY1RlZtb2NkRG5sYWdxNVlTWjVGUTljbWVpSVR6TlVjUndIYktaQ1cxdlViRDlleWZ5NV9Zd2JCMllRcnQydlA5SGtWa293cHZxeG00aHNXMTFrUVgzTV9lNFJHZzg3TTRKRjhIUVVoSEpnSFY4RmJNcTFrVw?oc=5",
-      "source": "Alvarez & Marsal",
-      "pubDate": "Mon, 16 Feb 2026 10:55:00 GMT"
-    },
-    {
-      "title": "News | UK occupiers prioritising employee experience as building technology adoption increases - CoStar",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORHNxak5ERzU4UDJIYXFCYmlBNG1oWTlBa1hwbV8tLTBtNWFpYkpMeXJ6Z0tpTzFISXJKRWpGREhlNFFfaWlrVWFjOUJoXzRVejRkWDJhbm9uLTJseFo4ZWNuY2R1NVV1ZGJGeHB5c2NZWnlVMXZ0Z1haNHBjdWx3U09DbklPeTc4eXBBTWt1by1SNkw2bk14d3BrektjY1RzSTIyc2RIUC1SeFg0ZEZiOVhjSDI4TmJBcVBJRFhfckV2Zi12dkJV?oc=5",
-      "source": "CoStar",
-      "pubDate": "Mon, 16 Feb 2026 14:57:55 GMT"
-    },
-    {
-      "title": "Why AI Is a Big Problem for School Cybersecurity - Education Week",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUE5fOC1va3FMWjROZW5kcGJ2bVJoM1RWTE5MOE50V2FOTVpOdURZNEZqOGpIQVFiWUowRi0yS2g3Wk9oNjJwTThHT2FPekZHZ1BpNHV3TUpFMGpqM3VCLXhpLVFPdldDcXlzSld0QS05by14bVV5VnVILTI2YkdnVmRyZDF6NlpDVFpnZm9jVTZDX2RX?oc=5",
-      "source": "Education Week",
-      "pubDate": "Tue, 17 Feb 2026 05:05:36 GMT"
-    },
-    {
-      "title": "Luke Beach 2025 Ranken Technical College High School Champion - World Wide Technology Raceway",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVJieVdRLXNSMFdyWVVCUU4xMldHMnJTOGt5VnhTLV9oU19oVldXcVd2dXcyTkhvWjRCSzF4TFhwTEtJamJDejBmWmpjaHVkMVdmYVdMNEJNUnJsbERnX0NXQ2tPM3Z3eTlVRjFNWnNoZXRjMC1xbG1XSS1fbW5wazk4azJZdmRaTzNzLWd3?oc=5",
-      "source": "World Wide Technology Raceway",
-      "pubDate": "Mon, 16 Feb 2026 18:03:44 GMT"
-    },
-    {
-      "title": "Clemson chemists create new dual-conductive materials that could help advance lithium-ion battery technology - Clemson News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOGlINURVZjlUX2ViYUNnT1UxTGN4ZHYteDgyQjZrYTJTX0dzNERrVGJwdl9Ub051T1NEaVhkOXBfUDd0azNtWXNuNlVBdVh0TEtvMjdya2ZEakZuTVZzTG50M1ZoYVBmZkM3TUQzS1otQmJJdVVQNlVuSnpwOXd4dlBPMEM3eGlPTDNwdUl2eXN1MHpYdVJINUFrempOem9RREE0YU05elFKMFBUeXNrb2tnWHRzMUxiazVkSHBUZlZpMFVxeml6dWRnUmR0VmM?oc=5",
-      "source": "Clemson News",
-      "pubDate": "Mon, 16 Feb 2026 19:58:37 GMT"
+      "title": "Jabil’s Graham Scott Engages Strategic Suppliers Through Procurement Technology: Pros to Know Award - Supply & Demand Chain Executive",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNeUZKSGo0R3AtSDNTZXNfYWZZUDMyTmhISVJhVXVpUm9CSUMwVS1mb0Y4MXhFdVdfanBWRTkxYlIwYnpNN0dTbWRHRUpRS3JVaVFGdkY0X1h1OEhqZW8za3FDX1UyT1pHcmttRDdHYXBuTzlVQnJfNG9sYWhtSVlnSVNsRzF4UVpXU2s4LTNfek9IbzBZUm5INlFqdVp6ZDg0cUFKRFU5ckc2NnBva0Q0enlFeEZySlo3X09IWHU2UkpPT1FCcTFSTG9NSXN0d2t3Z0oyUFJONVBoWlozYldOalI0YnQwSU5Zak5vRElqVlBRUGJwaDU1aDA4dGZ5Q2haSmYySjVHVUdNSlN5c1paT2pZMUxBUDJyOUE?oc=5",
+      "source": "Supply & Demand Chain Executive",
+      "pubDate": "Tue, 17 Feb 2026 07:03:34 GMT"
     },
     {
       "title": "Meta Plans to Add Facial Recognition Technology to Its Smart Glasses - The New York Times",
@@ -323,16 +311,34 @@
       "pubDate": "Sat, 14 Feb 2026 08:15:46 GMT"
     },
     {
-      "title": "People working on counter drone technology at Grand Sky in Grand Forks - WDAY Radio",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDdHWllFak85enJHVDQxZ1RUcnBvZFJNcndUY05yVjkwYnI0WTdCeWhHbXRWdEZ2NDRyM19rSk1TWVdzRFhFTzFGWkdGVWVWQnl5SmltdUFvMGI0bGlsc1c5aDVhdHpWeE5DMTExZTQ5cUdoV2JmcWJIVTFKRUZSMG9LZWg2VkJidU00NmRLTzN4N0hoOFBLaGNxTDRYNmFtY2hzSkk1QUEzNTVwVEdNSmp2enZ0OGc?oc=5",
-      "source": "WDAY Radio",
-      "pubDate": "Mon, 16 Feb 2026 23:13:34 GMT"
+      "title": "Indiana teachers support expanded classroom technology ban - WDRB",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMlJLdmdBMjhEcm5QeVlHMEpJN2N4MnVrbEdjOVZYYXlzakVTQ2JUM0ptekFtSTdpYll3bUVDUmxxMWxsd2JHWkhHOGRuU3g1NU5lN2ZWUEs2ejRPM1BKZE9qOUo2NnEtTlVMaWpaVlJzWDR5ZmZLQ1BwcWltUzJoQTdMX05hZWtsT0dJdUNnajFUeGdIX1dqTHpvYVNyQjAzcmtfdjRWc05tdlRGZno0TFJiUVVUMzFsWHU0SVdxRmJGNzBtc0JYMDR5bU9TZDZ2Z01UV2ZnYXRHMUVX?oc=5",
+      "source": "WDRB",
+      "pubDate": "Mon, 16 Feb 2026 20:48:00 GMT"
     },
     {
-      "title": "How technology is changing personal injury auto claims - InsuranceNewsNet",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVXNJY250WFBNRDZ1WGt3enVLS1lpc1VVM2NIRDNyX1doeDdnRFpXSzd2bElxdlBuc2ZHQWpzLTk0R2ZlTVRNd3IwU0U0bURzWFBIOUZqLWVFajZJVkIzQ2FHSXdGYWplYm5SY2NLZGpPbkpXMzRnQ0Y5MGRsLUpKZGhhNTZiNXlHTlZVQjRPVXdnbzZHY2xrTjdB?oc=5",
-      "source": "InsuranceNewsNet",
-      "pubDate": "Mon, 16 Feb 2026 13:30:44 GMT"
+      "title": "AI offers LMICs a unique chance to enhance public service… - Tony Blair Institute for Global Change",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa25MY2tpXy1JLU1xTnFLM2VSZnRidnhzc1J3Q2ktNWlvamlveFVtZTRuWF9FZGdKbVJ5RG82dEpYUEN4UGVEbHVmb1B6d2pWRl9Xa2ZVTDhvN21MdVlLWkp2cHB3UW84OE5hU2dhTnl5cThzRkFJTGdIYWR4clRtelBVcWJ3bWFfdXhKcFUwcU12alBoRG9sRUdkSHIxdWJIamVtSWw2N3JMSkJ3bWNoeXJ6dklRT3NWYUdKaVlaQWdaVUc5WEltSmFsSWRCZnczVnBLdGlB?oc=5",
+      "source": "Tony Blair Institute for Global Change",
+      "pubDate": "Mon, 16 Feb 2026 23:03:07 GMT"
+    },
+    {
+      "title": "Evaluating FOG & MEMS Inertial Technologies for AUV Accuracy - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ05sLTNYUTAzWXpnanVMbVlOMFRyUnZoVkQtVE5IZlFMWXB2S1NMMWxYeGJoUy1nOFdEbEZiUHJHREdBaWJCY19Ib3JiWlNTSGRyZmFWcDVJUlZLN3hWVXN4b2VrZmpLeXFWbHlFUmNQQXB3WU5IWnBOeFJIMFF1U1ZPQXBZUjI2OFRxbGFETEREOEJnTjBxMlFMLXEzUld0NEx3UHFDN1RINFk1bkE?oc=5",
+      "source": "Unmanned Systems Technology",
+      "pubDate": "Tue, 17 Feb 2026 06:33:59 GMT"
+    },
+    {
+      "title": "Development of a New Technology for Controlled Interstrand Linking of DNA - Asia Research News |",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSFViVUVISUwxRGZ4WVlLX09icldad0ZjckNpUFIyVnBFcVBrdEFFQ0c4TTZTX05zbDZnRTV6bGNjbC1yaWFNenRnUGNsOThzU1NyeElCeEhRXzlBNlBnMTZza0VscFNNMkpaYVNEWHdwUUFqaW5KN0EzZko2MXZ0ZXpfRXk3VE5TOTNHQW92b1NWS2pxTk43TC1FU25rTTYtTmxCSw?oc=5",
+      "source": "Asia Research News |",
+      "pubDate": "Tue, 17 Feb 2026 01:03:07 GMT"
+    },
+    {
+      "title": "News | UK occupiers prioritising employee experience as building technology adoption increases - CoStar",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORHNxak5ERzU4UDJIYXFCYmlBNG1oWTlBa1hwbV8tLTBtNWFpYkpMeXJ6Z0tpTzFISXJKRWpGREhlNFFfaWlrVWFjOUJoXzRVejRkWDJhbm9uLTJseFo4ZWNuY2R1NVV1ZGJGeHB5c2NZWnlVMXZ0Z1haNHBjdWx3U09DbklPeTc4eXBBTWt1by1SNkw2bk14d3BrektjY1RzSTIyc2RIUC1SeFg0ZEZiOVhjSDI4TmJBcVBJRFhfckV2Zi12dkJV?oc=5",
+      "source": "CoStar",
+      "pubDate": "Mon, 16 Feb 2026 14:57:55 GMT"
     },
     {
       "title": "Central New York lawmakers, sparked by Wegmans, begin efforts to rein in biometric technology - Central Current",
@@ -341,10 +347,22 @@
       "pubDate": "Tue, 17 Feb 2026 00:30:35 GMT"
     },
     {
-      "title": "First 911 call turns 58, technology transforms emergency response - WVLT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdEhiOGxBUndYSmZPTEFXV25sTGhHOE8wdGxVN21wVGRWY1hFTnQ0QzJ0WjJtOVYyM1RMY2tNVjFVZnd5UjV0anhJOE9TOG1mUUM2Szg4NmNFWVJmYmYyam1wUmRjYWVfZDVwUWlBMzQ4YzVPaU5iWXFaeGRvejRWMmVHeDhNVWN3MzFOUnRJYnhGNjIyNEQxTVdLRU8xeDhySnpzdA?oc=5",
-      "source": "WVLT",
-      "pubDate": "Tue, 17 Feb 2026 00:18:00 GMT"
+      "title": "Why AI Is a Big Problem for School Cybersecurity - Education Week",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUE5fOC1va3FMWjROZW5kcGJ2bVJoM1RWTE5MOE50V2FOTVpOdURZNEZqOGpIQVFiWUowRi0yS2g3Wk9oNjJwTThHT2FPekZHZ1BpNHV3TUpFMGpqM3VCLXhpLVFPdldDcXlzSld0QS05by14bVV5VnVILTI2YkdnVmRyZDF6NlpDVFpnZm9jVTZDX2RX?oc=5",
+      "source": "Education Week",
+      "pubDate": "Tue, 17 Feb 2026 05:05:36 GMT"
+    },
+    {
+      "title": "Product and Platform Models: The Operating Model Enterprises Need to Scale Technology and Generate Recurring Business Value - Alvarez & Marsal",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTmlfMXlDTTdUaVBOUTJVQ09OTlhjaGdpbXNkNUN0Nm15RWRGNW83SE0yajVlWWk1U2xfYVMyN285ME9YMXpxN2RIY0haak82bWZmRzBVaDJ5Zm1ydWpBSGVfeXl3R1Z5dW84SHR5S2xrbWIwR3I0M1J3aU45S1V5Z0I5MmQyazQ0NzJfZUZxNXY1RlZtb2NkRG5sYWdxNVlTWjVGUTljbWVpSVR6TlVjUndIYktaQ1cxdlViRDlleWZ5NV9Zd2JCMllRcnQydlA5SGtWa293cHZxeG00aHNXMTFrUVgzTV9lNFJHZzg3TTRKRjhIUVVoSEpnSFY4RmJNcTFrVw?oc=5",
+      "source": "Alvarez & Marsal",
+      "pubDate": "Mon, 16 Feb 2026 10:55:00 GMT"
+    },
+    {
+      "title": "Luke Beach 2025 Ranken Technical College High School Champion - World Wide Technology Raceway",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVJieVdRLXNSMFdyWVVCUU4xMldHMnJTOGt5VnhTLV9oU19oVldXcVd2dXcyTkhvWjRCSzF4TFhwTEtJamJDejBmWmpjaHVkMVdmYVdMNEJNUnJsbERnX0NXQ2tPM3Z3eTlVRjFNWnNoZXRjMC1xbG1XSS1fbW5wazk4azJZdmRaTzNzLWd3?oc=5",
+      "source": "World Wide Technology Raceway",
+      "pubDate": "Mon, 16 Feb 2026 18:03:44 GMT"
     },
     {
       "title": "Roadshow to Demonstrate Security Technology for Businesses and Homes - RiverBender.com",
@@ -353,10 +371,22 @@
       "pubDate": "Mon, 16 Feb 2026 21:28:00 GMT"
     },
     {
-      "title": "Office Technology News, February 9 – 13, 2026 - The Cannata Report -",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xVmRUM09JS2Q2Z0M3MUxlQUxxbFNEQ25PTHA3dVNqZkhURHZSRVVRb1ZnMmlGR2ZXMFpLTEtCbEhFeTZEb00wLWZXb0RIUUNUQ1l4c20yRXZTQUtEWXRpVjBzSzd6ZjdlNlZVTkFEM2VndnM?oc=5",
-      "source": "The Cannata Report -",
-      "pubDate": "Mon, 16 Feb 2026 11:00:53 GMT"
+      "title": "How technology is changing personal injury auto claims - InsuranceNewsNet",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVXNJY250WFBNRDZ1WGt3enVLS1lpc1VVM2NIRDNyX1doeDdnRFpXSzd2bElxdlBuc2ZHQWpzLTk0R2ZlTVRNd3IwU0U0bURzWFBIOUZqLWVFajZJVkIzQ2FHSXdGYWplYm5SY2NLZGpPbkpXMzRnQ0Y5MGRsLUpKZGhhNTZiNXlHTlZVQjRPVXdnbzZHY2xrTjdB?oc=5",
+      "source": "InsuranceNewsNet",
+      "pubDate": "Mon, 16 Feb 2026 13:30:44 GMT"
+    },
+    {
+      "title": "First 911 call turns 58, technology transforms emergency response - WVLT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdEhiOGxBUndYSmZPTEFXV25sTGhHOE8wdGxVN21wVGRWY1hFTnQ0QzJ0WjJtOVYyM1RMY2tNVjFVZnd5UjV0anhJOE9TOG1mUUM2Szg4NmNFWVJmYmYyam1wUmRjYWVfZDVwUWlBMzQ4YzVPaU5iWXFaeGRvejRWMmVHeDhNVWN3MzFOUnRJYnhGNjIyNEQxTVdLRU8xeDhySnpzdA?oc=5",
+      "source": "WVLT",
+      "pubDate": "Tue, 17 Feb 2026 00:18:00 GMT"
+    },
+    {
+      "title": "Harnett County celebrates the opening of Harnett Advanced Technology Training Center - Greater Fayetteville Business Journal",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRHhyRUNmMVlGRTZsSGJFbXZXVlNsVG1JMzZTdU1FR29BYzZpZTRBdFhJOHJxaW5ObG42QjdmUzU5RS1yaW5memNWSllYOHpCczRYTmhOZzhBMjBVLUJHTmJ0V0dsWHFlaDg0czZrUkx5NC1GQ3prSkhFZzBwV3djcGZMSDhUREdaZlh3ZWh1dGJWWkRZdXFNakc4ZXlUYkFrNWg4OHJpRGE0M2c3WDhxcUJrSUtmYUZtS0xKc1BWUFdacXV3aENnb3llSS12YVBxWDE4?oc=5",
+      "source": "Greater Fayetteville Business Journal",
+      "pubDate": "Mon, 16 Feb 2026 20:16:41 GMT"
     },
     {
       "title": "Montana State University secures NASA grant for space technology - News-Press NOW",
@@ -365,10 +395,10 @@
       "pubDate": "Tue, 17 Feb 2026 02:50:00 GMT"
     },
     {
-      "title": "Harnett County celebrates the opening of Harnett Advanced Technology Training Center - Greater Fayetteville Business Journal",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRHhyRUNmMVlGRTZsSGJFbXZXVlNsVG1JMzZTdU1FR29BYzZpZTRBdFhJOHJxaW5ObG42QjdmUzU5RS1yaW5memNWSllYOHpCczRYTmhOZzhBMjBVLUJHTmJ0V0dsWHFlaDg0czZrUkx5NC1GQ3prSkhFZzBwV3djcGZMSDhUREdaZlh3ZWh1dGJWWkRZdXFNakc4ZXlUYkFrNWg4OHJpRGE0M2c3WDhxcUJrSUtmYUZtS0xKc1BWUFdacXV3aENnb3llSS12YVBxWDE4?oc=5",
-      "source": "Greater Fayetteville Business Journal",
-      "pubDate": "Mon, 16 Feb 2026 20:16:41 GMT"
+      "title": "New IVF clinics help meet rising need for assisted reproductive technology as success rates improve - investigatetv.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaDB0dmRfS1R2YU5YUndmNFF1WG5LVGVXVHhLa1J0b09mNUhHZGF0ZmxCR1lheG9wc290SHJTSW40UEI5aEhzZWJlLURLVDY5OEVkQ0xuTHBNN1lYSXVmU0tLZWdLYzAyMk1vWlRGR2F3XzFQTF9UZFRXRXFONlFmaENQVlV4amI4VzNTRGtmZmNab1RTTDhnOFpUNUF4V2trREVscUVqVUxFTGxLTXN1NHB6dm9Ba0RTd0Q3bU5KelVIMWhjRHZMaEQ3YmxWYm8?oc=5",
+      "source": "investigatetv.com",
+      "pubDate": "Mon, 16 Feb 2026 14:17:00 GMT"
     },
     {
       "title": "Tuning into the future of collaboration - MIT Technology Review",
@@ -383,22 +413,22 @@
       "pubDate": "Mon, 16 Feb 2026 22:05:54 GMT"
     },
     {
-      "title": "Ohio tech leaders on the technology trends that will define 2026 - Ohio Tech News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNajJzVUw5QlZBTFdGV25lbXkzY2ZsWl9pVUdJc0JHSENZcVlBVlhpam9iRk1pdHE3cnB0NU8tWVQwa01FZ1hvNGVEVlBka2VDelBzeHFGQzMyY1BCTTdMUGJDNGlBLUJjcEpzQUxOLTdLSExWUUlEczV0RkZrcWFId3A3UkhVd1lILUlHTV9vdFI3VC1uUkc4MQ?oc=5",
-      "source": "Ohio Tech News",
-      "pubDate": "Mon, 16 Feb 2026 13:21:52 GMT"
-    },
-    {
       "title": "Indeed Appoints Jim Giles as Chief Technology Officer - Business Wire",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdVdfdERBOXd4RVlWZnFwTXM0VlE3aTVERi1kbTZLUHljem1JM1p3c2VmNi0yc0hfNWpMWHFqRmR2TlJhZEZXNWQ3cVRuRWY4SE9kdkRWTDRlQjdpamoyNnZza0JISE5kNnhKb2hGbFBObjVHN2t2NV9xS3EyUXdPT29XM0lvSUJWNHA4NFNmb05VRTJBNXVVcGFXMjVBVUQyaFp1N1lRWXpUTlV0TWlr?oc=5",
       "source": "Business Wire",
       "pubDate": "Mon, 16 Feb 2026 16:15:00 GMT"
     },
     {
-      "title": "Shiji brings cloud-native hospitality technology to Pakistan with first Daylight PMS deployment - Hospitality Net",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QUEFwVFFZZzlVeU5yaXhaVkptbE5WdFJZM1VTNFU2eDdyRzBUZXQ3Zk5nYUNGanZyQi10SEM2a0taQWFjZHJDRzhqb2RpeWNPTkJWZGpRNFZUeGtx?oc=5",
-      "source": "Hospitality Net",
-      "pubDate": "Mon, 16 Feb 2026 19:04:57 GMT"
+      "title": "/C O R R E C T I O N — Global Technology Industry Association (GTIA)/ - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdVVvOUZtcnlsYWx4eHpmVUotbk1ZODVTbW5yeXNPbDZTT1l1cGc4T0pka0FIOWN3OXVNd0FjajlYbXpBMkNVWTM2V1F0UExsNDR5a0dqN3JfMVJSN1AyZVpQUWJ5em96dTdubmt3bnM2bk1tdWZNQnNuclkwLXBsNzhRWHBOTk11ZXFEOTFOZDVUaEF3UGx2QmxSaGdoQzdpTmdHTTRsX2FhMnFIckVSbDQybW83Mm00Y3J3UDN5dkpOdw?oc=5",
+      "source": "Morningstar",
+      "pubDate": "Mon, 16 Feb 2026 18:01:00 GMT"
+    },
+    {
+      "title": "Ohio tech leaders on the technology trends that will define 2026 - Ohio Tech News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNajJzVUw5QlZBTFdGV25lbXkzY2ZsWl9pVUdJc0JHSENZcVlBVlhpam9iRk1pdHE3cnB0NU8tWVQwa01FZ1hvNGVEVlBka2VDelBzeHFGQzMyY1BCTTdMUGJDNGlBLUJjcEpzQUxOLTdLSExWUUlEczV0RkZrcWFId3A3UkhVd1lILUlHTV9vdFI3VC1uUkc4MQ?oc=5",
+      "source": "Ohio Tech News",
+      "pubDate": "Mon, 16 Feb 2026 13:21:52 GMT"
     },
     {
       "title": "Secretary of State credits technology, good Samaritans after Route 33 crash - WV MetroNews",
@@ -413,30 +443,6 @@
       "pubDate": "Mon, 16 Feb 2026 22:08:00 GMT"
     },
     {
-      "title": "/C O R R E C T I O N — Global Technology Industry Association (GTIA)/ - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdVVvOUZtcnlsYWx4eHpmVUotbk1ZODVTbW5yeXNPbDZTT1l1cGc4T0pka0FIOWN3OXVNd0FjajlYbXpBMkNVWTM2V1F0UExsNDR5a0dqN3JfMVJSN1AyZVpQUWJ5em96dTdubmt3bnM2bk1tdWZNQnNuclkwLXBsNzhRWHBOTk11ZXFEOTFOZDVUaEF3UGx2QmxSaGdoQzdpTmdHTTRsX2FhMnFIckVSbDQybW83Mm00Y3J3UDN5dkpOdw?oc=5",
-      "source": "Morningstar",
-      "pubDate": "Mon, 16 Feb 2026 18:01:00 GMT"
-    },
-    {
-      "title": "GoDaddy Inc. to Present at the Morgan Stanley Technology, Media & Telecom Conference - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaEJjaFctUy1jd0VHYW1PV00xWVplS2VTTm1NWDF1YU5STFp0Z0NiYlFha2VBMXFlZW55YWRDM2ptdTBLalQzT0dLN1lqLTFFU3lpdzBuY2ZpWnpiekM0RlhJQWl0dTZCM3pxVWJBVWtzNjlPWXVOTVhRWm5RdUtLSVRuZzN2TDlpSDVjcmcxbmxIRVhnY0J2S1NMbFA4VXVENVA1UDlGRkFQSEpJeDlhU29GYVBaWVRJemJJV1FTS1dQZUpzZUhvTHg5cjlSTzFoaFg4?oc=5",
-      "source": "PR Newswire",
-      "pubDate": "Mon, 16 Feb 2026 14:00:00 GMT"
-    },
-    {
-      "title": "Development of a New Technology for Controlled Interstrand Linking of DNA - Asia Research News |",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSFViVUVISUwxRGZ4WVlLX09icldad0ZjckNpUFIyVnBFcVBrdEFFQ0c4TTZTX05zbDZnRTV6bGNjbC1yaWFNenRnUGNsOThzU1NyeElCeEhRXzlBNlBnMTZza0VscFNNMkpaYVNEWHdwUUFqaW5KN0EzZko2MXZ0ZXpfRXk3VE5TOTNHQW92b1NWS2pxTk43TC1FU25rTTYtTmxCSw?oc=5",
-      "source": "Asia Research News |",
-      "pubDate": "Tue, 17 Feb 2026 00:56:15 GMT"
-    },
-    {
-      "title": "Harlan Community students showcase technology leadership at State Capitol - Harlan News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd3RfbGJaQmxoQVAzZ0M4TmlxdEpETW5pZFRTcHdQLXA1eHNJa0NDQ2daelNtWlhwelFGVDBxYkdoRlFKRm5LLXZLTUdvZHh0dTNKbE4yZVJrakJPZzhfdWotM1p0Mm5wd0ctLUxPMWZPc281Mnh3R0pzenhjUTNqMDFQZzFfTFAtamd1TjBGMkFDbTk4blh5QkoyLUtzN1ZD?oc=5",
-      "source": "Harlan News",
-      "pubDate": "Mon, 16 Feb 2026 22:25:56 GMT"
-    },
-    {
       "title": "Aviation Maintenance Technology Program at Franklin Tech receives FAA certification - Athol Daily News",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85NDN2TGdocnFkNTRrTEpaaklZeDhrVkxhN0FIRklsYlA1d0s5MnlLUHdnOGl4UlVYUlFfaFI1NmFCN2dIMjUtV1dSZkpITE41UnptdGZtNV9lbXFxMzZsUDVTZWxFSDl5M3N2ZDBrTlItamM?oc=5",
       "source": "Athol Daily News",
@@ -449,16 +455,10 @@
       "pubDate": "Mon, 16 Feb 2026 18:26:05 GMT"
     },
     {
-      "title": "How Technology as Core Infrastructure Is Redefining the Hotel Operating Model | - Hotel Technology News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON09FeU9tUTg0OHhOVTlJbThnZVkzbTVjZ1NuXzhNd2NwdkhSV3l3M3ZtR1U0MWxpQ2MyRHE2R3pMMjNXUENjcDJPRVB1Nmo3N1dLaVV3d2N3UE0ybFRyRWdjcjRBWWE2SXh2ZjZneTRkTjZycUhNS1FDNjRHSGx2NkswNzdqak9sdmpSQktwamZOVERSbi1hVHVtSzBVbzZrQXZ5QWpKa2lXNzhBOUFnYUFNRmVKRmgzX2c?oc=5",
-      "source": "Hotel Technology News",
-      "pubDate": "Mon, 16 Feb 2026 10:44:33 GMT"
-    },
-    {
-      "title": "3 ‘Strong Buy’ Technology ETFs with More than 25% Upside Potential - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSjJueHZfRUJTVFdBWWljSXRNTzJZZWVXZmw4eEpsY1lhaGQ2N1BRd29vN2JGdUlfSUZZUmhEYnhKallTMHV2OWt1N1VpZkl0bDBSUTVSNTBiNF9kUHNlZHNJVTI1UHBMdFBzQU11UXhTaGRmcV9nRFJ4OXhiSXhzUGo4LWFMaVlqdnBlNHdPN3JRU1E1OUNHdA?oc=5",
-      "source": "TipRanks",
-      "pubDate": "Mon, 16 Feb 2026 22:57:52 GMT"
+      "title": "GoDaddy Inc. to Present at the Morgan Stanley Technology, Media & Telecom Conference - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaEJjaFctUy1jd0VHYW1PV00xWVplS2VTTm1NWDF1YU5STFp0Z0NiYlFha2VBMXFlZW55YWRDM2ptdTBLalQzT0dLN1lqLTFFU3lpdzBuY2ZpWnpiekM0RlhJQWl0dTZCM3pxVWJBVWtzNjlPWXVOTVhRWm5RdUtLSVRuZzN2TDlpSDVjcmcxbmxIRVhnY0J2S1NMbFA4VXVENVA1UDlGRkFQSEpJeDlhU29GYVBaWVRJemJJV1FTS1dQZUpzZUhvTHg5cjlSTzFoaFg4?oc=5",
+      "source": "PR Newswire",
+      "pubDate": "Mon, 16 Feb 2026 14:00:00 GMT"
     },
     {
       "title": "Rotary honors twin sister students from Northumberland County Career and Technology Center - The News-Item",
@@ -473,16 +473,22 @@
       "pubDate": "Tue, 17 Feb 2026 05:05:36 GMT"
     },
     {
-      "title": "AI Is Supercharging Cyberattacks. What Schools Need to Know and Do - Education Week",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdW1Ta2FjMFI5cW83QVpSZDZydmg3NUJwZ2N1emhuTjJRUVBGZzZnY1VreDVwS1RtbElCODBWTnItWDFhSHJDZTF0dUd1VlByRjFya2R0TXhVdGE2WjVMaVgzelUtLWhza0NmaDdtYkVkZGlCVVRGdlJVeWtEd2s2V1FzUkUzZTN6akFQbmdpcHNfdkNRRm1ZOURIeTJ4UkFk?oc=5",
-      "source": "Education Week",
-      "pubDate": "Tue, 17 Feb 2026 05:29:03 GMT"
+      "title": "3 ‘Strong Buy’ Technology ETFs with More than 25% Upside Potential - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSjJueHZfRUJTVFdBWWljSXRNTzJZZWVXZmw4eEpsY1lhaGQ2N1BRd29vN2JGdUlfSUZZUmhEYnhKallTMHV2OWt1N1VpZkl0bDBSUTVSNTBiNF9kUHNlZHNJVTI1UHBMdFBzQU11UXhTaGRmcV9nRFJ4OXhiSXhzUGo4LWFMaVlqdnBlNHdPN3JRU1E1OUNHdA?oc=5",
+      "source": "TipRanks",
+      "pubDate": "Mon, 16 Feb 2026 22:57:52 GMT"
     },
     {
-      "title": "‘Things That Scare Me and Keep Me Up at Night.’ A Tech Leader on AI Threats - Education Week",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSzRkN0U4VlVsbFZvaUYwNTA4STRzM3UzVjU2Yi1qYmR0b3BtR25JQVd6M0NsdzdJT2h3Vk1GWFRhVE5RdnFldm1JX2dUbnZjbUVhNVZtUWI5V09SX2g1SFdLZE1sbmFOcXNHcU51OXFYeVM4c05zUXBEMjhKdXN5cHk3S0JkUDdVTmRLOVBacWZiajljNEplMXM1SGw2ZElwZm9rbVZVQ18yRnZtRTRLMUdVWEY?oc=5",
-      "source": "Education Week",
-      "pubDate": "Tue, 17 Feb 2026 05:05:36 GMT"
+      "title": "Firan Technology Group (TSE:FTG) Share Price Passes Above 50 Day Moving Average - Time to Sell? - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOE9fa1Vjb2t0cG1TR2g5TXVwLVZDTkxNdm5MbUxZWXFrbHhiOExQSzIzUnpkUURIOF9mV25pS0lrYkpialdFczRGeUFzMFM5Tkx3UWFHdXpZQkdzdWRpMlhFbnhkR01SRzJYN0x0Q1Z6bjhQQXQ0czNxOS1aMDlQSEkzS1VUYzFUTE9uTHFUMllQZjdPV1pyWFRXUTFsRTZqT0swVUtEOTNLdVUxWjhwMDVHMXZrSkJNaG9sMW1RdVBIOFlXakpkd1pfbnR2WE5OeE9kOHJCa0RZSHM?oc=5",
+      "source": "MarketBeat",
+      "pubDate": "Tue, 17 Feb 2026 06:48:58 GMT"
+    },
+    {
+      "title": "HOBBYWING VTOL Motors Supporting Continuous Geological Monitoring - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZHlfTlFNZzVnWGc5NVlOSHhvZW1wR3hXLWNwOXpQQmdrZmdmeDJOU2FmY2wxN1R4OUZieGFrQ256b1dFbW5ELThRYUZ2V2djRG0zZWhYWlp0TE1JREZ1NzB1WGZ3aEVBS1pqd0hkNW55Y1JDN3FXM1FaU2JFRlM3N3g3MG5RUkF0ZnAtTlU2TWtOeDM4NEVfa2duLXh3YjRLRWFZOFd3aXNndnRzcEhmbHVmQklUUVU?oc=5",
+      "source": "Unmanned Systems Technology",
+      "pubDate": "Tue, 17 Feb 2026 06:34:00 GMT"
     },
     {
       "title": "A Look At Alkami Technology (ALKT) Valuation As Revenue Growth And Cloud Banking Platform Draw Fresh Buy Ratings - Yahoo Finance",
@@ -497,22 +503,10 @@
       "pubDate": "Mon, 16 Feb 2026 19:33:49 GMT"
     },
     {
-      "title": "Carbon Announces Appointment Of Jason Rolland, Ph.D. As Chief Technology Officer - Textile World",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQenFJR01BX3pXbFlMMGRjNzFHSFJuQVJCejBBYU8zSjhUUHZwbUFiZ0owc1NrN0N6Q2RsZU1OSFpNSEdETkE1enBJT0ZyQlExNWV5RV9DS1ZVUU90d2JtZEdFRHc3RDNQLVRmdzdYd2hWWW5zMlVhUmd0QzNrTkFval81ZkFJcU5oeFFaZTFpcXRzNi1PdlZoSjBYejhDZVM2TDAxUFExaV9tY3lWWTNOWmNQOXBHbnFYZ1pORHEwZS1KUUdWMjNXX1FBQ3pxVnRYNWt2N1Y3V3NmZFY1ZHMwSWJrV0hrTXhXQWE3b0dzMTk?oc=5",
-      "source": "Textile World",
-      "pubDate": "Mon, 16 Feb 2026 13:39:31 GMT"
-    },
-    {
       "title": "Scientists generate electricity using Tesla turbine-inspired technology - The Brighter Side of News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcFVUb2JUbGpNWmtMQ3hudEIyR1YzR3N3X1JuUEUwWUhETFdRc0VnQUZkRkZLMDJESEZFLUkwak9HZWJyMXZSeXZ1SmxGZGJDVmhvQjhTWHBscTVWM2x2c25RU3ZmYzY3eE81OGQ1eDlMYmd5QVVFZFg3UTI1eThoRGVFVmJLSVZuU0tRMWhRbWJsYTh3SnVUbDhYUTh0cFl1TFE5NE5WR2lrVWlyQ0Jn?oc=5",
       "source": "The Brighter Side of News",
       "pubDate": "Tue, 17 Feb 2026 01:07:00 GMT"
-    },
-    {
-      "title": "New IVF clinics help meet rising need for assisted reproductive technology as success rates improve - KXII",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGY0RFZXbl9XMW1sUXF3NGJSVlZHVERJR01IUk40ZWhNVlh1ZmNkRFZJSEpERXFMbDhNVlhiOHJaT2NiSWhTNFJyUXdwMnNLYlBuLWQxSk9BUkFpX0k0THliVkJqeXFXcDJmNnBZMzlicFRsNTdRVGJGUGZ5RURscWtzNWJyYVlaQkVwcmxJZkdHTnZLSVVpYXBuU2dzbnVkWmc4ODZ2NFZaaWJRM1FRWlNLNDNSSUl1Yzg3SUZuVnQ1Y2c?oc=5",
-      "source": "KXII",
-      "pubDate": "Mon, 16 Feb 2026 14:17:00 GMT"
     },
     {
       "title": "How Meta's Dear Algo Makes 'Your Algorithm Work For You' - Technology Magazine",
@@ -521,16 +515,34 @@
       "pubDate": "Mon, 16 Feb 2026 16:41:39 GMT"
     },
     {
-      "title": "Indeed Appoints Jim Giles as Chief Technology Officer - 01net",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcW1vblZjQXFOQlBXZFBHUjVkVVNmRmR0Qng2dnlkLTY2bk5vZlVfLWVBZUFMaTE4bkRuZmhRMkE2TVNrTWJhNk8yQ2xlRWctbFVUTnBMU2ppQUp0NE0weDJ1ZGE1bzdLcFNSMy1pbVRJSHFzYzBneUExcVF5SDlqdA?oc=5",
-      "source": "01net",
-      "pubDate": "Mon, 16 Feb 2026 19:15:00 GMT"
+      "title": "AI in Asset Management Market Growth Story: Technology Adoption Fueling 26.92% CAGR to 2035 - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGo0QWlGQ3FEc2ZZdDBCOHNlTzBqUkJQUlowZEdBMFF0STByZkxXNGNBMlJHT3FyNjVFNk5Ua3ppQ2U0Y0lVaGtPdEJoZ0NyWU5qLWJsemk5SElQVklWQjRJMFdwVm9RR2NoWURnbzJfa2x5SGNMdnA3RHhPSk1nZnZuX3FnSTVNMXhscGYzWi1fTEI1SlhYd203amd0TjA?oc=5",
+      "source": "openPR.com",
+      "pubDate": "Tue, 17 Feb 2026 07:00:03 GMT"
     },
     {
-      "title": "Two weeks until Tire Technology Expo 2026! - Tire Technology International Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0p6ZVRIV2pyUGxYRjZLQWNGRndNWjFfWkVpZXFlWVRPbWMzVFp0eGtNNkFINXdhXzRVRFdMSjNPbDhNeDBPTGJlcFFoamtnMUxEekRrOWYwUDh5VW1yUnpUalo1QV9rbnJOYndrd0NvWHBVRnhTWlh5c0dMYWU2d0Zza1Frc1BmSG1LTW9VX1ZWTU1jNENaRjhlYW4xazZtNUE?oc=5",
-      "source": "Tire Technology International Magazine",
-      "pubDate": "Mon, 16 Feb 2026 11:52:09 GMT"
+      "title": "7-Eleven ramps up AiFi technology powered checkout free store push across US locations - Retail Technology Innovation Hub",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd2hpaDdRMGVpdVU2MF9VVTM4NGNCbkxYekhGam5LeVlkQUpiNG16MEhraDhfbWZ3RE4xXzlSa2JvMGxRd085R2U4OVppaWVzM1hFVGw1cHJZYU9UdG5fSlZ6cFN1QW5vTC1XdV9LaHFmRUJLY2RKSXVNaEREYzNkTGNQbEkySi1SNkdPRFZSaVc4ODlRNmdEelBMdC1SNkVRdF8xdF9vd1ZVRWV5S0lnWEp4VHdzOTNlLUZ2MWlLU0JXWjkzb0pHeTJtaTJhS1dXZVJN?oc=5",
+      "source": "Retail Technology Innovation Hub",
+      "pubDate": "Tue, 17 Feb 2026 06:41:26 GMT"
+    },
+    {
+      "title": "Lanzante 95-59 Is Pioneering Technology Not Even Bugatti Uses Yet - CarBuzz",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxX2ItUDJTM21lRXRYTWsteUJ5WGM1SjFaelVSV2ZNeXM5MXc3dFpOTDlfWkZhZ0syTGJ1OGg4Z2NyMUR5Yi02Vy1zN05WelhyZ3BJbkFJRG10VVZQU1FyZDRQZnpULTNxekE?oc=5",
+      "source": "CarBuzz",
+      "pubDate": "Mon, 16 Feb 2026 20:16:03 GMT"
+    },
+    {
+      "title": "Jordan Munro returns to Starbucks and takes on tech solutions products role - Retail Technology Innovation Hub",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY1M3akFnbEhDLTBYWnJpTllUamF0bldOSVk3aVV1cDRRVUVFUzdEMHJFNzNrQ3VJaUF0NkotdlcyNjdkY2dwVVhEV1oxZXZFZU5RUXVtRGxCcHBYOTYxRUNfQnYxZ3M2YzNkRlU1TFJaSURuY09ocXU5Y1lsa0t6MVhFS0EzQ1hzZXREc1dxLXppRS1KNmhUTXhIa3VsZHN3VE1YOVlDTkxyNGx6dmkyX08yWTR5cUFYVWo2NWhjTS1paVc3UUI3UmtjOVZONkk4WTQ5N1NScDE1a1k?oc=5",
+      "source": "Retail Technology Innovation Hub",
+      "pubDate": "Tue, 17 Feb 2026 06:46:26 GMT"
+    },
+    {
+      "title": "SoFi Technologies Just Proved Bitcoin Has a Clear Use Case for Fintech - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmRmeVc4QTM3WHRsazE1M2gzZ1BBZmdrNEVhbnlGNlExeGpfakJfVkg5VjBzdnVWcG43V05mVk9CVnE5VDRjM1ZCWHZfTlllTW5sZlFRbG5reWExTmpOZlZqZDhHUzVCVlZNNFhZb05ZQTVya0FDRnYwMW85dkRJN1hicWdPYWloa0gwNWdaYTZtMGRTZ1E2YzEtdWY?oc=5",
+      "source": "Nasdaq",
+      "pubDate": "Mon, 16 Feb 2026 23:05:00 GMT"
     },
     {
       "title": "Digitas Australia Appoints Miriam Healy as Chief Technology Officer - Little Black Book | LBBOnline",
@@ -539,16 +551,16 @@
       "pubDate": "Mon, 16 Feb 2026 22:13:19 GMT"
     },
     {
-      "title": "Luda Technology Group Limited (NYSEAMERICAN:LUD) Short Interest Up 24.0% in January - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTS11bmtTaFc1dHlrZy1PaWpfQUpTT1N5eF80VjVfczVEX3dWRENsamVuSjhGUzkyX3RGdFIwOEQtZF82UXZLNUNuNUxyQjlBblk3MXl4RjRWT2tTYm9XT2lLVmpHeXRXY0MzbWRZdnU1dE9pX0RhQWNrX2Rsc2F5YWJlQkRtTnItOWpWUEFDMmdsY2N3T0QwdFVWZzRPTG9XczlzVERkS0pqV1N0NkQ1bGRIcXBVcXJxSWN1MHVqbjYzbG4zZ1lWcW15LUg?oc=5",
-      "source": "MarketBeat",
-      "pubDate": "Mon, 16 Feb 2026 23:59:34 GMT"
-    },
-    {
       "title": "SoFi Technologies Just Proved Bitcoin Has a Clear Use Case for Fintech - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1owbzV4SEpYSmhSUmFwLXc5SlJkeXFtaU1BQjVzQVZpZTV6dUQ5ZklDcUxNeUNLRkpjcFZTTkwzc2xEZW1GZTd2U1cxTHptMW5sR1liYV8zaVFjWWYxYWltamptbjlnejZPSkpMcDMtMldvNVA4UGo5QTBxY3BJODVSZXgtY2d5ak9r?oc=5",
       "source": "Yahoo Finance",
       "pubDate": "Mon, 16 Feb 2026 23:05:00 GMT"
+    },
+    {
+      "title": "American billionaire Mark Cuban to those who say AI will wipe away software jobs: Who will ... at $33 mil - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOZFQtdzJNTUVLajFvVmM3VG5VelBNWl81NEtMN2dYNUcxZldOcnd6WkdwZlREZlZodEVIb2F6N3hnNW1temVzSkotNVd2YlRyMk45MnFBZzRERFZyV3dnbTRQN0RHZ1I3d1RtT0ZPb3JfVlRpcWRDVUhNRTZGSGF5S25MNjFPb0lTWHk5LWxYeUhoQzdZNXNzTG52WUlzT0RWYUdEeEFjb2ZDclRJamZZUmVHbFFwaExMalhEeHAtZGxyRWVtZEZ1SUtZSnhjcGRsZk1BVDV4RkFmcGJkR01jN1FkVUc5YzVvbFQ3S1Jidmt4Y0c1TkR1bzBzc2trTEptUmJjdVM2Rk16T21QVFpiVWdfYjhNUWRhQmJJVGJ1NC03bUduQVZaTHVnZnJ6bmpJelAtOUt6X2ROampNclHSAcMCQVVfeXFMTnpJa1dVc202U0pzU3Z3Mk1sX0ZzWFJxTWZfWWk0R05aRTRZRC1kb01jcXFIM0M0Wkp2MnJqcFNnQ0huZ3VoTURjbTNOQ05leUxncFR4YXlCWWVKVlhQQUVzNXBmU0xNNzlRNmR0QUhVZl9qMHJ1NGMxdGFscFpsRmdhWWM5dWRkMkRGMzF4UDd3R0ZIWGlZcTlNNkpGM2xuVUQ3anUtTHhYVi1TeS16VUpPWVVVeTNwQjVpWWkyVjRkbGdHS0FhY3A0ZjV1TVRnUkxVQXQwc1J6V3NSQ1VvQTJJLWVBUUxzOUxza1VBQmR3WlhtRWpnTVVJWVFBZUNFaWgzUW9oR1BoWlVZQnZBak1zLUtrRUg4bTdPeDNveUczVW9KcXdPbi1scUFlYl9keUNvYjhPSHhrSHlYamxOYWpaQWc?oc=5",
+      "source": "Times of India",
+      "pubDate": "Tue, 17 Feb 2026 06:34:00 GMT"
     },
     {
       "title": "Businesses Lean on Technology as Cross-Border Trade Grows More Uncertain, Avalara Finds - Laotian Times",
@@ -563,46 +575,34 @@
       "pubDate": "Mon, 16 Feb 2026 21:33:29 GMT"
     },
     {
-      "title": "Elon Musk, Tim Cook add voices to chorus of warnings about ‘unprecedented’ chip crisis - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWjQyMWRtTjc3MmFILUhna011U29qbDRvei04NUtjOVIydWpLa0ZNM1J5TnpVMElUWkZJeFpwNG5acUozSl91NnBkRGRITDlib0NkQjRQakdNTFVpSkJyNi1JcHNONFNQXy1JQ3ItdHJFX0o3OTlfbWNpaDMtN3gtTFA0OVBqRjhPdUZRZ0ZwS3U4bUFpRDhIeEF3TXFoM0FaTkYxbkNydmduWk5sLUFmQmVpRndvZWc0cDVtd25oeGJkNjlxQlZ2SG9ZUjhWREcxUjBYejBqS0J0dw?oc=5",
-      "source": "Dallas News",
-      "pubDate": "Mon, 16 Feb 2026 21:32:16 GMT"
+      "title": "Wearable Technology Market Set to Thrive Amid Rising IoT Adoption, Reaching USD 951.8 Billion - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeFkwYnhpR3RVX1I0S1p6VVVIcW5yLWRKaHFBSzRZemVqTGRTUV9LcnZtcl9VS3AtV25faVZHemlNcjBTd29CR0FJOGFqLXZTelZPb3g5cHo2d3dEQ0tZSm1PY0N1N2ZxWTV4bkt6MzNvcmwzMFpNTTNwbk1UTGYwcWVMUUFxVmFXVl9PQWd6aU9oLWkzN1JN?oc=5",
+      "source": "openPR.com",
+      "pubDate": "Tue, 17 Feb 2026 06:41:35 GMT"
     },
     {
-      "title": "Crematorium with new technology to open - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JQ1hqX0VYRlNmT3JRUkl6R0xla1d1d1l2STBmVmtURXZwb1Jldk5wWVJ1YnhaVmp0TVhzd2JPUkZaZml5TW9PTF9CdUMxVkdVLXlwc1ZpQ3pSNTVIRkpwMHdCb3plVlVpaHJXRlh5azgyckJ1MUtaSHdXYw?oc=5",
-      "source": "AOL.com",
-      "pubDate": "Mon, 16 Feb 2026 18:02:12 GMT"
+      "title": "The Role of Rugged Computing in Mission-Critical Aerospace Systems - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWJiemg0cDhwdGxSZHlDNnVOSWZFaTVZTjA2NzlvY1QyWEYwc0dfWWFjZG0xYzFWY1FjZ3hMN2tWTnVmS0lodFdDZnZaYmE5SFNkbnBNT0RDY3hSdUxkVW12UzBFVl9BTE5GNkhVckl0MHA1RDJxUDRfamdKMG1SVmhmR2lCS0dFVUJpVXFSSmZ6RmRORE9TTEJTNE44QWFyQW52N0ZtWFQ2aGdwUGttaER0SDVVXzdK?oc=5",
+      "source": "Unmanned Systems Technology",
+      "pubDate": "Tue, 17 Feb 2026 06:48:44 GMT"
     },
     {
-      "title": "UVA Health among first in nation using new technology to treat irregular heartbeats - WVIR",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcnlrbTg3WkFZTGN2c0pJTFVOVzlPaFlGSW5zcDA4cEo0aTRsTTdHNFVWNjVQSkhVYmczT3UwWEVZSzlGb2VXZGlaWXFtU1M5NUxQNnN5aVQ3T180V3FhY1VJc1EtQkJYYUgtaE9odUpQVkJOQlRjRU5kTDQ0ZXVTdzIwNldtQjZFZ1psM2VjX1lpOHkwN0hwMlAtOXdlZlA3amdtdlYxODFYYm5UaEJaa19B0gHGAUFVX3lxTFBJdXJmS2E0MHdKQmtjWGljZmpSNVFPcnlyNjdkTG43dHItTDNlbzJRc1BRb3RlYVdvTlY4ZE5OUzNDTmJUbGZwcXNFbDBrejcxMnNqY2J3WnhNU2RGcXdNWUFfeXBSemNRelpLc3ktV1VreDI4Y1k1cnVSTXA4eGNXUWRMallQWUg4RnpMQWJENWlPZ280QmFSWkZNbGkyaE1rNllaSHdDOTZJdk5ieFJpTjJNdFVwQkl0VmIzZXlSUTFRNUF5UQ?oc=5",
-      "source": "WVIR",
-      "pubDate": "Sun, 15 Feb 2026 18:36:00 GMT"
+      "title": "Micron Technology Ownership in Focus After 285% Rally - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjdnVUNhSFZ4aDVHc3pDejU1ZVZHTWwxZG5UTnZyUUJVQUdWdlcyS0xmajJpOHltdk9uSUhYY3NUTWJ2SlBQUkhIRTI5b1phRlNBU080ZHZaLUx1ZWQ0Y3luZFVGSURBYnpEZkkwaXZEYkJ0amg4TnFEZjh4SDg1ZlJtZWtlOWpDMkFFSnFHTkJ5SGNKRlhnRU8zakRFMjR2aHFIMlA4eDVsMHBtWG1FbzRn?oc=5",
+      "source": "TradingView",
+      "pubDate": "Mon, 16 Feb 2026 19:47:39 GMT"
     },
     {
-      "title": "If You Invested $1000 in Microchip Technology a Decade Ago, This is How Much It'd Be Worth Now - Nasdaq",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ0QyOU9DMXZNZ3RNSXcwOE5fWTVnbjRTb2ZkTnhSOG1EU3FqSTgtbk9zOUdLN3YxTTRFQllsYjd1Q3hPMm93dTZZLVY1b3ZsWlF1N2xEcnczQU9JdmdTSUNkTnM3OXNaVXVBa3UzUkl2d0t0LW5vWTJpMUdwZ0JoRDBJaS1LT3gwNkpHTzNEMmpla2pHbzg1NVp6akxkQldBYTZadlNHZW0zckpkbW9v?oc=5",
-      "source": "Nasdaq",
-      "pubDate": "Mon, 16 Feb 2026 13:30:00 GMT"
-    },
-    {
-      "title": "Why Film Studio Lionsgate has Appointed its First AI Chief - Technology Magazine",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3ZjR4YWliV0w1aWp2b2ExeE1vXzZ3LU5CYXY3Z2Nxd3BURUp1Qzg0UDU2TjBkZDlpOGg2LVFQZ25iOVRSOTVhM05WUEtneHhMZXBYU3RxdHh6aXBpekNnaGgxVTJRRjV4SEljc0N1ZGdJQ0E3ZE5kRWsyNA?oc=5",
-      "source": "Technology Magazine",
-      "pubDate": "Mon, 16 Feb 2026 14:15:08 GMT"
+      "title": "Retail Technology Show research: many shoppers directly impacted by cybercrime in past year - Retail Technology Innovation Hub",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRnJzZEpxd05vbHNobnV2Ym1NcElZb2ZNLVdnelc2a25hU0o4WlFqOWszWVZXNlZDa0F1LXlNN1hNNTNZSHJNNWpIY1R5OFZWV3llUWc2MWdTNmJXS3R3VUpMcE1YUWdfMzFVdXdTUE5xWUpPcXBTOVFKS1pOYnpqUTFDREYxa0FTUXZUdnI0WE1ueEljUk5lWHFrdHRqQjBNdkJkOF9CZmF6TmpQTDVOMVo5czNyb2FxWFZmak5LdGJweTBhUzBkSU43TEttVWhPYnEtcy01SFY?oc=5",
+      "source": "Retail Technology Innovation Hub",
+      "pubDate": "Tue, 17 Feb 2026 06:51:26 GMT"
     },
     {
       "title": "Delta Gold Technologies and Penn State Partner on Scalable Gold-Based Quantum Materials Research - Quantum Computing Report",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMlp6bmtWM2R6SmRRbm01WVd0TzdkS1NnTkFjSDZrcWJUN3ZyMDNPZUNDcFFBa2xRMmpoV2lQQVhYeHZabldtdi15SHBJdXBlVDVaSGxSRlMzZE5CQVZXamFQRHQ3ME81WERNZEdHTlBuZWczcWJyTDNpNThrcm5TQzZCcTJxcUtJZmt1ZTk4VjUwSTFfbThQT09ZRWxWejVDNG5MVWphYVZYenBvSHhuaEVxeFBlWTFhcEptZ0JzeGVCRXBIX1JOcEhRZ2fSAdIBQVVfeXFMT1QzRjV6RnB5UTBwcnpZLWFfMmxscm5mNVN1OEtMckJlQXRxVEhzVXV1Qjd3MXR6VGtJc1g1VG5fTGlnRGFTVUNFVWVhV0gxNnZDSWZtYkxELTBqbWJtYjZWNGpvaC1NWHF2dHFxYlhTZDFLeEswZkRCajlNcnVRWGttaXRfZjNIWF9XQk9iVUNMSTM2SjhmNlFfQ1N1czVPRjRNRzVGb3FvbDA1RVZoeWNta3JkcGM1aUtWZHRqZ2hMQ0x2TjdvSUxDUjhCQWptS1hR?oc=5",
       "source": "Quantum Computing Report",
       "pubDate": "Tue, 17 Feb 2026 01:29:50 GMT"
-    },
-    {
-      "title": "Turkish students turn earthquake fears into life-saving AI technology - Türkiye Today",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeUdGaEZwQzlkVGE1cXZSaldaX19feTFmU0NCVWNONkFpYzA2VlctekFGTjBLc1dYV1VhcHJoRHNhd2w3TXRnTGFZNEtVZWZ5VWwxb192SGZra1pkT0ZCMnI5QUNvczBleE5XWkhMMnd4WWFINE55X3pXZmRZaWRjaFc4c0h6dmFfVXZXOFd3RFJBQmNOODZfRUhFNzFndmlJWHl2UTAxMU5XXzBoaGR6bU85Q04tM0k?oc=5",
-      "source": "Türkiye Today",
-      "pubDate": "Mon, 16 Feb 2026 23:07:07 GMT"
     }
   ]
 }
