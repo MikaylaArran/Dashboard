@@ -1,15 +1,9 @@
 {
-  "generated_at_utc": "2026-02-17T18:42:27.850703Z",
+  "generated_at_utc": "2026-02-17T19:40:13.546124Z",
   "category": "business",
   "language": "en",
   "summary": "Top headlines pulled from Google News RSS (free, English). Category: business.",
   "articles": [
-    {
-      "title": "Hearst posts record revenues and profits as B2B business grows - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5aE03TmhyZ3NKUV9EQmtEQ1U2Mlhjd0IwNVdqUDEtV0hUYUtUaUFwQWV4VEQ5Z0JkTDZWUnhIZXEzajBkRGZKNHlGUVJ4RzNlclI3WkNTWTlId0hwRUVsb0dJUC1Qdw?oc=5",
-      "source": "Axios",
-      "pubDate": "Tue, 17 Feb 2026 16:31:53 GMT"
-    },
     {
       "title": "Trump family business files for trademark rights on any airports using the president's name - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb2tDOVhsU0g1UjNtbC04TndJVWpDakJRNGtpeTBuNThyWVNva3V2UVlFY04tXzM0X05wUjBLbzlYM1hVOXdxR3hjdUFTbG1MX2NLMktTMnlMcl96V1BQM3JoS2tMcExaWTdyWU1KSEVlNkx3cEpvbUo2Tmk3dFllU0s0TjZTb2xMbUlScm5SZmZRUQ?oc=5",
@@ -23,6 +17,12 @@
       "pubDate": "Tue, 17 Feb 2026 18:21:21 GMT"
     },
     {
+      "title": "Canadian airlines are pulling back from flights to the US, with one leaving the country entirely - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmRLa0ItbGV3eURDWFZPUk84eW5IdlY5dV9tZzYwRDFGT0kxOHpQc1RPdHpIVHMzQjh5RDhMakJaYkxqcElTbzM5WXlONXpwRDFNLU56SHRQRjA2Vmo4cFVaTExqaUt2R3U5cC1ua3RYUTd4a0lkSnFLLUtrcUlsV0RBTXo5LVAwQmRqMlhtdU9CY2M?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Tue, 17 Feb 2026 16:25:00 GMT"
+    },
+    {
       "title": "This doctor is training AI to do her job. And it’s a booming business - CNN",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50UUk2TThISVQtT0RhdzJ3bTNxY1NDbWowTi00ekZJMnNFajlYQUNwQVVsOWRLV0Q1dHJNb2pRMW1KNlBXZ0V3MURoVHpUQVJqZFRmT2N2NjBWMjZ2M2xhNDVHaTJSeHJ2dHd5T1RiNFdWdw?oc=5",
       "source": "CNN",
@@ -30,9 +30,15 @@
     },
     {
       "title": "Exclusive | Activist Jana Builds Stake in Payments Business Fiserv - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNSnJXd1ZYUzhXN1JJcVRKc1k4U0QxOVl1eDdFTnlIRFdQRnRfMHhaaTFvVUF0b2xCcWI2WGlsRGtuR21ZT2UwYWF2dERQd29lN0hKUTFLOHRsRnk3MXA0RnlrRGNjWktlY1FnNmcwTlp0UVM1d3dhaHNxWEVsZlctemNqN3lWR294dXAzNHl2QXlWTHhEd08tbmJEWmdTcTl0cDkzQUtyMFJOWnduRVliclo5TTlLMUxIVmRfbUdEVDk4bE5kWFcyMG9mUG9rYzlNUHdwdGhWb192NWtHck9fVWR6SlZqbHBzRWpVb3NmS0toN2hqV1RGM1BNWkdoOFdPRTVGdkVPYUl6NUhfb2stVkxxTV9MU25QMFZyLUJkbHhtRF9yMlRiNnlGaWdHVnFHUlM0S1hLQ1ppaXNRcmRyWVNURVdlaVBZV3oxcE8xMHZCVktKVHNIaEljSVZnN3dmUWE4TlhTM3lDOFZOcjFOeTZoRnMzODJfNm1xYWVhLUx4QU4zaHc2U08yeFNtS3dvMUMxMUNwRkUwZVZXVE52TFVnOGE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQWnB0Z1JDN1d3UkxFUC1fX1JHOTd3czE1THhjRnNCQ1FWZUoxZ0liU0lhSGMtdXBTUlhZMXQ3Z3ZwOThreURRTGxTMzVleHdsSDd2ZUdtYWpQU2xGZGg5QkZMV1R3THBiTXMxMDhfeVJQWjRxNGdMa3BRcmxxMWltaGJYd2FZN0hOUThXR1EzTFpYNzJkMS1wSUhwelZOa1hFS2RoVmJvMEpEdEV0cjMzUTJLVm5YQ29wbnktdDFEcUIyV3RqdTFXQ2tGVXVlTVh1M2RBTUpudmRkd3dJaWR3RVVVZG1QZGFMZURhcjlOQ3FQa21XbzI1cFI2cldjYzY4NXcwS2g5OWd1dHZUbUFQZUk2eGNjRXFIclFsZmVqbmhScmFBdDFQWWkwdW5Mb3JNdDlmbVRtZEoteEo2eE54ZjBTVWRBYnVvOWZPd3U2T3lnX2xGS09VeXdyQ0pxb1dKNVFEWno1VnpIbDFGbzZzdWtUYTExWlV5TWdwNzJ3RVpHTWNSWmplS05ZWTJaVVF2Vk5LTHBqWjE0cjM5bFJHWkFraVI?oc=5",
       "source": "The Wall Street Journal",
       "pubDate": "Tue, 17 Feb 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Hearst posts record revenues and profits as B2B business grows - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5aE03TmhyZ3NKUV9EQmtEQ1U2Mlhjd0IwNVdqUDEtV0hUYUtUaUFwQWV4VEQ5Z0JkTDZWUnhIZXEzajBkRGZKNHlGUVJ4RzNlclI3WkNTWTlId0hwRUVsb0dJUC1Qdw?oc=5",
+      "source": "Axios",
+      "pubDate": "Tue, 17 Feb 2026 16:31:53 GMT"
     },
     {
       "title": "Wendy's to close hundreds of restaurants as company looks to focus on value to boost sales - Fox Business",
@@ -41,28 +47,22 @@
       "pubDate": "Mon, 16 Feb 2026 17:17:00 GMT"
     },
     {
-      "title": "A Ukrainian drone pilot found a hidden Russian arsenal, only to discover it was filled with horses and old cars - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXU5VmQ4aGU2am5RUFJ0MjRMa1NEV2w2aVljUDZKMHJhR1B5S0ZCWVBEdXZIbGt5RjJHcENNY1Uyd2ZyUTNXVE0yZjFvTk84UTBBTGx2dnlteTVIYlhXTllJWVNPOEt3Rjdpb3lxcXZNa0c3ZkNzOTJ0dnRrN0VfRDJNb3RQWFV0d1N2WjNXTUlGeWN5UTlEcWRub1FpM0E0Z3otWmR4c3Z6WkU?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Tue, 17 Feb 2026 05:01:00 GMT"
-    },
-    {
-      "title": "FinTechs Target Latin America Small Business Cash Flow Gaps - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQelh4RlBOQ01rRlRwZVh4T3JhMEZsYVA0eGZONDRRUzk0TEtydUpKZGR0TF9qVDEwUE9sRnlrWnFQTDQ1OHR3aFIzUlVxYUhYT0lzYU1xN2JoeFBLNUQtQXdvVy1YNUh5cEEtMTVmVWhMcm9zc3k1RkdTY3l4YnQzeV9SQXVHNnJRdTFZdzZGRXBxS1p2RjYxQQ?oc=5",
-      "source": "PYMNTS.com",
-      "pubDate": "Tue, 17 Feb 2026 17:07:14 GMT"
-    },
-    {
       "title": "No, It’s Not Back to Business as Usual - The Atlantic",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGs1ckwwbkdvWW13OGNtQzRpTXVzeXVjVkdNOFhlYmhWd0hpQ0xEa2tmZ1BqS1psLVJNSE1RLV9VQ3ZiVEg0M2ZXZEZZR1FBcS1NbFhqamgtMDZsQllFN2VzeTkzLTVuSnc2MTZsYVhXTGJrZEZCXzlIdmU4dThPWU44d1pqZWZZNVJqMFpmclZDUVJhYkxFQW9R?oc=5",
       "source": "The Atlantic",
       "pubDate": "Tue, 17 Feb 2026 11:27:47 GMT"
     },
     {
-      "title": "Aggravated assault at a business Monday morning - KELOLAND.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkpHSUVIYjhwTExCS1Vhanh3THhmcTI4M2UxRWcyaWhWUTlTNUZLaGdxUl9ZWml1VFV5NW82UFhqb3Z1NkFsMUROVXk5R0UyNUZpTGhJQ3pIVFBwcG1adW5UM3R6SVZjZFZmQWswbmlLdnBLYW5MSzliTHJkV3hXVE93al9zYWN2bUI1QmlRazhSSGfSAZgBQVVfeXFMTm9iNDQyWnBwTW1vM1B0N0VkTDhPa2ktYUN2QTBFRFlJeEhUMUNGdW94UzRLRkFkY2o4RU5FTmdnQ2NjU0JhRjg4WEV1QzFnLWtYSHIzcGZvSm5OdHpBak9nUmJCRWVseTB2ZDI5X0dHLTRPUkVUazBBNTA1blFZX25KOS03S3hWOVdydFlOUDBvUmI2a3lZdXA?oc=5",
-      "source": "KELOLAND.com",
-      "pubDate": "Tue, 17 Feb 2026 17:38:09 GMT"
+      "title": "4 Reasons to Delay Applying to Business School - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSVhpbGZ1VkRMQjlhYjExU3VPaDhIWTREVWdkbHhxTDc2UWR6LVpBRFFlZnB3ZXR2Njl6MkkzWEFYS25YcTBXVnhETWxmby1YNXF4LVlNby1rRGZGdGE3TTlYZkk5VjBobzhpTmVMVkJuVm1wZ1lLMUExRjQyek1LZ1NYNmdrYWpBUjdkSVlVYUw1RjNfbUlDTUdDUXh6TVVfa2dpUmRqWGlUZjZFUkFqcXp6NFIwaEh1cG9aQ0R2dkgzMWgxbnpGTkhFdzMwcU44SmlfWHg0Yw?oc=5",
+      "source": "U.S. News & World Report",
+      "pubDate": "Tue, 17 Feb 2026 18:38:00 GMT"
+    },
+    {
+      "title": "Booz Allen to Expand Global Commercial Business with Acquisition of Defy Security - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObVdNaEs1Y3BHSWprblRZSVk4UmltOFR6RERGTHkwby1vUWZNNndVZzlmUXpVZm1YVVFMek5KN3lWckkyeWFCQmRRT012aE55ejhQM1NRX3BQOXg5dW1TLUJ1TWtXSHhuZS05MzI3YmZwMnZrdWh5WFdMZmNVM2NLUjdWU1d1UExIazVfZmd1dDluaFZnVF9GVHMwODJyRVNzOHJPQUVvT2lScHFYZDU1S3AtZGtuUnJEZjg5dlNadldjSUstRHY5a3BmM3hhTTROR2tkdg?oc=5",
+      "source": "Business Wire",
+      "pubDate": "Tue, 17 Feb 2026 13:30:00 GMT"
     },
     {
       "title": "I spent 26 hours in Qatar Airways' business class. Not all seats are created equally, but I get why it's so beloved. - Business Insider",
@@ -101,6 +101,24 @@
       "pubDate": "Tue, 17 Feb 2026 18:17:20 GMT"
     },
     {
+      "title": "Democrats aim to roll back business tax breaks to fund new per-child benefit for lower-income Colorado families - The Colorado Sun",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUhKYTI1eDRXaXdwWU8xN0I5a2lrZW8xdldwN2xWTmxMOFloVDVaTU9OQ1N3Yzc5UUFhLWNCZ1pDMkFEWW9PdmVvaVJGLTl1SEJ4LWJoSTNoV0xlZF9iV1Y4OFJrM3Zsc3BqYXo4OW9sbVpCTWRVb2l2MWNMNVJ0UkQ0SUZfZHh1TmppUVJBRTRYWkdfdHJZ?oc=5",
+      "source": "The Colorado Sun",
+      "pubDate": "Tue, 17 Feb 2026 18:30:00 GMT"
+    },
+    {
+      "title": "Business After Hours: An evening of fun, networking, and entertainment - WALB",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWM1WlNvRG1GQ0ZZRjVsVXNNWVVOZGNEbWJXU3I3bzZvNEVBUFFRdS1FYTg1QUlIRkY5ZEt3MzNjSGNVQ1pfY2p1Vm1oSGNjeFZ2NU9tWDlndGxjNkZjTkVmZTFaZFZ2VldQdkJXdWJrZDdkWkExV2lNRV9Sd3RzREZ5QmhaZFRvYUdEXzlGOEVpd01feEl3WA?oc=5",
+      "source": "WALB",
+      "pubDate": "Tue, 17 Feb 2026 18:36:00 GMT"
+    },
+    {
+      "title": "NFIB Names David Frizzell from Johnson City as Small Business Champion - NFIB",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVI4dEloZTNZUk1JSllkMGluSlVvdzdtNk1BQzc1ZHZ5N3NlZlRsbXd3M1FEVzVkWHpsZ293NUprQjZlVENfWHpZVUxhSUdIQ0xqYzlEbFZ4akNJZmtJVW5JTzdEM2VvdDV5OXVIVFJCNmlSdFlBTy00TTR1V2tWUGhQS3JpUXVWOVlxWlV4bk05NGw3ejlLbS10MlRRRXFsU0lDbQ?oc=5",
+      "source": "NFIB",
+      "pubDate": "Tue, 17 Feb 2026 18:06:43 GMT"
+    },
+    {
       "title": "42 graduate-led startups selected to compete at Rice Business Plan Competition - Rice University",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZURjRWdUVEloSHVpQmVhOXNkOUo4dU5jQkN3NmRSTTJFYm1tYnFlU19IdmFUWmdkMHFsMEdQdmtfRTNYNmEwQi1GdW5ZMFI0cFFsUFZXZnhDSjJLYmpQSjN0VkhmLTlSWHhPUFRjRUZ0dERhVC1DZEIyTGtJbGdDVUMzckJ4cHlWZ3o5Zi1ZZGhVdUFSa2NXTnVDdVJaUmJkazRLNzBFaw?oc=5",
       "source": "Rice University",
@@ -111,6 +129,18 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNempwODdOUUNTdUh5LUpTUGRsTThkekFmOWJCMzRKTWstekNWREZ3TUhCZmpMRDdzYTNtWEFWZ0UwZVlMNXNzTmdGWjdYRE54WVlXVmhOMDRwal9KVDUtazFXS014bllaNERXd21aWkF2cDVJTEpzZWNNSmtQZXZkLWVhNnY1S0VYbkpmRjFIVHk3MHc1RWRTWUpVTVNJb1plUktrOWxOYmxlNWNJTGk5U0xLMFdpM0U?oc=5",
       "source": "Mercer",
       "pubDate": "Tue, 17 Feb 2026 16:57:16 GMT"
+    },
+    {
+      "title": "Werner restructures one-way truckload business, takes $44M charge - Trucking Dive",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc043QWxEa3E0WUNzNjlzUVhnaEN1WmduUVRvUkNIZmlrbkxEOHU2VHhRYjFxelczVWcwRUZkOVVnSm1SQzVJWXVSdE1tdmNFN3QxUmhVT1phZ19ENGR2ZkkzbmtrVVU2VGtxeVFvYTZMZlBrQmxxUGwtOFRnOFFYY2ZWenZTLWJw?oc=5",
+      "source": "Trucking Dive",
+      "pubDate": "Tue, 17 Feb 2026 15:03:05 GMT"
+    },
+    {
+      "title": "Albuquerque hosting small business resource fair - KRQE",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMm1TMnhLTU5FRGlydmVmZXJEcm9YSmtYT3NnaWpIc2JjWGdLZmpxa2Z5ZmhjTUEwYTczTlM1T29MMVNFcmczYkdROHhwQzBPX2p1ZzBZd0lxWnp6S05zaWJlOEFMcENFU1FoSnVqbnZ0Nm83Z3VmM3FQQVA3VzRjVWpzUnJIQzl2MmJ1YTlR0gGTAUFVX3lxTFBtVmJyc183aFJpdnkzY0lRbHo3Q3BQU1JfclR4TFFTLUZMeGVVdnRoUy00MkdLX3JOblI5bUhhMl8wcXVHQnlmZC1wbldrV1diUFE0ejYyN0Y3eGd3RS1BdmxOMHZmU1RSbVV0SFFNUUFlNFZ2ZkYxbmlhdWUybjducVl1bTBuU1Q4d0ZMOUlkZUNHSQ?oc=5",
+      "source": "KRQE",
+      "pubDate": "Tue, 17 Feb 2026 17:38:18 GMT"
     },
     {
       "title": "Do It For The Culture Week - Black Business Summit & Market - Bethune-Cookman",
@@ -125,10 +155,40 @@
       "pubDate": "Tue, 17 Feb 2026 14:43:48 GMT"
     },
     {
+      "title": "FinTechs Target Latin America Small Business Cash Flow Gaps - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQelh4RlBOQ01rRlRwZVh4T3JhMEZsYVA0eGZONDRRUzk0TEtydUpKZGR0TF9qVDEwUE9sRnlrWnFQTDQ1OHR3aFIzUlVxYUhYT0lzYU1xN2JoeFBLNUQtQXdvVy1YNUh5cEEtMTVmVWhMcm9zc3k1RkdTY3l4YnQzeV9SQXVHNnJRdTFZdzZGRXBxS1p2RjYxQQ?oc=5",
+      "source": "PYMNTS.com",
+      "pubDate": "Tue, 17 Feb 2026 17:07:14 GMT"
+    },
+    {
+      "title": "A top Salesforce executive says Benioff's ICE jokes were 'not OK' - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTc3NU1rSjRjdFZqaTlvc3p0R1FSaE1oelBPWTlITy14NkVZMVk0bHB3TGM4RlU4V2VIVDBpV2RFRlNUb2dtZFBMbzdTRThfVmktMTRXQVc4VFlyYXJoa0NySTA4QlRsQVBJUDZGMGlnRmtJblZrem1kQmVlTzduakRvWUNsS2tlMWR2SEFXUm5Xdw?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Tue, 17 Feb 2026 02:53:00 GMT"
+    },
+    {
       "title": "Business Connections receives international accreditation - VCU News",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHVXTzk1dG44MzNLRkVPT0EyY2txQnVsbVlBSVlFNlBRTTgtWks3ZXJxNkw4dHRlUURjX0tlSTBUQkhqUWJSNGp5d1hXZ1hJYlIyOWVibXUxX1RvUUFaSjBXbm1PZ2IzdFZiMlI3Ry12cENZNWk5NEZhQ0hXeThEdTNPMWxHZlBvZ01aSjUxZDAxLWs0NDZMbWhB?oc=5",
       "source": "VCU News",
       "pubDate": "Tue, 17 Feb 2026 14:18:30 GMT"
+    },
+    {
+      "title": "$95K Sparks New Life in Rome's Business Scene - WKTV",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlpzRVZsZTBNemh4VWxYOWx4VU50ZjZUa29KYTRxc3NSSUdCSV9RQzlsdjBvTUI5akt0ZVpHWmtjdS1US0dnNFZYaTZjd09XUE1PUHdNTkVIa2J6bExhZEtIaFpLZ29rTk9keW9TMVE1Y1JLcEFXRlJhZi0tY1lXMS0zUW5LZ1dNa3lOaG9vZ2IyS0tMRHY4RnhmMmltV3cwMXVoaGtsSXRoZGZFN09pdVFmR1d4RmpmOVB6X1Zkb05oU1U?oc=5",
+      "source": "WKTV",
+      "pubDate": "Tue, 17 Feb 2026 18:25:00 GMT"
+    },
+    {
+      "title": "'Dress for the job you want' is dead. Now, it's 'dress for the job you want to keep.' - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzBjbTJPaFk5bkpyY1FJQ0hXcXFUbjNsVnkyT3dRZkJsclR6ckFDQjFvZUJtRlQ5NkRtNGJpR1Y2emd2WUxyWmgwRFpuSVN2LXE5bUZfQXhJTFFjdHVDTUVWZnBmU2xnNkNNOThfcktFWV81MDJvMHl5Y0tBcU5SSlBtRzRvUENNRjk3Zy0wZlo3cVMtTGlmU1pwXzM0SEU?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Tue, 17 Feb 2026 13:42:00 GMT"
+    },
+    {
+      "title": "From Civil Rights to Corporate Boardrooms: The Business of Legacy - SaportaReport",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOGdHT2xzRHNxaHNXdzdxSkhfcXVzNVJkN2NiQXEyb0w3UklVaHV0NUVTZXY1RzdUNEM4ODBHQnpIaHNPLUVxQ1JnLWFWZGxMWUQxcnVzU2ZoZ2FGZHcyU2Z3YTN1Yi1fSkRtUjMtcGV1aUNDWVpQQlJKNUpFQ3FiQ2QtMUtrYm1YVS1jZ3d6cmw5eGZhT3U0T0RkUlcyMU9WOHR5TzExS1pWZUNnWE55NHRzRXotemMwV29VVUhIbmlYOGtHWTBRd1h1OA?oc=5",
+      "source": "SaportaReport",
+      "pubDate": "Tue, 17 Feb 2026 18:54:27 GMT"
     },
     {
       "title": "AI@Work: From “better answers” to real business outcomes - Microsoft",
@@ -143,28 +203,10 @@
       "pubDate": "Tue, 17 Feb 2026 16:10:50 GMT"
     },
     {
-      "title": "FedEx Invests $500,000 in business department at LeMoyne-Owen College - Action News 5",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXU3NzBDaXRxMTV2WkcySTVxNzVYVGwwRWM2QTRZT3ctdHh4OEk2LVBsYWtnQUpkYzI5VnZVeHROZGdoRU9USWNmbjFFM3RSRUdDLWttWmJCaldndXY4R3NYUWNWUi1TS2N6b2VPcGJLOG5yaEJjRWxXVWFDVUVqUEllTlhwMEYzSFhlTk1YVERNaDhfYTRONHdzcjRrbFFjQUxJ?oc=5",
-      "source": "Action News 5",
-      "pubDate": "Tue, 17 Feb 2026 15:35:00 GMT"
-    },
-    {
-      "title": "A top Salesforce executive says Benioff's ICE jokes were 'not OK' - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTc3NU1rSjRjdFZqaTlvc3p0R1FSaE1oelBPWTlITy14NkVZMVk0bHB3TGM4RlU4V2VIVDBpV2RFRlNUb2dtZFBMbzdTRThfVmktMTRXQVc4VFlyYXJoa0NySTA4QlRsQVBJUDZGMGlnRmtJblZrem1kQmVlTzduakRvWUNsS2tlMWR2SEFXUm5Xdw?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Tue, 17 Feb 2026 02:53:00 GMT"
-    },
-    {
-      "title": "'Dress for the job you want' is dead. Now, it's 'dress for the job you want to keep.' - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzBjbTJPaFk5bkpyY1FJQ0hXcXFUbjNsVnkyT3dRZkJsclR6ckFDQjFvZUJtRlQ5NkRtNGJpR1Y2emd2WUxyWmgwRFpuSVN2LXE5bUZfQXhJTFFjdHVDTUVWZnBmU2xnNkNNOThfcktFWV81MDJvMHl5Y0tBcU5SSlBtRzRvUENNRjk3Zy0wZlo3cVMtTGlmU1pwXzM0SEU?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Tue, 17 Feb 2026 13:42:00 GMT"
-    },
-    {
-      "title": "Dentist Goes Back to School to Learn the Business Side: Angélica Farfan on Finding the Spanish BBA - SUNY Empire News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUnRQNE84QzZmU0E5MFhFOWM4NWdKN01RcGVhdHZLaHNjLTNZUmhNT1NoV29jVV82ZzlpS2FqZk4tNVUyaUFESm9kQVZWZDNSQVRJOFNSR1ZQOVRuTkg1c0hRWW1Zc2NUZTVoWmFrRks4dUdmQURHYkRmV2wzaU9Gc1haYVkycXBJbVNxTkd4Q2RXYUpPR0ZDZWhRSVR1aHdEd1lOTDVhcEo1Sk5SeDdmRTRFRzNxcEltM205Ym1EM3dmSVJv?oc=5",
-      "source": "SUNY Empire News",
-      "pubDate": "Tue, 17 Feb 2026 15:33:15 GMT"
+      "title": "Authorities investigate car with bullet holes parked in lot of Durham business - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1ZEVG1kMXdyaFF1Q0xrQVR0WkM0US1rMERsSlNOeVZIRDh5QzRIZTE0bkxFMkVJNjhDcHV4Y2REblY1WkpxTGh1RnBMYldwWXBtQlNZY0otcEJ1djVTZTVGaHRJS0MwRFZic3lOaE1WbF9seldzN3JpZW1LZUc4MUdVOVJHT05oeVNtbEpDYkliaTlhVzRhWFFfNVc2WS1NRzBmUnFBYnNfdXc?oc=5",
+      "source": "WRAL",
+      "pubDate": "Tue, 17 Feb 2026 17:21:42 GMT"
     },
     {
       "title": "Inside the Winter Olympics: ASU students experience the gold standard of sports marketing in Milan - Arizona State University (ASU)",
@@ -173,34 +215,52 @@
       "pubDate": "Tue, 17 Feb 2026 17:52:05 GMT"
     },
     {
-      "title": "Students Study the Link between Happiness and Consumerism in Business Course - Meredith College",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMUZnSEFpblVWdlhIY21uNk82d0R5Vzc1SnZCSnhlWGpGcmtjTjhvTjlqVW9KYTFIeThocE9nME00QlJUNDV6bTdrbFd2RVpzeXNORXQxclRuOXNoWXVaRGdWNEN4c3g4b0oxb01XUlFlRHRqUEtaZEM5WUtscVRtb2VPaVlkZjN1dVFPTkJ5aGZDUUMxM0UwVVoxMndmYlZPU1ljdUZLVnl0bTQ?oc=5",
-      "source": "Meredith College",
-      "pubDate": "Tue, 17 Feb 2026 13:04:25 GMT"
+      "title": "FedEx Invests $500,000 in business department at LeMoyne-Owen College - Action News 5",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXU3NzBDaXRxMTV2WkcySTVxNzVYVGwwRWM2QTRZT3ctdHh4OEk2LVBsYWtnQUpkYzI5VnZVeHROZGdoRU9USWNmbjFFM3RSRUdDLWttWmJCaldndXY4R3NYUWNWUi1TS2N6b2VPcGJLOG5yaEJjRWxXVWFDVUVqUEllTlhwMEYzSFhlTk1YVERNaDhfYTRONHdzcjRrbFFjQUxJ?oc=5",
+      "source": "Action News 5",
+      "pubDate": "Tue, 17 Feb 2026 15:35:00 GMT"
     },
     {
-      "title": "Yamaha U.S. Marine Business Unit Earns Top Industry Honors at Miami International Boat Show® - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPanVuT2dhWWlFS3JWclVLdmdxNnZEQ2h4OUs2TlJINjJPUGZEUmtjYWxVa25SMm1qbDRxWkV0VnYyRDVoWFRoTjRNcnNQNlRxbVpoN2ZMRTdhdG45NkdlN1FETmdHUWh3ZHd0dnk0U0tkWHJwUFBqNUhQNEEySUZUeA?oc=5",
-      "source": "Yahoo Finance",
-      "pubDate": "Tue, 17 Feb 2026 18:00:00 GMT"
-    },
-    {
-      "title": "Authorities investigate car with bullet holes parked in lot of Durham business - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1ZEVG1kMXdyaFF1Q0xrQVR0WkM0US1rMERsSlNOeVZIRDh5QzRIZTE0bkxFMkVJNjhDcHV4Y2REblY1WkpxTGh1RnBMYldwWXBtQlNZY0otcEJ1djVTZTVGaHRJS0MwRFZic3lOaE1WbF9seldzN3JpZW1LZUc4MUdVOVJHT05oeVNtbEpDYkliaTlhVzRhWFFfNVc2WS1NRzBmUnFBYnNfdXc?oc=5",
-      "source": "WRAL",
-      "pubDate": "Tue, 17 Feb 2026 17:20:53 GMT"
-    },
-    {
-      "title": "Effort to save, reform Business Council advances; Freedom Caucus presses to defund it. - News From The States",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcXBFZm9pV2xNSzdudWZHdXBYbTZpMDdJMUFza0t5bkZ1YXF1MXJYNzJ5SzBJeWpZOTZFaDJBc2FDeldDekh2VTBCTVNBc0RUdU03bm5yNFl1cHdpbGw5VmpzMWt0MjZyRzVNeUU1OHlUd004MHk2TkRtRS1vSXBOMVV0cUpjc1RkWmhJQnBfQnVPVE4wa0RnRWx2LWY1dUo4SGdxODhTZ0o2TTRKRzJyMHgzVHA1WklrU0I0?oc=5",
-      "source": "News From The States",
-      "pubDate": "Tue, 17 Feb 2026 14:19:28 GMT"
+      "title": "Dentist Goes Back to School to Learn the Business Side: Angélica Farfan on Finding the Spanish BBA - SUNY Empire News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUnRQNE84QzZmU0E5MFhFOWM4NWdKN01RcGVhdHZLaHNjLTNZUmhNT1NoV29jVV82ZzlpS2FqZk4tNVUyaUFESm9kQVZWZDNSQVRJOFNSR1ZQOVRuTkg1c0hRWW1Zc2NUZTVoWmFrRks4dUdmQURHYkRmV2wzaU9Gc1haYVkycXBJbVNxTkd4Q2RXYUpPR0ZDZWhRSVR1aHdEd1lOTDVhcEo1Sk5SeDdmRTRFRzNxcEltM205Ym1EM3dmSVJv?oc=5",
+      "source": "SUNY Empire News",
+      "pubDate": "Tue, 17 Feb 2026 15:33:15 GMT"
     },
     {
       "title": "Santa Cruz County business filings: Week of Feb. 17 - Lookout Santa Cruz",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wWEx5VXRPaVlBZnZ4OVltY2tEUjdDalBJdE12djJCSlVVV1BSRlZvXzZ5OFI2QVo3TTY0bmZqdmtreHYyVWV6Mk1JQ2NQSnV5Skl5enNGY0FOOU5ibHI2UzhqUzVtV1ZMRnhiWnBlcjU3RXZaakppMlhIczBobXM?oc=5",
       "source": "Lookout Santa Cruz",
       "pubDate": "Tue, 17 Feb 2026 18:21:40 GMT"
+    },
+    {
+      "title": "Students Study the Link between Happiness and Consumerism in Business Course - Meredith College",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMUZnSEFpblVWdlhIY21uNk82d0R5Vzc1SnZCSnhlWGpGcmtjTjhvTjlqVW9KYTFIeThocE9nME00QlJUNDV6bTdrbFd2RVpzeXNORXQxclRuOXNoWXVaRGdWNEN4c3g4b0oxb01XUlFlRHRqUEtaZEM5WUtscVRtb2VPaVlkZjN1dVFPTkJ5aGZDUUMxM0UwVVoxMndmYlZPU1ljdUZLVnl0bTQ?oc=5",
+      "source": "Meredith College",
+      "pubDate": "Tue, 17 Feb 2026 13:04:25 GMT"
+    },
+    {
+      "title": "A Ukrainian drone pilot found a hidden Russian arsenal, only to discover it was filled with horses and old cars - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXU5VmQ4aGU2am5RUFJ0MjRMa1NEV2w2aVljUDZKMHJhR1B5S0ZCWVBEdXZIbGt5RjJHcENNY1Uyd2ZyUTNXVE0yZjFvTk84UTBBTGx2dnlteTVIYlhXTllJWVNPOEt3Rjdpb3lxcXZNa0c3ZkNzOTJ0dnRrN0VfRDJNb3RQWFV0d1N2WjNXTUlGeWN5UTlEcWRub1FpM0E0Z3otWmR4c3Z6WkU?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Tue, 17 Feb 2026 05:01:00 GMT"
+    },
+    {
+      "title": "Warner Bros. Discovery says it's worried employees will quit if it picks Paramount's offer - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXQ3MWlBYkNLMVpOTVY5MERueUViTDVXX1YtbzVnSk92YkI1NVBqVUtOSDBVNGk2NFZ2dzFxdm1fdkZWclgyT1h2S2NaTVRfQjJJUHM3SF9HUzF1c1FPdEppalE0R2FuRTBrSGQ0andiMFJKT05KeUdUWVJRdmVSSXFwV2R1LXFWLVBzN080SGYyblJIQ0dUVi14am9yejdlblE?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Tue, 17 Feb 2026 15:51:00 GMT"
+    },
+    {
+      "title": "Data leak at Abu Dhabi finance summit exposes politicians and business leaders - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yWTVielJPRVU0UFNpczU3V3hVbms0cVpYOXEyeW9vVXZoSHJfRi13QVUxWlU3ai03WWQ1RjVZdE1aYzBOR3RKb2g0NVphcmhmLXh5dVdxd3M1LUF5MEhkbTRDRGc5WnUtRXJ3R1k2cVY?oc=5",
+      "source": "Financial Times",
+      "pubDate": "Tue, 17 Feb 2026 18:09:44 GMT"
+    },
+    {
+      "title": "Effort to save, reform Business Council advances; Freedom Caucus presses to defund it. - News From The States",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcXBFZm9pV2xNSzdudWZHdXBYbTZpMDdJMUFza0t5bkZ1YXF1MXJYNzJ5SzBJeWpZOTZFaDJBc2FDeldDekh2VTBCTVNBc0RUdU03bm5yNFl1cHdpbGw5VmpzMWt0MjZyRzVNeUU1OHlUd004MHk2TkRtRS1vSXBOMVV0cUpjc1RkWmhJQnBfQnVPVE4wa0RnRWx2LWY1dUo4SGdxODhTZ0o2TTRKRzJyMHgzVHA1WklrU0I0?oc=5",
+      "source": "News From The States",
+      "pubDate": "Tue, 17 Feb 2026 14:19:28 GMT"
     },
     {
       "title": "Montana chapter of Independent Business cites uptick in optimism - Missoula Current",
@@ -221,16 +281,10 @@
       "pubDate": "Tue, 17 Feb 2026 18:01:03 GMT"
     },
     {
-      "title": "A software CEO explains why he's not worried about the AI apocalypse coming for his industry - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYXYzTGFDVjJGX0RzR0RhdjZtYUZ5Rk5DTnhvRV95VllzM3hDdHhObXdKOTBtTXBZd25zLW5HU1M2dFNhR1NyZ0FzZHBON0txay1BY2FPVkRRZ1d1SmRUN2RXTTFIcGItVE40TEFkajJPRlNxVm01MEM1amIyTXVSU192ZnJDWFUyYXZ4UG1RTnVJVm5vbHlR?oc=5",
+      "title": "I'm a dietitian on the Mediterranean diet. Here are 10 things I buy at Costco when I'm trying to eat more fiber. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdHlqTWNJWkEtYjNfT3JER0Y5NnBOSmxGQUVtNElDbVJ1WVN1cDg3MzZaa3FpOWt5WHVQRng4c21IbVRHQVU0YXM5YWxtYjhUbnF5MFNuVWlJdEliNG9uMDBPZ0FOYW9NbVo1ZFBqclNjQTJ0bjMwdGRBeWo0bUVkc08wM1JVdVVmYlRFbnFwV1JWeGVST2FSdEJxRlVEZUxaQTBn?oc=5",
       "source": "Business Insider",
-      "pubDate": "Tue, 17 Feb 2026 13:13:00 GMT"
-    },
-    {
-      "title": "Klarna has 3,000 employees. The CEO says he expects that to be down to less than 2,000 employees by 2030. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaTJ4ajk5TVNFYjZ0MGlsaVlYVXlzRG1nX2phV2M0LUVVSzN5bWlfQ0dsTXdwaTNMTTZKWG1NZWhDc0lRVmRoQVlPOTJLLVozSERERVFVZGdDYWpmVFNQNmhReXRkY0lDX0hlSGJqRTl2UDF0QkpBWHNLQzhKQmVkTU9veFlfeUhqYmlldDhUQjQyVl8xZHc?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Tue, 17 Feb 2026 12:30:00 GMT"
+      "pubDate": "Tue, 17 Feb 2026 14:24:00 GMT"
     },
     {
       "title": "Civic and business leaders invest in the future of UTSA student-athletes - UT San Antonio Today",
@@ -239,34 +293,16 @@
       "pubDate": "Tue, 17 Feb 2026 09:05:50 GMT"
     },
     {
-      "title": "Warner Bros. Discovery board gives Larry and David Ellison another chance to buy the company. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDlQR3l0bEdHcEx3NldLUDZTQll0LVpPNXl4SldLS0VZSjBfZkplVnRyRS1KVUVDVGdqdVI2RTBSWlpUYl9yUks5SzFfZm04cVdUNC0tOS1JOGVlRDlTZVozZkt2bmRTeW5qM2lSV0R4eFBfLWt0TGY2SHdMNlVYRXpGTEZwNFY3ZHpEOF9tNXJoU2RGdGZQeUJXYw?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Tue, 17 Feb 2026 12:01:00 GMT"
-    },
-    {
-      "title": "Springfield business broken into, cash register stolen - Capitol City Now",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmlMOXBxYk5ZYXpjUk9jeGotOHYzVmFmUzNMTXg5WjdvS0dHTTZCRDVDUmdGNzJBRXl2eEhTNEZvdTFfTloxeG9GSUdjSFRPSkhzNXFyWnZvNk4ydGNKQU5Wa0gxb0lCSExPWmRuY3NlUHdnQ0FQOHZaMmRlY0ZfcTdyN2VwcVRzWERqLUxfcVZPNHRRV0k0bw?oc=5",
-      "source": "Capitol City Now",
-      "pubDate": "Tue, 17 Feb 2026 12:33:13 GMT"
-    },
-    {
       "title": "USM launches online master’s in Business Analytics program - WJTV",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZDhsQ3F2Q1dCOTU1NlRZcVVHaHE2YXdFcHhWc2pFRTA3THdYTWJ6MkZ1THBaWUswUE5OOEZqSl9XLWlzaEZfSkxnRUEyQ21GUmhlLW9aQU9ZM1UxMzYwYlhvZ0hYNy10ZUtGR2R4NGtXY2FIUXc3ZXo3SXUzbWV4TjNIazdiVFJONy1scHMtWmVMa3NKMXFMTnlR0gGfAUFVX3lxTFBFSVNHX2ZHeTBQRG9kNUkxNTFpemRvUkRQOVBCM3p3WHhFdXg1TEQ4dnpyTUw4d19IZFNxMkxXdGd0cmlGV2xPVzk5UWp5WGw4cHRsMG1MZmlCU1JkZkNBcFROU3locm05YjJGMld2Q0g3RGJSZkNMWFF1cjRCdl8yallHc29ha3IwQzk0S1RJMjRLOU9YWXV2aVJXSzZHZw?oc=5",
       "source": "WJTV",
       "pubDate": "Tue, 17 Feb 2026 17:44:54 GMT"
     },
     {
-      "title": "EDITORIAL: Another pointless mandate — another blow to Colorado business - Common Sense Institute",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVXhrVDlkOEttUnMwNHlBU3ZJenczWkdBbVdQRUVpbDFYaVNFOGlQVE5hMjdJZ3FjQ2ZtRVI3NldES0JkemxhTnRzR0xCbXJwVXVhcEJSUl9ZeUJ5YnBJRHNPSkpMSmxySmdLZXNSUW8tNUFMSlFaekZ5ekxERF95YzA3SmprRmdEXy1tN2xKekxRRDRhT1o3TVZIMThKY292cnNfWFlBQjM2MEhvVTRiMnRmQWd5QkVPekw0eHBXYnVobmFxcUE?oc=5",
-      "source": "Common Sense Institute",
-      "pubDate": "Tue, 17 Feb 2026 15:57:26 GMT"
-    },
-    {
-      "title": "5 Pitt people made the Pittsburgh Business Times 30 Under 30 list - Pittwire | University of Pittsburgh",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY1hISUlQYnBPbjRWQ1lSejFEQkJhTDdSdXh5b25adElNa2ltbmlRNXZITTFPUTRNNFJPRmtQTWk5SUJQZGtlNTBmMGxzUlNLQmhnZVFBWUhuMXBrVzVKeFVUZnBQeFlGUU85NjdxQlFnbkxNOHJUb2xpRlNEM0tXdHJqMUpmd1pwYzNHWlZkTTVqUU9UU0xXd095WQ?oc=5",
-      "source": "Pittwire | University of Pittsburgh",
-      "pubDate": "Tue, 17 Feb 2026 12:00:00 GMT"
+      "title": "A software CEO explains why he's not worried about the AI apocalypse coming for his industry - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYXYzTGFDVjJGX0RzR0RhdjZtYUZ5Rk5DTnhvRV95VllzM3hDdHhObXdKOTBtTXBZd25zLW5HU1M2dFNhR1NyZ0FzZHBON0txay1BY2FPVkRRZ1d1SmRUN2RXTTFIcGItVE40TEFkajJPRlNxVm01MEM1amIyTXVSU192ZnJDWFUyYXZ4UG1RTnVJVm5vbHlR?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Tue, 17 Feb 2026 13:13:00 GMT"
     },
     {
       "title": "MACo to MGA: Preserve Local Partnership in Neighborhood Business Development Decisions - Maryland Association of Counties",
@@ -275,16 +311,34 @@
       "pubDate": "Tue, 17 Feb 2026 17:31:49 GMT"
     },
     {
-      "title": "Lowe’s Teams With Affirm to Build Up BNPL Business - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS2Nya2N2NGpQMGpsa05jUUdscWFxeVhrckNObVBYb2RWem5IS3ZCbjY4OEkyMU9UUkNkSXZ0LWVfUHFqYzBNdjBuLTlsSnFZNi1TQjk5bVVYdW9ZMGl5WFZZR25pN3FpSS1ZSXo2WFFUNWJHbXNhNnc3Z1Yzc3JqOHgzdkNVMGxfX2pNWi1TQlpNeUpQ?oc=5",
-      "source": "PYMNTS.com",
-      "pubDate": "Tue, 17 Feb 2026 16:19:05 GMT"
+      "title": "Klarna has 3,000 employees. The CEO says he expects that to be down to less than 2,000 employees by 2030. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaTJ4ajk5TVNFYjZ0MGlsaVlYVXlzRG1nX2phV2M0LUVVSzN5bWlfQ0dsTXdwaTNMTTZKWG1NZWhDc0lRVmRoQVlPOTJLLVozSERERVFVZGdDYWpmVFNQNmhReXRkY0lDX0hlSGJqRTl2UDF0QkpBWHNLQzhKQmVkTU9veFlfeUhqYmlldDhUQjQyVl8xZHc?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Tue, 17 Feb 2026 12:30:00 GMT"
     },
     {
-      "title": "Albuquerque hosting small business resource fair - KRQE",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMm1TMnhLTU5FRGlydmVmZXJEcm9YSmtYT3NnaWpIc2JjWGdLZmpxa2Z5ZmhjTUEwYTczTlM1T29MMVNFcmczYkdROHhwQzBPX2p1ZzBZd0lxWnp6S05zaWJlOEFMcENFU1FoSnVqbnZ0Nm83Z3VmM3FQQVA3VzRjVWpzUnJIQzl2MmJ1YTlR0gGTAUFVX3lxTFBtVmJyc183aFJpdnkzY0lRbHo3Q3BQU1JfclR4TFFTLUZMeGVVdnRoUy00MkdLX3JOblI5bUhhMl8wcXVHQnlmZC1wbldrV1diUFE0ejYyN0Y3eGd3RS1BdmxOMHZmU1RSbVV0SFFNUUFlNFZ2ZkYxbmlhdWUybjducVl1bTBuU1Q4d0ZMOUlkZUNHSQ?oc=5",
-      "source": "KRQE",
-      "pubDate": "Tue, 17 Feb 2026 17:38:18 GMT"
+      "title": "EDITORIAL: Another pointless mandate — another blow to Colorado business - Common Sense Institute",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVXhrVDlkOEttUnMwNHlBU3ZJenczWkdBbVdQRUVpbDFYaVNFOGlQVE5hMjdJZ3FjQ2ZtRVI3NldES0JkemxhTnRzR0xCbXJwVXVhcEJSUl9ZeUJ5YnBJRHNPSkpMSmxySmdLZXNSUW8tNUFMSlFaekZ5ekxERF95YzA3SmprRmdEXy1tN2xKekxRRDRhT1o3TVZIMThKY292cnNfWFlBQjM2MEhvVTRiMnRmQWd5QkVPekw0eHBXYnVobmFxcUE?oc=5",
+      "source": "Common Sense Institute",
+      "pubDate": "Tue, 17 Feb 2026 15:57:26 GMT"
+    },
+    {
+      "title": "Springfield business broken into, cash register stolen - Capitol City Now",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmlMOXBxYk5ZYXpjUk9jeGotOHYzVmFmUzNMTXg5WjdvS0dHTTZCRDVDUmdGNzJBRXl2eEhTNEZvdTFfTloxeG9GSUdjSFRPSkhzNXFyWnZvNk4ydGNKQU5Wa0gxb0lCSExPWmRuY3NlUHdnQ0FQOHZaMmRlY0ZfcTdyN2VwcVRzWERqLUxfcVZPNHRRV0k0bw?oc=5",
+      "source": "Capitol City Now",
+      "pubDate": "Tue, 17 Feb 2026 12:33:13 GMT"
+    },
+    {
+      "title": "Warner Bros. Discovery board gives Larry and David Ellison another chance to buy the company. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDlQR3l0bEdHcEx3NldLUDZTQll0LVpPNXl4SldLS0VZSjBfZkplVnRyRS1KVUVDVGdqdVI2RTBSWlpUYl9yUks5SzFfZm04cVdUNC0tOS1JOGVlRDlTZVozZkt2bmRTeW5qM2lSV0R4eFBfLWt0TGY2SHdMNlVYRXpGTEZwNFY3ZHpEOF9tNXJoU2RGdGZQeUJXYw?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Tue, 17 Feb 2026 12:01:00 GMT"
+    },
+    {
+      "title": "5 Pitt people made the Pittsburgh Business Times 30 Under 30 list - Pittwire | University of Pittsburgh",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY1hISUlQYnBPbjRWQ1lSejFEQkJhTDdSdXh5b25adElNa2ltbmlRNXZITTFPUTRNNFJPRmtQTWk5SUJQZGtlNTBmMGxzUlNLQmhnZVFBWUhuMXBrVzVKeFVUZnBQeFlGUU85NjdxQlFnbkxNOHJUb2xpRlNEM0tXdHJqMUpmd1pwYzNHWlZkTTVqUU9UU0xXd095WQ?oc=5",
+      "source": "Pittwire | University of Pittsburgh",
+      "pubDate": "Tue, 17 Feb 2026 12:00:00 GMT"
     },
     {
       "title": "Small business owners squeezed by Trump tariffs await Supreme Court decision - New Orleans CityBusiness",
@@ -293,16 +347,10 @@
       "pubDate": "Tue, 17 Feb 2026 17:09:23 GMT"
     },
     {
-      "title": "Kapi Kapi Growers hires Business Development Manager - bluebookservices.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVkJXN1RxSUpvNUxmYVRYYXhfNkNnbFZkdHYtNXRwV3JVcTNPamxleVZqbWFuVUI5T3NDOF9Rc2xYa0ZUaDg0V19DUzBnQnhORGliX0FUQmFvYkFwd29WdmdXaWlkemZaMkRZX09VMnMzYUNmZnBjcEk2Ti1rR1VTeG9ib1ZCejVJOTF6M3QtZzNsdw?oc=5",
-      "source": "bluebookservices.com",
-      "pubDate": "Tue, 17 Feb 2026 17:40:52 GMT"
-    },
-    {
-      "title": "How Catholic Teaching Challenges Businesses to Serve People, not just Profit - St. John's University",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcUpDdWVSdUdLN0YzMkNJOXBJd0dhbFNkTmNYMFB0RGZ6ZnpzSWJDcEJFVkpraXU4NllUNWFjU1NTMnRLdWZRZng1cmRkSURnUEhMdW4xTFVWTkl6cExjc3h5QWp0MUpIRFBva1k0eHRnb1gxTG4xNXhwSlhpbDNBQmNfeXNCY3hMeFpYWFd0R3BmR0VPMzhwcERrN0ZFSHVfMTZmNnJ2LTQ5dXY0X0JqdnoxSEVodW9ZaklDcVByYms?oc=5",
-      "source": "St. John's University",
-      "pubDate": "Tue, 17 Feb 2026 16:12:20 GMT"
+      "title": "Lowe’s Teams With Affirm to Build Up BNPL Business - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS2Nya2N2NGpQMGpsa05jUUdscWFxeVhrckNObVBYb2RWem5IS3ZCbjY4OEkyMU9UUkNkSXZ0LWVfUHFqYzBNdjBuLTlsSnFZNi1TQjk5bVVYdW9ZMGl5WFZZR25pN3FpSS1ZSXo2WFFUNWJHbXNhNnc3Z1Yzc3JqOHgzdkNVMGxfX2pNWi1TQlpNeUpQ?oc=5",
+      "source": "PYMNTS.com",
+      "pubDate": "Tue, 17 Feb 2026 16:19:05 GMT"
     },
     {
       "title": "L.A. business owners slam city after entire block of stores flooded: ‘No one was doing anything’ - KTLA",
@@ -311,16 +359,40 @@
       "pubDate": "Tue, 17 Feb 2026 18:04:57 GMT"
     },
     {
+      "title": "Yamaha U.S. Marine Business Unit Earns Top Industry Honors at Miami International Boat Show - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcVlIVm1seDhRNUkyX2hzTlUwNE1NR3VqdUtsNWxvcjNCTTZuYmt6ODBEektiSVpVSUt1S0Y3anlhd1VDdElrWkFjeGxYOWVhajlBLWFldmlSTm5CQnR1dlM3clo5TDB0c0FFUWRZbXNYLW5wQ1FlMWNFb0xJaXJnUGtpckc1VEpKSHZjTmVENTNucjRSTEFQUk1oVy1DS3BDQ0hTckpWRjF6cUdOVXZSYkZUSHNpamdTOUJNR0hfU2pNQVlfNzdhWFlkajZSNWpQUld3NWN0Skg3R0dUNnVQLUVtV1FiZw?oc=5",
+      "source": "Morningstar",
+      "pubDate": "Tue, 17 Feb 2026 18:00:00 GMT"
+    },
+    {
+      "title": "Kapi Kapi Growers hires Business Development Manager - bluebookservices.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVkJXN1RxSUpvNUxmYVRYYXhfNkNnbFZkdHYtNXRwV3JVcTNPamxleVZqbWFuVUI5T3NDOF9Rc2xYa0ZUaDg0V19DUzBnQnhORGliX0FUQmFvYkFwd29WdmdXaWlkemZaMkRZX09VMnMzYUNmZnBjcEk2Ti1rR1VTeG9ib1ZCejVJOTF6M3QtZzNsdw?oc=5",
+      "source": "bluebookservices.com",
+      "pubDate": "Tue, 17 Feb 2026 17:40:52 GMT"
+    },
+    {
+      "title": "Aggravated assault at a business Monday morning - KELOLAND.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkpHSUVIYjhwTExCS1Vhanh3THhmcTI4M2UxRWcyaWhWUTlTNUZLaGdxUl9ZWml1VFV5NW82UFhqb3Z1NkFsMUROVXk5R0UyNUZpTGhJQ3pIVFBwcG1adW5UM3R6SVZjZFZmQWswbmlLdnBLYW5MSzliTHJkV3hXVE93al9zYWN2bUI1QmlRazhSSGfSAZgBQVVfeXFMTm9iNDQyWnBwTW1vM1B0N0VkTDhPa2ktYUN2QTBFRFlJeEhUMUNGdW94UzRLRkFkY2o4RU5FTmdnQ2NjU0JhRjg4WEV1QzFnLWtYSHIzcGZvSm5OdHpBak9nUmJCRWVseTB2ZDI5X0dHLTRPUkVUazBBNTA1blFZX25KOS03S3hWOVdydFlOUDBvUmI2a3lZdXA?oc=5",
+      "source": "KELOLAND.com",
+      "pubDate": "Tue, 17 Feb 2026 17:38:09 GMT"
+    },
+    {
       "title": "PHOTOS: Inside Waymo's largest robotaxi depot in the world - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1BHb09lUkNjMDRfSDQ5alVKSDdtOV9oZFhLeVhCOVd1TVQ5cFB3dGZ4MEVMYWZBamJHdS1nZ1d3aWpZTVYzN2d2VExXekdNaXJWQ3ZDUXpIaWc1cFJDR0M3dzFrVmFiS0RVSmhYM3YxYkNXS2k0bjdXaEdXRlg2dE9TS0tYQ2ZtRmctRi13SmxCcklkemZ6Slg3VEw?oc=5",
       "source": "Business Insider",
       "pubDate": "Tue, 17 Feb 2026 09:14:00 GMT"
     },
     {
-      "title": "Amazon Business and the shift to strategic resilience - Spend Matters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRmNoaGxHVk1wYm5RZFRfMXpKTnFjNXlGaUZoZ1lwQS1pZ2oyR28tNmQ1MWl1N0dqeXo3YUFhWkVMZWZJMWc0WTZkcU5WU2RUZDdqWnVEUGtiZHBfVEhWbk1fNkNaZkluTE5lOVVENHNKcUItamZSdFJiZ0JOX3l3bDFJVTRmcXBNaC1qeHB3SnkyNVQ4?oc=5",
-      "source": "Spend Matters",
-      "pubDate": "Tue, 17 Feb 2026 10:00:00 GMT"
+      "title": "How Catholic Teaching Challenges Businesses to Serve People, not just Profit - St. John's University",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcUpDdWVSdUdLN0YzMkNJOXBJd0dhbFNkTmNYMFB0RGZ6ZnpzSWJDcEJFVkpraXU4NllUNWFjU1NTMnRLdWZRZng1cmRkSURnUEhMdW4xTFVWTkl6cExjc3h5QWp0MUpIRFBva1k0eHRnb1gxTG4xNXhwSlhpbDNBQmNfeXNCY3hMeFpYWFd0R3BmR0VPMzhwcERrN0ZFSHVfMTZmNnJ2LTQ5dXY0X0JqdnoxSEVodW9ZaklDcVByYms?oc=5",
+      "source": "St. John's University",
+      "pubDate": "Tue, 17 Feb 2026 16:12:20 GMT"
+    },
+    {
+      "title": "Luxemburg man charged with $175,000 theft from Sister Bay business - Green Bay Press-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3FjYWhkcExqSW1SdFNaRTVUdUowQTA5eHlfQ0ZLSVZVVl8yN29NY0JCMGtYS0xQc1p0cWV0ZWlfM1dIdUVUNmg5WXo3NEhueTNnenRpNzlueWdzUE9odllvd205V0hmWkJYMjVKbFBfNC1yYXZycnFxMnhrNEROaWZiSVJtRlExZnk2TFZpX2hlVUtnOEs4ZVgxM3JlR3dfYUQ1Rk9kMzZqdHNDbkd3LWZ6UllzY2MtSDU3dGhKVC1HbXlGSzJTNlZZUTZuTVdsS0VqamlXNHBlTU5hUTJpT2ZLOF9aZE1kY2hj?oc=5",
+      "source": "Green Bay Press-Gazette",
+      "pubDate": "Tue, 17 Feb 2026 19:26:00 GMT"
     },
     {
       "title": "Danaher acquires Masimo for $9.9bn to bolster diagnostics business - Medical Device Network",
@@ -329,10 +401,22 @@
       "pubDate": "Tue, 17 Feb 2026 17:03:26 GMT"
     },
     {
+      "title": "Tax Relief Compromise Delivers Relief for Wisconsin Small Businesses - NFIB",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTy1pS1RkcU4yU0tsVFBnNHl3MUxoZkNOUWxSZjBMUnd1b1JGMmVnd0lNWTdzX3pHak1oVjd6amNPRTk5UGNzME1wanNra191T1ZNUlB1aWFHeEdHOUFuRXpfZGJwQkpBY25iekNKVWtHdE5xTld3YXFzSjNGcEtZUktaTk5PbzU5WEs3Z1JwaGZEOG9rQVRKeDU1WnFxR3UxR3c?oc=5",
+      "source": "NFIB",
+      "pubDate": "Tue, 17 Feb 2026 19:34:17 GMT"
+    },
+    {
       "title": "Business Aircraft Activity Climbs in 47 States in 2025 - Aviation International News",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSl92YXdXU1FjRW9QU0tLUW5CRUhIeFJVNUNWRWtjWFZZVkxBTWwzOGFDcXMtZDZDSWtib1VkTW9fM3hwcThqQjFCaUdYWU5jTzRveGdGaGZ3UFNQdV80MDQwZXFTS1V1M2pULWdTemVBRU9rcGxUN0M5ckp0clRnQ2JCSi10SWVkRUlheFl5RXBMemRFR2JnUWVKZXFtVHcyVmluSjBoT0RQQmNyMFE1MzMybWxFUHFR?oc=5",
       "source": "Aviation International News",
       "pubDate": "Tue, 17 Feb 2026 17:42:01 GMT"
+    },
+    {
+      "title": "Business Notes: New food truck, transportation commission gets new leader - The Virginian-Pilot",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tdGJFSkd0X25walJHSDg3Q1NRSW1Uc2xDeXpWWTRpNG1mRTR0WGRIUDhyNzhjVzVjdW13blhBZTJvaHl2WnU2TUEwdkpwYWtMY3ZlM3N6MkEyUjBQbGFLVmxBYlJGVERtTnpJZjRUS1g3aVhxejNFQw?oc=5",
+      "source": "The Virginian-Pilot",
+      "pubDate": "Tue, 17 Feb 2026 18:44:04 GMT"
     },
     {
       "title": "Effort to save, reform Business Council advances; Freedom Caucus presses to defund it. - WyoFile",
@@ -341,52 +425,16 @@
       "pubDate": "Tue, 17 Feb 2026 11:22:00 GMT"
     },
     {
-      "title": "The Benefits of Employee Engagement - Gallup.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQlVrLWRRYTZYTW5pUjU0UHlVUm8yRDhVLVZOdlRucTJfbS1LU1Btcy1RRW1LWDFuUTFfSXl1SVRPVkV2cV8tTV9DTGdCOG9ZYTVQSWVFbDVqcHdNQU95RF9DOGwwSzJseFY5R2YtS0EtMk82cnBaTnZ4NEZyeHVJOW9MVTA?oc=5",
-      "source": "Gallup.com",
-      "pubDate": "Mon, 16 Feb 2026 21:38:34 GMT"
-    },
-    {
       "title": "Greenville’s economic development arm sets three-year goals for growth - upstate business journal",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjE5UUMxS2N3eUZuR2EtbWJIY3NfME96ajBIT2dJbTRZbmFjOXFueWpYdHU5SGUybS1Fb3Y2THBiZGN3XzBkT0dmQ2l5VjlUaHo3aGJZUXRRRFpfSjJxZUVwMjdlLXJRN1RlMHF1bGQ0Z1FCTFF0dm8zdDhueWg1eFI3SXV5TGRFT1lZa0paNEllM3NGbjZiNUZ1ampfemNHWE50aVMzSGdLRHhhZnlsNXZXdllYLTZ3TDl1RDNKZk03Uld0?oc=5",
       "source": "upstate business journal",
       "pubDate": "Tue, 17 Feb 2026 16:56:20 GMT"
     },
     {
-      "title": "Tips to onboard your first employee - ADP Media Center",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RaDBIaUhiZU9uVlNRVzI5Mm1SMlRSOU4tcTZCVFpPdmZzbjlUQ0IwSVVGclgyU0ZQR0RlV3ctVWpKYTlkVzlKeHVyQ01kT003bHFqT3QxM2sxTjlESFBkamY1MmQwMnkzcTdFcHY4U0M?oc=5",
-      "source": "ADP Media Center",
-      "pubDate": "Tue, 17 Feb 2026 13:04:02 GMT"
-    },
-    {
-      "title": "Epstein files end business, political careers across globe - Axios",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tdW1xWUl4R040WGxNOFM3ZXltV0JtN2tvZThPS1dEdEN1YTBIWFdoMURoMEU5TEx3QXFGc2NBdjhuZ0piWU9sMEIwVHU1em5UWGZ3bHZobUlVUFRMR0F4UG11NHdfS3lpeE8zc1A3eV8tVEEybWZyOGxzeGZPWTA?oc=5",
-      "source": "Axios",
-      "pubDate": "Mon, 16 Feb 2026 23:45:46 GMT"
-    },
-    {
-      "title": "Genuine Parts to Split Automotive and Industrial Businesses - Transport Topics",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jM0tBQmpqZHhkekJmQk9KdUVnRFcxM3VHM1BDcTBiNXVxYzBPeHBzMWFvUEhidkdwZ1RRbjBqZWZZclZscUZscU4wUlpxRmNVRU1kZWRjb1kwaDhuakotVVFIYWFwdDQ?oc=5",
-      "source": "Transport Topics",
-      "pubDate": "Tue, 17 Feb 2026 13:43:00 GMT"
-    },
-    {
-      "title": "Salmon sold at BJ’s Wholesale Club recalled over potential listeria contamination - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUW9iZ2N4VzJVZUNNaDRnbldXSFpiNFhHZEF0dTNTWmNReDhOcENUa3lQSWZVQzRMV0VYUm1LRHZmS0ZQekJOM3hSX1NIT0l2U21kb3BRWlN6ZkUxRWl4Zms1NDdMcDJKRFFXMi1TWHAyY1JmSlZjOWpTOU5OdjlvUjdWc0VhRU1GcFozYlRIOC1NR2d4bnlEMnd0aFVJcTlZaFpocnp2YWxhcFJyWEdYTXdaUdIBuAFBVV95cUxPaHc4OXJreUl6SXhheUFqYVpBdW9SZ1lySHhYSFo5My0yeWRkY3NUV3RDbTJwemJraXdzVGkxN0t6c0FjQzJpRUFRNUU0WGd3dndDT2QzUDJiMnlhMUdiOThxV1p5VEVLcWViTjk5MWVuQjBiVkNtMmpWX09YamFIZ1MwX2NNdUh1MjNqX0YzdW83WERZZjJtejhOTHdQY0VOZ0tTa0Q2QmtjdVc2TV81SF9PQV9HZTJ1?oc=5",
+      "title": "Goldman Sachs to drop DEI board standards as Trump's anti-woke campaign spreads across corporate America - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVmRTazJHblJIT0VTaXRHdnh1RDl3ZEpnOHJYU1hhajlGb2IwSUJiVmxPVWZmNU5leVRjc1Ywdjl6SWJpZmM3VFJ0NEdGNXBSX19MOFZQU0lkZEs3UHh5bGVnUE5mNFdoQU0wdlNNdXBVRG04bVgtQWZ4WGhJdTdmM1V4N1FWV3JVNktjWVF2aGs4T3RrQmlSXzF5UEE1cWFUbUVDM2JSOThDaVQ0S1lfTnZBNHdkeHY1X3VwWkdlVVBxY1doaUt3dzNIeFI2Z9IB0wFBVV95cUxNNXZjcG5iSndQZ0hTa1RHNUZsendtdTR5UGlMVUFqVWZ6OTJMVUxKMGc4X05nRU9KT3JrZ3JQNVZGMjJJYmtIYXlJQ0J6c3JFRGpHVW5tel9LbC1MVnA5LURia2hEamV0UzBzc3RVTnRXLXI4S0E5YWxnb0tUcFZjU3JSdXdDTmlBU180Y3RJNjJZdHYxSnhTaE1HVi14WXBGcTdFVUtBbmNKMG82VUdnX2FDU01xVTRDRXZ4NlN3ZXRldzAzWHZEbk5Ob2VWa1UtdUYw?oc=5",
       "source": "Fox Business",
-      "pubDate": "Tue, 17 Feb 2026 02:17:00 GMT"
-    },
-    {
-      "title": "The 30 countries that spend the most on their militaries, ranked - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oY0JwNXd2R0lxRjJYcWZqTVRyUjhGME5BZ0tLN3dKd2FfVmpZVEIweW9kQjNFaGQ5MnRCMlZLRHptcWZsX0xvYTY3dlZnM2N4TUFBZDZpZDNBWmhQM1F2eXpnaUkwTGNTYkVuME8wNHZnaXlyVnpGSEVqYmlEdw?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Tue, 17 Feb 2026 13:37:00 GMT"
-    },
-    {
-      "title": "AMC Networks Int’l Names Tom Keaveney Head of U.K. Business - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOEtZRlYtRUQyazBKdl8wd05teHhoZHlzR1czYlJwRWlCZW16dlo1UlVuRjVrd1NKTUY4czdWS3B5bWU0Y1EzWXJIOEcwTmxGSzRSYmttOGgwMXVEUUM5cEMxMzJDbzBOaXZHQngyRnhNNTBGM2gzdWs2eS1CVlBXN28yRG1pci1tMHctUkU5VWZqSTFFVmlDR2VwWXBwa2RPdzZkMmZXN19VUVNWcG9vdGhSTUNkaXM?oc=5",
-      "source": "The Hollywood Reporter",
-      "pubDate": "Tue, 17 Feb 2026 09:50:13 GMT"
+      "pubDate": "Tue, 17 Feb 2026 12:00:00 GMT"
     },
     {
       "title": "From beards to bytes: How AI is empowering small business owners in Kenya - Microsoft Source",
@@ -395,10 +443,28 @@
       "pubDate": "Tue, 17 Feb 2026 09:08:31 GMT"
     },
     {
-      "title": "I tried 'the Chick-fil-A of Saudi Arabia.' I was more impressed by the value than the taste. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUE5KVS1qZkQ1d3d4LWN3ZnBWa0F6QWdJdlpwZEo2YUhadzlXRDBFRXVfZ1ZrM1VGR3pLZTdhcXFkUFljZU05SGFNeXhBZFluRlhpQWt5V0RObm9OWmpUa0xFVDF0NjdjdUVqc3FpUWtHendEOHgwaXhXdnZNR0JBZy15dkU?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Tue, 17 Feb 2026 16:51:00 GMT"
+      "title": "Genuine Parts to Split Automotive and Industrial Businesses - Transport Topics",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jM0tBQmpqZHhkekJmQk9KdUVnRFcxM3VHM1BDcTBiNXVxYzBPeHBzMWFvUEhidkdwZ1RRbjBqZWZZclZscUZscU4wUlpxRmNVRU1kZWRjb1kwaDhuakotVVFIYWFwdDQ?oc=5",
+      "source": "Transport Topics",
+      "pubDate": "Tue, 17 Feb 2026 13:43:00 GMT"
+    },
+    {
+      "title": "AMC Networks Int’l Names Tom Keaveney Head of U.K. Business - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOEtZRlYtRUQyazBKdl8wd05teHhoZHlzR1czYlJwRWlCZW16dlo1UlVuRjVrd1NKTUY4czdWS3B5bWU0Y1EzWXJIOEcwTmxGSzRSYmttOGgwMXVEUUM5cEMxMzJDbzBOaXZHQngyRnhNNTBGM2gzdWs2eS1CVlBXN28yRG1pci1tMHctUkU5VWZqSTFFVmlDR2VwWXBwa2RPdzZkMmZXN19VUVNWcG9vdGhSTUNkaXM?oc=5",
+      "source": "The Hollywood Reporter",
+      "pubDate": "Tue, 17 Feb 2026 09:50:13 GMT"
+    },
+    {
+      "title": "Tips to onboard your first employee - ADP Media Center",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RaDBIaUhiZU9uVlNRVzI5Mm1SMlRSOU4tcTZCVFpPdmZzbjlUQ0IwSVVGclgyU0ZQR0RlV3ctVWpKYTlkVzlKeHVyQ01kT003bHFqT3QxM2sxTjlESFBkamY1MmQwMnkzcTdFcHY4U0M?oc=5",
+      "source": "ADP Media Center",
+      "pubDate": "Tue, 17 Feb 2026 13:04:02 GMT"
+    },
+    {
+      "title": "Salmon sold at BJ’s Wholesale Club recalled over potential listeria contamination - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUW9iZ2N4VzJVZUNNaDRnbldXSFpiNFhHZEF0dTNTWmNReDhOcENUa3lQSWZVQzRMV0VYUm1LRHZmS0ZQekJOM3hSX1NIT0l2U21kb3BRWlN6ZkUxRWl4Zms1NDdMcDJKRFFXMi1TWHAyY1JmSlZjOWpTOU5OdjlvUjdWc0VhRU1GcFozYlRIOC1NR2d4bnlEMnd0aFVJcTlZaFpocnp2YWxhcFJyWEdYTXdaUdIBuAFBVV95cUxPaHc4OXJreUl6SXhheUFqYVpBdW9SZ1lySHhYSFo5My0yeWRkY3NUV3RDbTJwemJraXdzVGkxN0t6c0FjQzJpRUFRNUU0WGd3dndDT2QzUDJiMnlhMUdiOThxV1p5VEVLcWViTjk5MWVuQjBiVkNtMmpWX09YamFIZ1MwX2NNdUh1MjNqX0YzdW83WERZZjJtejhOTHdQY0VOZ0tTa0Q2QmtjdVc2TV81SF9PQV9HZTJ1?oc=5",
+      "source": "Fox Business",
+      "pubDate": "Tue, 17 Feb 2026 02:17:00 GMT"
     },
     {
       "title": "Why the business community’s voice matters | Your Turn - Ventura County Star",
@@ -407,28 +473,40 @@
       "pubDate": "Tue, 17 Feb 2026 16:00:00 GMT"
     },
     {
-      "title": "Werner restructures one-way truckload business, takes $44M charge - Trucking Dive",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc043QWxEa3E0WUNzNjlzUVhnaEN1WmduUVRvUkNIZmlrbkxEOHU2VHhRYjFxelczVWcwRUZkOVVnSm1SQzVJWXVSdE1tdmNFN3QxUmhVT1phZ19ENGR2ZkkzbmtrVVU2VGtxeVFvYTZMZlBrQmxxUGwtOFRnOFFYY2ZWenZTLWJw?oc=5",
-      "source": "Trucking Dive",
-      "pubDate": "Tue, 17 Feb 2026 15:03:05 GMT"
+      "title": "Doceo Launches Business Services Division, Expanding Capabilities in AI, Marketing, Print, and Branded Merchandise - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWnJnN2ZVbGdjNjJHQm5xb2VoUnNtTXFaWXBTeTdEMGo3ajF6MWVtS0dodEVNWmUzQTZ3TEt2V3E0R0ZxX1pwd2JJVWlSTUthUVRvUDJGZUZhRFl3ZVI3WXVXQmxOZHVqaE5BMGNjZzZPRVFvMTRTVlAxWEFla2czYXI2SWd1ZDUza1hkckk2UUFWZEo2Z1dpd0I5NVVGaG5VRTBucHpyZVpSSW1pdk81LTFaVmxYeHVpMnhlckFXbFFQOFVSSkN0R2Fqa04wS05CUnltYmZ0dnBfREM5RnZwb1NXTEs0MTlWMUpTdTJnN2xUd2xtaHhkOXBR?oc=5",
+      "source": "PR Newswire",
+      "pubDate": "Tue, 17 Feb 2026 13:36:00 GMT"
     },
     {
-      "title": "I'm a dietitian on the Mediterranean diet. Here are 10 things I buy at Costco when I'm trying to eat more fiber. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdHlqTWNJWkEtYjNfT3JER0Y5NnBOSmxGQUVtNElDbVJ1WVN1cDg3MzZaa3FpOWt5WHVQRng4c21IbVRHQVU0YXM5YWxtYjhUbnF5MFNuVWlJdEliNG9uMDBPZ0FOYW9NbVo1ZFBqclNjQTJ0bjMwdGRBeWo0bUVkc08wM1JVdVVmYlRFbnFwV1JWeGVST2FSdEJxRlVEZUxaQTBn?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Tue, 17 Feb 2026 14:24:00 GMT"
+      "title": "Jesse Jackson on 'unfinished business of America' in Memphis in 2018 - The Commercial Appeal",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYkFzN0lkSzUxbUg5RlF4Q0lSWE9lVEFYRmlfeURYTG9jUmEyeGhOS2I2b205OVUxNmFid3dJTE45XzJoOGhQOUIxc1VRNWltcXBuWGViaEhIYllhYS02UW02NUxNYmJDRmlOUXFjcUVndmNKMWhIUmRLa2N5OV85NVQwSGpzR1VBa3hSYkZHM2N6b1BQa0NRTzZUYV9TeDhjU0hxZmxOcnIydlRSWnJIdEFGTkM5Vm02WTdZSWRYOHhPN1pZdU5sNGJPUlRFWExfSlRyalkxTEgwUQ?oc=5",
+      "source": "The Commercial Appeal",
+      "pubDate": "Tue, 17 Feb 2026 18:12:09 GMT"
     },
     {
-      "title": "Local Business Spotlight: J Spot Wellness Prioritizes Self-Care - PHL17.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZnZBYnNpWWo0ZGhMTmR3aDhJYXlBMUk1amNXR21xZG5IMHlQaWF1NW5ZdnJ3aVE5eGdGTTUwU1c1QWdCT043ZHNEc3RGdUNCSGtyRWh4X2RaNzRvam1xUjQ0b2VteHVCR0lDRjFWUkptM2pBZHk4NVVRM0FIaFlnWnNtZ1QyQVJfb3VJUWJJeGRKMktxTURn?oc=5",
-      "source": "PHL17.com",
-      "pubDate": "Tue, 17 Feb 2026 15:37:55 GMT"
+      "title": "Epstein files end business, political careers across globe - Axios",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tdW1xWUl4R040WGxNOFM3ZXltV0JtN2tvZThPS1dEdEN1YTBIWFdoMURoMEU5TEx3QXFGc2NBdjhuZ0piWU9sMEIwVHU1em5UWGZ3bHZobUlVUFRMR0F4UG11NHdfS3lpeE8zc1A3eV8tVEEybWZyOGxzeGZPWTA?oc=5",
+      "source": "Axios",
+      "pubDate": "Mon, 16 Feb 2026 23:45:46 GMT"
     },
     {
-      "title": "Fairfax businesses flood as owners say city's pre‑positioned equipment failed to keep Melrose Avenue dry - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZWU1a2FTVTVDWU9ITjl0QUlYV3pKd0I4aU9ReEZqam1TdEVqSHpWUnlXNFd3TkJJU1Z1SGZ1ZEVsN1R2U2VaZndsekVOU01wV0xhczYzWmxySE5jbmNlRlJ5cDRfVGFlVXdMUTJEaGR2TE5qT0EyVUxwZWFfcUlNVWt2Y3NHbE9YeFlvWDN0ME1xZGVwTmNLcUd6eHgwT0s2VmfSAacBQVVfeXFMUGZnNVNLV3pOVjhvWTNLU2pVWWVEVFRaWHRGRVZ6aFdjbnZleDZPSndhSVRKZnktM3pnNFVLMjUyQ1pfSktqTE9nbDdPYUNuZllrT21MeEdJLXJtWUt2N2dISl9CZFc2QkJqbGk3TjJZQU5SdWN4a01XM3hhMTcwU3o4QTI5TV90dEI4TkZjNHhnU3RzdVdjRHFnS1VTTFRDSndYUktsQnM?oc=5",
-      "source": "ABC7 Los Angeles",
-      "pubDate": "Tue, 17 Feb 2026 04:57:23 GMT"
+      "title": "The Benefits of Employee Engagement - Gallup.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQlVrLWRRYTZYTW5pUjU0UHlVUm8yRDhVLVZOdlRucTJfbS1LU1Btcy1RRW1LWDFuUTFfSXl1SVRPVkV2cV8tTV9DTGdCOG9ZYTVQSWVFbDVqcHdNQU95RF9DOGwwSzJseFY5R2YtS0EtMk82cnBaTnZ4NEZyeHVJOW9MVTA?oc=5",
+      "source": "Gallup.com",
+      "pubDate": "Mon, 16 Feb 2026 21:38:34 GMT"
+    },
+    {
+      "title": "Editor’s Note: The Wages of Extremism - Twin Cities Business",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53eUFZZUZWbzVoMVBTbm1ZaHdBOTRfZXVkbXBGZG1pWW5QN1VJY3piRlVQMzFsYUlHWVd2X1JFV0JRTFlna1VNTXc4Q0FnVkViNnpCekllWkYtbVVwYkRjVDhBQnZYUQ?oc=5",
+      "source": "Twin Cities Business",
+      "pubDate": "Tue, 17 Feb 2026 19:34:22 GMT"
+    },
+    {
+      "title": "BCE Small Business Plan classes begin March 3 - Bluffton Icon",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM29BeW1TMkVPZ0I1YVBxWnFONHZaTFhQMHQzcDBkQUpIb3g4SFV6ejRvcjd2cTBZWVdNcGtqMHJUUGtxb0NXZ21DVW9WQWxEbGNyS2dERzE4Q3NPT19Md3VyY1pUWFd3UVpaZTBYcFBQbnNjTXhpRnQwZExXNlJfRTliMGc1VzNMWnNydW81Q1RJU1NUMFE?oc=5",
+      "source": "Bluffton Icon",
+      "pubDate": "Tue, 17 Feb 2026 13:31:08 GMT"
     },
     {
       "title": "Kingston mayor appoints city’s first business liaison - Daily Freeman",
@@ -437,52 +515,10 @@
       "pubDate": "Tue, 17 Feb 2026 17:11:43 GMT"
     },
     {
-      "title": "Small Business Smarts: Tips to Onboard Your First Employee - ADP",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVotckhzTnFrYmxSMlRrMWplMTBWUGJZUGNPTTFXM1VUdlBJTHNWdzUxUjRNLUd4ZS1vZjJ2RWtpaS16VlRsWmRKd09pZHVPZlNLMFBFdXJrU2c2V00ydG5MdVVrSzdsc2gzN3NLc3AwU2c3bE5OVVFBSjdWVThoMkRRRVU4UWF4RW8xd2NMZ1pDOGxTN3VRbUUtN2RzZHRXRkFZZ0ZTV28?oc=5",
-      "source": "ADP",
-      "pubDate": "Tue, 17 Feb 2026 13:48:48 GMT"
-    },
-    {
-      "title": "This left-for-dead hedge fund business is finally bigger than it was before the 2008 crash - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV0V3LUZKQWFRLXlpcm1FWUhodEhIR1pseFlVNjUzc3ZmdEFHMW85eWVkamRUWjRmMUhVWnpEZzFFRVd2R1cxOEtadUw1QnZ6NTFUSlZvczdWX3lFdlVRU1lidl93ZXdpTnVxWEZWYnVEeE5EQ1dDWk1SV1ZBSWdtMHJkNmdzLVJLTDJz?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Tue, 17 Feb 2026 10:25:00 GMT"
-    },
-    {
-      "title": "Business listings: See the new businesses in Central NY (Feb. 16, 2026) - Syracuse.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVlfNzBNU0FRZUQwbllIRzFWR2JiVUpZclpFVENmUTJQdG9pSXBNYjFvbk9Xc2VYQ3l3S0RUZ3FMczdfT1N1U1c0NlN4VFhBRzhrM2stc1kzbENmcDgxNGhUUWFPOHllTEVNUm9IRFF6SWVrckx2Z2lHWjRWc0wzZkpJSEF3WVNIU1FoWW9Qa08yRGszSEYyNXNTQzJRYlRXWV9qZTJoOU5HYlNSNC1mQVQzd9IBxwFBVV95cUxQMkZYMXlFc1F4VUhTemdVd3BfUy1HOTQxeW51R05kOGstTUhDR1Foano1TDdUUE5rRXV0cmZkUmFQOUhPQkJyOXVqdzZtUkp5bGIyNkFLZGdCQW5Td3p2SDBXWTJYRW93N3UtVnZoS3FWM21veURzU0VQb0hzUFR6OTYxbng1WlBYMS1qdFgtd1ZkS3MwRjBSWDJNeUI5SGpiRWpfQlpjR1NraUJHWE4xWFh4Rkc0NFpMVjVSdGpEcGwtQkd3SFhv?oc=5",
-      "source": "Syracuse.com",
-      "pubDate": "Tue, 17 Feb 2026 12:00:00 GMT"
-    },
-    {
-      "title": "Kimberly Goes to Business School, No. 1: Designing the Experiment - Santa Fe New Mexican",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMHp6NGl1a1hpSFdGNWNzNjZ4blp4M1VaQTVMMDV1RU1rek1oczVyVDFQMjNreDFzWGhoeHk3Q282Z3JFQ1VoTGlGb2JVSkhpOVgxZC1lQWhNQzhrakw4Sl9QUjVXSmJTYTdhRm1RcHNMLU1PcGFkUkM4Vnk2bW1faXkxUnpaT1ItUnFkTmMxNnItUHJZR1Y1eV9FXzVhbF9DdENvOFhNaC1UM2JoQWNySFIyZENEMUszYWdDb3pYNGQtaGRLUWJjOXlIeExZRVlzZ2huWTBCdXZDYW5NakphN0RMZENLcDlxbURrN25HZGxLUQ?oc=5",
-      "source": "Santa Fe New Mexican",
-      "pubDate": "Tue, 17 Feb 2026 05:00:00 GMT"
-    },
-    {
-      "title": "Sheridan native opens third branch of property restoration business - The Sheridan Press",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaF82WFpYX05qNFhxaFp5YmVGMlBwaktxSG5pOS1hbktLTkRzQVVheVl3SWMwcVloYXFIYlRXeEJsMTcxcWNEclJsZmVUUS1oWllLT2tJenpTeTZWWWptMjFFLVNuXzNrN3lTQ1VibDVsWFJndFA4U3dDd0NtVy1kUGtjVHVPQlAyQkt1bENTb19WbWR1YXVrYUxlMmhZRlEyYlhZd25UZVBrUXFXX0pIRE5BczZOMnlBSmVrazVIVV9vWEZCUDJkRFRuTjcyZWRWMUJxUWtGekw2aFp6QVVCRG5xUTMxb0FWR1NTZ0VSZUxmYkl4MWo3OXNxdi1ZbDJWQWM5Zw?oc=5",
-      "source": "The Sheridan Press",
-      "pubDate": "Tue, 17 Feb 2026 17:57:28 GMT"
-    },
-    {
-      "title": "Choctaw Nation invests $1M to embed tribal business hub in Oklahoma public library - Tribal Business News",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdWFJMXRHVU1sb1FVZkxrcVpyQ3o2T3FrWkJuZ05nSFZtUDNxM3Z2ZU1yNmJ1dU1sWFNLZ3gxMEdRaDZxVzR0djAwaWhYeVZDMlB0NjJBN0ZpVG9GNlRYcnVkbkE5OVplb1E5eDhUUFVjdmpWYzk0ell6S1lkWE5zLTlnVkxsb2lKUVRQVmdlcWJHSVpyR09iM24zWTZpaDBOWHE0MVAyaENVelFxUmVMWXJCZS1Uaks0NUdVN3p1LXpiNk5QUGJZcWlCaGlTWXVVdWM1Y0dwd09tc0E?oc=5",
-      "source": "Tribal Business News",
-      "pubDate": "Tue, 17 Feb 2026 11:42:15 GMT"
-    },
-    {
-      "title": "Booz Allen makes acquisition to expand global commercial business - Washington Technology",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeDVYcG8xa0FZWTJkMGhrTDlyMkMwbE4yMGlpMUdVYXdjU0ZsaTB0a2dHYVVYeU45MzQ1Umg2azU2MkhpV2Jzc0pGUnB1b0RnN1J2bXdwVkFfeDBQZUUwN0JZMS12MDUtei1xZXBkWHE4LVZCQm5ydDMyTXVNOUdUcWpyTEk2RlpZWUl3X3IzNnlwNDhKN3ZZdFVBT25mZDNSZjlzaVRKb3VtX3R0Z0dVQUVmSmJNVjN5N1dpTWlNSVpucVU?oc=5",
-      "source": "Washington Technology",
-      "pubDate": "Tue, 17 Feb 2026 15:48:07 GMT"
-    },
-    {
-      "title": "Billings business robbed at gunpoint, investigation ongoing - KTVQ",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFFJWnV1REJJRi11OUhWNzFLblloSWZFTW1SVXFHUFJjdk12VTRDOXdLUHphaTRzaFNmNjUwWUFZblVIc1AyWk9Sd05yOG5ObGFLTEppQ2UyVXU3eUk2WEJZRmFPdEpDVjBkOEdmV0VFZkEyYlhQZUFVXzY1M0tKTjJBNHE2NWgyOXd3ZE8xOXdKbzFIN0RJNHhn?oc=5",
-      "source": "KTVQ",
-      "pubDate": "Tue, 17 Feb 2026 12:28:24 GMT"
+      "title": "Small Business Energy Risks and Microgrids Outlined in HelloNation Article Featuring Energy Conservation Expert Jason Guck of Rochester, NY - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQakw2ekVVZTVnQ0dVRmRkelpjbFpsaFA4OXhCTGJ6amVnV2E4Z3ZnOUZ0dVItTzB5WkF0ajcxaG1KdG5HbXEyanBZQzE1dHBaMDhlcVBMNDg2MGJIdndBbzFmeGprZGVEZUhzYmFfeGdpdmhOblhRUVhQV0tWLVBjQkFWMmxiNGphaUwxWFp0WHJodG4wX0ljRXhMS1FBTmFEMGNMU0hMcmY0S0otcDlBdW5OcWtNQkhvMVVXNlJyay1Ca0cxa2NQem5TenVKSUNsaWdYXzVQZ2FlQXkzajUtbGRaYS1DZVBDcHF3T1R4RjN1MHB1bHVDWGM0SW05WWptYXlOazRTNjNoMWhoYm1nbTRBMTVYSnRGMmcyT0hUeHpWWGRkNnc?oc=5",
+      "source": "Morningstar",
+      "pubDate": "Tue, 17 Feb 2026 18:19:00 GMT"
     },
     {
       "title": "NBCUniversal is suing Group Black, alleging breach of contract and seeking nearly $36 million - Business Insider",
@@ -491,16 +527,70 @@
       "pubDate": "Tue, 17 Feb 2026 18:06:00 GMT"
     },
     {
+      "title": "Small Business Smarts: Tips to Onboard Your First Employee - ADP",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVotckhzTnFrYmxSMlRrMWplMTBWUGJZUGNPTTFXM1VUdlBJTHNWdzUxUjRNLUd4ZS1vZjJ2RWtpaS16VlRsWmRKd09pZHVPZlNLMFBFdXJrU2c2V00ydG5MdVVrSzdsc2gzN3NLc3AwU2c3bE5OVVFBSjdWVThoMkRRRVU4UWF4RW8xd2NMZ1pDOGxTN3VRbUUtN2RzZHRXRkFZZ0ZTV28?oc=5",
+      "source": "ADP",
+      "pubDate": "Tue, 17 Feb 2026 13:48:48 GMT"
+    },
+    {
+      "title": "Booz Allen makes acquisition to expand global commercial business - Washington Technology",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeDVYcG8xa0FZWTJkMGhrTDlyMkMwbE4yMGlpMUdVYXdjU0ZsaTB0a2dHYVVYeU45MzQ1Umg2azU2MkhpV2Jzc0pGUnB1b0RnN1J2bXdwVkFfeDBQZUUwN0JZMS12MDUtei1xZXBkWHE4LVZCQm5ydDMyTXVNOUdUcWpyTEk2RlpZWUl3X3IzNnlwNDhKN3ZZdFVBT25mZDNSZjlzaVRKb3VtX3R0Z0dVQUVmSmJNVjN5N1dpTWlNSVpucVU?oc=5",
+      "source": "Washington Technology",
+      "pubDate": "Tue, 17 Feb 2026 15:48:07 GMT"
+    },
+    {
+      "title": "Scammers get $125K from Hazle Twp. business - Hazleton Standard Speaker",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdEdXMTVTNnN4ZkdOdU8zbGxLVUg5c0Z5aGllTkhWSnBPNUpmeVdjUk1nQ2ZVUXdDZmFyTmVxUHZobV9iMk9xMkpiODEybHpKWFk3dlZsRGg1d0pEY2szT2N0a0h3M21XVXJCUWhBaVFMNnhaR0dMN0RQS2ZIQ2hab2VUSmFQVEgydlN1bVlB?oc=5",
+      "source": "Hazleton Standard Speaker",
+      "pubDate": "Tue, 17 Feb 2026 18:44:05 GMT"
+    },
+    {
+      "title": "Payoneer Adds Stablecoin Capabilities for Cross-Border Businesses - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdy1rbmhITjNycUNDODBkUWZCLXBiWk0tRzFOU3JoSkFld2pjbzRfR3N0SDJ1V0h5RjlPTEJRc1dRQmNPSHRHLTU0eUtFTkFLcDdDVHNncTNMVlJnRzZSajBvYU1FeEJhbGJfdkFSVFdIRXJQdzRCTlZJV1JPNnZyZjB5ak84Sk03and3WlJ3eDVLUXNGRW9wT3h2M21qYnBvN3hNZmRVQVRhR0FzbVE?oc=5",
+      "source": "PYMNTS.com",
+      "pubDate": "Tue, 17 Feb 2026 17:02:09 GMT"
+    },
+    {
+      "title": "Sheridan native opens third branch of property restoration business - The Sheridan Press",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaF82WFpYX05qNFhxaFp5YmVGMlBwaktxSG5pOS1hbktLTkRzQVVheVl3SWMwcVloYXFIYlRXeEJsMTcxcWNEclJsZmVUUS1oWllLT2tJenpTeTZWWWptMjFFLVNuXzNrN3lTQ1VibDVsWFJndFA4U3dDd0NtVy1kUGtjVHVPQlAyQkt1bENTb19WbWR1YXVrYUxlMmhZRlEyYlhZd25UZVBrUXFXX0pIRE5BczZOMnlBSmVrazVIVV9vWEZCUDJkRFRuTjcyZWRWMUJxUWtGekw2aFp6QVVCRG5xUTMxb0FWR1NTZ0VSZUxmYkl4MWo3OXNxdi1ZbDJWQWM5Zw?oc=5",
+      "source": "The Sheridan Press",
+      "pubDate": "Tue, 17 Feb 2026 17:57:28 GMT"
+    },
+    {
+      "title": "NAPA parent Genuine Parts plans to split automotive and industrial businesses - CBT News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51TEZOSnNWWFhkLXlKTlJZTVpCTmVsTkFOQmZnVGlHUDlXT3BPNF8zTFhrYXl0T1g5TW51dkdBdUM0aFZTTERhSzEtSk1BWjRhNS1aeXVuVy15NXRlREJBTUNWbk9vRHFSUWxvUmlOQQ?oc=5",
+      "source": "CBT News",
+      "pubDate": "Tue, 17 Feb 2026 18:29:51 GMT"
+    },
+    {
+      "title": "Business listings: See the new businesses in Central NY (Feb. 16, 2026) - Syracuse.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVlfNzBNU0FRZUQwbllIRzFWR2JiVUpZclpFVENmUTJQdG9pSXBNYjFvbk9Xc2VYQ3l3S0RUZ3FMczdfT1N1U1c0NlN4VFhBRzhrM2stc1kzbENmcDgxNGhUUWFPOHllTEVNUm9IRFF6SWVrckx2Z2lHWjRWc0wzZkpJSEF3WVNIU1FoWW9Qa08yRGszSEYyNXNTQzJRYlRXWV9qZTJoOU5HYlNSNC1mQVQzd9IBxwFBVV95cUxQMkZYMXlFc1F4VUhTemdVd3BfUy1HOTQxeW51R05kOGstTUhDR1Foano1TDdUUE5rRXV0cmZkUmFQOUhPQkJyOXVqdzZtUkp5bGIyNkFLZGdCQW5Td3p2SDBXWTJYRW93N3UtVnZoS3FWM21veURzU0VQb0hzUFR6OTYxbng1WlBYMS1qdFgtd1ZkS3MwRjBSWDJNeUI5SGpiRWpfQlpjR1NraUJHWE4xWFh4Rkc0NFpMVjVSdGpEcGwtQkd3SFhv?oc=5",
+      "source": "Syracuse.com",
+      "pubDate": "Tue, 17 Feb 2026 12:00:00 GMT"
+    },
+    {
       "title": "Intuit And Wix Partnership Deepens QuickBooks Role In Small Business Stacks - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnV2SkFmV0lfcEdBTlZmb0xBYjZzN0VtbUFjU1VrUnpONElpLW52TndNQk1zU2FwS0hra3dBQV9yN3FINV9TckkxcFVTdDVTYml1QWVFTENFV3FnVm1oVHJhRV92SWg3bmlSMVRrdTRiU19ycVo3TWJaalE0alhOSXRVd0JtdnhLd3QwRTlJVlM?oc=5",
       "source": "Yahoo Finance",
       "pubDate": "Tue, 17 Feb 2026 17:13:55 GMT"
     },
     {
-      "title": "Atlanta-based Fortune 500 company Genuine Parts plans to split in two - AJC.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkZWZjF0QVY2dGRpS29pWFo5YndCMDM3SEtlcFA3S1BiZ0hka1RKUkNqY2hVUjRkUGNWbUJjSXhKdFdtZGk2dVYtY2sxNVZ5a2N2SGdDN0pmTDVTeUthRGhlUnRWTEszb3RmeHhVRUlrVVVfdmpEMV9yUWlhLXM3YnpqQ1hIYVNBQXBPVkVyMUc5czdsMWh5NWR5WVhsOXc0ZVV6Y1BsQUZMekk?oc=5",
-      "source": "AJC.com",
-      "pubDate": "Tue, 17 Feb 2026 16:53:16 GMT"
+      "title": "Hometown Spotlight Local Business Owners Are Certified Training Store - sandmountainreporter.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNczVHN2dDdXVHNVJxeF9tSnVWTFRqWHlrMDYxQXVsbFlsZFJpUVhybjlWWHpYWWQ3SERtRkFBQmZ0RUVvNnNvM1EzM0hPUTRLZkNOV1BLVWdodlRpVThCaDF1UzV0dGJ4TFNpY1VTMmpqa0RYbHVaZHBDRk03dEdocXhHcUNUNDNobjZaVmFqemEwRUk?oc=5",
+      "source": "sandmountainreporter.com",
+      "pubDate": "Tue, 17 Feb 2026 18:00:00 GMT"
+    },
+    {
+      "title": "Local business among 10 fined for price scanning errors - Watauga Democrat",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdTJHT1htb24ya2tmdmcxbE9iM0pjeWQ1cFl3cGFkNEhSd3RYQl9DYWE2ZlBOVERFNjVIS2lob2VzWlF5SllZMkJQb3MzWjZKS0pYZEFRSlV0WVhZTTQ4a2NrQ3hOemtZOTFEOUlIY25QVmVaUVpuZWJIa2k1dkFDdWNpeDFRZW5Ua2Rjak0tVzE5YlVhRk5vbk5WSEVtNURGNU1fMjBDU0d4RUZZdUR3cG51eUk3c3RYRTY3NFh5S1d0WXZKU2ppS3QzOV9BeWprbVpOSTRNSEdFOUo4ODYwWHA3dw?oc=5",
+      "source": "Watauga Democrat",
+      "pubDate": "Tue, 17 Feb 2026 18:51:00 GMT"
+    },
+    {
+      "title": "North Tahoe Chamber launches refreshed brand, website to better serve local businesses - Sierra Sun",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1Z6ZmlDODJWOGR3cnFjTHpNek05aTFWWDFnbDdyZzRIX1hvX0N2MmxyaG5VMmhZX0ZLOEtoQTd3NjctMnJteTFKSzh1Z2dLVTIwbzdVUjdxbGJ1M0hxb1A0QUVGMzhIaGk3WGdrM0xFbHJsX1hYOW82VVB0WkNEMnRqOWFfTkxrN2M5Q1N2Y0RTWGJkT2FWd0dOOXFGUjdMMEx2cHlHTFdDN1NtWHZPYzN6STlLc0RN?oc=5",
+      "source": "Sierra Sun",
+      "pubDate": "Tue, 17 Feb 2026 15:27:44 GMT"
     },
     {
       "title": "Terracon Receives 2025 EBJ and CCBJ Business Achievement Awards - Yahoo Finance",
@@ -513,96 +603,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX3ItQXFlVGZyRVlkWUZnVmwxdmphc3I2SDdHM1oySmROZllhZFl5UTQyN2lDOWNtUF9GaDZjUURERk5qSnlrMmFIcTRHSzdyN2gtY2N4T0dKNGRQcWplQzlBV0g4a3JwTXFBQVRmY05SdllFZmhkY3RpVnoybmh4cFRkdXZJcDFZUlNXeFNKQjlDTnlhbmVlb0h6aGxuYmVONjd0TGlleTJheDBvX2d3c3lLaXpxZmdSeE05WA?oc=5",
       "source": "Sports Business Journal",
       "pubDate": "Tue, 17 Feb 2026 15:56:15 GMT"
-    },
-    {
-      "title": "Payoneer Adds Stablecoin Capabilities for Cross-Border Businesses - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdy1rbmhITjNycUNDODBkUWZCLXBiWk0tRzFOU3JoSkFld2pjbzRfR3N0SDJ1V0h5RjlPTEJRc1dRQmNPSHRHLTU0eUtFTkFLcDdDVHNncTNMVlJnRzZSajBvYU1FeEJhbGJfdkFSVFdIRXJQdzRCTlZJV1JPNnZyZjB5ak84Sk03and3WlJ3eDVLUXNGRW9wT3h2M21qYnBvN3hNZmRVQVRhR0FzbVE?oc=5",
-      "source": "PYMNTS.com",
-      "pubDate": "Tue, 17 Feb 2026 17:02:09 GMT"
-    },
-    {
-      "title": "Finally! Lufthansa can sell (most of) its Boeing 787-9 Allegris business class seats - Aerospace Global News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFJHcmU4b3p1d2RSUmlJOC1ybUFrQmlkbWRlRlo5dmdRZW9tTnVtMlhlUHhZNlNUakNPWW5SbnBFaVJyVTkxaGprSHFrZ01ndkRSQi1PY2JnRVM5R3ljd3VGbHdEaWVEbmZSVGJTR2lfaDZDZDlrQTRfYVNPRzFILXhCZ1laV1JxOVEyQ25SbFRmd180OXFNU3ZDSUFqdw?oc=5",
-      "source": "Aerospace Global News",
-      "pubDate": "Tue, 17 Feb 2026 11:50:25 GMT"
-    },
-    {
-      "title": "More people are taking extended work breaks - Baton Rouge Business Report",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLUhjU1ZiN2pIdS0wQm15ejhrRWI0X1gtVjA3OFZkX0d6bU5qb3VqSkt5X1hpbjNVSDgxeXdOYnR2UXpjeUR0d2p1akRDdzdHMU1GUmVHWHlnejI5NXlMd1hIU0pOUVA5TTJKQWtxRFc3RVhibHMzT3hsX2JNd1pBTWNzcWsxX0lMQUHSAZIBQVVfeXFMTmtiajJDYWJjNWlzclhVYXQzT2lja3dXSzRERGZRNzlmSnF3eURIeFFOSmlJQkpLNGhpUm9rQXJ5b0d3QlpOSTNOMFVtcDFLR2FpY2VvQWVrbUhqa1p2cEV6LTBTcUJSSUVnRnFhRGVYVmlFSzdhaV8xc3FrTWZMeXJBZlNyNE1QLVE5c1RFZ3dZZ1E?oc=5",
-      "source": "Baton Rouge Business Report",
-      "pubDate": "Tue, 17 Feb 2026 15:50:59 GMT"
-    },
-    {
-      "title": "Minnesota Rusco’s Cautionary Tale - Twin Cities Business",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IaGhlbWk3eS1nUVVvVHNtWXctbUxBVnNmc2VWTVBoMC00X2lOdXlnSzJtNnMyXzdvVk5SVDBNZWpMV1VNd0pVMVRBTHMwSEhOWDlyVklnbkZQbi1UTWsxRVlB?oc=5",
-      "source": "Twin Cities Business",
-      "pubDate": "Tue, 17 Feb 2026 13:26:55 GMT"
-    },
-    {
-      "title": "'We're not going anywhere,' Cobb County business owners prepare for grand opening after multiple moves - 11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMlF2MkRUd0VRTkFxMTlQc3dDYXNXTy1TOVlhOUJPblpscEVvLVJZRnUtUncwR3JNNHkwRWVxcGRHeVp4TDNjaHdLaHpsSkd0eU1vNTdvaW5GZmhaTXcyTmxUTm1NYlRPVzMzY1Z2VzBUYjJrV2M4RzBjYXZtLUlDZ3gyam05WktJLXRjR2xPN292YmExaElnRy0ybV83WExDbS1DUERmYlNuRXctREhqWEhld0ZJdEd6cWduOTdlaTBsQTBzTnA0Mmc3a21SbGhuZDlEVndaaE5FVXlWSFA4b2xIY0pINndsUUowM1JiT0dIQkI3UjNfU3YzYk50cW9wYmxIeEtGMTIxblZLelE?oc=5",
-      "source": "11Alive.com",
-      "pubDate": "Tue, 17 Feb 2026 15:41:00 GMT"
-    },
-    {
-      "title": "Transwestern hires target Minneapolis business; SRS expands Texas team; NewMark Merrill promotes executive - CoStar",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX2h4Ui1ZNmZKX1pVWmtYQXRwUmIwLTZMZVQ1MHBNTXVkUXFhb2NLdXVyMUxIVlRFLTR4ZGFyQ1FNVHJNQ1dGUmMyS1g5VEdnVHMyRl94UE5tX3dJQU5PSERZVU1zOWNrUTBZUC1JSEtsem9WbkduR09lNGVaYlJ5Uk9rLWlHTy10VU05N3QxUDRFSnllZUFQeFkxRHVibmx1MTNxaExFR3dNRDZ0em54UnZ6TF9wS2hCYWt3VkdaX1JlSXRwYUpaNDFNLURQYWtZdEhCOUpjUXBQSF9GcmtN?oc=5",
-      "source": "CoStar",
-      "pubDate": "Tue, 17 Feb 2026 15:33:10 GMT"
-    },
-    {
-      "title": "Mayor Mamdani Creates New Business Improvement District in Coney Island — Just in Time for Summer 2026 - NYC.gov",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcEdWc1cwajhsTzdjb3RwT09UaXByQlJ3TXUwbW5oVW05clpPTWFvb09CQnhyZVk0UzFZZTFkZDY3QlBIT0paTldnQkREYXp5Qm5JazRHUXY5b0lBeGRCWm4wbnFldkg4QXo0NVVEVHV0Wm5JLVY5LUN3RGxHVzl0dURIZU43V3ZuQWhUell6czFiVzVuTTlJaVg3TnFlZzZ0MUhwcDEwR3AtZXZQby1OTw?oc=5",
-      "source": "NYC.gov",
-      "pubDate": "Sun, 15 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Canadian airlines are pulling back from flights to the US, with one leaving the country entirely - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmRLa0ItbGV3eURDWFZPUk84eW5IdlY5dV9tZzYwRDFGT0kxOHpQc1RPdHpIVHMzQjh5RDhMakJaYkxqcElTbzM5WXlONXpwRDFNLU56SHRQRjA2Vmo4cFVaTExqaUt2R3U5cC1ua3RYUTd4a0lkSnFLLUtrcUlsV0RBTXo5LVAwQmRqMlhtdU9CY2M?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Tue, 17 Feb 2026 16:25:00 GMT"
-    },
-    {
-      "title": "Fed's Barr says central bank likely on hold for some time as it watches for easing inflation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNC1WSVhOOXJxc2RfaHZjTEVjd3FJb1JSWG5Ha2RrMDlsREhUdlhycG1CejBzMlhwU09mdWJGcnFjQ2JnNUlvVnByV2RrVFNFdnBPeU1sS05tR1V4a2t5YXlfM2VDWVlDRkV5aTNud1dVV19UZzFhVjRhUU8yNzVZM05ZLVdoU2xoRGlSYzBwbzAxbTRzSHNQQnVldlhDOXV0T3J5UEc0ekpoSnl0VkEyaTFqNzBLek1SX0ZrSnBPWQ?oc=5",
-      "source": "Reuters",
-      "pubDate": "Tue, 17 Feb 2026 17:49:42 GMT"
-    },
-    {
-      "title": "Generali Global Assistance unifies North America leadership - Insurance Business",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNW1rbG9Rb2hJLVA1cVk4cEgzUk9wdUoxSVpyV0U2emlxSktJZE0zdzRfV3lBaU5USDBxN05TMWFuTHVpQUhfaEgzYUxHM0sybm1Obm9GSy1NR1RJeGtyTjB0Z1dVbzJJVURlelItQUZRWjIzaFdNUjlBLUNlc1ZKZFNZVW1wUEpnaFZ1Z3U5SEdOVk83cEdZY1JrOXRUalVYMGprbElGdXlJbWp2MFBLMjk4cW9Tc1g4QmhMVUxFbVd1OUwzcWVzRXVB?oc=5",
-      "source": "Insurance Business",
-      "pubDate": "Tue, 17 Feb 2026 16:02:22 GMT"
-    },
-    {
-      "title": "Sacramento police investigate string of seven business burglaries within roughly 24 hours - KCRA",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVlJHNjd3NGhpdm00ZFFad1BFdEUtdWhLQ0xHU1lJOUhkeXFPbDlnclhBMkRyUE9wbU1yM0Q0eVZtbFNQU3dENnh6VWFDRVR6bHlXMjhxaHhRZDBFd0p4b3k5X2tveUstOXF5amozNDMwLTZoTkRGemVtaFEwSDEzZWZ0QU1CaUF2RXUtT1ZnSHZqZHVTNkVHa1JDMURXdTBjdlJvV3NR?oc=5",
-      "source": "KCRA",
-      "pubDate": "Tue, 17 Feb 2026 07:23:00 GMT"
-    },
-    {
-      "title": "Small Business Energy Risks and Microgrids Outlined in HelloNation Article Featuring Energy Conservation Expert Jason Guck of Rochester, NY - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDZCNkFyNjFvYkxjR1ZtMW9GTVhlVGpYMTlvQ0ltVHZ2ZXVjblBQekZhbGxuNGtmTGZzUXllODN4Zno4czdZM1N6QkwwVm1oMWE1a2JKS3Z1MnFTNWp4OElCUDVCVXBlNG5TQldLV2RycHRjQTVKOHo0MWFqalhFTDNxcDY5Ymw4OGJhenkyNXk?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "pubDate": "Tue, 17 Feb 2026 18:19:00 GMT"
-    },
-    {
-      "title": "Warner Bros. Discovery says it's worried employees will quit if it picks Paramount's offer - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXQ3MWlBYkNLMVpOTVY5MERueUViTDVXX1YtbzVnSk92YkI1NVBqVUtOSDBVNGk2NFZ2dzFxdm1fdkZWclgyT1h2S2NaTVRfQjJJUHM3SF9HUzF1c1FPdEppalE0R2FuRTBrSGQ0andiMFJKT05KeUdUWVJRdmVSSXFwV2R1LXFWLVBzN080SGYyblJIQ0dUVi14am9yejdlblE?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Tue, 17 Feb 2026 15:51:00 GMT"
-    },
-    {
-      "title": "Peraton taps new president and COO - Virginia Business",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OcmhsRUMtVjRWT0NxWWVTcTNXYU5lM0E0MnJYNzkzaUxHM2RyNkpiOXdTZlp3anZyRlVoWjA0aldQWGxEcC10RWxsdnFkcVNUMVdkWFQ2Smg2VEdaN1pielhFNkRCcFlPY1E4akVTZElPZw?oc=5",
-      "source": "Virginia Business",
-      "pubDate": "Tue, 17 Feb 2026 16:15:57 GMT"
-    },
-    {
-      "title": "Tariffs strike again: Companies warn of price increases in 2026 - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWTdsM044UGZ6U2hfY2xXSjltMzAySEhLcU1WLTY4Z0lmQjZyVU1PM2NqYUI1OWJWQmk1d2Q1a1MyanhXRlFLcGZvdEllcC1IMkU5U1M1SHdGX0tpYmVzUGNrSGJQRkxSVmhoTHZSU1JzZFlzN1ZDS3RMMFFQMVpSNC1PT2JYZm4z?oc=5",
-      "source": "CNN",
-      "pubDate": "Tue, 17 Feb 2026 14:10:09 GMT"
     }
   ]
 }
