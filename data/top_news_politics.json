@@ -1,15 +1,9 @@
 {
-  "generated_at_utc": "2026-02-18T21:03:57.828202Z",
+  "generated_at_utc": "2026-02-18T22:22:42.686985Z",
   "category": "politics",
   "language": "en",
   "summary": "Top headlines pulled from Google News RSS (free, English). Category: politics.",
   "articles": [
-    {
-      "title": "MAGA civil war erupts over Bannon's text exchange with Epstein - CNN",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tOG9vUmVMZ0tra3pLaElMbHN0N085S2xHTHVrOVJjbHNSLVBWWS1RYXZhbVoxeWQyMzMtMEs1T2Vpemw2TnotRnpESGltNFg1U3N3SUlqQW11dnVxaEItTFBGSHVjT25QZG9oSWZ3UU5RaVh3WkZj?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 18 Feb 2026 02:03:33 GMT"
-    },
     {
       "title": "When politics comes to the parenting group chat - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHZsTHRhUlZXdG1QUFZTQmJWSXl4cG1KX2FxaXlvTmJETkFUSy1feW5CTzR5MjZteEU1M1V0NXJGNkN2NVBaVjhCNFVyYnVONGI0c2dkdjJFamoxQ3U2b0tpRjlJdjdmd2VHUTVnSU1hc3RRYW9OX0NHc2hGaWxsTkY3c05jZVBldjF4dnZ6dGJ1V0lLbV9OcGFwWUU?oc=5",
@@ -17,34 +11,28 @@
       "pubDate": "Wed, 18 Feb 2026 18:00:00 GMT"
     },
     {
-      "title": "Trump says his administration should pay him billions of dollars - NPR",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWZlb2JZVm1vMDlJcEhhWVRCX3Vka01oQ0taVnYwNjh0WmxEUVFnd01aUWQ2UjZZblBLMWkzSmkyV0tBZmgxTUZTYlZ0RnJKX0hzbV9OZHhBcHJHTVhxMGVSMzJUU3Rqdlh3Z01ibFNQZGRKLXJnRWFuOThjVHdZemJwNXpjQmpjTkhzZ2VIVXk3T2E2U2sydk5rakR5dlc2X1YyMUt4QTdtcEJuWGc?oc=5",
-      "source": "NPR",
-      "pubDate": "Wed, 18 Feb 2026 20:03:16 GMT"
+      "title": "John Cornyn fights for political survival as early voting kicks off in Texas: From the Politics Desk - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0pCUVBHN0Ixa19hcTQ5UkVma1BNSmwzZTB1Qlc5THZDRzg4YXNzYlJOTHpjZU9waDBsTDgyUVFCQlpZUGZRWnp4MHU1QmU2NDduc3RzbUNtMnB6MGdRS1p6QnZHUjdpLTVLOXR0ODBPNXVNb2dJT2ZmdmdBSV9vSmZkLTVQdlJralU1QjFTZ0pFaEMyMFdENlVvNmhSb3oyYzVTZ09GUXNOWnVScmp2aHJicGk3RXphTlFiaUdn?oc=5",
+      "source": "NBC News",
+      "pubDate": "Tue, 17 Feb 2026 22:34:45 GMT"
+    },
+    {
+      "title": "White House says diplomacy is ‘always’ Trump’s top option for Iran – US politics live - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2ViNS1IY2tRekN0MjBZdExVeFpNbzhNNzQ5N3R5dDJqMVhIQlExYXJNMXdyTkk5U0phT1h4eGc2d21YNFNsV1RLMU5FMmNTN0lERXBlNkV1N3hoU0pDZUZONE03R21EdjZyd1RGX2ozY29hdmtBNTdqYXdLSmVwTUR5Q1pSR3JMYzlKVWZUVThVWWpxOEtualFOMjFPR3E0Nks3R2xja01JZEYyWmc?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Wed, 18 Feb 2026 22:02:47 GMT"
+    },
+    {
+      "title": "Latest Trump news: Iran negotiations face uncertainty as Ukraine talks end - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoS1hmMUJiWi1DRGFCSmduQ3Q1enJBNExQR052LVg2cmRsVGZ6UVY2RE9hNXNySTUzRW9ZY0JVdjd5N2swYnYxWWRaRTA3R1BvSThENGIxNFMtNENNS2FiTHMyOE82WjFNSi16c3lrRFBGSWxQVzNDZEdMVVhudw?oc=5",
+      "source": "CNN",
+      "pubDate": "Wed, 18 Feb 2026 21:07:00 GMT"
     },
     {
       "title": "Sanders and Newsom clash over proposed tax on California's billionaires - PBS",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2Q1Mm5OTW9UVGtQc256TTJDdTc2ajBWWlEtVm4xMFlMS3VfSXpqd01LUnNHV054Q0U0a3FieVlmUVNKajNjbS00RmhIdTdQWGJFeC14NUlVaU5ISkxKYXZBeS03Qm1fdnBYaFJLUVJ5ZEZjbWtRc3g1SkdwZ3pBM1NtcnllVW5oX0VVSGtZNm1SaGVlQ1NDa3lqR1dzNEtWdDlXTFZ6c0UwY2Ji0gGyAUFVX3lxTE5wVVRTOTIyeURfdEo5WFoyZ1gyVy00QzlUNlpBbmVONzhTREJ6VFNxN1k5VHFmLUVlNkFMMGpMUWtUUlJTY0czU2tPYnFfekxoRXhjdnFFR0M4OGtNZ2RTOWx3N1gzMTNhN1ZqVzlTN0FxdnQ5MWQtcV85SERYTHRuOXdGaDc1bzI3TE0zc2FYNGZfLWZFQUJPeDJ6V3RnSFdXRDc2dlM1OWt4ZXMyVlZkTVE?oc=5",
       "source": "PBS",
       "pubDate": "Wed, 18 Feb 2026 20:46:15 GMT"
-    },
-    {
-      "title": "Marjorie Taylor Greene criticizes Trump administration: 'I'm not in a cult' - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmVjRlFZUGQ2QkZXYVB1WEQ5N21HM2Y2REVpekZGX0hiakM5ekhnUWhiV2hqSWdDbElSOWhxcDc0MDQtcS1fWFp1STVUZ3ZLWm1RTHA0clpCalBHZGFZVF9yWkhENV9DU2FraXFBdFJzYlo1eUYwaVZRSUFJOXVxTGlFTHJYTVVkOFk2dzF3ZmQtLXFxblRtRHFEYWhXcXotNy1iUFJOcGFrSjJJVzVyMTNB?oc=5",
-      "source": "USA Today",
-      "pubDate": "Wed, 18 Feb 2026 20:33:00 GMT"
-    },
-    {
-      "title": "White House says diplomacy is ‘always’ Trump’s top option for Iran – US politics live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2ViNS1IY2tRekN0MjBZdExVeFpNbzhNNzQ5N3R5dDJqMVhIQlExYXJNMXdyTkk5U0phT1h4eGc2d21YNFNsV1RLMU5FMmNTN0lERXBlNkV1N3hoU0pDZUZONE03R21EdjZyd1RGX2ozY29hdmtBNTdqYXdLSmVwTUR5Q1pSR3JMYzlKVWZUVThVWWpxOEtualFOMjFPR3E0Nks3R2xja01JZEYyWmc?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Wed, 18 Feb 2026 11:11:00 GMT"
-    },
-    {
-      "title": "John Cornyn fights for political survival as early voting kicks off in Texas: From the Politics Desk - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0pCUVBHN0Ixa19hcTQ5UkVma1BNSmwzZTB1Qlc5THZDRzg4YXNzYlJOTHpjZU9waDBsTDgyUVFCQlpZUGZRWnp4MHU1QmU2NDduc3RzbUNtMnB6MGdRS1p6QnZHUjdpLTVLOXR0ODBPNXVNb2dJT2ZmdmdBSV9vSmZkLTVQdlJralU1QjFTZ0pFaEMyMFdENlVvNmhSb3oyYzVTZ09GUXNOWnVScmp2aHJicGk3RXphTlFiaUdn?oc=5",
-      "source": "NBC News",
-      "pubDate": "Tue, 17 Feb 2026 22:34:45 GMT"
     },
     {
       "title": "Episode 51: We Are in the Pain Cave of Politics - Cook Political Report",
@@ -59,16 +47,34 @@
       "pubDate": "Tue, 17 Feb 2026 15:56:04 GMT"
     },
     {
-      "title": "Rev. Jesse Jackson, a symbol of Black politics and Black America, dies at 84 - WBEZ Chicago",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTROV1FzamFmQ2ZrTl93dFoyYzh4LUsxTnd4TjJlbW0wNEQ2Rlp1YzBsVExJVm9sa2JweWVuX001WmdHUGJiRjJ1NHFpTGIzR05QYTVOVGdQaWRLb3ZncjJBS1lLUDRaZ1c4Uk5pa2FtUVh4LThzVHJmUmVlaEdCVVZMNk96TWNYV0haeGtXdW9QUTZ6elNIRkp1TU1XUHo0bm04WFFHdE8?oc=5",
-      "source": "WBEZ Chicago",
-      "pubDate": "Tue, 17 Feb 2026 12:14:00 GMT"
+      "title": "Kevin James accused of being MAGA after punting political questions, says he focuses on fun - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGFDU3hPUEhHcW5LV25JLU5jQ3ZyYndoUWo0cjhpT0E2RE0wd0VQenFlT2V1ajN4Ti15dTZyN19xdzUzOTF4VWlZdEl0OGJOMERQZ0h0bEk0VWtkYmFVNDR0Nm8ySFFDZUlWb1k2MEFsS3hkazZNcTFfUDFuRkhqVHQzSDB4blJCZ1ZraHhKUk96QXhfUXVGTWgzSmd2X3FYQlF4TmpRX2JUeUxhSGt1YkxNREFYQU1mMDZwek9yUdIBxAFBVV95cUxPUkYwSWpHR0VZNTRRQUJkdkV6WjZ3d2k4d21KRzNVOTVyeUwyWnFxNkJCdTNXazNlYk8tbXdNbmJTRDYxU3ZXbDVoMmtfV1ZPOFotT01YZDdydmI4YU5MalJnQWpFNEhuT1FTeFM1MnVxemNhSVZmT3ZZUkJtaWxGa1I3ZC1QNkFUNlh6Q0puODdrZHNsQm1UenltcTRSN2RKWjlmRlpEclMxcWpNLXhMTG8zZ0pLRkpBRUVta3FZaTBBZ2FE?oc=5",
+      "source": "Fox News",
+      "pubDate": "Wed, 18 Feb 2026 00:18:50 GMT"
     },
     {
-      "title": "Latest Trump news: Iran negotiations face uncertainty as Ukraine talks end - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoS1hmMUJiWi1DRGFCSmduQ3Q1enJBNExQR052LVg2cmRsVGZ6UVY2RE9hNXNySTUzRW9ZY0JVdjd5N2swYnYxWWRaRTA3R1BvSThENGIxNFMtNENNS2FiTHMyOE82WjFNSi16c3lrRFBGSWxQVzNDZEdMVVhudw?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 18 Feb 2026 20:46:00 GMT"
+      "title": "Watch: Jesse Jackson's life in civil rights, diplomacy, and politics - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wd09TcE9fVDEteXRwQkxiNXFkZGJMdVhxYWplWGotOE5oYVNlbTVWaFM3QWs3UGdqUlFRU0NCTmpkN3QxUU56dmZYR2FCdWd4VlpMOEp3WQ?oc=5",
+      "source": "BBC",
+      "pubDate": "Tue, 17 Feb 2026 12:52:08 GMT"
+    },
+    {
+      "title": "Politics Is Everywhere, So Why Do People Feel So Powerless? - Jacobin",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mR09LXzlnMENkejlyT3NZMDJjN3hqWHdGeERLUUpRS3l1ak5lZHk0d2xUS3Y3dWQwUkpYWnV5aWpjeHU0UTJSR0FXbVBScU1LMVV5TGZ2aXVlNldvUzV6ZUhZVm1heklRck1EeDBZMV92Q1VUMmZYbEZkVEM3Zw?oc=5",
+      "source": "Jacobin",
+      "pubDate": "Tue, 17 Feb 2026 14:45:58 GMT"
+    },
+    {
+      "title": "Bring out the shy people: The case for politics without politicians - Yale News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2l4YlVMenpJVWNuVW85RndIbWdzNTlSMnpLLTZmTXhVSjFKdnRkMk1fdTNBRHJ5czRkQ1UxY2hTQnJlbFMzOFhLT1BIRmdtR3pxNVoycWZvS0RqdHRObkJXbTc5blJoQVk3azNoWnRZejlYWXV3cDdHQzRUQWVBMlM0UGxoeWI5UkdsQ1Nrb3Q?oc=5",
+      "source": "Yale News",
+      "pubDate": "Wed, 18 Feb 2026 21:37:53 GMT"
+    },
+    {
+      "title": "The Evolving Politics of Climate Change in China - Asia Society",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2ZyT1NrYmx5dWkyakxHa0RQQ2hOOXZSMG9ZemxTTnhqOTNpclRHbk9uc3RQQTFXRGJrOGtvTGVORVVqbi05dC1WcTktVUU3MzZubmU2MG9TTjRtTUpVVExWWEZuY2dJaEpvUWtqSm0xOVE1WG5Ud3FsVURrSWtpVDhWM0RXVUNH?oc=5",
+      "source": "Asia Society",
+      "pubDate": "Wed, 18 Feb 2026 19:45:58 GMT"
     },
     {
       "title": "The week in politics (Feb. 18, 2026) - Houston Public Media",
@@ -83,16 +89,28 @@
       "pubDate": "Wed, 18 Feb 2026 17:20:00 GMT"
     },
     {
+      "title": "Expert on the political motives driving the partial government shutdown - Virginia Tech News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3NIMFJlWnhmVDRJVnJwdDlIc0wxWUNTRmNOZzNWV3dWUlk3b0RvN0t2MHluT1lSWDJzbXlZYnJCWDh3R2RTTzVoRE1vTkpoREhKZWN2bU1QZ25aOFFTbVBKQWJ0TjRDSWZDRTI3djZiaWtaX3d6N0RpSnZ1eXlOWk55a3RnMXJTZjZWTjJ4Rnc5RENLRnI4dg?oc=5",
+      "source": "Virginia Tech News",
+      "pubDate": "Wed, 18 Feb 2026 21:22:30 GMT"
+    },
+    {
       "title": "Environmental groups sue EPA over climate regulation rollbacks: ‘Politics overriding science’ - WUNC News",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLWxCVXZ2cUNsUnk0UXk1am50aXlHNnFNVnZzTUctckMzU2lSdjZrc1IzZXpwcDZXVk90N21tb1VOWE1pRGJubGxkX3ZERDYyeVYwRlhubnZzWFpzZERlSWRaTHhRaE5PRnY1LUphYWJ3R2Z5b0dMN2JSOXpydGdOemNTV1dBQ1E4RXU4dWJpZjA2TGRYbHpCSW84bmk0REJLLXVENDhyODZJMF9Md3VPSURhaFZaUDFSSm15d0hxNA?oc=5",
       "source": "WUNC News",
       "pubDate": "Wed, 18 Feb 2026 20:08:00 GMT"
     },
     {
-      "title": "The Evolving Politics of Climate Change in China - Asia Society",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2ZyT1NrYmx5dWkyakxHa0RQQ2hOOXZSMG9ZemxTTnhqOTNpclRHbk9uc3RQQTFXRGJrOGtvTGVORVVqbi05dC1WcTktVUU3MzZubmU2MG9TTjRtTUpVVExWWEZuY2dJaEpvUWtqSm0xOVE1WG5Ud3FsVURrSWtpVDhWM0RXVUNH?oc=5",
-      "source": "Asia Society",
-      "pubDate": "Wed, 18 Feb 2026 19:45:58 GMT"
+      "title": "The political effects of X’s feed algorithm - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVX0F1ZGZtOEthZTMzUDBUMmUzWVBNT0lvMEpJWUlnRzJwbW55aXhhVUlJUjIzVFlpRFk3MnVXbFpVRklGckZVcU1oUVdjWWtJcV84SXdydjRCVzRWS0tN?oc=5",
+      "source": "Nature",
+      "pubDate": "Wed, 18 Feb 2026 19:12:00 GMT"
+    },
+    {
+      "title": "Groups sue Trump's EPA over repeal of rule that supported climate protections - PBS",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTFVpQktXWW1LSXEwN3l6S3hkUmVMOTZ0OS03NlY0YThBbTN5ZVRtbmYtdHpaOVNFNHM2OUFUb0JBUk1zczAwMS1IZ2ZFS285UTZyYi0taUdtbGdZYXpaWHk4b0tFTTJTS0Z0SVFxaW5rYXNNdnpHV1FtRWdrRjhZUW5mT3RPTmliZFotMHVsNWhXWlB2MkxGR2RpdFVnYTZOdFRONWpFLXA1U3o5Y3BrMVFrOEHSAboBQVVfeXFMUGxCblVTMkFDaXNKNXFsaTRjRTY4WVktOGV5YTdoa0F5YjBrMzF5M2JiRVZKQWhNUG13VjB4c01rc1Vmai1uRkF0SE1BRGpwbVBnR0VzbFdxdkpEQzhYa1poM21ZajRFNDRfWXJCenFyZk1DSUQxYXFuN3ZpQVZGTFVjYXhvRV9vTUhSb2w1RlM1U19DY0JWTzA5RjJWSVVEZms2U3VpcWg1eXphWTRDS1FzdEx5YnN6WHRB?oc=5",
+      "source": "PBS",
+      "pubDate": "Wed, 18 Feb 2026 17:55:48 GMT"
     },
     {
       "title": "GUEST COMMENTARY: When rhetoric replaces reality — the decline of American politics - The State News",
@@ -107,40 +125,22 @@
       "pubDate": "Wed, 18 Feb 2026 14:21:33 GMT"
     },
     {
-      "title": "The political effects of X’s feed algorithm - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVX0F1ZGZtOEthZTMzUDBUMmUzWVBNT0lvMEpJWUlnRzJwbW55aXhhVUlJUjIzVFlpRFk3MnVXbFpVRklGckZVcU1oUVdjWWtJcV84SXdydjRCVzRWS0tN?oc=5",
-      "source": "Nature",
-      "pubDate": "Wed, 18 Feb 2026 19:12:00 GMT"
+      "title": "Trump says his administration should pay him billions of dollars - NPR",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWZlb2JZVm1vMDlJcEhhWVRCX3Vka01oQ0taVnYwNjh0WmxEUVFnd01aUWQ2UjZZblBLMWkzSmkyV0tBZmgxTUZTYlZ0RnJKX0hzbV9OZHhBcHJHTVhxMGVSMzJUU3Rqdlh3Z01ibFNQZGRKLXJnRWFuOThjVHdZemJwNXpjQmpjTkhzZ2VIVXk3T2E2U2sydk5rakR5dlc2X1YyMUt4QTdtcEJuWGc?oc=5",
+      "source": "NPR",
+      "pubDate": "Wed, 18 Feb 2026 20:03:16 GMT"
     },
     {
-      "title": "The Sticky Politics of Wall Texts - Hyperallergic",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tRjlwUU1mSVZiNDRhTW9lRzRNRlVqYk5kQ1ExZ3FaaU1YUnFpXzFXRnM0N1dwMGp4RldRU2RyTWxTdHpxbmhKdGJwaWthbldoWDF6Q0c1S2h4dVlqSmRER0pFa25TMEFQYlltdg?oc=5",
-      "source": "Hyperallergic",
-      "pubDate": "Mon, 16 Feb 2026 21:32:15 GMT"
+      "title": "In 1988, Jesse Jackson and Mike Dukakis were a political odd couple - WGBH",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0NfdGI0SjR5SGQ5elVnc0VKeDNuZnNmRDM3T2pZN0VZZE9kVFVabFNjanFLSUZKRlY1WUlSMC1oTkVNV3UwR2l0WUkwQ1I4RTdQd00yS19sd21fUnVyNUR3cVhsYWRTaWE3N0ZaRXI0VjJGTmFnTFp1WjRzX19vTEVsZF93SlU4bzVCTGRCMTJGSmVaSmxPbmZ0ZWtlT1RxOUVJZGl2dElUakJhX2MyZ3N3?oc=5",
+      "source": "WGBH",
+      "pubDate": "Wed, 18 Feb 2026 22:03:19 GMT"
     },
     {
-      "title": "High Politics in NATO’s High North - Center for European Policy Analysis (CEPA)",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRdnFfQ0w5YVE4cE1CT0VsUlF2bkVxOHRsZ3lzTE5vM09DWjB5OHh5X3RBZTRucXZIWkUwd2pqQ3lJVkt6eE80T3Nqa3Vremt0QWVkRmRRYzFWNXA1bTVqSUluT3RpeXNPT1Vr?oc=5",
-      "source": "Center for European Policy Analysis (CEPA)",
-      "pubDate": "Wed, 18 Feb 2026 16:33:19 GMT"
-    },
-    {
-      "title": "Susan Blanco new Colorado Supreme Court justice - Colorado Politics",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMm1Dekl0UlBEX0ItT2NUcnlnc1hMbFRpWjZMTWhueWFpb19hTERpUFR5RmgtNkZKNW5vd3E1aVl6MHdlLTZxQ2VWRG9aRDlPdkgxRjB6T2FuUmJaWEU3OFlTaEp2Snc3Y3AzaWg0OGl0NFhXejEtTTlRdXptRk04NGdPRVRZc1AwRHdTLWR3Z1hfNHRsb2Vj?oc=5",
-      "source": "Colorado Politics",
-      "pubDate": "Wed, 18 Feb 2026 01:38:10 GMT"
-    },
-    {
-      "title": "OPINION: Discussing politics in the classroom shouldn’t feel unsafe - usforacle.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOGc3QkI1czVqTzZtQ2ZtRjNjbnljU1BVakMyNkcwV1lGM1VvcV9IQ0hqRnNET1l2QjNiVTZRTUdJZElUQ1Y2UVF1OGVMc0V4N3QyVU9WdjNDR3BSck9yUTFCRXlXY01mcUNPaHpVOGVpUERhRW9kY1ZCTkdKYW43ZHRPaU52ZFU0U2c3ZFhPQUc?oc=5",
-      "source": "usforacle.com",
-      "pubDate": "Wed, 18 Feb 2026 10:05:54 GMT"
-    },
-    {
-      "title": "Can one Texas Senate candidate capitalize on a 'Colbert bump' in his quest to turn Texas blue? - CNN",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWtocGtGclZjQTZtdHFIWDYzbmZjM1Q2cWhQU2Nud2ZjUm1IYThFcTY2bHZMc0d0MF9ydDZYZGlSSXRrcXlGRW5vS1E4QTVzNmcyQUxZZmltX3FNRTdyeXlSc0FJdkhHUXRBTjlCOUJNVTJQdEg1QUxYWERfRVBwbW94ZENlZks3bWxVTThOd2ZfYXZiT2ZXd2RQMTBiYTA?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 18 Feb 2026 19:14:10 GMT"
+      "title": "What is the 'equal time' rule that Colbert says led CBS to pull his Talarico interview? - PBS",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORk5fY3lxVmh6WkNkY1U5U3pLc3FvZHJLV3EyeUpyZWRYNXU2dWlLVEUtVXMxNG02c1pfV1BXNWxjTWVJeVNkeVZhcG11aGpXRGphdHJYQkc5cFFBT2ItZXRnbXNCeFhGYXVlTXoxajBPcTR2Y3ZWRVdLb2ZFRDhWRWVjS0dxb3FOVGpFZnJfY0psQWk3VWpaekhMRjA3U1hyWU1hTk4zZ2Z1TlZRRk9RejQ1Wkh0RXQyV1YzZllQb9IBxAFBVV95cUxPLVNRVEg5dWV6WDVoNVZFTngwcldBMmFlRG9lSzRoejVyTDlzVnlseWh6d2pSOWQ4OTN2eW1lOE56c19vcy1XeWxvZ3d1dFdNTlNoejhvdExzcEZBZHpkd2p1MTI1Q1N2TEJQdnVGc2wxenlsX05JcUZjZnk2V0c0c241S1J2bTVBbk42OHgycWFqTnZPV0JLRFBua09SZUlvYm5icjJZVS1MSUhoQ3oxSF9CVGtOUFhZTFJNVkJrWjd4TVBk?oc=5",
+      "source": "PBS",
+      "pubDate": "Wed, 18 Feb 2026 21:12:43 GMT"
     },
     {
       "title": "WATCH: Congress must approve any possible U.S. military action against Iran, Jeffries says in news conference - PBS",
@@ -149,46 +149,10 @@
       "pubDate": "Wed, 18 Feb 2026 20:42:37 GMT"
     },
     {
-      "title": "Cuban-born congressman says ‘regime has to go,’ warns ‘it’s going to be painful’ - CNN",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UUV9IdzRGSll6cU1WUjdJRXVxOGtXcFFQQTViajRmSWlvMGJ1TnpVRHlmS1RWal9GX28wTllvTUJ4eXAtQzZFNzk0V3dNWUZpb0R3Q0FqYUM1bTFnWTA2M01wZ0VEd1B0WnctWUU5UC0xalVVN3RNbA?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 18 Feb 2026 19:11:55 GMT"
-    },
-    {
-      "title": "Why the risks of requiring proof of citizenship to vote could outweigh the benefits - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmpHcG94UjhWYkdaM2hIay1OZWpWRXZxMEpORThaZDQ5cGg3TmJnNDMwRjBCQmwzdWY5dmJ3THFuRjMyWGt0LUw1bG9ISnJCZFpVcUNVZ19iY05pRXhCM0VWbmV3a0NsSzdBUi1IeFZzRUdGa0hsUnYtRDVOY3BiZFdlU1BWUjg?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 18 Feb 2026 19:25:43 GMT"
-    },
-    {
-      "title": "WATCH LIVE: White House holds news briefing as partial government shutdown drags on - PBS",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWx3M3BGS3UxREpNX2xiUHpXZWFFM2k1MFNEcEt2ejctbFJXRmtkRUpoYmR1dTlzZUs4enY0cG1Td2xYb1RfXzFPMHVJODV3WkZkZUZZVkJPMlJtUUpiZko4UWhRRWhQYVNBUDRZRElDM292cnpxd2EzN1I3aGVvYlkzSDR0MDdiYk0yb2NXeHJ3NTFVV2ZpNUN4RUJnbkNJd1c1WU1wOXdEaEZHZVhTTmNmbkVhZVBuVFZLYdIBwgFBVV95cUxNRXItc2RVRU5wNmRJeFdNbUpONU9OOGprMDdTVEQzWTQyZWw4Q2QwZG5idUlua0hfUUtzSUlFWHo2YldoOVNob0N4azdhaFd3RGNhNGZ5aGN2WkJWOHdxdThLSzBRaWl6TGxQZHMtdk42LWduTnM1T3AwSkVPNl9MSnB6cFJ6d2VsSVVQdzhxd2sxNGdpYk15alFSVkRwU0VuOXMxVGhOcWJ4OVlveEt1SEpoUmlqVURkTk1lU3Q5MHJUQQ?oc=5",
+      "title": "WATCH: Trump remembers Jesse Jackson at Black History Month event - PBS",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2JMTURIc3ViOGZoSWxJTHZJMkUyVWxGQkt3bFFza3NDQlp4akNZeFp5S1VwdmJjY1JPX1E0d2FEMTZHamVFQnFlUS1ua1RyaThtNUU3aTI3WE5uUHl2b2I4NVdNWWpLaF9COEttb2EwZTNTUkVpQ0RTMjZQUi1iLUIzSk1VSzVGZlVqTkZWcGhERkY4eFFWUkZEVVppNjA1aHphcQ?oc=5",
       "source": "PBS",
-      "pubDate": "Wed, 18 Feb 2026 16:49:22 GMT"
-    },
-    {
-      "title": "AIPAC accused of covert campaigning as Democratic support falters - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcUpYUmtyc2ZzaHhqWjVzUGdaZkdmXy0weEtMMzBFc3RyS2szQVRFeU83Mnk1UGhIRXJuUFRMbVhoaVRmdnFCT2RNZHVtMnNmU05RZXcza20wZ1hYbHZQeVRTbmZjWVNDZXpSSzhKYWVMb0ctU3ZZUWZzeG1rV0pyblNoODNZUHRMaWQ0WWFqbFBqWVpW?oc=5",
-      "source": "The Washington Post",
-      "pubDate": "Wed, 18 Feb 2026 18:00:57 GMT"
-    },
-    {
-      "title": "In Kentucky, Ron DeSantis downplays 2028 plans, disses Andy Beshear, doesn't stand by Thomas Massie - Florida Politics",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaGR4UzFZaDViU25hRWFWaEVRTXlMeExmelJBazdKNVBMajFVeTVuWjl0S1BpZ0UzN1hqeFYySkw3dVBUTWItRlY2QzBMUDlNczZ6SG5KUjdRSjZTV28xUVA0MVV4UmJXVmI3MzlVUXctdlhZSmRxR1lIVEphRTc2QjBRLWdtZjVvSmVlNE9vZVFhSzVOV3h3MFBEZlZGM3BZajhaYnpTb0dfZHZNNlNLRURxMFlNU21Yb1Z5RHl1U1dBdTBteDAwQUtvcWhlMENFYWloWXRqUQ?oc=5",
-      "source": "Florida Politics",
-      "pubDate": "Wed, 18 Feb 2026 18:08:01 GMT"
-    },
-    {
-      "title": "The misguided backlash behind \"Heated Rivalry\" and its representational politics - The Vermont Cynic",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQWVqN0EwV29FUzVyWGgtN3FxYllBeTZ1RGpCc2FtM0hqNnBUckJfRnpXVDhaMzY4ZjRpVXlZMFV6cTZQanR1V1pQTjNxdFc0MGpuNUFwNUE2REZvcER1UVBJM2xCdU1MWkV2R2tUWU5zekVLeWVISmJJbUJwS0xua1RPeWhXYTRzVTUxeFZJZDVzZVlFeEYtLWxBOTU0S2d0aGNGc2N0ZVhZSllDYVVVRkV0ZmFVRk1GZGFDYQ?oc=5",
-      "source": "The Vermont Cynic",
-      "pubDate": "Wed, 18 Feb 2026 19:00:46 GMT"
-    },
-    {
-      "title": "Groups sue Trump's EPA over repeal of rule that supported climate protections - PBS",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTFVpQktXWW1LSXEwN3l6S3hkUmVMOTZ0OS03NlY0YThBbTN5ZVRtbmYtdHpaOVNFNHM2OUFUb0JBUk1zczAwMS1IZ2ZFS285UTZyYi0taUdtbGdZYXpaWHk4b0tFTTJTS0Z0SVFxaW5rYXNNdnpHV1FtRWdrRjhZUW5mT3RPTmliZFotMHVsNWhXWlB2MkxGR2RpdFVnYTZOdFRONWpFLXA1U3o5Y3BrMVFrOEHSAboBQVVfeXFMUGxCblVTMkFDaXNKNXFsaTRjRTY4WVktOGV5YTdoa0F5YjBrMzF5M2JiRVZKQWhNUG13VjB4c01rc1Vmai1uRkF0SE1BRGpwbVBnR0VzbFdxdkpEQzhYa1poM21ZajRFNDRfWXJCenFyZk1DSUQxYXFuN3ZpQVZGTFVjYXhvRV9vTUhSb2w1RlM1U19DY0JWTzA5RjJWSVVEZms2U3VpcWg1eXphWTRDS1FzdEx5YnN6WHRB?oc=5",
-      "source": "PBS",
-      "pubDate": "Wed, 18 Feb 2026 17:55:48 GMT"
+      "pubDate": "Wed, 18 Feb 2026 21:11:24 GMT"
     },
     {
       "title": "Trump family business files for trademark rights on any airports using the president's name - PBS",
@@ -197,82 +161,22 @@
       "pubDate": "Wed, 18 Feb 2026 18:42:09 GMT"
     },
     {
-      "title": "Gilli­brand in­tro­duces leg­is­lation to guarantee paid sick leave to American workers - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUE1hTHdDYWdFRld5NGVNNHJlQmJhWGFuNzRZSFFjVjFVZDdzQVhXNDh2RnVtdmtMQlROQmlMRjJ2MUlUaDRGV0hJWHZ1LU5tUnlJaTNvNmVsZ1lfOURrdUdZUWpzaGtPaDN3Vnc4RlI5aVc5TFJKY1JvQjdkNUc3MGIxTUhldHVRMWxMNTZCNFNUNEFNbDVHc0VJUzhRZWNoUnpmcXRRQUczMnhObHg5eGpHUG12RWI3RzhkMEp4NVlXSmZ4VzVIWlB1eWlvV0hLa1p6VlN5UXJ3YklkX0FSZg?oc=5",
+      "title": "High Politics in NATO’s High North - Center for European Policy Analysis (CEPA)",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRdnFfQ0w5YVE4cE1CT0VsUlF2bkVxOHRsZ3lzTE5vM09DWjB5OHh5X3RBZTRucXZIWkUwd2pqQ3lJVkt6eE80T3Nqa3Vremt0QWVkRmRRYzFWNXA1bTVqSUluT3RpeXNPT1Vr?oc=5",
+      "source": "Center for European Policy Analysis (CEPA)",
+      "pubDate": "Wed, 18 Feb 2026 16:33:19 GMT"
+    },
+    {
+      "title": "Reps. Langworthy, Kennedy offer different viewpoints on voter ID bill - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeUlqX085dk1JNkRmMW5kTTdZQ0M5ZXRQSS1ZWHVfM05RVVc5VnNNaEREZDUzQmVBUEs5UllQMktUMFF6SEdGdm1NOEJoSFdaZkJzUHZ0SHcxYjcwXzJfNWc3d1o5dWJGcEVnZWJaTDJxRVpHQlA0VGlXNmZKYS1JaDVXQWFsaUVmUkxTaUgtNEVycVRzTmZEalVrWHBsbEF5akhkQ2xKS2ZDeEVhOVFxSGEwU3BDM1d2MExuQXcwSjN0REw0QlhuZUlJcw?oc=5",
       "source": "Spectrum News",
-      "pubDate": "Wed, 18 Feb 2026 17:28:00 GMT"
+      "pubDate": "Wed, 18 Feb 2026 21:58:00 GMT"
     },
     {
-      "title": "Documents Detail Epstein’s Extensive Middle East Connections - Politics Today",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMFlLUlNuQ2hZdkxpNFViMGRJbVc2bWRINFJ1Q2dWRWdUYzFuZEZjUDB6QmM3eDhLdWRSTjlVN0lOazJ4bTdfMlloMThCRUxxbGdQV3dMVEdhOWx3d2RrdzhjckJuR3N1UFVhRmZNbllVeTlSUlFLLWpSVGpsaHk1Y2RubXZMX1NKcFgzX0xHNA?oc=5",
-      "source": "Politics Today",
-      "pubDate": "Wed, 18 Feb 2026 09:17:34 GMT"
-    },
-    {
-      "title": "Olympic politics, intrigue and sports marketing history recounted in IOC insider's new book - Newsday",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQREluZlVBT1pEd1FaS2M1T3NFVHJLWXdvSHh0dUdjeThSR1V4WHU3SnVaRGpSVWxEcUFmSnpzNG9KLVZWWWZ4eE13dkE5S3liMkJoQVFsQ25Wb1REWjE3enR1LW5nM19ZbnZFb2lhbElFODl5bTBuV0ZVZ1dVZnRNTXJ4Z0NmV3lGU19z?oc=5",
-      "source": "Newsday",
-      "pubDate": "Wed, 18 Feb 2026 20:53:46 GMT"
-    },
-    {
-      "title": "Potential new legislation would provide visas to construction workers - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR1ItbXRMVUE2X0dlQ2lLNFlHelhrUE94cWJhUDJRQWFKRkI1OGx1REsta2tEN1d1b3NhM04xRmxMRVRtOEE3S19CYjFMcW1YUFVfejNBYnQ5TjdLMGdqR0xGd3dzUF9LTXdjd200YUJjeXJwRUNjRmJHT1hhRjgtSDZFYnF0WE92S0VGeUU4bW9sVE9tcWVvYWJTQmNqSUN6ZklDVjRTeFlJMWRsZlFUYkNJeEhMMGcwR3dmXzJxSHc2M2VTUUFNSW50cTlNaE5jcDlaVw?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Wed, 18 Feb 2026 15:43:00 GMT"
-    },
-    {
-      "title": "Colorado lawmakers must stem our health care cost crisis | PODIUM - Colorado Politics",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVk1lVVl5QzNCWXpITWo2VmVjSGw3RTV5bGxiYzctckUyTE1hUEV1N3d5NGdpdVIxem9LWTVYbFBuTlMwQ0RmSi1fZkZRUTBHbXdkWmdveGY1ZTE1YzFBRVRqWXMweXhnZ3AzWXI2aHlIcEF3OWlIOVU5d1N4V2NNZ1Z3N3dFR1Jxd1ZSTEdlQ2Y1d1ZlQWMxM2daNWlTaGZ4eVZKX3QzT3RocTdY?oc=5",
-      "source": "Colorado Politics",
-      "pubDate": "Wed, 18 Feb 2026 08:04:23 GMT"
-    },
-    {
-      "title": "This Week In Politics: EPA Repeals Foundational Scientific Finding - The Villanovan",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUG14dmllcjM5dDhCVEtQLXB2bktxNzhFS0M0eDRaalBUeXo1ZlBOMFQ4SVlVRkp1T3BHSnpZclB6Rl95OWJ0Q3JTcmZ2bjFMenhvcUtTTHdrVm1yYmdid05IZkVmNzVfNWIyRndYOXhPX0xSYW5NaWwzLUFCMmRpR0xVSXN0OS1iR3FGUmVvaHdXWW5xc3hOSjI2cUVaOGVGQXc?oc=5",
-      "source": "The Villanovan",
-      "pubDate": "Wed, 18 Feb 2026 12:48:01 GMT"
-    },
-    {
-      "title": "In­de­pendent candidate for governor Rick Bennett unveils housing af­ford­ability plan - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUWZlcnQyLUUyYVpGclR2U3pTbDBkZkZ5UUpVLU12VGFuVUtDUk94bTVjS20wajdfTUFGb2Rnb3BzZUNud291SU53ZVZ4NEZiNzVqeGxlYUQyT0p5MjlxSU1HNFpHanNhd2JUTEl1b1hEYTEyX2dVRXY2UDJ0bWV3enF3ay11dV96NnF1Wll1R2I4eVlFVFJwMG9PcjBfRjZFV084TVVuZVBWUDl1emFzOUtIM2ZaV3BpYjJPd21JeUZsMDFrNlRranR2MTZjQ3N6MVlvYlZqWV8?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Wed, 18 Feb 2026 17:32:00 GMT"
-    },
-    {
-      "title": "Roper: Stakes are too high for City Council’s performative politics over hotel liquor licenses - Star Tribune",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTmNNeEJPd2NDSW1TaE83eXloTEhvQ3V5WjNIRnVIeWVXb21sVTVic1pxQzRhbVN0WnpIZlE0b1ZQLUFQMnVVVFItRWRsRlAteHJJUXFNdGFwbV9HSTZ2YXFoNkRXX2FWQ0VLNy00SG9jZHpNZXBnOU5qVVRNMC0wUUNGcHFQa25QaU15WGU1OA?oc=5",
-      "source": "Star Tribune",
-      "pubDate": "Wed, 18 Feb 2026 20:08:22 GMT"
-    },
-    {
-      "title": "‘He gave me my wings’: Jesse Jackson opened doors for Black women in politics - The 19th News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONG1fUVNPbTJYWkdIdTBIMWxjWThkZ3ZrTFJmVzZIZVB4RVhoOTNMRkJmSkxLODRaUzVlYkJmLV82ZHpIbnVkQ1VFOG9CY0pyLUtVV0x0Y3A2ckJSLWkyeVRkX0JSRGMwMGpod1o0ekR5NGlsTnRLSzVMLXF2TVNRaV85WQ?oc=5",
-      "source": "The 19th News",
-      "pubDate": "Tue, 17 Feb 2026 21:55:57 GMT"
-    },
-    {
-      "title": "Americans say Epstein files lowered their trust in U.S. political and business leaders - Ipsos",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ19LeVBQcUU2M2FtRmRNRnJkQ29YSU5KTE9IajFyYjlxYzRVS0xPVXM1UXJlcFR2M3dvTGlWbWpPWXBSQ3JTSElqQjQ3LWZUSU1aSGZvNXlra0dKZUVKMTBZaVVTU0t2aGpFaUlMeHlONkR1b0JXaHhmYVUxc24zRHlIMVpYZGZCMFlwRjU5MU5OOTc3SG1oOXdqZ2cxcUZuN0lCR2lVQ1M1SHNsUlE?oc=5",
-      "source": "Ipsos",
-      "pubDate": "Wed, 18 Feb 2026 17:07:24 GMT"
-    },
-    {
-      "title": "Ash Wednesday at the Capitol: In the Shadow of Politics, A Sign of Faith - Denver Catholic",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSldZZi1hTWxxV285WUY4OGxpMkhXd2otWWtPRkd0VkRuNnl6dUJzaG9Qc3FHQ3NFcGc2MmEydnZkNms3TmhNWldmdmxWQ1NfMV9nUTJCZzJfRnBiTXkwR050U1A3clVjMm5sYWYxaXgxd0lEMF9PMXhMZENERXR2cVNieEEwTS1oTjFMX1RRM1pxQ3lCREVVd2ZpbjJ1anVPX2N3?oc=5",
-      "source": "Denver Catholic",
-      "pubDate": "Wed, 18 Feb 2026 18:00:02 GMT"
-    },
-    {
-      "title": "WATCH LIVE: House Democrats speak after Les Wexner deposition on Epstein files - PBS",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdTVnUGpUYmdrR0pkbG5XdTFJU2ZNblNPRGVYYUI5b3ZONUkxUFpMWW5GUjJUSTVhZm5GNFRYYnkzSkxZM2IzOFc3NGZUS0Fmdy1PNnhwUnlzRWpvTFZKQ1VlcWlmdUtpYWJBcnFaR2dSRlpWX19aTWh2aE1BaG9BVXcwNnRQMXU5WVFjeFl5eE1JTkwxUjAwQ2ZkTE5lbGhobWFWQkVXNlc0SUJGekVmZ1ZCWTlEZ9IBuwFBVV95cUxNSjdPVmZINjc3QlZGQV9QYUNCa05INXVqMTlYdTJTdWRZNDlzdkZieS01TzY5MkhWc3l3OFhITWF3TjAzR21EWXdlWGVlT0JiOEsxWDBlYTdVLTJIc01Ja3czVmV6bVJNdHVpYjNLb2p2TVc5YVVLc2lQak9VOThUTU5VSHJ4eWNMQ1UyQnRCUGhfenRPcUktLU00SkhTX25ZbWlPWGVhQUYycWpWU1JMZElZczZ5S1RQT2NJ?oc=5",
-      "source": "PBS",
-      "pubDate": "Wed, 18 Feb 2026 17:04:55 GMT"
-    },
-    {
-      "title": "State Working Families Party endorses Dylan Hewitt in race for NY-21 seat - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSWRFdjVzb1I2NFJnYVR1R1BuT0w0eV9ZMC01VENSZGdlTmlRMnc0NlVnX3dKXzJ1VzhkSVZkeHFoaV9nWjYzY3dneHd3a0ZvQnU1cDJHQS1hc1lBTEVJUDFuTGw0QWtSSHJnazliWFh1bkJMREhDQUxQUW5WNDNGbEdZbEIzc2VGdTRIV3dPa0UzVXlnYXJmQVJncU4wZnFaN2paaTZHTG9sV01HTXZULWE4WW5kUUcyMjQ0LTlBMnJPSW5BOXc?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Wed, 18 Feb 2026 18:05:00 GMT"
+      "title": "OPINION: Discussing politics in the classroom shouldn’t feel unsafe - usforacle.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOGc3QkI1czVqTzZtQ2ZtRjNjbnljU1BVakMyNkcwV1lGM1VvcV9IQ0hqRnNET1l2QjNiVTZRTUdJZElUQ1Y2UVF1OGVMc0V4N3QyVU9WdjNDR3BSck9yUTFCRXlXY01mcUNPaHpVOGVpUERhRW9kY1ZCTkdKYW43ZHRPaU52ZFU0U2c3ZFhPQUc?oc=5",
+      "source": "usforacle.com",
+      "pubDate": "Wed, 18 Feb 2026 10:05:54 GMT"
     },
     {
       "title": "Trump administration restricts new FEMA disaster deployments during DHS shutdown - CNN",
@@ -281,16 +185,142 @@
       "pubDate": "Wed, 18 Feb 2026 19:00:40 GMT"
     },
     {
+      "title": "GOP House member post on dogs, Muslims stirs renewed talk of censures - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd2s0TFpqb1J3ZFBNcS1yZzU2aDdBTHd4UWlsbkI4MlZfU3VmbkRYZTNZWC1KRTZ5cUhFclRhWWJaejZNUWlicGxGRGhuanMtblR4cEVJZnBfcmdqZUVvdDJzVFJzX180Rm55ZXNIb24xdWg5NjhQMjVnWHFla0hldzZjdEpnaEFtUHF6NHNzYnpKSmpOTnhuVU4yY0diYlBEa1VqaUt1Q2hnd2dGTDl4U09XREQ2X3pJNldCR2t4bHJpUEZhaHc?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Wed, 18 Feb 2026 20:44:00 GMT"
+    },
+    {
+      "title": "Can one Texas Senate candidate capitalize on a 'Colbert bump' in his quest to turn Texas blue? - CNN",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWtocGtGclZjQTZtdHFIWDYzbmZjM1Q2cWhQU2Nud2ZjUm1IYThFcTY2bHZMc0d0MF9ydDZYZGlSSXRrcXlGRW5vS1E4QTVzNmcyQUxZZmltX3FNRTdyeXlSc0FJdkhHUXRBTjlCOUJNVTJQdEg1QUxYWERfRVBwbW94ZENlZks3bWxVTThOd2ZfYXZiT2ZXd2RQMTBiYTA?oc=5",
+      "source": "CNN",
+      "pubDate": "Wed, 18 Feb 2026 19:14:10 GMT"
+    },
+    {
+      "title": "Cuban-born congressman says ‘regime has to go,’ warns ‘it’s going to be painful’ - CNN",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UUV9IdzRGSll6cU1WUjdJRXVxOGtXcFFQQTViajRmSWlvMGJ1TnpVRHlmS1RWal9GX28wTllvTUJ4eXAtQzZFNzk0V3dNWUZpb0R3Q0FqYUM1bTFnWTA2M01wZ0VEd1B0WnctWUU5UC0xalVVN3RNbA?oc=5",
+      "source": "CNN",
+      "pubDate": "Wed, 18 Feb 2026 19:11:55 GMT"
+    },
+    {
+      "title": "Susan Blanco new Colorado Supreme Court justice - Colorado Politics",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMm1Dekl0UlBEX0ItT2NUcnlnc1hMbFRpWjZMTWhueWFpb19hTERpUFR5RmgtNkZKNW5vd3E1aVl6MHdlLTZxQ2VWRG9aRDlPdkgxRjB6T2FuUmJaWEU3OFlTaEp2Snc3Y3AzaWg0OGl0NFhXejEtTTlRdXptRk04NGdPRVRZc1AwRHdTLWR3Z1hfNHRsb2Vj?oc=5",
+      "source": "Colorado Politics",
+      "pubDate": "Wed, 18 Feb 2026 01:38:10 GMT"
+    },
+    {
+      "title": "Documents Detail Epstein’s Extensive Middle East Connections - Politics Today",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMFlLUlNuQ2hZdkxpNFViMGRJbVc2bWRINFJ1Q2dWRWdUYzFuZEZjUDB6QmM3eDhLdWRSTjlVN0lOazJ4bTdfMlloMThCRUxxbGdQV3dMVEdhOWx3d2RrdzhjckJuR3N1UFVhRmZNbllVeTlSUlFLLWpSVGpsaHk1Y2RubXZMX1NKcFgzX0xHNA?oc=5",
+      "source": "Politics Today",
+      "pubDate": "Wed, 18 Feb 2026 09:17:34 GMT"
+    },
+    {
+      "title": "The Odds: Colbert doubles down in public fight with CBS - CNN",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmVJSXd1b2lRQS1aT0ZnM1kyUjFhY2RpMnhlUHdUTWlTUFZfZzdUWWFGY201emthdmJjQzhDVURIVGp6MzNuMXhHVWVab1pMSHZrRkg1c2tEcmJSLWFkWkhXRllDOHp4N3JvMU5XeFU0QjVDdW1WUEVNOVVBNFhQSG9IUVEyVmMyRFJVbnFNaFJaYWF2eExxbVhJZDJjYkdFTnF6OGJ1aWtmTlhVcFJXOQ?oc=5",
+      "source": "CNN",
+      "pubDate": "Wed, 18 Feb 2026 14:47:29 GMT"
+    },
+    {
+      "title": "Gilli­brand in­tro­duces leg­is­lation to guarantee paid sick leave to American workers - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUE1hTHdDYWdFRld5NGVNNHJlQmJhWGFuNzRZSFFjVjFVZDdzQVhXNDh2RnVtdmtMQlROQmlMRjJ2MUlUaDRGV0hJWHZ1LU5tUnlJaTNvNmVsZ1lfOURrdUdZUWpzaGtPaDN3Vnc4RlI5aVc5TFJKY1JvQjdkNUc3MGIxTUhldHVRMWxMNTZCNFNUNEFNbDVHc0VJUzhRZWNoUnpmcXRRQUczMnhObHg5eGpHUG12RWI3RzhkMEp4NVlXSmZ4VzVIWlB1eWlvV0hLa1p6VlN5UXJ3YklkX0FSZg?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Wed, 18 Feb 2026 17:28:00 GMT"
+    },
+    {
+      "title": "Why the risks of requiring proof of citizenship to vote could outweigh the benefits - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmpHcG94UjhWYkdaM2hIay1OZWpWRXZxMEpORThaZDQ5cGg3TmJnNDMwRjBCQmwzdWY5dmJ3THFuRjMyWGt0LUw1bG9ISnJCZFpVcUNVZ19iY05pRXhCM0VWbmV3a0NsSzdBUi1IeFZzRUdGa0hsUnYtRDVOY3BiZFdlU1BWUjg?oc=5",
+      "source": "CNN",
+      "pubDate": "Wed, 18 Feb 2026 19:25:43 GMT"
+    },
+    {
       "title": "How Lincoln would navigate today’s politics - PBS",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0FaYWJYZy03dHVEMlhwbHQzSjJFcFAtS0x4cEh6ZXZoclBtUGk0LWo5bG1JQThhc1dmMnNvc0xXZlhMZ1lJSjRwTURCeWpoQWJta2hBMVNzZHo4MUh0c3Awc2RqMkI2SmJvMnRzMGUzVktHdWtMWVZGTDRjdkJ6UG1nRW4wVDZLeXF5c1k0WEhrdWVfVklQckxNWHMtenJmNm9kdVppWQ?oc=5",
       "source": "PBS",
       "pubDate": "Mon, 16 Feb 2026 16:40:55 GMT"
     },
     {
-      "title": "Billionaire Les Wexner tells lawmakers that he was 'conned' by Jeffrey Epstein and did 'nothing wrong' - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY25icms3MXhxT2Fpa0JCM0pDd0wtRkxBU0FzYVNHakVkTFVYRl81NkdQVm8tMTVYRVdjajFiZEVIcGxlRDI5YlBhODdkVVJpX1AyX3dfMnJhSDlIaTFxYkFaWVFWRjYwLXF5aG5NYlRpT2REZnczbHJDZDhTTWZsdUZMNWFrYlVFRTZtbThYTFVaVU1mcDJsLXBkZ1dZZXBpdGU1bnFaMDNNbFJJQkJxaVI3TWU3dFd4MHdzczdyajY?oc=5",
-      "source": "NBC News",
-      "pubDate": "Wed, 18 Feb 2026 18:34:26 GMT"
+      "title": "In Kentucky, Ron DeSantis downplays 2028 plans, disses Andy Beshear, doesn't stand by Thomas Massie - Florida Politics",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaGR4UzFZaDViU25hRWFWaEVRTXlMeExmelJBazdKNVBMajFVeTVuWjl0S1BpZ0UzN1hqeFYySkw3dVBUTWItRlY2QzBMUDlNczZ6SG5KUjdRSjZTV28xUVA0MVV4UmJXVmI3MzlVUXctdlhZSmRxR1lIVEphRTc2QjBRLWdtZjVvSmVlNE9vZVFhSzVOV3h3MFBEZlZGM3BZajhaYnpTb0dfZHZNNlNLRURxMFlNU21Yb1Z5RHl1U1dBdTBteDAwQUtvcWhlMENFYWloWXRqUQ?oc=5",
+      "source": "Florida Politics",
+      "pubDate": "Wed, 18 Feb 2026 18:08:01 GMT"
+    },
+    {
+      "title": "WATCH: White House briefing addresses Zelenskyy criticism, Potomac sewage spill - PBS",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWx3M3BGS3UxREpNX2xiUHpXZWFFM2k1MFNEcEt2ejctbFJXRmtkRUpoYmR1dTlzZUs4enY0cG1Td2xYb1RfXzFPMHVJODV3WkZkZUZZVkJPMlJtUUpiZko4UWhRRWhQYVNBUDRZRElDM292cnpxd2EzN1I3aGVvYlkzSDR0MDdiYk0yb2NXeHJ3NTFVV2ZpNUN4RUJnbkNJd1c1WU1wOXdEaEZHZVhTTmNmbkVhZVBuVFZLYdIBwgFBVV95cUxNRXItc2RVRU5wNmRJeFdNbUpONU9OOGprMDdTVEQzWTQyZWw4Q2QwZG5idUlua0hfUUtzSUlFWHo2YldoOVNob0N4azdhaFd3RGNhNGZ5aGN2WkJWOHdxdThLSzBRaWl6TGxQZHMtdk42LWduTnM1T3AwSkVPNl9MSnB6cFJ6d2VsSVVQdzhxd2sxNGdpYk15alFSVkRwU0VuOXMxVGhOcWJ4OVlveEt1SEpoUmlqVURkTk1lU3Q5MHJUQQ?oc=5",
+      "source": "PBS",
+      "pubDate": "Wed, 18 Feb 2026 16:49:22 GMT"
+    },
+    {
+      "title": "The misguided backlash behind \"Heated Rivalry\" and its representational politics - The Vermont Cynic",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQWVqN0EwV29FUzVyWGgtN3FxYllBeTZ1RGpCc2FtM0hqNnBUckJfRnpXVDhaMzY4ZjRpVXlZMFV6cTZQanR1V1pQTjNxdFc0MGpuNUFwNUE2REZvcER1UVBJM2xCdU1MWkV2R2tUWU5zekVLeWVISmJJbUJwS0xua1RPeWhXYTRzVTUxeFZJZDVzZVlFeEYtLWxBOTU0S2d0aGNGc2N0ZVhZSllDYVVVRkV0ZmFVRk1GZGFDYQ?oc=5",
+      "source": "The Vermont Cynic",
+      "pubDate": "Wed, 18 Feb 2026 19:00:46 GMT"
+    },
+    {
+      "title": "Americans say Epstein files lowered their trust in U.S. political and business leaders - Ipsos",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ19LeVBQcUU2M2FtRmRNRnJkQ29YSU5KTE9IajFyYjlxYzRVS0xPVXM1UXJlcFR2M3dvTGlWbWpPWXBSQ3JTSElqQjQ3LWZUSU1aSGZvNXlra0dKZUVKMTBZaVVTU0t2aGpFaUlMeHlONkR1b0JXaHhmYVUxc24zRHlIMVpYZGZCMFlwRjU5MU5OOTc3SG1oOXdqZ2cxcUZuN0lCR2lVQ1M1SHNsUlE?oc=5",
+      "source": "Ipsos",
+      "pubDate": "Wed, 18 Feb 2026 17:07:24 GMT"
+    },
+    {
+      "title": "Gateway Tunnel funding fully restored, construction to resume, Hochul says - Spectrum News NY1",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjZkdDVZcmNDcEVpM0tXbGhwd0JiRWxraUMxRDIySmd2Y1o3M256WDZqY3ktTWZORTVEaUpqMWFuSDdIZktkTjM3Rlc2RVBtVm42UHFWNzBXdW9udTAxTGxMQVh2TlVlODFBWlVfcG5Sb3BuN21OVFMtYk1BUUpCVWl1ckZUMkVwSGxfeXlHQ2dDcEVOTEhhYXlXRjhpTXY2VEQ3SmVkbWdfM3NtenlwZnlTTkgzZjBneDR1Sjh0TE8?oc=5",
+      "source": "Spectrum News NY1",
+      "pubDate": "Wed, 18 Feb 2026 16:55:00 GMT"
+    },
+    {
+      "title": "Potential new legislation would provide visas to construction workers - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR1ItbXRMVUE2X0dlQ2lLNFlHelhrUE94cWJhUDJRQWFKRkI1OGx1REsta2tEN1d1b3NhM04xRmxMRVRtOEE3S19CYjFMcW1YUFVfejNBYnQ5TjdLMGdqR0xGd3dzUF9LTXdjd200YUJjeXJwRUNjRmJHT1hhRjgtSDZFYnF0WE92S0VGeUU4bW9sVE9tcWVvYWJTQmNqSUN6ZklDVjRTeFlJMWRsZlFUYkNJeEhMMGcwR3dmXzJxSHc2M2VTUUFNSW50cTlNaE5jcDlaVw?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Wed, 18 Feb 2026 15:43:00 GMT"
+    },
+    {
+      "title": "UN Libya envoy warns Security Council political deadlock threatens state unity - UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11NFZHZE9aWVN2aEZpYjBXQXVjRWduN0ZpdFdTSVpGTUQycG9DQmN5bDV1VzJyQ0tfNkxtSVlYelY0eTF5YndqNHhEZmczdTBsdmdyWDZLRQ?oc=5",
+      "source": "UN News",
+      "pubDate": "Wed, 18 Feb 2026 15:51:38 GMT"
+    },
+    {
+      "title": "CBS reportedly blocks James Talarico from being on Stephen Colbert's show - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSFBOODB3YW52NE1ZUjBsajdoemF3WDFCTi1zTzBmQWx4bV84ekIzdWpfdWJhakxCelFUNXowekh6Y1NBN1o4UFFaTTd3MGF5RS1Hb2NmXzBVVGNfZV9lM21iVk5ROERwdnlCTG40UV9tNWVZdVVTbXVRSmU1a0hsM3p5b0h3WGp2ZFVUQ2RfS3dkcFQ4Ujc0?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Wed, 18 Feb 2026 15:36:00 GMT"
+    },
+    {
+      "title": "Roper: Stakes are too high for City Council’s performative politics over hotel liquor licenses - Star Tribune",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTmNNeEJPd2NDSW1TaE83eXloTEhvQ3V5WjNIRnVIeWVXb21sVTVic1pxQzRhbVN0WnpIZlE0b1ZQLUFQMnVVVFItRWRsRlAteHJJUXFNdGFwbV9HSTZ2YXFoNkRXX2FWQ0VLNy00SG9jZHpNZXBnOU5qVVRNMC0wUUNGcHFQa25QaU15WGU1OA?oc=5",
+      "source": "Star Tribune",
+      "pubDate": "Wed, 18 Feb 2026 20:08:22 GMT"
+    },
+    {
+      "title": "Ash Wednesday at the Capitol: In the Shadow of Politics, A Sign of Faith - Denver Catholic",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSldZZi1hTWxxV285WUY4OGxpMkhXd2otWWtPRkd0VkRuNnl6dUJzaG9Qc3FHQ3NFcGc2MmEydnZkNms3TmhNWldmdmxWQ1NfMV9nUTJCZzJfRnBiTXkwR050U1A3clVjMm5sYWYxaXgxd0lEMF9PMXhMZENERXR2cVNieEEwTS1oTjFMX1RRM1pxQ3lCREVVd2ZpbjJ1anVPX2N3?oc=5",
+      "source": "Denver Catholic",
+      "pubDate": "Wed, 18 Feb 2026 18:00:02 GMT"
+    },
+    {
+      "title": "Colorado lawmakers must stem our health care cost crisis | PODIUM - Colorado Politics",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVk1lVVl5QzNCWXpITWo2VmVjSGw3RTV5bGxiYzctckUyTE1hUEV1N3d5NGdpdVIxem9LWTVYbFBuTlMwQ0RmSi1fZkZRUTBHbXdkWmdveGY1ZTE1YzFBRVRqWXMweXhnZ3AzWXI2aHlIcEF3OWlIOVU5d1N4V2NNZ1Z3N3dFR1Jxd1ZSTEdlQ2Y1d1ZlQWMxM2daNWlTaGZ4eVZKX3QzT3RocTdY?oc=5",
+      "source": "Colorado Politics",
+      "pubDate": "Wed, 18 Feb 2026 08:04:23 GMT"
+    },
+    {
+      "title": "‘He gave me my wings’: Jesse Jackson opened doors for Black women in politics - The 19th News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONG1fUVNPbTJYWkdIdTBIMWxjWThkZ3ZrTFJmVzZIZVB4RVhoOTNMRkJmSkxLODRaUzVlYkJmLV82ZHpIbnVkQ1VFOG9CY0pyLUtVV0x0Y3A2ckJSLWkyeVRkX0JSRGMwMGpod1o0ekR5NGlsTnRLSzVMLXF2TVNRaV85WQ?oc=5",
+      "source": "The 19th News",
+      "pubDate": "Tue, 17 Feb 2026 21:55:57 GMT"
+    },
+    {
+      "title": "State Working Families Party endorses Dylan Hewitt in race for NY-21 seat - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSWRFdjVzb1I2NFJnYVR1R1BuT0w0eV9ZMC01VENSZGdlTmlRMnc0NlVnX3dKXzJ1VzhkSVZkeHFoaV9nWjYzY3dneHd3a0ZvQnU1cDJHQS1hc1lBTEVJUDFuTGw0QWtSSHJnazliWFh1bkJMREhDQUxQUW5WNDNGbEdZbEIzc2VGdTRIV3dPa0UzVXlnYXJmQVJncU4wZnFaN2paaTZHTG9sV01HTXZULWE4WW5kUUcyMjQ0LTlBMnJPSW5BOXc?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Wed, 18 Feb 2026 18:05:00 GMT"
+    },
+    {
+      "title": "This Week In Politics: EPA Repeals Foundational Scientific Finding - The Villanovan",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUG14dmllcjM5dDhCVEtQLXB2bktxNzhFS0M0eDRaalBUeXo1ZlBOMFQ4SVlVRkp1T3BHSnpZclB6Rl95OWJ0Q3JTcmZ2bjFMenhvcUtTTHdrVm1yYmdid05IZkVmNzVfNWIyRndYOXhPX0xSYW5NaWwzLUFCMmRpR0xVSXN0OS1iR3FGUmVvaHdXWW5xc3hOSjI2cUVaOGVGQXc?oc=5",
+      "source": "The Villanovan",
+      "pubDate": "Wed, 18 Feb 2026 12:48:01 GMT"
     },
     {
       "title": "How corporations and politicians decide what you eat: a conversation with Marion Nestle - UC Santa Cruz - News",
@@ -299,28 +329,22 @@
       "pubDate": "Wed, 18 Feb 2026 20:18:25 GMT"
     },
     {
-      "title": "Ohio billionaire political funder Les Wexner to be deposed by members of Congress in Epstein probe - Ohio Capital Journal",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVEN5MGdVdHppUndPX3Bfakh1V2JYOEZzc004VUdtT1lSakx3QWV6RG1sbDRSR0FFU2twNC1QZGFCR05nZkVleHVSRU01OUNBbW5wNGhHbmxBSkRKamliTUUxRDNJc2ZQU3ZMbE1kMnNWV2hoYlNaTk9HSEZwVTAxUXJXazU0UUxxYzgwdXJEVHFVMFBSeXR3V0NyWFRfS1Z0VEhCNTk4UnJ0Q0NvTzctbXdOcjhCN1NDak8yMmNaelVRRjBJN3FkRVNxeHVmVi1mc0c2X2Ywc2w?oc=5",
-      "source": "Ohio Capital Journal",
-      "pubDate": "Wed, 18 Feb 2026 10:09:02 GMT"
+      "title": "N.Y. awards Daniel's Law pilots amid push for more funding in this year's state budget - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbllKc1pWOTE4eWNOeVhiek04STR6QlFMMGhBYXRBcURza1RYenBGcndzWFdVX1RkdXFSQkNiakdvZ0lCdlRRZk1ELUtLX05DX2IyLVRFMTJXMUFScVkxUi1ZQ3NER3pCbUwxS1VKYkFCMkpKVjNmeWFuTG41NmM5SnNUSHhrZW1hbTVwSUNPYVBlRmFTTEVTdjFn?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Wed, 18 Feb 2026 21:48:00 GMT"
     },
     {
-      "title": "Trump Organization trademark raises suspicions that family could profit from Florida airport name change - CNN",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRFR5ZnRmRE15NEFtZkxwTUNBTGUzY25ZeHFxQXlvb0ZiNE95VEF5eHlJU3VHTWFnVnVmNkpScmp4S0pxRFZLZ3g1UUEwLXE1MnA1YnZrd0JJakVrYXFIX2Fabl9TTDBneGxPNzE2aTAtUmdCTzZEZHBHcE0zSDdQMA?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 18 Feb 2026 16:50:00 GMT"
+      "title": "Olympic politics, intrigue and sports marketing history recounted in IOC insider’s new book - Associated Press News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDROWV9JeGpsTXBFWUwwOXpOZER0M2xQZENhTmhsdHp4dktQZEFOVXFvaTlyQTdCRjZ1YlZDaERIVG9iMHFnQi1NczZZMWgwX3pwcm9lRmJ2RkZ4Q0hYTDFMUFJOUnFfWDVzZzFORzZmVERkb3FqV2ozUVB0OUdmdWVhbE9kNDU5NTJrRVplaVNDVVV4ZENXVU1fdG4?oc=5",
+      "source": "Associated Press News",
+      "pubDate": "Wed, 18 Feb 2026 20:51:00 GMT"
     },
     {
-      "title": "Cal Thomas: Why so much faith in politics? - West Central Tribune",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS2lOaUx0b1A3cEpqZzlNQUlETXJ2cFlOQW5oM09wdjdKUTFfV1hYU1c0MmpMZ2hCek0wVmJVVDJWM3RpbFFZWnJCLUhxc1FZN1hGaEdhUzhLazM3UDZqMlZXTVVzWmN6WEdpaW1nZm5PWlhPLWc1aGN4c3F3N3FZLXpFdHBzQQ?oc=5",
-      "source": "West Central Tribune",
-      "pubDate": "Wed, 18 Feb 2026 19:38:13 GMT"
-    },
-    {
-      "title": "‘Your Patch Is Not Big Enough’: Jesse Jackson’s Global Legacy - World Politics Review",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR3BJdmFSaHZkc3pocVFDaWdiZHR5Tm0xMEkxcC0tNUZnUFdQeVBKdEdIb3oyajlzUmw1UGFzYW5GRFRJTzVIRGxKWmZfUHNXdHExbW1KTjIzTUxSdXNtbE5HaXNGbkpfVXFGLW93Skc2eFFwNmw2a3prdGdIaGQ0RUFhYzBUeUMweWFSTFBIOTFodmthVUNNdHZR?oc=5",
-      "source": "World Politics Review",
-      "pubDate": "Wed, 18 Feb 2026 20:15:45 GMT"
+      "title": "One step ahead - WMNF 88.5 FM",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45a0p2TmMxTEpBSWRyeUhCV1hMUXM3WVVXNE5zWmRSQjFLUlEtcXNob2N2cUlKQjhPUXpabnlqS2dwN3RMNW4xUVBXU3F0NWVzNm5GY0FOZw?oc=5",
+      "source": "WMNF 88.5 FM",
+      "pubDate": "Wed, 18 Feb 2026 19:45:51 GMT"
     },
     {
       "title": "Prices Matter, But So Do Politics When Home Buying - KTEN",
@@ -329,10 +353,22 @@
       "pubDate": "Wed, 18 Feb 2026 16:30:00 GMT"
     },
     {
-      "title": "Trump would like the government he leads to pay him billions - NPR",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQnAzMVZtYmVseGN1cUhSaWszREY5SjVqNk05SE55b2haUDE3dks2TXFVblFZUXE3VVlnVGlJQWdnakJQQ2JJSXpLNnd4VlNrd0FMWE8tXzNZMkd0bjFja01XM2lmcU85RC1qZjBpS3A5RDZxVkJIaUJYLXRPZENRdVY1OXhScDZoLTJOR3EtTG5YQnhjdUE?oc=5",
-      "source": "NPR",
-      "pubDate": "Wed, 18 Feb 2026 17:00:00 GMT"
+      "title": "In Trump’s world, New Mexico female faith leaders aim to be political, not partisan - Presbyterian Church (U.S.A.)",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNHgwbUk4VUVoVU56ZFQ3cXl0bjN3azNJQTNfTnV0VmR2YjBsZUpIM09HMUp6U3F4cXd3QXQta3BpLUlCM3NkYzJMQXlXbmZERW1EZzBFTGM3ME9yMDdtY0tiX1BTLURuUGJoYk5vWEVRLUV5S0laWGdORmE2N0V4dDhfMTZlYVEwcm9aSnFLUzlzcFk3cXNJcWt2RmlpdVZUY0gxUk50RDF0cXprbFBjSGo2YXJNVmgtenhtdHRCbGxsTHM?oc=5",
+      "source": "Presbyterian Church (U.S.A.)",
+      "pubDate": "Wed, 18 Feb 2026 12:04:59 GMT"
+    },
+    {
+      "title": "I On Politics - qgazette.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84ZlMxQ19IMnBZb1kxUlVLVVRpYzBZbGpoaUlKbE42MGpoSng0ZnRvQnV0aDZ5REJmZVJmaXNsX3dXTkttQUhoUndQUkZ2WG94MFpEUTB5TnZESHpqOFJCNzNB?oc=5",
+      "source": "qgazette.com",
+      "pubDate": "Wed, 18 Feb 2026 20:28:13 GMT"
+    },
+    {
+      "title": "Cal Thomas: Why so much faith in politics? - West Central Tribune",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS2lOaUx0b1A3cEpqZzlNQUlETXJ2cFlOQW5oM09wdjdKUTFfV1hYU1c0MmpMZ2hCek0wVmJVVDJWM3RpbFFZWnJCLUhxc1FZN1hGaEdhUzhLazM3UDZqMlZXTVVzWmN6WEdpaW1nZm5PWlhPLWc1aGN4c3F3N3FZLXpFdHBzQQ?oc=5",
+      "source": "West Central Tribune",
+      "pubDate": "Wed, 18 Feb 2026 19:38:13 GMT"
     },
     {
       "title": "Berlinale Chief Tricia Tuttle on Free Speech, Politics and a Festival Under Pressure: “Taken a Life of Its Own” - The Hollywood Reporter",
@@ -341,208 +377,16 @@
       "pubDate": "Wed, 18 Feb 2026 16:55:06 GMT"
     },
     {
-      "title": "Milwaukee Alliance Against Racist and Political Repression: Pursue safety, not people! We demand accountability from MPD! - WisPolitics",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU0QwMndXckVfMkhFaWRrQTE0aVl2TmFobkZwa3VvN3RXckh0SXA1VGRrazF5LUltRXZha0Juc3AzdV9ocHY5VGZhLVBIQ0swUzZyTVRkQjNTQlNOanUwSFNpeXI0QVV1ai1UTmJFU29kR3BSaDVFRFBMRXdJcGRmNFRVd1JjZXdvQ053dUxMTDZMWWJFbGpiZ2psdFhXZ0tUMUU4UnJBVmlTR2J6ME1KeXVidk9mM2VVOWl1NTg4dDk5LW9IbnFJb2hsM2pHcmxkbmVqaDk4dnJ5V3ExOUtCTVVPTy0xZw?oc=5",
-      "source": "WisPolitics",
-      "pubDate": "Wed, 18 Feb 2026 19:40:31 GMT"
-    },
-    {
-      "title": "Presidential Election 2024 Live Results: Donald Trump wins - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBONjU0dW1id2ZBNThaZThQb05aSWc5aTIxNXc1N0YtczRUVXZoMmVSOW0wM3pHc0xncHVEdVUxV0d5TnlVM1I2ZzJ6ZkhBVUVXUUVjZXdKZVpWbWU4bzR5ZEtVUXY2Q3RydEZIWkhGTGdfaTA?oc=5",
-      "source": "NBC News",
-      "pubDate": "Tue, 05 Nov 2024 10:01:38 GMT"
-    },
-    {
       "title": "San Antonio City Council to discuss mayor reprimand in special meeting - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZFFfRU80Sm1GWllKZXlaMm9NS2xtN05MeTZReGlVekdvOXFNZE9LX0QwaVRjRlpiUjhpN09fWXQtWnpMYWNmNmpKWFhZdWd0c1FIaTFmUGI4Y3BLbUNwZ0I3RW84T1h4MG03REJ4bDloSjRqWHVEZDJXU3BpS0ZrOTMtZ1NwWDJWZ2V0c3kxcURES3psRmFpZ1lYaU9JNWhxRVpTUFBHVW9ZYVBHa00wZWdCcml4UUxNTVAxamg3by1xdVpxQnlnR3pudWdWZld0TVBDUktNbw?oc=5",
       "source": "Spectrum News",
       "pubDate": "Wed, 18 Feb 2026 16:23:00 GMT"
     },
     {
-      "title": "In Trump’s world, New Mexico female faith leaders aim to be political, not partisan - Presbyterian Church (U.S.A.)",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNHgwbUk4VUVoVU56ZFQ3cXl0bjN3azNJQTNfTnV0VmR2YjBsZUpIM09HMUp6U3F4cXd3QXQta3BpLUlCM3NkYzJMQXlXbmZERW1EZzBFTGM3ME9yMDdtY0tiX1BTLURuUGJoYk5vWEVRLUV5S0laWGdORmE2N0V4dDhfMTZlYVEwcm9aSnFLUzlzcFk3cXNJcWt2RmlpdVZUY0gxUk50RDF0cXprbFBjSGo2YXJNVmgtenhtdHRCbGxsTHM?oc=5",
-      "source": "Presbyterian Church (U.S.A.)",
-      "pubDate": "Wed, 18 Feb 2026 12:04:59 GMT"
-    },
-    {
-      "title": "Electability and enthusiasm: How the Texas Senate primaries are testing the direction of both parties - CNN",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTW5WU0RSUDAweTNoS3h3TFFfSC1qcHhsS0Z4d0xsUXBmYkJjRFJOcUNVTzJ4c2N1NmZsWUsta3VYSnlYa1VmNC1pUXkwdWg5T1BhM01memxtQkRiUUlPazNma2xLU2VNUmw0aS11YVByckVndl82b3pZRmJrQkRaSGdfUUJJcWdESHVrbllBRzJqT05FSzRjM2Z1NDVmdw?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 18 Feb 2026 10:00:46 GMT"
-    },
-    {
-      "title": "Politics latest: Trump tells Starmer 'do not give away Diego Garcia' in fresh attack on Chagos Islands deal - Sky News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSk56c0RQOEM4eXB3NkdNdGtxaElpWUFweUJUbFZRRjA4MUo1RHVRNXlzcE1NTDRXVUZYeFh3U3EweG1kODRpWUVRcldBc0VZZF81RUY3NHlSVzBtVkxrN0Z4NmVHeGh2Yml2RFI1dEREd1N4SFNaTDRpQjFXM1NEY3VGM2cwTk9GNlRENGF1V1NfUQ?oc=5",
-      "source": "Sky News",
-      "pubDate": "Wed, 18 Feb 2026 15:01:11 GMT"
-    },
-    {
-      "title": "ABOUT Party Politics - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BNFE5YXRnMFlRdXlmZzNYeElQMnQ2eXV0LWRibHpWZk1OaXZ6bzBMWktBQWFic3JBMUZJVmQyLVA2Yk4zTndvYzNWUmp6Z0M0TzdyanlUVzUyTkVocXBQbE9CZ25SMU0?oc=5",
-      "source": "Houston Public Media",
-      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "How the Rev. Jesse Jackson transformed American politics - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2Q4Qko2MmpnSnFjTVluMGZNRG8tQU1KbGdlSlJISFJTWnl0bW5uczdZcXlVV0kyY1d2dGhweWVwMGRMMXRKVzNZUlNUVnpHcnpUME1yeXNtNWlvZTU1dTZLaEl3bFVOejRzRlIwaUZQUXNXXzBpR0lNQmJFNHJnMXFMa1NaNFpmNGo1bEUzeGtoRFF4NDV5RzlzMC1SU2FBbFE?oc=5",
-      "source": "NPR",
-      "pubDate": "Tue, 17 Feb 2026 22:54:39 GMT"
-    },
-    {
-      "title": "Senate candidate James Talarico raises $2.5 million after Stephen Colbert interview controversy, campaign says - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPemR2NFVOU01hSnZhR1RnalVrbE1MbFV4QVJ5b2pFLXcwa3V5ZnlmSU9hTEJqRXRDZUlaUmxOSzhQVlZxcTZhdDhvQUxVWTh2U3ZHMURidHJab1V1dVg3Si0wb3c4NHdlRkQyM29CUUNrTW4ydDlsRGhINGY5N0JWSV9LVmkyUENTQnpEUWdQOXMydUtGcEljeW0yQmZBVHAxMEJBb042VnY4bTZXNVRWbkZUOTNCQ2dSalBlNjh0SmtkVDctcmVJTDlxWkRpYTYwTUoyeDNadjRuNGNianBEbWI4MXFJWG5KVDdhNmt4RnpZNjZseEZuZNIBgAJBVV95cUxQazFwaXFyMmc2VjlBcVIzUmJBQkxzWDAtaW1qdTFrUkNSaWpWZzQ2SWdGUFlLM1ZCTXM1VUtwdi1ibEpBOW1KckRJWnhMaGdobGlNaklEU3RWVl80R3ctRnVMeHNEUndzZHVPOURFYzAyQnVnamZWSng2Z19jSU1wdWJ5Wk5nblJPZ2ZZOGVJU0l6VmZOc3F4MDFoX1dfRjZHZkFicmo4ZW9mbHhCSE5naUZTNXBXbDRRTmFFWjVReENzMlRySjNGSWZGaVQyOTVsdXlNQWNTaElHamRBY1BnMUlKREdZeTlRVGl4OHd5ZmZBdXJxWk9BaWl4UEV5aUtM?oc=5",
-      "source": "Houston Public Media",
-      "pubDate": "Wed, 18 Feb 2026 17:27:59 GMT"
-    },
-    {
-      "title": "South Sudan Appoints Dead Man to Election Panel, as Political Crisis Grows - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNblFtVElYR1MyNWRXVzlVaVN3Z1ZuanhDLU5PUS04WkhtbEFob1h1Zk1PVzFuazhBUjgweGg3UjR6amhzMHNEcl9Qak1aajRmSE90MjRxNUViQjVVTnQtcFBKdF9jRzJNQ1JwNnQ1T0RteEpEZTMwV01kVnpSdTZYdDBIbjNNRGk1emdvejBkM09xc1E?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Wed, 18 Feb 2026 18:33:44 GMT"
-    },
-    {
-      "title": "Statement by Ms. Charlotte Saudin, Deputy Political Coordinator of France to the United Nations, at the UN Security Council Briefing on ISIL/Da’esh - The America Times",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbGR6elFMOWdKVTl4UWpUQ2NGcl80SWxEeXVZRzZMbTdSVEJmMUU5STI0S1VPTU9wb3hoNWg2QThoalFqU2RaV3lBSDdjS1dBSFJtei03UzBEaTJNMmhmejB3aU5VUkQ5c0k5bmk3SFg2aU14VVo3aXdhUkdLeTBwZlZTendaTVhoNms5YVNVZzlkNHBLN3NDVmVWekhVQ2xnU25oMTJNY2l5VzgzUGJkaEpycEhENk82Rk11TGNINGJXZXR1ekt2OThmd2FDOHAzb21hcTQ1RWk1QnpVRlp1WWQ0Y1F1R01YZHFEN0FVY09icUZQNEk1cXVYMHFLYjBNSFZtYg?oc=5",
-      "source": "The America Times",
-      "pubDate": "Wed, 18 Feb 2026 19:46:01 GMT"
-    },
-    {
-      "title": "Political Armistice: A Race to Stockpile - The Villanovan",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVkxTMm1GcWs3em5QUEpKenVnVlZOV0Z4Z1BBZWJYYi1lOUtRUlZTVVBwNDctdlNOZWhEeVJOdTNvZW9Pb3RWSmZmUmVtcW5rRldXUXd5UWZCTkMwVnhBa1o2YmhCdDFGSDhKX2pSLUNWRzdHa21WckdiUW1JUVc3cHZXOA?oc=5",
-      "source": "The Villanovan",
-      "pubDate": "Wed, 18 Feb 2026 14:03:18 GMT"
-    },
-    {
-      "title": "France reiterates its support for the unity, stability, and sovereignty of Libya - France ONU",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPanUzVTAydmk0VEpWdEU5VEZlNlJqZklNZlF3MDdTVDY2Z1BubldDSzVPLUlIclMxVTNwUVpEci12ODc0VXJablZmT2x0cjNzUnVQY3dRS3VJWmVWWTk0QXVrNWh6NlBGSmVoY1JnQUJka2xZX0dqOWNST0sxYVZ0SThZb1FQZVhjRlZzMGFkOXFPVWx0MUhpLTlfWTY4bjJFVUEzel8wMi1NUQ?oc=5",
-      "source": "France ONU",
-      "pubDate": "Wed, 18 Feb 2026 20:09:11 GMT"
-    },
-    {
-      "title": "Online event: When Politics Meets Policy: Understanding Fico’s Brussels Strategy - Visegrad Insight",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSEpGdXJYZHd0LXRjR0VwalVQRUl3NTdYSlFCTzJka0pENXYzMkpvV0tJTUUyQnVvVVY5RzQxd1VFWlFKWVlDaHcybVRaaXdVSDB0MTdpaS1nQ0V2OGdPenlwUzFINE11dDZVNTJTaWQzRWY4ZEc5ZVBPSUw3RXRpclIyQTBkRzA2bk90aXBtQjVhQ2hBQm5PRlBqS2xMcGRQWDZBS0FOakU?oc=5",
-      "source": "Visegrad Insight",
-      "pubDate": "Wed, 18 Feb 2026 17:12:07 GMT"
-    },
-    {
-      "title": "The Politics of AI: Is It a Good Bet for the President? - The Ripon Society",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOclQtY3ZWNEZZQTktZVRENXlpZ1JzTFRzcFJteWc4YVZUTUZZQkRGQjB1bGZpWldrYWt0U3Y3NkFHWmRUUGxCdTNkMFBXblhRaWNOOWVGeHlmVTd6aWYwLVNjemNjXzRWbW01OUp2UVFObGx4ZzJ4ZmtqeUZyczZNYUVFRmFEN0luQkJ5UG5EQmY?oc=5",
-      "source": "The Ripon Society",
-      "pubDate": "Wed, 18 Feb 2026 14:18:29 GMT"
-    },
-    {
-      "title": "Susana Mendoza: Put Illinois students above politics, and opt in to the federal scholarship program - Chicago Tribune",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVRBTGlkVldtMGtlMVNYTnZYLTljTnlPMGhSNEwyNUFXc0hMYWU4QjUtSk5XVXFVWjBUZ19nbjAtODR1OVpoT1ctX0FMZTVTQjdyOVFzYkNoczdWNTRzc0RNOXRJOGJPT0tRYmdKb1lnZkJXaDVCdXBTUEhlZW9WMmZnRGpMREplV2FJaTg2Rk5EVWJuVnZXUDF3?oc=5",
-      "source": "Chicago Tribune",
-      "pubDate": "Wed, 18 Feb 2026 18:35:35 GMT"
-    },
-    {
-      "title": "Ocasio-Cortez took her populism global. Will she take her politics national? - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHpvRzFVREhqUUJuWGc4QjRRbEI3S3FnWGlna3lIRDRMLWtnRklNTkRDbTFRa1hLTmFGVHNRU181aTR2T2RtZjM3MmVaRGtYMG5uUXgzd0pPTERBV2V4RUFmNExINWdnRW5tYUlrOENBUHJma2s5YW1NemhYRU05aDZ4T0toZUdnaFcyWXNLbXVrR2poWXo2dFNtcw?oc=5",
-      "source": "MS NOW",
-      "pubDate": "Wed, 18 Feb 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Philippine VP Sara Duterte announces run for president in 2028 - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTN4TjZkSXI0cU1wNW1hbG1tdDBiLWYxUWVmTm1QeGp1VHpUa0JrRWd1b1dIdVY2ZnBfSmFYNW9CcmpHMVJiNnFGSjB6V2FRbDJXZ3I1b0p0TWtudlhndHVlMlRnZHA0RHNGWjA2VFhtLTg3YnZBSWhJd19qQWFUVURWNXpLQ0NhdHNBSGxIYUZVNld5YTNPWnJqdU44d09iVlpMbk5R0gGrAUFVX3lxTE9WYktNcXUxdFVlTFRLOWd3Q2VNUkhRQTMyc3NKeDlQTzc3cmJ5NWNnSzRXbjNvUDFfQ3hUUnNnSlQ2OUpZUC1QOGFwNnIzV2s2QTQ4d0dkLVAwVDlWQUFyRFVySVJGMlVMLWJpSUxpaFNrRDZfYWpMVUFteWQ5bVo3aTFDdjN6Zlp0QzEydGowMmNpbnJjRHNHWW5MVU93Wm1PbDE5akRHYWU4Yw?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Wed, 18 Feb 2026 06:17:14 GMT"
-    },
-    {
-      "title": "Politicians remember trailblazing Sen. Avel Gordly, Oregon’s first Black female state senator - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMDM2SmNmdDl4UHJkeXhZaGc5UjkzUWtNaXFMQnJ4SlFyYU1aaDdhVThOZ2ptRTByVjNRZHZ6d1dWTjNDRVJlc0g0MG5CZnNZY0xoUzhOY3U4cVhHVjBDX0N6U09wVS12cGJxVlVuenhONUxtcXhPaTk5RGVCbjdNQ0Z2RjdkU0NUN2I3VWdFMVJOalI3OUxfcjVHRnRMRlpjWFM3aHozTmptdTViNTRBekZZTGcxNGxORUJ1UGd1MVo0bjRFeTY0elZLYmxxZHJrbnJZYVFR?oc=5",
-      "source": "OregonLive.com",
-      "pubDate": "Wed, 18 Feb 2026 19:36:00 GMT"
-    },
-    {
-      "title": "Ukraine-Russia, Iran negotiations - news8000.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUxWZTV1MzVxZzdXS0c5eWFIWjRIeGF6S3k3aEQ0dVpZQXI0aDA2VGZIVXRqbU5iYUJodzJGVE1NZnRlUDRuLWpXd0o1dE55N0c2OXBJM3dtaTFmbzd6cXVjSnpLODc1X0pPb0xKbWZ3MnhWNlRYUmJJZ0RtM3NTOG5nUnpRclAyYTFWekdMblVXbHBfUWQtREVyN1FGZ2ZhcGtRd3pDV19RYS1LNW5tYzhiUWhfNXpkRzFj?oc=5",
-      "source": "news8000.com",
-      "pubDate": "Wed, 18 Feb 2026 20:15:00 GMT"
-    },
-    {
-      "title": "Jeffrey Epstein's ties to politicians, business titans and other figures - The Detroit News",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdkRlU2ZLVkRHamg3MUVlWWgxZm5VTDRtVDl3UDZsOGYxNjcxVVNLREYwSTdTeHJPb0NTSlFfT2dQdzJac1J3RDRzZWF4VXViVzlmSkt6Tm02OFpOdGdFeGRRRWhFS093bm5DSk1RY3JUNV9NN0pXQVB3RC1sX3ZXd3hQLXdnQ0JzRHVRaWdKN1NOd0VTUWFFMW55dnVoS2NxYkNWbGlaQ1hidjNpOUo4QmE2Y2RtbjZtdWFWQzlFSUVtazhnNnRLMXlpbGUxOU5IMHdnNjVnRnFrdw?oc=5",
-      "source": "The Detroit News",
-      "pubDate": "Wed, 18 Feb 2026 20:48:00 GMT"
-    },
-    {
-      "title": "Reexamining the “Nation of Immigrants”: The Politics of ICE Enforcement Keynote and Panel Discussion - UCLA Luskin",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPajk2Yl9NRTFMWUI2RG1fbTNpajNLbFdVZHZIdXloX1lzT09kQU5QdTFVWFUwTFN6WVVEcGowZTA3V1ZfLTFhYjNDMnFOYk1IMW81Z01YV09RRmRLTUF0T1ByNjR5WG1EWU84OEhsUGE2OFNOVXNpVmxhVWg5OFlDaWU3VGlwLTF1SnNjZ19WT3BjUW5EVFdXb3RCNlRiYTNFcG12Uld3NmR2TEdRTlFsQXBvUDNCVVE?oc=5",
-      "source": "UCLA Luskin",
-      "pubDate": "Tue, 17 Feb 2026 17:17:27 GMT"
-    },
-    {
-      "title": "Bangladesh’s election represents politics as usual, and some hope for change - The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUJYQU9DM3pyMGRYNTlaZ0N3MVpfcS0wSGRSNjdHOU5IdjNoejdTbXB0ckx1aHNGdk40R0Y4RXdHLWtkZTNSSEZ3eVFJa282RGFIUWpHWmFXNnhQMnhoR0FMSVJxUGVUSUlVUnJZMlIxdlJ1MTZGZENrVENRcWlsMTVfS1Qxc3Q5Qi1qTU1nWDJUeURkWTNWUHB1R1FPQ2xFcUd3bVhWUmppN2c2T2c?oc=5",
-      "source": "The Conversation",
-      "pubDate": "Wed, 18 Feb 2026 13:25:32 GMT"
-    },
-    {
-      "title": "NewsNight panel debates MAGA's reaction to AOC compared to Trump - CNN",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFpyelhIVktuSjFac3VheXo0a0YwSXAtMkRyMk5IbTJRczlWOHdiYkVkcnJyWDYxY1k0NS03SGJHVTd5bVVKX2pXTU9iRmJIdEJoRDF4bTljZnZsbFdNdzZ4ZVZ6WnVfeXBacE1nZFhYWmxwU3VxdEJERUVJTTVIbFNUZnF3OFhjc0t3Sw?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 18 Feb 2026 03:43:14 GMT"
-    },
-    {
-      "title": "Nation's only unsalaried legislature asks voters to reconsider volunteer status as women urge change - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdEFCMEFJM0t1OEpINGNnX195MVREV3lyZlFjVGZwS2tld3BWcFpJNDRJQV9sbzRsZlVkSnFtWVUtUGZ4XzdSWmF6VkxzM05wY1AzZHhyS1VTNmJrVW1yUzkxaVhqeUF0N3V4T2ZrRHU0VnRfSVVra1N2SXMzRjNFaVJSMk5CNWxla2gzQmhkcl9yREpHYjFNVHJwejFFOVFCcjhhRG5VNTdseFlVS0VDdGxNMTBPQm1oUW53U2lQa19jRTBoWjh0TFdn?oc=5",
-      "source": "The Washington Post",
-      "pubDate": "Wed, 18 Feb 2026 20:02:26 GMT"
-    },
-    {
-      "title": "Gateway Tunnel funding fully restored, construction to resume, Hochul says - NY State of Politics",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcGF1ZmI1dW8tVmxBRU82bWZiR1JpbWlrZUFEN2RuN2puTG9IWERKaWl6MFJlUzB0Q1NSTEMwOTVTZDZweWoxNDI1b20yNFAtaEJyZmpQNEFnRWtwYmRjbWhGd09ORE5aTDl3OHpLSFBnTGlPaTRKbWc0WTU4NEdFTFkzenB2cS1JZGdmMlZUdWczdnVJdUhVb1hsVGJtb0JMWHA3RnZtdTFJNnBCMmhqTVA5dndVQUNXYS1ubXpqSUg2cEZVWU5uZDU5TEs2Z2hHZ1NxSFFYazd3RHMxZkxpdQ?oc=5",
-      "source": "NY State of Politics",
-      "pubDate": "Wed, 18 Feb 2026 16:55:00 GMT"
-    },
-    {
-      "title": "Progress continues on crafting state budget - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcS14R2R1VnVNZ2VqSGFtaVMxRlFXdnZlZ3FUSUI0Z0tqUGJWcXhwRXRnc2c4MklMcWRwODJ2MWNScVN6Skc2SWJTMW1IQ285OXFTMkRwTk14RmQ0RHJfQUFaTDhXTGRhWGlVblpzRzVzVUVQNng5YVpmNDBMcGxlSUQzeERSaTlUM2dzdU5Qc05RM3ktVWFqZm9BbVdhYkZz?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Wed, 18 Feb 2026 15:00:00 GMT"
-    },
-    {
-      "title": "White House rejects Dems' latest offer to end shutdown - news8000.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVklFQ0NWMlVfejUzYXZ0eDBtMi1tSlR1dktoQ000aFdxZWptM0llTFlZNFdiN1JFUFZVV3FiRnZ0bXo3VHJlTVc1R3VBbldTaVdITkdXeHZmWjQ1Ri1vM1UzeGoteXVUbG4tZjVkTGY0bEtNVHhvckFHTHZrNHBwOXktS1BBMGhZLWZuNzRHZVJrZjFGdHI0MGE3Mi1BYmdjbElaZVpLUWRvRW83Mm5mUThJTXF2N0RKaWozWFFxQ3ZSLXZNR0t4YUllNXdnMUZoUGRXUU1mZw?oc=5",
-      "source": "news8000.com",
-      "pubDate": "Wed, 18 Feb 2026 20:15:00 GMT"
-    },
-    {
-      "title": "The FCC (probably) didn’t censor Stephen Colbert - vox.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNblI4bndNa3lYcTZKa3FQRy15cVFKVmU1NVRnTnd4cWwzMjh2Mnh1NEZXWktKd2dmVGhBWksydDdYR3owb05WM1VHeG9WZFlPWlh6VVlWV1lJWmN4TlEyRXdCeDRwUmgtT0pPNC1fNUVMbUp5NExpSldfaGhRbkpRb3pGMGZLSlhCLW5fbGRidVhXOThEa1F6di1hRVNCMGhh?oc=5",
-      "source": "vox.com",
-      "pubDate": "Wed, 18 Feb 2026 17:10:00 GMT"
-    },
-    {
-      "title": "ICE meltdown, Pennsylvania politics, Epstein files, more - WHYY",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tM2RyaUJRYzZjMFduTHFaQWF3ZFVhNWNyUDhzSEpzSl82SmRfdFZxRndha1ZiS01Wdk0wcVpINzdVbzB1VERjUVJoUnpZOVg4V2xWWEh5Y2lyTXhnMVdld2N5NTFxYlBsLTYw0gFwQVVfeXFMTkVHMXVMcngtUWc5UEZXMklBN05vNEhBUjBkd1RhYUpiM3J6M0RlR0YyZ1FIUVlPcHFqbHV4d1g2MEEyVWx2Q0ZneVBMVFY1MC1qRGtlWjRCbEZmLXl2N1FfYkRQWXptUHFRYTJtNWpmQw?oc=5",
-      "source": "WHYY",
-      "pubDate": "Tue, 17 Feb 2026 19:33:10 GMT"
-    },
-    {
-      "title": "THOMAS: Why so much faith in politics? - Gwinnett Daily Post",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSkFMWHB2bUgzaTJYNmV2X3RaQWJxbkd1SU1iRF9UQ21wVUpQX29ZUXdvcXVZc2doM1c4NERvTlZaT1J4Sk5tTVRobHVXX1I2TmRJYmdEYl9wZTdma0ZDNUg4UTR0QXpheWE0RzRWWVlGaFNoVW5vQVhaMURPSVpkd2FXMzZLdGJKbTVjZFRCQlgyR3o2WTdBa19aMGxmS3BlSGFmSV9JRVFiYXRzN0stUl8yYktkeDlucWFBeVVCTEMySFRQeTAwT25felJ2NV93VTRWU2ln?oc=5",
-      "source": "Gwinnett Daily Post",
-      "pubDate": "Wed, 18 Feb 2026 11:15:00 GMT"
-    },
-    {
-      "title": "Late-night host Stephen Colbert isn't backing down from public dispute with CBS bosses - KSAT",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVHk5VW9fVDdqb1VXS0J3dm9DRmVCck1BdDkxTWFjMGI1YU1RM1ppWGNtVzhYVk1YYm1jT0hJa3VFWTNKd1RlTFpobG5MS0ZxSWZlWnc3dllROF9vSDBnT1RUdDF1R0dHeVFOcVlmYlVQTTlTWFR1ZjBEMkl6R1JTUnpjdjVWNV91aWpvMDVrbFVPMlAyb3JfelQzRnktaElPNjh3bXE3TUNxbTNIWjRaejdzX0JTVU9jSnV5TUMzTk51czlKdmxfdkpMZ0c?oc=5",
-      "source": "KSAT",
-      "pubDate": "Wed, 18 Feb 2026 12:19:54 GMT"
-    },
-    {
-      "title": "Exiled Venezuelans may well support regime change – but diasporas don’t always reflect the politics - The City Paper Bogotá",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObjM3S3N1V2xBX3dmc0V5aGhyZ1E1NFZCWlZDWXRaWk1tZ1Y3bThXS1lPYUh4QUc4ejVsRU12ZmVCNGdkbnJwM0ZvRFMxMVRHU1Z4N0cyakM2WmhtLXlzY1pBTy1fVHdGZ2xBNUZkSUtsZmZVeWczQlRWZVdETWtNaUhCdTVPdE9UQ05hMHI5T3VjdmY4MHNCQkk2bGI5dE8yNXo3MGVfcTY0dFhwbUJFSEpZcmQtTG9WU2ZmQnFYdG9HQnA1ZGJkWHdPU1l0WHhnZEE?oc=5",
-      "source": "The City Paper Bogotá",
-      "pubDate": "Wed, 18 Feb 2026 12:00:45 GMT"
-    },
-    {
-      "title": "OPINION: Politics is local - Coeur d'Alene Press",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WUWVhNllkNThtTkZDN2s1Tm5SMG00alQzSzZQeVVFdzdiOVA1a2Ywcm5HbXlrVF9sWXlrYXBBLTVHSEJfNU10eGNEeEk5aEJDSkg5cVR5dDRGcHdoNk11U1h2bmhOQ3dIZllhN3JVOWw4dw?oc=5",
-      "source": "Coeur d'Alene Press",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
+      "title": "Slate Adds Ian Prasad Philbrick as Politics Writer - Slate Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83Q3JPSjdVaVljQmpJU1ltSkFZallleUxRUTU4bkl6aHpmQzU2bmUwaXVYcDRqRk9qWGNiYm1wS0VUd256T3hxWkhBdHRiMVNWTnp3ckFRZGxjR3MxZV9PSWxJdw?oc=5",
+      "source": "Slate Magazine",
+      "pubDate": "Wed, 18 Feb 2026 21:40:00 GMT"
     },
     {
       "title": "Hillary Clinton and Sarah McBride expose how weaponizing ‘scarcity’ drives anti-trans political attacks - Advocate.com",
@@ -551,34 +395,190 @@
       "pubDate": "Wed, 18 Feb 2026 20:58:06 GMT"
     },
     {
+      "title": "ABOUT Party Politics - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BNFE5YXRnMFlRdXlmZzNYeElQMnQ2eXV0LWRibHpWZk1OaXZ6bzBMWktBQWFic3JBMUZJVmQyLVA2Yk4zTndvYzNWUmp6Z0M0TzdyanlUVzUyTkVocXBQbE9CZ25SMU0?oc=5",
+      "source": "Houston Public Media",
+      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Reexamining the “Nation of Immigrants”: The Politics of ICE Enforcement Keynote and Panel Discussion - UCLA Luskin",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPajk2Yl9NRTFMWUI2RG1fbTNpajNLbFdVZHZIdXloX1lzT09kQU5QdTFVWFUwTFN6WVVEcGowZTA3V1ZfLTFhYjNDMnFOYk1IMW81Z01YV09RRmRLTUF0T1ByNjR5WG1EWU84OEhsUGE2OFNOVXNpVmxhVWg5OFlDaWU3VGlwLTF1SnNjZ19WT3BjUW5EVFdXb3RCNlRiYTNFcG12Uld3NmR2TEdRTlFsQXBvUDNCVVE?oc=5",
+      "source": "UCLA Luskin",
+      "pubDate": "Tue, 17 Feb 2026 17:17:27 GMT"
+    },
+    {
+      "title": "Ohio billionaire political funder Les Wexner to be deposed by members of Congress in Epstein probe - Ohio Capital Journal",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVEN5MGdVdHppUndPX3Bfakh1V2JYOEZzc004VUdtT1lSakx3QWV6RG1sbDRSR0FFU2twNC1QZGFCR05nZkVleHVSRU01OUNBbW5wNGhHbmxBSkRKamliTUUxRDNJc2ZQU3ZMbE1kMnNWV2hoYlNaTk9HSEZwVTAxUXJXazU0UUxxYzgwdXJEVHFVMFBSeXR3V0NyWFRfS1Z0VEhCNTk4UnJ0Q0NvTzctbXdOcjhCN1NDak8yMmNaelVRRjBJN3FkRVNxeHVmVi1mc0c2X2Ywc2w?oc=5",
+      "source": "Ohio Capital Journal",
+      "pubDate": "Wed, 18 Feb 2026 10:09:02 GMT"
+    },
+    {
+      "title": "South Sudan Appoints Dead Man to Election Panel, in Sign of Political Crisis - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNblFtVElYR1MyNWRXVzlVaVN3Z1ZuanhDLU5PUS04WkhtbEFob1h1Zk1PVzFuazhBUjgweGg3UjR6amhzMHNEcl9Qak1aajRmSE90MjRxNUViQjVVTnQtcFBKdF9jRzJNQ1JwNnQ1T0RteEpEZTMwV01kVnpSdTZYdDBIbjNNRGk1emdvejBkM09xc1E?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Wed, 18 Feb 2026 18:33:44 GMT"
+    },
+    {
+      "title": "Donald J. Trump International Airport? The President’s Company Trademarked It. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZkhFMmJKWkI4MlNIV0o0Rm1VOTFDNWFhZzRENmRPbl9FVVZMRl9rZ01SSW4zTzdsbmRjNWlmaFo4bVlzMUk2VEdGTVZJNURvbXRFT3NaVjZ4Z0xEcXE5TXpHOW5vRGZGcDFadnJyd0taN3FUT3dKS2VxS3g0c0cySnh1US1YajQ?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Wed, 18 Feb 2026 21:53:10 GMT"
+    },
+    {
+      "title": "‘Your Patch Is Not Big Enough’: Jesse Jackson’s Global Legacy - World Politics Review",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR3BJdmFSaHZkc3pocVFDaWdiZHR5Tm0xMEkxcC0tNUZnUFdQeVBKdEdIb3oyajlzUmw1UGFzYW5GRFRJTzVIRGxKWmZfUHNXdHExbW1KTjIzTUxSdXNtbE5HaXNGbkpfVXFGLW93Skc2eFFwNmw2a3prdGdIaGQ0RUFhYzBUeUMweWFSTFBIOTFodmthVUNNdHZR?oc=5",
+      "source": "World Politics Review",
+      "pubDate": "Wed, 18 Feb 2026 20:15:45 GMT"
+    },
+    {
+      "title": "Senate candidate James Talarico raises $2.5 million after Stephen Colbert interview controversy, campaign says - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPemR2NFVOU01hSnZhR1RnalVrbE1MbFV4QVJ5b2pFLXcwa3V5ZnlmSU9hTEJqRXRDZUlaUmxOSzhQVlZxcTZhdDhvQUxVWTh2U3ZHMURidHJab1V1dVg3Si0wb3c4NHdlRkQyM29CUUNrTW4ydDlsRGhINGY5N0JWSV9LVmkyUENTQnpEUWdQOXMydUtGcEljeW0yQmZBVHAxMEJBb042VnY4bTZXNVRWbkZUOTNCQ2dSalBlNjh0SmtkVDctcmVJTDlxWkRpYTYwTUoyeDNadjRuNGNianBEbWI4MXFJWG5KVDdhNmt4RnpZNjZseEZuZNIBgAJBVV95cUxQazFwaXFyMmc2VjlBcVIzUmJBQkxzWDAtaW1qdTFrUkNSaWpWZzQ2SWdGUFlLM1ZCTXM1VUtwdi1ibEpBOW1KckRJWnhMaGdobGlNaklEU3RWVl80R3ctRnVMeHNEUndzZHVPOURFYzAyQnVnamZWSng2Z19jSU1wdWJ5Wk5nblJPZ2ZZOGVJU0l6VmZOc3F4MDFoX1dfRjZHZkFicmo4ZW9mbHhCSE5naUZTNXBXbDRRTmFFWjVReENzMlRySjNGSWZGaVQyOTVsdXlNQWNTaElHamRBY1BnMUlKREdZeTlRVGl4OHd5ZmZBdXJxWk9BaWl4UEV5aUtM?oc=5",
+      "source": "Houston Public Media",
+      "pubDate": "Wed, 18 Feb 2026 17:27:59 GMT"
+    },
+    {
+      "title": "Milwaukee Alliance Against Racist and Political Repression: Pursue safety, not people! We demand accountability from MPD! - WisPolitics",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU0QwMndXckVfMkhFaWRrQTE0aVl2TmFobkZwa3VvN3RXckh0SXA1VGRrazF5LUltRXZha0Juc3AzdV9ocHY5VGZhLVBIQ0swUzZyTVRkQjNTQlNOanUwSFNpeXI0QVV1ai1UTmJFU29kR3BSaDVFRFBMRXdJcGRmNFRVd1JjZXdvQ053dUxMTDZMWWJFbGpiZ2psdFhXZ0tUMUU4UnJBVmlTR2J6ME1KeXVidk9mM2VVOWl1NTg4dDk5LW9IbnFJb2hsM2pHcmxkbmVqaDk4dnJ5V3ExOUtCTVVPTy0xZw?oc=5",
+      "source": "WisPolitics",
+      "pubDate": "Wed, 18 Feb 2026 19:40:31 GMT"
+    },
+    {
+      "title": "Ukraine-Russia, Iran negotiations - news8000.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUxWZTV1MzVxZzdXS0c5eWFIWjRIeGF6S3k3aEQ0dVpZQXI0aDA2VGZIVXRqbU5iYUJodzJGVE1NZnRlUDRuLWpXd0o1dE55N0c2OXBJM3dtaTFmbzd6cXVjSnpLODc1X0pPb0xKbWZ3MnhWNlRYUmJJZ0RtM3NTOG5nUnpRclAyYTFWekdMblVXbHBfUWQtREVyN1FGZ2ZhcGtRd3pDV19RYS1LNW5tYzhiUWhfNXpkRzFj?oc=5",
+      "source": "news8000.com",
+      "pubDate": "Wed, 18 Feb 2026 20:15:00 GMT"
+    },
+    {
+      "title": "U.S. Develops Price Floor System for Critical Minerals - World Politics Review",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ENnpHUkFXTnNTM3VxQkxxOVpTVkU4RVZ1c3pZekdvb3RpSzVfXzJqMHZoMDMxYjdUR0t2dWNlRzQ1d1BKdUktQWVoVEd6M0h6cUVJMmtKWEowWlliQnFEdFVPSTEyc0dVZml6cDNHWWZpUXVqYkVxRg?oc=5",
+      "source": "World Politics Review",
+      "pubDate": "Wed, 18 Feb 2026 20:31:05 GMT"
+    },
+    {
+      "title": "Philippine VP Sara Duterte announces run for president in 2028 - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTN4TjZkSXI0cU1wNW1hbG1tdDBiLWYxUWVmTm1QeGp1VHpUa0JrRWd1b1dIdVY2ZnBfSmFYNW9CcmpHMVJiNnFGSjB6V2FRbDJXZ3I1b0p0TWtudlhndHVlMlRnZHA0RHNGWjA2VFhtLTg3YnZBSWhJd19qQWFUVURWNXpLQ0NhdHNBSGxIYUZVNld5YTNPWnJqdU44d09iVlpMbk5R0gGrAUFVX3lxTE9WYktNcXUxdFVlTFRLOWd3Q2VNUkhRQTMyc3NKeDlQTzc3cmJ5NWNnSzRXbjNvUDFfQ3hUUnNnSlQ2OUpZUC1QOGFwNnIzV2s2QTQ4d0dkLVAwVDlWQUFyRFVySVJGMlVMLWJpSUxpaFNrRDZfYWpMVUFteWQ5bVo3aTFDdjN6Zlp0QzEydGowMmNpbnJjRHNHWW5MVU93Wm1PbDE5akRHYWU4Yw?oc=5",
+      "source": "Al Jazeera",
+      "pubDate": "Wed, 18 Feb 2026 06:17:14 GMT"
+    },
+    {
+      "title": "Ocasio-Cortez took her populism global. Will she take her politics national? - MS NOW",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHpvRzFVREhqUUJuWGc4QjRRbEI3S3FnWGlna3lIRDRMLWtnRklNTkRDbTFRa1hLTmFGVHNRU181aTR2T2RtZjM3MmVaRGtYMG5uUXgzd0pPTERBV2V4RUFmNExINWdnRW5tYUlrOENBUHJma2s5YW1NemhYRU05aDZ4T0toZUdnaFcyWXNLbXVrR2poWXo2dFNtcw?oc=5",
+      "source": "MS NOW",
+      "pubDate": "Wed, 18 Feb 2026 10:00:00 GMT"
+    },
+    {
+      "title": "WATCH: Les Wexner deposition on Epstein files raises more questions than answers, Democrats say - PBS",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdTVnUGpUYmdrR0pkbG5XdTFJU2ZNblNPRGVYYUI5b3ZONUkxUFpMWW5GUjJUSTVhZm5GNFRYYnkzSkxZM2IzOFc3NGZUS0Fmdy1PNnhwUnlzRWpvTFZKQ1VlcWlmdUtpYWJBcnFaR2dSRlpWX19aTWh2aE1BaG9BVXcwNnRQMXU5WVFjeFl5eE1JTkwxUjAwQ2ZkTE5lbGhobWFWQkVXNlc0SUJGekVmZ1ZCWTlEZ9IBuwFBVV95cUxNSjdPVmZINjc3QlZGQV9QYUNCa05INXVqMTlYdTJTdWRZNDlzdkZieS01TzY5MkhWc3l3OFhITWF3TjAzR21EWXdlWGVlT0JiOEsxWDBlYTdVLTJIc01Ja3czVmV6bVJNdHVpYjNLb2p2TVc5YVVLc2lQak9VOThUTU5VSHJ4eWNMQ1UyQnRCUGhfenRPcUktLU00SkhTX25ZbWlPWGVhQUYycWpWU1JMZElZczZ5S1RQT2NJ?oc=5",
+      "source": "PBS",
+      "pubDate": "Wed, 18 Feb 2026 17:04:55 GMT"
+    },
+    {
+      "title": "Trump Organization trademark raises suspicions that family could profit from Florida airport name change - CNN",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRFR5ZnRmRE15NEFtZkxwTUNBTGUzY25ZeHFxQXlvb0ZiNE95VEF5eHlJU3VHTWFnVnVmNkpScmp4S0pxRFZLZ3g1UUEwLXE1MnA1YnZrd0JJakVrYXFIX2Fabl9TTDBneGxPNzE2aTAtUmdCTzZEZHBHcE0zSDdQMA?oc=5",
+      "source": "CNN",
+      "pubDate": "Wed, 18 Feb 2026 16:50:00 GMT"
+    },
+    {
+      "title": "Online event: When Politics Meets Policy: Understanding Fico’s Brussels Strategy - Visegrad Insight",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSEpGdXJYZHd0LXRjR0VwalVQRUl3NTdYSlFCTzJka0pENXYzMkpvV0tJTUUyQnVvVVY5RzQxd1VFWlFKWVlDaHcybVRaaXdVSDB0MTdpaS1nQ0V2OGdPenlwUzFINE11dDZVNTJTaWQzRWY4ZEc5ZVBPSUw3RXRpclIyQTBkRzA2bk90aXBtQjVhQ2hBQm5PRlBqS2xMcGRQWDZBS0FOakU?oc=5",
+      "source": "Visegrad Insight",
+      "pubDate": "Wed, 18 Feb 2026 17:12:07 GMT"
+    },
+    {
+      "title": "Statement by Ms. Charlotte Saudin, Deputy Political Coordinator of France to the United Nations, at the UN Security Council Briefing on ISIL/Da’esh - The America Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbGR6elFMOWdKVTl4UWpUQ2NGcl80SWxEeXVZRzZMbTdSVEJmMUU5STI0S1VPTU9wb3hoNWg2QThoalFqU2RaV3lBSDdjS1dBSFJtei03UzBEaTJNMmhmejB3aU5VUkQ5c0k5bmk3SFg2aU14VVo3aXdhUkdLeTBwZlZTendaTVhoNms5YVNVZzlkNHBLN3NDVmVWekhVQ2xnU25oMTJNY2l5VzgzUGJkaEpycEhENk82Rk11TGNINGJXZXR1ekt2OThmd2FDOHAzb21hcTQ1RWk1QnpVRlp1WWQ0Y1F1R01YZHFEN0FVY09icUZQNEk1cXVYMHFLYjBNSFZtYg?oc=5",
+      "source": "The America Times",
+      "pubDate": "Wed, 18 Feb 2026 19:46:01 GMT"
+    },
+    {
+      "title": "Several powerful figures from business, politics ousted from positions over Epstein files - Las Vegas Sun",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWxNU2dYQUJQdUozeENVOTQxcjk5WVhPWUZZejZrQ2V4LTYzVW02YjRFY2QwZFNxcWEwdDZKYk1lY0xwS2V0SURaRUFBYmFwM2FDZWlhS2F2ZDZnRzluajkwVnNRaXVvQWtfOGhSLVZEYzkzSWMtcGM5amw1OUdPd3JheXNfbG5oY1JONGtYZk9BSHRaUllZ?oc=5",
+      "source": "Las Vegas Sun",
+      "pubDate": "Wed, 18 Feb 2026 13:23:25 GMT"
+    },
+    {
+      "title": "White House rejects Dems' latest offer to end shutdown - news8000.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVklFQ0NWMlVfejUzYXZ0eDBtMi1tSlR1dktoQ000aFdxZWptM0llTFlZNFdiN1JFUFZVV3FiRnZ0bXo3VHJlTVc1R3VBbldTaVdITkdXeHZmWjQ1Ri1vM1UzeGoteXVUbG4tZjVkTGY0bEtNVHhvckFHTHZrNHBwOXktS1BBMGhZLWZuNzRHZVJrZjFGdHI0MGE3Mi1BYmdjbElaZVpLUWRvRW83Mm5mUThJTXF2N0RKaWozWFFxQ3ZSLXZNR0t4YUllNXdnMUZoUGRXUU1mZw?oc=5",
+      "source": "news8000.com",
+      "pubDate": "Wed, 18 Feb 2026 20:15:00 GMT"
+    },
+    {
+      "title": "Political Armistice: A Race to Stockpile - The Villanovan",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVkxTMm1GcWs3em5QUEpKenVnVlZOV0Z4Z1BBZWJYYi1lOUtRUlZTVVBwNDctdlNOZWhEeVJOdTNvZW9Pb3RWSmZmUmVtcW5rRldXUXd5UWZCTkMwVnhBa1o2YmhCdDFGSDhKX2pSLUNWRzdHa21WckdiUW1JUVc3cHZXOA?oc=5",
+      "source": "The Villanovan",
+      "pubDate": "Wed, 18 Feb 2026 14:03:18 GMT"
+    },
+    {
+      "title": "Progress continues on crafting state budget - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcS14R2R1VnVNZ2VqSGFtaVMxRlFXdnZlZ3FUSUI0Z0tqUGJWcXhwRXRnc2c4MklMcWRwODJ2MWNScVN6Skc2SWJTMW1IQ285OXFTMkRwTk14RmQ0RHJfQUFaTDhXTGRhWGlVblpzRzVzVUVQNng5YVpmNDBMcGxlSUQzeERSaTlUM2dzdU5Qc05RM3ktVWFqZm9BbVdhYkZz?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Wed, 18 Feb 2026 15:00:00 GMT"
+    },
+    {
+      "title": "ICE meltdown, Pennsylvania politics, Epstein files, more - WHYY",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tM2RyaUJRYzZjMFduTHFaQWF3ZFVhNWNyUDhzSEpzSl82SmRfdFZxRndha1ZiS01Wdk0wcVpINzdVbzB1VERjUVJoUnpZOVg4V2xWWEh5Y2lyTXhnMVdld2N5NTFxYlBsLTYw0gFwQVVfeXFMTkVHMXVMcngtUWc5UEZXMklBN05vNEhBUjBkd1RhYUpiM3J6M0RlR0YyZ1FIUVlPcHFqbHV4d1g2MEEyVWx2Q0ZneVBMVFY1MC1qRGtlWjRCbEZmLXl2N1FfYkRQWXptUHFRYTJtNWpmQw?oc=5",
+      "source": "WHYY",
+      "pubDate": "Tue, 17 Feb 2026 19:33:10 GMT"
+    },
+    {
+      "title": "Electability and enthusiasm: How the Texas Senate primaries are testing the direction of both parties - CNN",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTW5WU0RSUDAweTNoS3h3TFFfSC1qcHhsS0Z4d0xsUXBmYkJjRFJOcUNVTzJ4c2N1NmZsWUsta3VYSnlYa1VmNC1pUXkwdWg5T1BhM01memxtQkRiUUlPazNma2xLU2VNUmw0aS11YVByckVndl82b3pZRmJrQkRaSGdfUUJJcWdESHVrbllBRzJqT05FSzRjM2Z1NDVmdw?oc=5",
+      "source": "CNN",
+      "pubDate": "Wed, 18 Feb 2026 10:00:46 GMT"
+    },
+    {
+      "title": "Susana Mendoza: Put Illinois students above politics, and opt in to the federal scholarship program - Chicago Tribune",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVRBTGlkVldtMGtlMVNYTnZYLTljTnlPMGhSNEwyNUFXc0hMYWU4QjUtSk5XVXFVWjBUZ19nbjAtODR1OVpoT1ctX0FMZTVTQjdyOVFzYkNoczdWNTRzc0RNOXRJOGJPT0tRYmdKb1lnZkJXaDVCdXBTUEhlZW9WMmZnRGpMREplV2FJaTg2Rk5EVWJuVnZXUDF3?oc=5",
+      "source": "Chicago Tribune",
+      "pubDate": "Wed, 18 Feb 2026 18:35:35 GMT"
+    },
+    {
+      "title": "The Politics of AI: Is It a Good Bet for the President? - The Ripon Society",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOclQtY3ZWNEZZQTktZVRENXlpZ1JzTFRzcFJteWc4YVZUTUZZQkRGQjB1bGZpWldrYWt0U3Y3NkFHWmRUUGxCdTNkMFBXblhRaWNOOWVGeHlmVTd6aWYwLVNjemNjXzRWbW01OUp2UVFObGx4ZzJ4ZmtqeUZyczZNYUVFRmFEN0luQkJ5UG5EQmY?oc=5",
+      "source": "The Ripon Society",
+      "pubDate": "Wed, 18 Feb 2026 14:18:29 GMT"
+    },
+    {
+      "title": "A Class President Is Not a Political Faction - American Enterprise Institute - AEI",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcWJ3YTJpWk8zYUlTTmdiR3lnbkc4U0I5QVBkc29hNUphWG5ZZDYtZHZ1bXZHSEJJNUZEU1BiWDBLYWVKRUc3Ull2R3pscTJGamFXelhZUHpMeTNBX1dYV194SjFISWdHYUdHYklQbXc2Ym9wWTA5OUJSLVlpTzRXd0pjYTRaellWekFlcEZ3?oc=5",
+      "source": "American Enterprise Institute - AEI",
+      "pubDate": "Wed, 18 Feb 2026 21:18:02 GMT"
+    },
+    {
+      "title": "Jeffrey Epstein's ties to politicians, business titans and other figures - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdkRlU2ZLVkRHamg3MUVlWWgxZm5VTDRtVDl3UDZsOGYxNjcxVVNLREYwSTdTeHJPb0NTSlFfT2dQdzJac1J3RDRzZWF4VXViVzlmSkt6Tm02OFpOdGdFeGRRRWhFS093bm5DSk1RY3JUNV9NN0pXQVB3RC1sX3ZXd3hQLXdnQ0JzRHVRaWdKN1NOd0VTUWFFMW55dnVoS2NxYkNWbGlaQ1hidjNpOUo4QmE2Y2RtbjZtdWFWQzlFSUVtazhnNnRLMXlpbGUxOU5IMHdnNjVnRnFrdw?oc=5",
+      "source": "The Detroit News",
+      "pubDate": "Wed, 18 Feb 2026 20:48:00 GMT"
+    },
+    {
+      "title": "Colorado Democrats Push to Rip Up 2028 House Map for an Extra Edge - The New York Times - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTHVoOUVCZkt4alhpc3F6SmNKOVBwWmRweXZ3SzNSNGg4djN5b0FMb1B6TTlqMUxmREx4LUJRaHZ4SVZUVTVqeElaR2dkY082R2gtTnBJZzlYVWxZMGpoVVRTQndJU3dOMmNaWjFuNklyS1lpVVJKdlBLeU8xRnhHTTJ0dXlYT2RVcmFnMFl5Zk5BZXM?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Wed, 18 Feb 2026 21:01:43 GMT"
+    },
+    {
+      "title": "ProPublica Wins Polk Awards for International Reporting and Political Reporting - ProPublica",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGd0VVl2UTgxYW9vVklNVHRMT1pQVmdwVUhiRUNqcEotUW5NVVh4bDFydXNKLW83QW9OUnBqSEhQSE5sODk2bThxT0NDTWxZandPazlka1A4cmxGamdCZmZHVTRMNzU0U21BZm9IRVdqb20wdmJLOTJVT2drYV9CS0ZFOGN0Z3RVc1dENDFQd3JlVWdZQjZVTnVVQUsxX0c5blhxNXQyNURzNWFPcGhydGctdTVzU2JrM213?oc=5",
+      "source": "ProPublica",
+      "pubDate": "Wed, 18 Feb 2026 17:00:00 GMT"
+    },
+    {
+      "title": "Kevin Hermening joins crowded race for Wisconsin's 7th Congressional District - WQOW",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPX25UV1pscGxBTTJGd0dlUEZPWkNsTmZZRVRfcGZyYjdBajF6SHJIYlpXbHBqcDRWd3RKRENXcl9ydTZQOWFOWnNNQVM5MG9OLUk0YnR2ZEZpZ1VNNVltOXlZckRUVlA1MmdkaHRIX09JVkJla2ExRnRub2ZrYk1DYWlnT0xEWDhXTlZIWUt4NFBYZEZfeFFoRkRpSmFEX3hLRG0zYWJROEVERGhnQWpxNlJtUWdETUVVTHZLUTkwNVNMWFdUR0FwQWlLdHVEbkxMVFlaUk9FZkxnNnhEV0ZfUXdlOVdOMDA0Q2hsa0ZMSUdtbTlMUVF1NEFNZWNrWFBO?oc=5",
+      "source": "WQOW",
+      "pubDate": "Wed, 18 Feb 2026 18:42:00 GMT"
+    },
+    {
+      "title": "How the Rev. Jesse Jackson transformed American politics - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2Q4Qko2MmpnSnFjTVluMGZNRG8tQU1KbGdlSlJISFJTWnl0bW5uczdZcXlVV0kyY1d2dGhweWVwMGRMMXRKVzNZUlNUVnpHcnpUME1yeXNtNWlvZTU1dTZLaEl3bFVOejRzRlIwaUZQUXNXXzBpR0lNQmJFNHJnMXFMa1NaNFpmNGo1bEUzeGtoRFF4NDV5RzlzMC1SU2FBbFE?oc=5",
+      "source": "NPR",
+      "pubDate": "Tue, 17 Feb 2026 22:54:39 GMT"
+    },
+    {
       "title": "Ohio Republican leaders donate Wexner campaign cash amid Epstein probe - The Columbus Dispatch",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMHJfWW9FYTNhU0VqV3hDNVhZR2NkX1VNOHJUQ00zS05ZQkY0NEJUZkZLcEo0eDRMc0k4RjZPVWhBTl9hQ2JFVHRPTWNSWnhERnJpLUVHQTZNc1JKMm9TNjlLNWJWT09pNnk2NnBTanU3N1hEVHFjWmR0c3JkMWVkSEhJWEtETHBYdUluSnVqcDdtVFppVzR3NGNOUlhKU0VoNm1CWFhNaHBLdjZZbGhMN0JfZkE5MThxcm5rLVBHZU51ZWk5U0pYblN1YnZTdw?oc=5",
       "source": "The Columbus Dispatch",
       "pubDate": "Wed, 18 Feb 2026 11:34:00 GMT"
-    },
-    {
-      "title": "What's the main thing in Maine's Senate race? - Maine Public",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOajdiaThKOTlRa2d6M090bDBIMFBScloyOTBOMlpDaXNtcnpXN3RFNmM0dWVZUnBEMGRoSERaNUhQVlRDanZSQWVDNThzRTg5RGw1UU9iNzVGazlTSEJ3WGtfaDFDNk83U2lUZWFLSUpXWURpUnV3WTBkZllJT0hpNTRteHNUNC1kM3QtYWFqS3VGbXJH?oc=5",
-      "source": "Maine Public",
-      "pubDate": "Wed, 18 Feb 2026 18:20:00 GMT"
-    },
-    {
-      "title": "Texas Attorney General debate filled political agreements, personal attacks - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWjkweElQNEdBbE0yYjdPSHZQa2N4V3RPaXE4UEVmWHdyUjZtdzh1cGNTb1FQUmVGTHRyRjd2MEJHblU1cnN0NjQxSTlHbEJVLXlpb29XRFk4ak5hcklyZE9BcjdfQkFYMWtRNTRYYmNKNnB6M2lQelo4THl5cS1DM1ltbEgwZlJUUWFNUFpsZmNqbEZ6bzJ3REt6TGMyaEdqNXlxTm1kTTZRRVFYdWlyLW1NYUREb2fSAbwBQVVfeXFMTjh5VGsyTkh4ZTBJT0ZKa21QdWprT0U4U19ZRjVNYXNaOVZPeFNrTWpXb0xWMzQ0aTI3cWt0N0x1QlNUUEdLbnlJcHBWV2NFeEpCNm9fNjNIbmU0VmFNeGJPQVQyLXRFR2dBYTlNN09UT080QmRwYkV6X1UxMkg4czR4R21wTmV1cTF2V1dWZ3VtbjNRYXdFZW5Nemt4THNJaTlWdkdRc09kWV9KWTBLZE1qQUtkaXJXZzFuSEE?oc=5",
-      "source": "KXAN Austin",
-      "pubDate": "Wed, 18 Feb 2026 13:43:25 GMT"
-    },
-    {
-      "title": "State to join WHO disease alert network; Tiffany vows to reverse move - Milwaukee Journal Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON2l0RkdYaVBjYlY0OHJmQ3lkc1k5NFVjdWU5Mm5QOTI1dWdaSy1XeTJOY0VxOEFvcS1iZlFTMFU5ZXlfQ2txcmZiT01XVnliQXVSOENPbmgtaHJ2YTVFd2t1NU9PemxKRFZMYktOVFREREtOalQwc3lwdjJQdEhXT3FENDgzSjlweEFtcmNZODFoZnNWcVFnZGdqN29CQ1h3cFd6eUxITGxEc1BoQ0RxT2pzREJhb1JBSDZFQmZzQmF5Q3NMOW91dVVIVHlwZUdQ?oc=5",
-      "source": "Milwaukee Journal Sentinel",
-      "pubDate": "Wed, 18 Feb 2026 20:42:00 GMT"
-    },
-    {
-      "title": "Geneva talks underwhelming as Trump pushes new peace board - TVP World",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVNQd1QtQnRYRGs2WWRVc2NDaGFkNjZyakFZbzVzQlYxdm94a2kzNk5sTEZ3VEVXLTctcmhIYmw4ZVZ0UUp1UFI4d1plTE5UOFhoUWZIcGRKOUVJMExoNHdwWXdnQkhhX3h4N011cnMyRUxTRExybTJqWGFEQjltWHdLa04zcDBIWDU0?oc=5",
-      "source": "TVP World",
-      "pubDate": "Wed, 18 Feb 2026 19:11:00 GMT"
     },
     {
       "title": "Is Germany's oldest political party doomed? - DW.com",
@@ -587,22 +587,22 @@
       "pubDate": "Wed, 18 Feb 2026 16:30:21 GMT"
     },
     {
-      "title": "Republican announces challenge to Carrie Woerner for state Assembly seat - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM3doTUQ0Uk8wQnVJb1lXc2VlMVY1SDBxcG5Hcm15dlhhbWViRlo2ZWZQUTFHUWNkc1lxMVpuRWZBblI3cDBpTk1JU01XMTBVdmp2R3FjYUtHZTJBMC1GbkpneDhBN0stN09fX2d4cnhfTnZKVVNEU0piS2JhYmJTUkJWQlpaaTdqRTM2VGUycVFKTHY4d2lYRFFMclZEVVRxcmRJZWd5MnNRR1dfTzBjdFc1cl94MHF3NHpoZ09PazFwS255NVEwdGFPaC1CZUhRZVVHMVJXS3BGdw?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Wed, 18 Feb 2026 18:29:00 GMT"
-    },
-    {
       "title": "Africa as a Climate Solutions Leader? Anti-Politics, Power and the Political Economy of Summit-Driven Climate Narratives - CADTM",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ0tidm5ySVFHaGdKYUVjbVEwTFJYbFl6ZHZ0QU9RX1RINVVFOG1JNXQ5Z3ZkcC1JZVNyY3ozQm1OWGg4TmJrMnVCX2tPVlpMaVU5NWdvck9EVXVzaTJSeXp2YndFMDF3cWFhTHNXZ1dIVmJUd0JnWHN2T24tVzIzRzZHc0ZnM0JOcVowSFdoR0RNNlpsRFdmLV9SUUw?oc=5",
       "source": "CADTM",
       "pubDate": "Wed, 18 Feb 2026 11:25:28 GMT"
     },
     {
-      "title": "America’s outsider peace duo faces biggest test in trio of hotspots - CNN",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVJvV1ZCMzM3QWpPeERoM0lGUDBLV1NTYWYxNUxHN19leU9YVWUxRTZsRDQyaGV1RVFtYVIwOXRyclgtRTBDMHd4aEhNZHpuT2NMNmswVVI5cVZRUHZFSTY4YzZpY1lhRXdpbmdKVUZTM2xrT1puLUJtN0w1WlZ6VE9adnA3akFPOEc5aA?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 18 Feb 2026 05:00:46 GMT"
+      "title": "Adams to be sworn in as Killeen mayor Saturday - The Killeen Daily Herald",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORjdjVmdTUS1hV3hoT3l4NlRLcEQxUHZVUkRyM0RLNHFPaEQyVEpUREttdGgtYUpVQTNyUWVvUDRoXy05Z3NScm5YYmpWTy01dU1tUVVPUHBJTTNDbE5uek1NdGc3VXZyOWpRVFh6d3ZRV0QzZnhtZzlyX09fcTQ0WDZpTkNLUUlDWGluczQ4MUJIc3F4UTBLY0wyc2NwUzJRMGlva2VqbnZpVFR5VjFoLWEzMHljTUpIWmlTaGZNOGZaa19hS0lvb3hMMWRWMWM?oc=5",
+      "source": "The Killeen Daily Herald",
+      "pubDate": "Wed, 18 Feb 2026 19:36:00 GMT"
+    },
+    {
+      "title": "Texas Attorney General debate filled political agreements, personal attacks - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWjkweElQNEdBbE0yYjdPSHZQa2N4V3RPaXE4UEVmWHdyUjZtdzh1cGNTb1FQUmVGTHRyRjd2MEJHblU1cnN0NjQxSTlHbEJVLXlpb29XRFk4ak5hcklyZE9BcjdfQkFYMWtRNTRYYmNKNnB6M2lQelo4THl5cS1DM1ltbEgwZlJUUWFNUFpsZmNqbEZ6bzJ3REt6TGMyaEdqNXlxTm1kTTZRRVFYdWlyLW1NYUREb2fSAbwBQVVfeXFMTjh5VGsyTkh4ZTBJT0ZKa21QdWprT0U4U19ZRjVNYXNaOVZPeFNrTWpXb0xWMzQ0aTI3cWt0N0x1QlNUUEdLbnlJcHBWV2NFeEpCNm9fNjNIbmU0VmFNeGJPQVQyLXRFR2dBYTlNN09UT080QmRwYkV6X1UxMkg4czR4R21wTmV1cTF2V1dWZ3VtbjNRYXdFZW5Nemt4THNJaTlWdkdRc09kWV9KWTBLZE1qQUtkaXJXZzFuSEE?oc=5",
+      "source": "KXAN Austin",
+      "pubDate": "Wed, 18 Feb 2026 13:43:25 GMT"
     }
   ]
 }
