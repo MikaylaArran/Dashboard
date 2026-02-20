@@ -1,128 +1,632 @@
 {
-  "generated_at_utc": "2026-02-20T21:12:38.255008Z",
+  "generated_at_utc": "2026-02-20T21:15:04.249403Z",
   "category": "all",
-  "language": "mixed",
-  "summary": "Top global headlines pulled from GDELT (free).",
+  "language": "en",
+  "summary": "Top headlines pulled from Google News RSS (free, English). Category: all.",
   "articles": [
     {
-      "title": "Напад на Європу - латвійський банкір пояснив , як можна уникнути прямого конфлікту з Росією",
-      "link": "https://www.unian.ua/world/napad-na-yevropu-latviyskiy-bankir-poyasniv-yak-mozhna-uniknuti-pryamogo-konfliktu-z-rosiyeyu-13258710.html",
-      "source": "unian.ua",
-      "pubDate": "20260118T091500Z"
+      "title": "Trump says world has 10 days to see if Iran agrees deal or 'bad things happen' - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02ZG1PUjQwZzZYMFBMNEVRQzAyZ1gySzROMjZOeHA0ZlFuZ1VFYklXZFBmOEI3VUkzODBkenVzOWozNTRoMEk3R0hPelE4OXd6bFFKSEhjREhRZw?oc=5",
+      "source": "BBC",
+      "pubDate": "Fri, 20 Feb 2026 05:45:43 GMT"
     },
     {
-      "title": "Глава ЦБ Латвии : Европа находится в состоянии войны с Россией",
-      "link": "https://www.vedomosti.ru/politics/news/2026/01/18/1170035-glava-tsb-latvii",
-      "source": "vedomosti.ru",
-      "pubDate": "20260118T161500Z"
+      "title": "World leaders react as Supreme Court ruling strikes down Trump tariffs - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOblV3U2FocGpiS3pUcHFtSVNNWXJ3aVozbWVDYThwLTNQLXF1Q0doSk9PVWxlZk5YcTgyWVB5dTlkWDlkNHBHb001TEtlUTFucS1JejdDZjhuVTRWdDNKMU90dmhEajBnUFRLZTFWT1JDcUVXYXNkUjJVSmJqT0JvcmpCYkdQTE80cXBYakRzTUxzbmJTU1RDNWpzdlJwVmZUWlZVUEJyNFpqUmZnb2pza2Fkc2Y?oc=5",
+      "source": "USA Today",
+      "pubDate": "Fri, 20 Feb 2026 20:27:00 GMT"
     },
     {
-      "title": "泰国央行 ： 泰国经济正失去竞争力",
-      "link": "https://www.zaobao.com.sg/news/sea/story20260107-8065646",
-      "source": "zaobao.com.sg",
-      "pubDate": "20260107T134500Z"
+      "title": "\"US Not At War With Every Nation In The World\": US Supreme Court On Trump Tariffs - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnRsYkhaRGF4YXRFMmFXVU1MZkFQcWR6V0xjOTZPQzVwZzBSckE1MXBGcGhOc2dsZklPOC1PYWZaME5jV3ktdVdrMjV6c3o1cmd6UGZaX0UtekVKNzJnV1dxTlRwV2xlMlZBTFdJT2Z2ZEs2dkRQVEdkMmxSZlNuUlJvcHc5azR6WTlYX2UxTFVNR2hJa18xeUhPdEJ6a3poZ0swN0d6YTN5OUxUaE1FVUVnZm1IMWZNczVkdTJveGNvb2d0cTA1QWF4NUFYbE9qVEZZ0gHbAUFVX3lxTE9kVEJnMWIydk1kVFhWS3FlZ29paDdFekdnU2ZZcmY3SVo0WE00cG9oWEJxaVlnZ0k1UkdCSDA3by1WWG52LUVVbXQ2M3U2aC1PeWxNOG5XeTVraGItQ2F3aGdMdFJxNWF6RjRCTHA0djFWdWhSbVVpNWlFRUJ6Q05mVjF6VENPcFVQeUI3SUR5Yk82eDFpTkowRHE2OUJZa0hfd1JzNXprN0xPTWpRWkhRZ1JnOTUwR2Z5UW03TGpwaEJRWXB4Q3V3WWpxa2ZMYXBoek5jQVFkNGpPRQ?oc=5",
+      "source": "NDTV",
+      "pubDate": "Fri, 20 Feb 2026 15:34:44 GMT"
     },
     {
-      "title": "  لباب  تناقش في عددها الـ29 : تحولات القوة في نظام دولي آخذ في التشكل",
-      "link": "https://www.aljazeera.net/news/2026/2/2/%D9%84%D8%A8%D8%A7%D8%A8-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D9%81%D9%8A-%D8%B9%D8%AF%D8%AF%D9%87%D8%A7-%D8%A7%D9%84%D9%8029-%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA",
-      "source": "aljazeera.net",
-      "pubDate": "20260202T211500Z"
+      "title": "India opens 'world's biggest' AI summit, but what's next? - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWWs2bXRZUUx6VWkwNjFVU09UVmVYaWFhZjZ2Rm9kUzhqQmNOdFBtVmdfbjVRS0VDNU9mWGtSdmw3cV9FS3dPMTFxV3Y0Z3F0S3FuaHJwV2xsNjU0amV0NFFVZFZLU19IQy1nOFRKdmVYOURXNmp0NDRPZjhYdWZqTnBLWHR6TGJ2ZklUUGdZdGtpUQ?oc=5",
+      "source": "CNN",
+      "pubDate": "Fri, 20 Feb 2026 06:55:00 GMT"
     },
     {
-      "title": "高市  萨娜经济学  与植田货币政策的三重对决",
-      "link": "http://www.ftchinese.com/story/001108967",
-      "source": "ftchinese.com",
-      "pubDate": "20260210T233000Z"
+      "title": "‘That was fun’: Keely Hodgkinson smashes world record set on day she was born - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNFpwQmJKeWRKOVRQUFVFSC1sbU53UGxQWnBvZHFqVUU1NGloUDJXaEJKZWYyN2Nwa2Z2Um9CQV9JR1hkMVUtVWk1cEx0RnQ2VngtbjFReVIyNnBteXBCZFNuZWFsajhYUV9pZ2dGaWVXSUplWTJLMVFfVnk0SDNPWkVYMEppR0dQZ2N0eE9tUmdHVjcxdVpuQk9sNy1kWk5JNUtVN2lUWEdpQkVs?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Thu, 19 Feb 2026 22:22:00 GMT"
     },
     {
-      "title": "Evropská centrální banka navrhuje připravit finanční systém na válku s Ruskem | 28 . 1 . 2026",
-      "link": "https://www.blisty.cz/art/131321-evropska-centralni-banka-navrhuje-pripravit-financni-system-na-valku-s-ruskem.html",
-      "source": "blisty.cz",
-      "pubDate": "20260128T021500Z"
+      "title": "Winners of the 2026 World Nature Photography Awards - The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjc1Wm1vNmZtODdqRVdpejRkNFAzQ0lUYU9vdnJYaEtUa0pLdUlfVnVjSkNHYmZJR1lRc1RLT19JN2FrWnlDMlJJS2U3emt0RU84OTFWenI1eEM0WXhIbndTcEQ2YWZPNFJOR2xXTlh3dTRuUlk5bTVBLXVXU2R4eGN1YWs2bldlT1lWMUZEV1pTRTluVWkwUFp5TTdoQTlIZnc?oc=5",
+      "source": "The Atlantic",
+      "pubDate": "Fri, 20 Feb 2026 17:17:08 GMT"
     },
     {
-      "title": "Harga Emas Dunia Hari Ini 26 Januari 2026 Tembus Rekor USD 5 . 000 : Ini Pemicu Kenaikannya",
-      "link": "https://www.liputan6.com/bisnis/read/6264896/harga-emas-dunia-hari-ini-26-januari-2026-tembus-rekor-usd-5000-ini-pemicu-kenaikannya",
-      "source": "liputan6.com",
-      "pubDate": "20260126T040000Z"
+      "title": "New York/New Jersey scrap World Cup FanFest near Statue of Liberty - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdlJYSkwzM20zX18zNTEyLThiNFF0YW1XSURfQ3NmVDl5b2Q0UjdqeFc3ZHhZR2kyeVNLRVNIdlZnRE5kcXMyZmtBOVl5MnZWOGNJeXY2YlhhelRyNGJTdXVuanNIbWI0MVpzRlZ2aUZLa0R5ZDhUMDlRektHazFSRkJWMm83WmZDRDdKc1lTUnlyZzVGMl8ycW9rSDdFX0doR29r?oc=5",
+      "source": "ESPN",
+      "pubDate": "Fri, 20 Feb 2026 17:34:00 GMT"
     },
     {
-      "title": "美以密谋对伊新战略 ， 伊朗恐报复美军基地 ， 避险黄金再探5000 _ 汇市观察 _ 外汇 _ 中金在线",
-      "link": "http://forex.cnfol.com/jingjiyaowen/20260209/32006904.shtml",
-      "source": "forex.cnfol.com",
-      "pubDate": "20260209T070000Z"
+      "title": "How Dominik Szoboszlai became ‘one of the best players in the world’ - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGJtUi1mWkVmTnd4VmtRM0dBbEg5NFl5MWlvOHV1NWhsRE83MUQ2aEhhamZNNnNTdWJ6YUhlQWFaTkFTNEpGNXJQdDRoVDJBanpPSm1STVpCTzRtTDl3SHJ2d2JydHNtLUJUYUljT1FTOXdxbThqaGk5QVlOaFBiZnNzZUV0VE9jek5jbnEzOGszaExQV01OZjY4TXNiSGhT?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Thu, 19 Feb 2026 05:47:49 GMT"
     },
     {
-      "title": "Глава Банка Латвии заявил , что Европа уже находится в состоянии войны с Россией",
-      "link": "https://www.tatar-inform.ru/news/glava-banka-latvii-zayavil-cto-evropa-uze-naxoditsya-v-sostoyanii-voiny-s-rossiei-6013713",
-      "source": "tatar-inform.ru",
-      "pubDate": "20260118T114500Z"
+      "title": "How MLS built a 30-year run to 2026 World Cup with risks, a plan and hope - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWTJleDY3ZE5yYTUxaG1kcUdJMTNQRUUyNU1HTWV4NmJMWGhheUJxa2xhcTBRVG9Gb2xva01KTEdEUm1tZnp4NTQ4MTlmOXpiSGhsNWpBZDlWUFFzNnpzN19BUWphRlk0aktzN2Q4Zy1iVF9ERTZvTmNVencwME9lS1hYWVBUQkJzWEh1QW14TFN1dS0tTzYzSUNLckx0MjlFWmtnbmdWbGxVNXlyei00Qk5UZWF2ejlKUHFFei1Rd25oSFNyaDVj?oc=5",
+      "source": "CBS Sports",
+      "pubDate": "Fri, 20 Feb 2026 20:15:00 GMT"
     },
     {
-      "title": "Russian central bank cuts key rate by 50 basis points to 15 . 5 % ",
-      "link": "https://www.marketscreener.com/news/russian-central-bank-cuts-key-rate-by-50-basis-points-to-15-5-ce7e5ddada8bf425",
-      "source": "marketscreener.com",
-      "pubDate": "20260213T110000Z"
+      "title": "Arnold: Iraq will shock the world - FIFA | The Home of Football",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa1E3Z1NNUTBrci16NTRDamR3Zlc0Vk01NVFMV0lVa0o2NzViT0ZIOU5RLVdQcmdwLThiVE4wbmZhMS1xOTVTeDRadHBjV0VjMkRlQnQzTUNqZ0h2N2tPc0hheGszUFprcnZ0dWphU3pncTRpN19UZElqS2NrWjFPQXE3d1ZfdE9zRGl6UEk2dmZBSlo5bnUtMGFPVFVFRzlBT1drV012cGl1MHc?oc=5",
+      "source": "FIFA | The Home of Football",
+      "pubDate": "Thu, 19 Feb 2026 15:00:00 GMT"
     },
     {
-      "title": " 《 金融 》 利率連七凍 ！ 央行大幅上修今年GDP至7 . 31 % - 財經",
-      "link": "https://www.chinatimes.com/realtimenews/20251218004121-260410",
-      "source": "chinatimes.com",
-      "pubDate": "20251218T094500Z"
+      "title": "Michael Pollan says AI may 'think' — but it will never be conscious - NPR",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTjNYZ1RIUk1PMWZwMmRzRjVKY2NlbE5NWnhVbHd2enUxR3haS19jWFBvcUh3Nk02eFY4Vl8wYkt0U3ZDbHZnbzNUcTd0cXp2b1VnT3JMTWZtQ3Izb0NIUEZObmFYVlFxNy1wVnNaeHJtNERUYUdhUVN5YVJtV2pZR0pBRHFPd2tlVGFXazM3VmxqblNIX01Z?oc=5",
+      "source": "NPR",
+      "pubDate": "Thu, 19 Feb 2026 17:22:47 GMT"
     },
     {
-      "title": "伊朗突然出现大问题 ！ 货币崩盘 、 通胀失控 ， 发生了什么 ？ ",
-      "link": "https://finance.ifeng.com/c/8pWc7iFgppw",
-      "source": "finance.ifeng.com",
-      "pubDate": "20251231T010000Z"
+      "title": "His Team Devised Ways to Keep World Cup Crowds Safe - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjgtcWFhbHJrZjBMY0FvU3VvcDdzcXVXRXNNWEpvM3hIVGM2TmlFZThOOXZNUUp3blFEZlo5SV9vQUJEOGh5NjVSSllyZGpxRHBfRDgybkE4ZWhtaHNDYlNxWlpXcGtOUTVpOVRwSFoxMlVGc0EzMnNMemRZd0NaLVItbkYtQQ?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Fri, 20 Feb 2026 10:10:38 GMT"
     },
     {
-      "title": "AS pertimbangkan berbagai cara tekan Iran selain serangan udara",
-      "link": "https://www.antaranews.com/berita/5349097/as-pertimbangkan-berbagai-cara-tekan-iran-selain-serangan-udara",
-      "source": "antaranews.com",
-      "pubDate": "20260113T091500Z"
+      "title": "World Leaders Near Declaration on AI, Indian Government Says - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zb1hkbWRqUUFucXMyYVJsdUdMbmxzNDJnOWRVNEl1Zi1WMGRHVmVJV2djU055WmtiNTBwd1lPdWZHTWEwYm5JdGV5X1RZNDBQdXdObmJTUVFEdzJTSk1qZjB6elpqTDAtM2todnZybEZ4RnhhYkxzWDRkZw?oc=5",
+      "source": "Time Magazine",
+      "pubDate": "Fri, 20 Feb 2026 13:16:05 GMT"
     },
     {
-      "title": "伊朗貨幣瘋狂貶值 「 1美元換140萬 」！ 民怨炸鍋示威 遭武力鎮壓逾6死 | 國際 | 三立新聞網 SETN . COM",
-      "link": "https://www.setn.com/News.aspx?NewsID=1775237",
-      "source": "setn.com",
-      "pubDate": "20260102T054500Z"
+      "title": "After Israeli recognition, Somaliland marks ‘1st Ramadan when the world knows us’ - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFBpYWlfVXRzRVgwOXR4STlrazFwMXF2dGc2MHN0N1B6eUtOMWRFREpfVU91YUIxdjlTUlY3ZkJOUU03WVhHd1h0WGtsTFktVTN0MGZuQ19oaHdPT0hpZWlNZEYwYWlOb1dTeDBLdnZGenBHSjRZQTN3eFJweXZHRDJFX1JKYnNzZnAzRnlJdEFUY1o4RlJuSEtKY29YYlg4U0R5OFIydG16bXdSUHfSAbMBQVVfeXFMTXVRQWJGOEpuQTRpbUpQOXFKSzBSSS1iUGxBWW5qM0FldW84YTlBSHdDSTZsLUhBc1BuZkFEU1hiY1B5aUxCaHMwVFJESDlyMURoV05hZzZ1YkpBTlZvU19walM5YUJpTmtXMDFNNEtoNjdxLXVfVHBrMGhRekJrZm95TkxiZncxNVFOUmZEbjJjeFgtZmlTT2ZETVFLbXdiQjJrTlltZUQ5anZCdUZ5cE1pNjQ?oc=5",
+      "source": "The Times of Israel",
+      "pubDate": "Fri, 20 Feb 2026 15:27:21 GMT"
     },
     {
-      "title": "Why Trump new pick for Fed chair hit gold and silver markets – for good reasons",
-      "link": "https://theconversation.com/why-trumps-new-pick-for-fed-chair-hit-gold-and-silver-markets-for-good-reasons-273233",
-      "source": "theconversation.com",
-      "pubDate": "20260201T043000Z"
+      "title": "Who's the most likely World Baseball Classic champ? We rank 'em, 1-20 - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xb0FKbEpFWWdKVXpRUkE5NUkwTDFnN0JHQlpzU0JER3pHeXdndW1ZRlZ2MEdSbGpkU2Z0emxYd05TVmhjS2ZBcnBRWmpzN1o0YWV3dThrcTNoMS05YVBfUlpIcUJVbVJ4UVM0ZFNYclljSWJs0gGAAUFVX3lxTE03LS1PckJXT3N5RTFwRTZ6RFlmZXQteklRXzl2bXV6czBjQXNBQ3UtdnJ3TmV2WE0zSkM1QnRpYXVUdktYX1Yxc092VGFfbE1NMVE4Y0d5YnljMWFINWVQME5ldjhOOWFRemNJU1dMeGF5M2gwMFlFTUt3eWNrMjZS?oc=5",
+      "source": "MLB.com",
+      "pubDate": "Fri, 20 Feb 2026 04:20:30 GMT"
     },
     {
-      "title": "伊朗突发 ！ 崩盘 、 失控 ！ 发生了什么 ？ _ 东方财富网",
-      "link": "https://finance.eastmoney.com/a/202512313606338253.html",
-      "source": "finance.eastmoney.com",
-      "pubDate": "20251231T021500Z"
+      "title": "Will Sakamoto Kaori do her final skate at World Championships? - Milano Cortina 2026",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0x3M0luTnUtbVp5X2ZMNmtUMUVfb2RMZjlXNWJOVVdLTDh5bHZoNEpxWVNtZS1WSGVmcEhCcVB1cFVpdkJudFBDYVh0VEVmQkVSbHZzaFZ1Y0szSTBzRWNJWjE2QU5PemctR3ZsdWdfUnR1emlqM04tSzBjU01veFJBektIMVZaSFRmTldjUWVNSzVMQlV0VXdLT1FoeGg1dmQwSmZreEQ4QXNEM1cwZg?oc=5",
+      "source": "Milano Cortina 2026",
+      "pubDate": "Fri, 20 Feb 2026 15:21:00 GMT"
     },
     {
-      "title": "金价银价暴涨原因 全球央行购金潮推动 _ 新闻频道 _ 中华网",
-      "link": "https://news.china.com/socialgd/10000169/20260129/49207061.html",
-      "source": "news.china.com",
-      "pubDate": "20260129T033000Z"
+      "title": "Data Curation Best Practices and Innovations for Real-World Evidence Generated Using Electronic Health Record-Sourced Data - Margolis Institute for Health Policy",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeDRwSTQ1Mk9ENHFING9GMXBsOFJzZGhXNWRYOE5keUlOajBuZTBoRUJYVnNBZXMwRElaQTc3X3ZveE5rMXB0NmFNZDVoWEl0em43TkZ0UU44M2twRFBLakk3RG5wUzQzZzk5M3NaMlhHbkY2R0ZIc1d5QWxuUXUyMjRaWDRxLVk0TGRHdVhZaTQtM2FJZ2g5YkRxRVNzem5sTm1EV2dmRWJTVGwyTVNmWHZJQzNRUEhyZ055d0NMUjI?oc=5",
+      "source": "Margolis Institute for Health Policy",
+      "pubDate": "Fri, 20 Feb 2026 19:09:48 GMT"
     },
     {
-      "title": "Why Trump new pick for Fed chair hit gold and silver markets – for good reasons",
-      "link": "http://www.econotimes.com/Why-Trumps-new-pick-for-Fed-chair-hit-gold-and-silver-markets--for-good-reasons-1732422",
-      "source": "econotimes.com",
-      "pubDate": "20260201T024500Z"
+      "title": "Being a humanities student in a world of numbers - smudailycampus.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXNEQ085SFlhVjI1cjUyQlVHM2MxRm5vaFBRSFhIRnJsZEo3NG1UYWhXVjlRYUxqWFoxRUJGd3BiQllIOWRFQW4tdXVRZTBmUFY2VjBBWXRGdTg5ZFF1d0wxVEVfajh5SGo3UGdraFFBdmp0S25ScWczRFRMRzlLelhndG1MRWNpRXZGV092UU1CSU9Pd3lF?oc=5",
+      "source": "smudailycampus.com",
+      "pubDate": "Fri, 20 Feb 2026 15:03:34 GMT"
     },
     {
-      "title": "Kevin Warsh and the Fed : Impact on gold & silver",
-      "link": "https://www.businesstimes.com.sg/opinion-features/why-trumps-new-pick-fed-chair-hit-gold-and-silver-markets",
-      "source": "businesstimes.com.sg",
-      "pubDate": "20260202T100000Z"
+      "title": "Digital twins: Virtual models with real-world impacts - National Science Foundation (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV1hoQlBaT0xpU01pMHF0SDdJMDBwblpfVjNadTJ1ZnB1cUhJNW1DeWROTUZHTmhfaEtwYkk2aWZtM3N3bk5GVFN1bEVQUU1UODI4aDFIa3J6dkJfNDRKU1llc1FYYU9rMTczb0RKYi1IWHNSODFkS3RuSnRXazl0OVlOaEs1QVVOQ3RN?oc=5",
+      "source": "National Science Foundation (.gov)",
+      "pubDate": "Fri, 20 Feb 2026 18:42:31 GMT"
     },
     {
-      "title": "伊朗 ， 突发 ！ 崩盘 、 失控 ！ 发生了什么 ？ ",
-      "link": "https://www.stcn.com/article/detail/3565229.html",
-      "source": "stcn.com",
-      "pubDate": "20251231T001500Z"
+      "title": "ESPN Original series On the Edge: World Cup Ski Racing now available internationally on Disney+ - FIS",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2NwYllCa3FTYnJHYkdfTVpRcndqVHo0OG0tVW9Mcmc2b1ZZazV2SE43dFVHeE1rSXpwX0NWd3ZPV2d6QkVKcFJBYm44N3ZBUFV1YTFxbGZzd2xqUGl2dWdORzc4Z2dIeUJ3el9nYjdlZ2NlYUZmMHhEU2tta2lsOUF4YU8wejJQOXVEMEFiN211OXFnaldlYWtWWkFOUTBKYi1HODVYV2x4VHhzbmRtYjJyOUl2ZE1tT0JaX3paQWxsVnBMLVVsNjJlZUNNdzVxN1NQN29FSWVVWUJK?oc=5",
+      "source": "FIS",
+      "pubDate": "Fri, 20 Feb 2026 10:02:57 GMT"
+    },
+    {
+      "title": "Legendary World Poker Tour clip resurfaces of injured player celebrating - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUGdGeERWcjNzS3dVU2FqVV95Sy0yck51RUJaQjN0TjdUb2Q1VFBNZ0xaVTlBNXJTR1dJUUp2bzI0dWNUcHJrTlBxT1R0Rzh5QXNGZlJFVzNNU3NJWF94ZTZmSmpFcTI2dkxSRkR4ZG1YZXpKVTlkMk42cXZHeVgySGw0VG5QTTA?oc=5",
+      "source": "Yahoo Sports",
+      "pubDate": "Fri, 20 Feb 2026 14:53:23 GMT"
+    },
+    {
+      "title": "Lent and Ramadan as 'catalysts for a renewed world' - Vatican News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWRMS192TFNpNmxtaVRjWE1YZWh3aVU0bl8xM0xxTXQ2NWVqS1UzQTBRMWhXQklWdmxDbWVNa0E1VHFzTU9nSHZkNDBIWFVMTzdFSVA2V2VFazhaZHh5Vmt2eVJ6RnNrRzhOckdLcVZ4TC1DMEJNTEFuT0ZXcTFhT1pkN3BqRkRGekdCVEY3UjlONDNBa3lJcHpQeGpkR3RxaVFlU2pMdk5yVTI3djZGQmRHS1NDQ2Y0UlZPckE2RVY?oc=5",
+      "source": "Vatican News",
+      "pubDate": "Fri, 20 Feb 2026 13:37:13 GMT"
+    },
+    {
+      "title": "To meet huge World Cup security needs, Kansas City gets $80 million in federal funding - KCUR",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRkYyTWEyVmNGcEI2REx2U0p1RmhaN0hZSVgzNnZGTjlZT3BXamJBaHFxT1NUZHV4WGVZc1U2RWVadzRNcUU2eTZzd29yclFrdmtuTkh5Ri01SHgxTFhwTjFpUnNiS3ltRk5fN2psUjFOaEtqUWowX1JCZEdlU2FWWTVsLWJsTU14MVZMeUpB?oc=5",
+      "source": "KCUR",
+      "pubDate": "Fri, 20 Feb 2026 10:04:40 GMT"
+    },
+    {
+      "title": "PROFUNDUS: Real-World Outcomes With Upadacitinib in Ulcerative Colitis, With Remo Panaccione, MD - HCPLive",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVzA5d2tpTm5UZlhlSWc1b09JSzRnOU9GUjk2WEJ2TnpxcVhrWWg3aXJyUlNWaW13T3NKbVVqOVR0QzdjQlNvTUhEb1JpeXp6cTRMQTQwWklNYzhpeF9fajliVXZfeFZLUmt2RWUzTFlrMTdPTE04WVMyeHRISmluX1R4M3QyWUU2ZWMzSVUtQVlucm1sWG5pZXpocnkzZEJtS0stdkRCNzV1RW90RG1QeHVrTkhtMmlBUndZYnpCQQ?oc=5",
+      "source": "HCPLive",
+      "pubDate": "Fri, 20 Feb 2026 16:57:55 GMT"
+    },
+    {
+      "title": "'The ultimate dream': Max Arfsten continues aiming for U.S. World Cup spot - The Columbus Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT2NHYVgzVnR5VHVfZERrajZoZG9CSDhrZTFTMEdJVVY0a2lXNFYtNGNtUmE4R0dreEh5X2d4TUhDeGh0dDFIRXIyTFVQT0RNRWIxNWQ5Uk52M294emNPdXpWd09iRTJlOUVTNGlaVnlXNTI5OVZSN1F2MHF2T2QwOVUxM3NxTThXb2hWc3dJdTZKbGpKaHgteVBxQUNnQktYUENKNjdWTEhIeHVDN3dQdDVPc3hPbVA0dXFXUmhHS19RYnlpODNsalhJcVVTbW5Na3I4WlJYZ2xzQmV5eHRvcXM0bmZXRHdkbXI2RllFRkU?oc=5",
+      "source": "The Columbus Dispatch",
+      "pubDate": "Fri, 20 Feb 2026 12:51:00 GMT"
+    },
+    {
+      "title": "Montana Renewables and World Energy join to scale up North American SAF deliveries - GreenAir News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYcWhzUWlXeGY1T21CUnJaQmxfb3hPOFNlR3BqY0ZLQmNvamsxVlhiNW1sVmRWTHhIVTQ1N0ozTVRyVFhZc1dWZTdBUk0?oc=5",
+      "source": "GreenAir News",
+      "pubDate": "Fri, 20 Feb 2026 11:08:40 GMT"
+    },
+    {
+      "title": "Quantum Systems Accelerator focuses on technologies for computing - Physics World",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGJpU05WczlRbDI3eTVtUXpHVFNobGIzNGJMZDZIckhmS2MxdGVMc2VSVG9GNmhILWhKYm5aQ3JLakNiY0tsSHRYTDdqemtvRGI5cmVXMHN3ZjRlaE9yUGtRS3JRbm5LUlhsSVg4emRpaUpReWJoVjQxSldCOFJzM25vcl9tcmR6d09vWlJ4REdMdTdMU1hXNw?oc=5",
+      "source": "Physics World",
+      "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Juneteenth History - Seattle FIFA World Cup 26™",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzNjQwLXR4TmJ5SElleHZIOWxSTmI3bGF2dGFTcjE2eGF0X3pGT3Q1cUlxWXVncjlUektIcVltTWlJSUlBdURpUGM4VmM5TzVkSDBtc0RDWHFJeVZhMTg1VmxIaU5yQQ?oc=5",
+      "source": "Seattle FIFA World Cup 26™",
+      "pubDate": "Fri, 20 Feb 2026 20:42:54 GMT"
+    },
+    {
+      "title": "How do you sell the most unappealing products in the world? - thehustle.co",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ2cybHRzVXQwSkdEdHJBbFJpbHNnRkt4RXlCN2IyR1FwSEZWRDRtTDZ3T0ZmV1hTaU1iWFg1VUx0dU5oYlJqb0g4Y2tzQXNONXIyYjlHc0tmaG9GbjlINXJ2Q0R6OEtoSi1SWUd2eEVPZmJ4ZW9NNnkxZFJmZFh2a0FPaHNmRTVfMUdscEJtMDQ3c1U?oc=5",
+      "source": "thehustle.co",
+      "pubDate": "Fri, 20 Feb 2026 13:32:29 GMT"
+    },
+    {
+      "title": "Arlington Museum of Art to display soccer memorabilia for World Cup - KERA News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3hPUWUtckpGU1plZjZ4SmVQZ3FsNENyNmJIS3VWeGxOMXdhd2NUUlhzaU1TcnFiaW5RSXJVZXNGUGxWUVZZTTF3R3VtcEx6NnFmS3BFR1hpZTVpemR0NEV3X1NZUmZxcG94OEtMWngyTXoyN1JOLVhFMEJpQmFMYjdsT2h5TUNtajVoYVRwZ1BUV0ZhZzZtYlg3dFFZRDhsS0ZxU1h6QXJYb3Z4aEZ6OS02VGYwWlU?oc=5",
+      "source": "KERA News",
+      "pubDate": "Fri, 20 Feb 2026 14:45:32 GMT"
+    },
+    {
+      "title": "Scott McTominay goal that helped secure Scotland’s World Cup qualification commemorated with mural - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGFRdXhLbWlaMFJYVFJXQ3NPLWV1bTZvU25iakJ6ZHQ3bDRfZTlkaXhBTW9VZzBEbXFzTzhLYnhoVmNCOFlPTkNudTVKVk90UWJ5QlhqTWNhY1BvS0ZwMjVadGV5aWZJalZiaFRwRm00RWVxZkFHWTV5RlVDUEFwbTJpODVwa0RZeDVyX2hMdlM?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Fri, 20 Feb 2026 18:10:04 GMT"
+    },
+    {
+      "title": "Samurai Japan reliever Matsui has groin injury, could miss Classic - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVOU9LZk5jQmkxZ2s3bHg1MWhva0M3RTBUYktjdkExejhRbDdzVlNxM1lSU2RKbURTQWthSTR1aWFJQjhlQ0JXS2RCbG1laUtoSFczd2pWN3ROQ1hQSjJtNUZaMnlySHZmUGt6empLRlh2a0ZpSDI4RzN3Sk8?oc=5",
+      "source": "MLB.com",
+      "pubDate": "Fri, 20 Feb 2026 20:18:31 GMT"
+    },
+    {
+      "title": "The World Service must be preserved, whatever the cost | Letters - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOem93Ynk3VGMxZFNLRXpCblBhYUpTY3JXT09zci01RFk0RnMzYjNHaURLNGM4TnJaS2FRZXc4eG5XN0xiNXZZTnd0VEl3R3d3NmZqZU4xVDFadWo3V2w4YXU2bERCQWhFcFV6UzVtNThPd1VKRGJSTXVTZ2licTJuM1VLX0dTTGp1QXF1OWJxU2pocjRaYlphelI1UWRjd0lL?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Fri, 20 Feb 2026 18:12:00 GMT"
+    },
+    {
+      "title": "Syria is not Libya, but it could become one if the world looks away - Atlantic Council",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRFUxbkpsYXJzUHVKUExwbHgxanI4QzRiUnhnMUwybHdYRFlFanE4SndUbkx3ajd4V09DSW0yS1RpajI2MjE2N0VORnZBV3luYVdmR1lPUzd4S3dRcG90OG5BV3pYUmFGOHJ6cGZDWmhLV0FLQUZVZktwWHdnZURkYjJVckE0VFE0RXBDRVVEWWZ0STRjWHNyOWZfWTRGcGZvbGl6T0tLYU5qdFBCVVNGSUZaWktvVUE?oc=5",
+      "source": "Atlantic Council",
+      "pubDate": "Fri, 20 Feb 2026 11:00:00 GMT"
+    },
+    {
+      "title": "Major League Soccer opens the season with eyes on the World Cup and a schedule shift in 2027 - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0gwc3BRNldKQzVydW91OFl2Q2M1dTB6ekduNllUN094MWlFLXZsVHUwM2hhUTdaVkwtS0s4M1dCTHNoV2xJbTI5NzBVMVZJTDFPdTZEZVV6X0dmVWUtd3p4d1E2SEE5ZWZNMHdpbW1panVqX1JLblo1ajJyV25CYUVaZHpjenc?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Fri, 20 Feb 2026 18:40:00 GMT"
+    },
+    {
+      "title": "Did You Know That Today Is World Day of Social Justice? - Psychiatric Times",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDVlamJmMm5KNnZCSlhQeVptbWw4OGdHS0Iya1prUnlKUG1icHdaSWhaZG55b2U3djQyMnRUbVZJQl82MUVUYktPS2VGSHNuMG1reUlMOG5TaTN2ZHBFYmZZTlRTbDlkSHFCV0FmSDcyclRwam5wc01jOER0cHhyRXluQnRDSTVvTWhZbWhVa1FiZXpITmRR?oc=5",
+      "source": "Psychiatric Times",
+      "pubDate": "Fri, 20 Feb 2026 20:55:46 GMT"
+    },
+    {
+      "title": "Third Stop of Skiing's Biggest Freeride Circuit Canceled, Here's Why - POWDER Magazine",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMDdmZ0dBZi1iSS1IZVRyaTN3MFdpYmZnOUtCOGhLTHE2ZmlLbE9iLUFseG9aTW1LUlBuTjY5RFN6OEVRd3dNaEZfT0N0UnRpVGE1M0xVMl9uTnlIVWtuZzhwc2ZaVGhvVmhadDhUS0V2TnVVaExWcg?oc=5",
+      "source": "POWDER Magazine",
+      "pubDate": "Fri, 20 Feb 2026 17:13:26 GMT"
+    },
+    {
+      "title": "Pole vault champion Mondo Duplantis jumps from world records to pop releases - WWLTV.com",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbXk1U0ptVmQzWFVPekp0QmllSzREa0dHVHR2X1ZvZElNd0lUcnJIRnBLc1BEZFljTTd5TGZmWGZBaWtCVkdUdTVaZ1pzU2lscU85Nkd3X3RCNjRTSm1KR2RDOXIwakV0Ty1NZmpOSjItdXdmQTg3eDBGT2QyMW9pYkNtX3haVzBrYm9iY0xOQ0JKSFRLVHR2VllyZHRXb0gwcTBJcTBFVnJLNTRuQWZqaG5MUHRPUEN1UXdLRkJlUWVQbHVKNDgwenRNdEVXMTR6T2hGTGFFcUVKMUFKMlctaE9Vd0o3cjVZbFZkZU1iUmtOSW55QU1xdlIwcw?oc=5",
+      "source": "WWLTV.com",
+      "pubDate": "Fri, 20 Feb 2026 20:36:56 GMT"
+    },
+    {
+      "title": "Harlingen CISD Firefighter Academy Sparks Real World Career Pathways - Texas Association of School Boards (TASB)",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2Uy1NR1FlR29xR1FLUlBkZmVaNlp5T1lOVnZOVGMzX3E2WlpfeFJQRXJQWURvd212R0RLb09BclZ4QUN1bkdaT3NIYURBUVFwaVFBTU83Tm1kOTRyTnhnMVROU1dqVUNVMkl0cmZ4RF9XeXZDcDhIRA?oc=5",
+      "source": "Texas Association of School Boards (TASB)",
+      "pubDate": "Fri, 20 Feb 2026 17:32:03 GMT"
+    },
+    {
+      "title": "The Week’s 10 Biggest Funding Rounds: World Labs Leads Another AI-Heavy Lineup - Crunchbase News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWxaazFoSHNNeUVsSGNLS1QzSUF3WjlFbjJKSmM5WTZldjBneXJoT2tlZ29JMjBNdTl3b0FUOEt3RC1IMFRYWVZCZE5KMlJReEdDS21ZaUNMZVBJdXZudnV0MFJ5MUNsc2YteW5ZMnJ5ald4eWJmWDk3WU1rRFgzc2xnaFM3MVJvLWdlbDNGWQ?oc=5",
+      "source": "Crunchbase News",
+      "pubDate": "Fri, 20 Feb 2026 19:16:37 GMT"
+    },
+    {
+      "title": "World Baseball Classic is back - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVHI1QVNlWjllVmtScnUtVVhpcXZjMEhhWTdxdmdEbjdMWkNJY29rUW4wcm1pMVVDS01sd3FkU25Yb3FHazg1ZHgyZm4xSnIyd1FBUTNOQllldXdTWEdDQlI1TXNSelZOcVo2NVFhMA?oc=5",
+      "source": "MLB.com",
+      "pubDate": "Thu, 19 Feb 2026 23:21:16 GMT"
+    },
+    {
+      "title": "2027 FIDE Freestyle Chess World Championships to be held in Weissenhaus - Chess News | ChessBase",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVDk5eV9fajRJSTZsaVJ3bXlJQnVUUFhOTlFBR3Y1SldGM1d3bE1VSnB6YmhIN3VOTlJGcVhzaThha3ViU2hVSUNqTDlnNVRtWW96TDhsX1ZEMEtTOHpIMkU4d2VsRGZGbVd1eDFGQTB4UVFhbHppMEQ5X3RtY2V1SVhXWFdoYVU1SDBrcEp4X1ozdDhwdE4xdFRPT25pUHRRcnRv?oc=5",
+      "source": "Chess News | ChessBase",
+      "pubDate": "Fri, 20 Feb 2026 15:34:49 GMT"
+    },
+    {
+      "title": "Juárez continues drop in world's most-violent cities rankings 2025 - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMkFvS0tmclBOdFprdlBBUkQ1Ym1hMzVGa201aFd0NjhyczFldXEtR1lhT1pjWDV3RFlJWHBxMTV4VU5rbkQ3akVYOFE3Z3RkVHZTa29FZkgxNFdtSjl3YUpUM2tRQ09BaENHRFowZ25ob1ZMR29aZTlUZzcyTEwzSmg2UmdUX0c1WGhJN2JTYnM0U1dEYndfNVl2Y0daRXFDZ1hIYll6X2RVZHlkZktKcVotVVRIRm5JRUFwNktJMG5oY3NL?oc=5",
+      "source": "El Paso Times",
+      "pubDate": "Fri, 20 Feb 2026 14:20:00 GMT"
+    },
+    {
+      "title": "ManorPalooza World Texas Sausage-Eating Championship - Major League Eating",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PSmVYWVd5bTJ4RXdxOF9RU3czYnNBX3pwejFBUjZEWTRPSUx5aGFsT3FvWjlZeUNldVZ1VXVxb1lGaFFpdHVTNHdJUnRWQzdZUkZBMTNEMA?oc=5",
+      "source": "Major League Eating",
+      "pubDate": "Fri, 20 Feb 2026 20:24:27 GMT"
+    },
+    {
+      "title": "Key Perspectives on Real World CAR-T Use in R/R LBCL (DESCAR-T & REALYSA Registries) - CancerNetwork",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1M1UEZOV0NLV3JWdUVPaHVRYTBSMW95dkMzSHJqRGY3SWZ4cTQxR2w1TmJSQWNrckhiaGJjN3BEQjNyYTdTdVBfdkV3WUtEZ19Ed3hGRVZ3M1pLakNCRW9mcU5lU2d0b05FcC1kWHpzdUhtaGh3V1I0TkItNUZNUGRmQjNJZ1FGSEkzNXBfNXJnNWJIa2QtbTlQcEJ1TjYwTmEyMkZQRG5qbTZOMkpxeS01c1dRdWs?oc=5",
+      "source": "CancerNetwork",
+      "pubDate": "Fri, 20 Feb 2026 13:27:34 GMT"
+    },
+    {
+      "title": "Comedian Vir Das will take Madison ‘around the world’ - The Cap Times",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUkREWU05bGRUREk4NHFPQkYtbnI0TG84Q2NTVlRELUJXN1FmUDU4YjlqXzRtNnNvUE9xUzNBSmRneF9RZG1VYUFSaFFoU2JERm1XWTVnWTc1UlFnTW1KZHFvRVhlc1d6bnJ3dEFVMi15S3o3UHVNT0dYS241amJmeXVyYUhQUXJjQ3lBVVQ2NlBjcFIwbmlzUXU5V0hLX2Z2THZxOWJjcjVxVmdvemZqUll2MWU5TmFhc0l4RTBsQzVtT01EWUxUcWhGeFRLaTBHYmpRWm5yQ1FqWVZwcEVfLUNtVHhtd1Nw?oc=5",
+      "source": "The Cap Times",
+      "pubDate": "Fri, 20 Feb 2026 11:00:00 GMT"
+    },
+    {
+      "title": "FIBA Executive Committee meeting highlights strong ticket sales momentum for Women's World Cup 2026 - FIBA",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcjltd3UyS2ZjTnNFdU44Zm1wY0p6QnlKMkRWR3g3ekpkTjE2QkVnN1NaNVhSVTY2dW9NdlhieFJsZzJMZ0RwcHY1NlhFNkF0QjYydHBjUjlKSmFsNXZoLXY0VkN6amRMSktSUnhsM2lZREhmSUFoX3pPT2hLSDNPdGkzYmJHV040VC0tYVRJdERlUjlxREo2b3FiZlFRVnFOY0dJOG85RWZua2pfb0ZQbjZwYUM3WVdYOXlHdVI0cFhIWFhxcVp4Qjc5b19CZzY5VWc?oc=5",
+      "source": "FIBA",
+      "pubDate": "Fri, 20 Feb 2026 14:42:08 GMT"
+    },
+    {
+      "title": "Becky G gets fans hyped up for World Baseball Classic in 'Expect Everything' campaign - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMk1ZQlZIMHNveV9EYzI1MXdlNFBSNFlBTGoyRjN6MFZSUU5za3lXRFk2WlowMjZBREl6NmlHYVlYSDZMZ182ZW9YOHBfelJ0bXhWb25jVDRMOUxHWk9lc1pud3NKdlF1WVp4U1h0SG14RGN3eW9wd3NnY3lTdWlleXpyYXR3d9IBkgFBVV95cUxQSmRkb0gwMW1uUVhkR0xBU1p6SEw5TGhSNjNLd2I1ZG8tZDJ0anRYdFJMMGpSbUdiTWZYNG1jb2JGcFdwNkJPS3BmWFRwN1VMT0w4S1NzRHNhNUVlWHFTX21fQ1BNemtVM3BkQlpuckhEQmlHdEcza3BycGhlOENjRHZGcUVWZ1pxa2F2d3NBd3dBdw?oc=5",
+      "source": "MLB.com",
+      "pubDate": "Thu, 19 Feb 2026 16:10:25 GMT"
+    },
+    {
+      "title": "The Stars of World Skating set to light up Milano: everything is ready for the Milano Cortina 2026 Olympic Gala - Milano Cortina 2026",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWm53QnZxY05KWG9OSkVrcFlPbGdPWkZ6SlFYQjhyaXVhbHFTR2w4OFdWZXlZWjlscEFxVzZaVXBYazBmYmV0YTFWVGtSNEM4anRabjhiMWR3MWNIYTlPaFhzWGhKakVCbDJBRUdHYjFUVmRYT3ltM1lNLWlnVlh3ODJYeEhMZlloSE1ISEptclNQcWx1ZUxvSWx3MWYwdE1jQjBhemNOdEJqdkNndEVPVkUtcklXd0prQUR6cW5ra213SjR6RXdBakkxUTBNcEE1M0VYMWh2ZmVYNG92Q1JEQVMtcDBtVERYVWhEQUtCQk5FbHBVT1E?oc=5",
+      "source": "Milano Cortina 2026",
+      "pubDate": "Fri, 20 Feb 2026 15:30:00 GMT"
+    },
+    {
+      "title": "How Utah helps the world’s most decorated winter athlete: Norway’s Klaebo - KSL TV 5",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jSEtudW5zdGEwQTE0UkUxZ2g0R25vT045SFAzYUpNWE1HUlZDaDNSa3MzTEFjYU9zTnNWRnF2YlduREdIMkZUdTRDbm1xZTNPLXotZUJZRThDakFYZHZYczY2X25jcEdWUi1Kdw?oc=5",
+      "source": "KSL TV 5",
+      "pubDate": "Fri, 20 Feb 2026 20:06:39 GMT"
+    },
+    {
+      "title": "After leaving WHO, Trump officials propose more expensive replacement to duplicate it - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNVd5RkNZdTVxM1lqVVAzRG5BbnBqaDBRNldpSVA1Ri14bVlpcVgxaXFINy1OY05KcUdrZ2NqT21OWmU4a1lDY3c2RE9TTzdCN0FYVTN0eEFpQVdDWUJVcktNMWUtZVY2VWw1cVg2VmFoRXg5eFhIdm5XYlFucFRVVGVwUnFjbmhOd2FsYTBhUTZDbU9OaEJibnNsaHc?oc=5",
+      "source": "The Washington Post",
+      "pubDate": "Fri, 20 Feb 2026 00:01:51 GMT"
+    },
+    {
+      "title": "Probability underlies much of the modern world – an engineering professor explains how it actually works - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNjdNelFUWDZQQ1g5a25sRXlMbFZfOHVvWXM4eUFtOXR4YWxvWi1fc2w5UmJkVWZ5NHhHcGZOeEp1bFlEanc5WGtIemp0a3VUZXBhY1ZRY0tTRW92TlJWWEFIc2M0WGFYVjZXeDdZT2pfWF9Cd2lROGpzLUM0d3ZZVDJlZzFqaW5ISW0tbzlHODh6bzBybjlTeXRQck9yeWloZk9wTVd6OXZFR24wVjJ1Sy1EbGp2X091Z2tsYnY1eG9JbGFnMjZJM2JpeEhVSFJmclBn?oc=5",
+      "source": "The Conversation",
+      "pubDate": "Fri, 20 Feb 2026 13:36:34 GMT"
+    },
+    {
+      "title": "How Kansas City wooed World Cup giants to its base camps: BBQ, padel, ‘KC Kind’ - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN0tQU0MwYV9OMV9RcGlSYl9sR1QxSklWRFVfa1J2em5ONnBfaDZyR1dja3k1VDAtUC1RTFczRF9SQVh6SVN5QXA4eTdLT3h3UmhzRkgzSVZ2RlN2VUJ1cnFDS2RHX2wzd210WWFBWTJWd3Y0bjFHcnNlRGZXS25LanpiWENjazdIc284ekJ4WE9VM3h6ZVpaMW5BZGlZLXJlOHdyVXZqdWlwUnB0OC1PcnNuMU1GSHZYMkE?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Thu, 19 Feb 2026 08:00:09 GMT"
+    },
+    {
+      "title": "U.S. trading partners cheer Supreme Court tariff ruling — but businesses must still navigate 'murky waters' - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2UtRERtVGhsOUtNODRYem1Na3QyRktNOTIydms4Z0Q4VTF4YTJGWXNxSXFVZXQ4Q1U4ZVMyNFh2eVI0TmNEc19LWXJlcE00NE1yQkl3dllOQzVCMFlrTmV1UWN0OWJqSVlHWV90bXFGdHNJY2FvUXNlMU9uMzJFTm9sR1lzTWl5OFRqWi15blcwMXoxcU9GdVhTVVLSAaIBQVVfeXFMTlhnUmxwT3hJZXFRSjFhNGR6U3lMckMweGt5WUJaS0lIdWtRUFVCQ3QydlFFV3lwcjlUbk9MNEVlN3h0UDE0QW1jSndTd1FzamRnTXVYUWZhV3pMWi1oTWdwREk1RW9aaW00MzhfUHViaWxwbm9sVXV3TFNwQ1p6RzNVMWN4WENRQWJuYXJCNUhHaVRHbmVTQjhUeGJ2b29HdmtB?oc=5",
+      "source": "CNBC",
+      "pubDate": "Fri, 20 Feb 2026 16:48:32 GMT"
+    },
+    {
+      "title": "Amazon dethrones Walmart as the world's biggest company by sales - NPR",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnVHdHBqM3NrQ09xRU45OTlWSl9TbU1zcFN2TElJWmdyVUVrRlNYUlNrbXRmNVozVk5MQy1JaFZyaFVGNl9JWHpPcnI2a3dKRTNvVWdsdXFoVDkwZHBMMFFUYzVPeWtWdmw1MWFOV21RaXZIVEVLcGE4WWZuWE40ZUxQbWlPcXl0ZDB6Ug?oc=5",
+      "source": "NPR",
+      "pubDate": "Thu, 19 Feb 2026 16:16:10 GMT"
+    },
+    {
+      "title": "The World's 100 Best Coffee Shops list is out. Where do AL cafes rank? - Montgomery Advertiser",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcHJRMXpfSnRDM1ZBeW5GZjFwLUZfTHNpdzNScW0zaVdrX2JlTkVUY3U5c3JiVThmY3o0Z0pZWU5wZHJDWlBGTzNQemc1UXRzeVpTbklaRDA4NzBZWEowOGdESFNQMWJwS2duNnFRS294RDYzWmpGTXA0YTNudkxyQWxQSTR3X1pJR1dTOUJfeklwTEs2Ym1OZ0dVM3RERmxQNHVPRXRnVXJfNFdlYlhTV1o4RURQQ2lqRkZ0dDRLLWc3dUEtVFZZTmVJUERXWXRxcGwtWnllSElZS3c?oc=5",
+      "source": "Montgomery Advertiser",
+      "pubDate": "Fri, 20 Feb 2026 10:08:00 GMT"
+    },
+    {
+      "title": "Dov Lutzker Connects the Dots Between ADA Rules and Real-World Solutions - JD Supra",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnZ4ZnNpMGVtZTl2TmZKOTBkMGZsN3VVdERZenNjOXVTYXJybXNwc1NCY2pBazU3VThMREVsbUR3d3h6bmRSbFE2V1B5X1ZXSmx4dzBjWWRyVFZkT2Z2NTRyZ2JsUXVOcjQyMWxSLXZNTXhJZUpxQ1R3R05ydUxNVnRGUnlESUlx?oc=5",
+      "source": "JD Supra",
+      "pubDate": "Fri, 20 Feb 2026 16:05:14 GMT"
+    },
+    {
+      "title": "Birmingham-based Domestique Coffee named among world’s best again - Bham Now",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2c4LXktb2YtbEp0SlpLVXdmWVRHenhoMUZoTTZtTG02M3dfNkQ1aTVJSFM0S2RQSWdqeVJXSlY5MGRhSTVscUctajVHMnZhNjJaczc4ZF9zQlVpVlJ0RkQwSF8zMjVEZ0hBTEx3bmdYbHZ3MXNfZnF3RDBHT0ZsNG1HUnpGY2RPVHpFRkxhWjQ0dlRtelZLRnBxWjA?oc=5",
+      "source": "Bham Now",
+      "pubDate": "Fri, 20 Feb 2026 17:58:48 GMT"
+    },
+    {
+      "title": "Australia thrash Oman by nine wickets in T20 World Cup cricket dead rubber – as it happened - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHdiLTlTYVUyN2Z0eEFzdUhzaVNDZkRuSWhIQVUwcUpRMlpPd1ZhdmhHLW1pRkhRaUplZWQ5V1JNVVNYeVBhRzV1OHRadDFONjl2T3hZem1aOG9UZDRBR1h5aWZTLWJvalNUNzczU1hObW9aX2dXNUpybXNkWnJvb1lwQmhwdFFXYzEyWW5kdDZ6VG1PbzQ4b042X3htbFIyOGhYMmRKMTFlT0pBV2w0QXZYZ2FLeXVubWtr?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Fri, 20 Feb 2026 13:14:00 GMT"
+    },
+    {
+      "title": "Wisconsin Foundation and Alumni Association: UW now live — unpacking the changing new world order - WisPolitics",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHFOTTJtd1UtcUhZU2VNN3ZXbFBCbTA1X0tRdFVMdVRYZ29HVmdUandOVzNhVU9Zc1gtYi1SVzdQUDR0N3liRmpnUkFsRURDdGZJYThfRFpka1k5Uk84bFYtWVI5MmhmaHZ2RWlWVHFHTkFnbWZKNEU0UGVxSnY1akNKbDZzcWF5M1I0dTlvZUluOTZyQjk3cERsTUpwRlg4c2d2TFQ4RnJuODBPU3BKWHBhVUFzU2hnMDI5R1g0YmpmejQzNmdV?oc=5",
+      "source": "WisPolitics",
+      "pubDate": "Fri, 20 Feb 2026 20:41:08 GMT"
+    },
+    {
+      "title": "World T20 Super 8s guide: India still team to beat but Curran can inspire England - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU1JQWDZXLXd6TEFWc3F4UnFGUlBoTUFzZUh2Q2UwSmRRNG9CMmdleXV2UjlDdEtQbjlPU3hxS1BGMHlsM09YbEZIY25YVkFGT0hGOU1yaTRxa2U1eVZ3YTI2cmZiU2dQYTlVWmYwQlBpYjdMY3V2WGlGUmNidmkxeUV2Ylg5U1laNGlhU09MOElhVTZoN0pNdnVLNmtNZEljRHA1NFV1emo0blNoUmFaeXVlNFJhUTNqaVBiQTgtY3VEYUJq?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Fri, 20 Feb 2026 16:34:00 GMT"
+    },
+    {
+      "title": "Around the World for 25 Years - NASA (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTElOTWN6ZTFaX1N0QnRRN3FlUE56dDUzOEcySUtsQmZHV0pGRGFvd0xJTVlMSnREdmNybnVrcHVNaTc4ZWxxSXlFYnBaWGJXY0QtQjgxZktmbHVRWHFBbEtIUmVaamxrTEhNX1hobk9Kb003RlgzNEJiMEhscXM4T2RhX2dmVmViYlltbzFQTQ?oc=5",
+      "source": "NASA (.gov)",
+      "pubDate": "Fri, 20 Feb 2026 14:05:46 GMT"
+    },
+    {
+      "title": "The Pamphlet Read Round the World: The 250th Anniversary of Thomas Paine’s Common Sense - Cato Institute",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDNBNC1xUUEtdzBSNUV2OUZlMkZUbHcyOG9EWFFMckRKeU5OaGE2U1A1TTVzc1BPT1Iyd3BLSlhiOFRXY0FmWHhWbFdGM3JPYVFudXZRbGI0T19RS3EyMmJkUlBlTDV1TXUzWnRfdEFFcFpNRE01V1d0WkdicHBIMG1RYzUtZi1tWW9xWTBzQVZKT25qVU5hdzZxVzRYak1pNi1QWk1DWG5YQlFJbjBlakNDVmczTzQ?oc=5",
+      "source": "Cato Institute",
+      "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "The Most NIMBY Man In The World - Legal Planet",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VYnBNclVCN3NCTjFRY0VZSkJfYmVMUDliek80OHg0VzBiZ0lXTVU5WFJhdmhBN0FuUjFoQ2cxVTZ0VXRKZTItQ3ZhUEtKektTSUlSbUp0M3lDNG42U1Y3Z2IwTGh0MUk5cWUwQlFlX0hFMmFQWk5N?oc=5",
+      "source": "Legal Planet",
+      "pubDate": "Fri, 20 Feb 2026 16:02:30 GMT"
+    },
+    {
+      "title": "Lutheran World Federation newsletter - Grand Canyon Synod of the ELCA",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFNDZnR3VaNnFOVWFDOWVXUVFxTDZYRzdhV3pDMGFkMVdNTmtzeGk5d29yX2QtV3VObHVBalp6RF9Jd0lXcUROakhNTS1IVDd0b19zcE9lU0FNb1VQdnh3RUprY25CcHRNclltQVlLZDM3WVdfMlZVam5oeWJoejg?oc=5",
+      "source": "Grand Canyon Synod of the ELCA",
+      "pubDate": "Fri, 20 Feb 2026 17:04:05 GMT"
+    },
+    {
+      "title": "Airbnb offering a bonus for new FIFA World Cup hosts - NBC Boston",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWTE1cG9zT1NCZmxXaENKOFNfdkVNS3k3SG9VaW5ieGgxdGtJV0MwOUZiczc5alJHSEQxZ3NRZlVaRTJwNjlNUVIyY2ljNFl5WF9ycUU1VllrZTYxOXVpdlFtV2ZZcWNPdV9yaFdtc3EwZmJvQkt6NEtmSVBQemtRV1ZiTDNoSjBiWEZEM0hldkczLUFsdHhhaVdvMU9ZektHM1lMNDc5ekRPUmVzcTE0OEZsdlluUVNoaktPcF8xVjPSAcgBQVVfeXFMUHpvMVE0RHVQeGN3WjA5S2VhU1JiSzZTcVdDa3RSd3JaVW5DbUxFNEd3SjU1LWVIN0NXQW10Qmg4MERZbktuMi1yMzdjeGI4OGN6YVJMZWxBVmtmU2VzTUNPX184YXRiODRzLWtveWJLcF9yWkw0VEc0V1hhSzlrU2w5SDFZQUJTZC1zYVhNWDl5dmZiM2VGQVZ6NWZXZDFILVQ5ck9KT2NLeXlVa0p4NGl0ZFU0VU80U0hKLURYVXdTOU1oRTlzYno?oc=5",
+      "source": "NBC Boston",
+      "pubDate": "Fri, 20 Feb 2026 15:18:20 GMT"
+    },
+    {
+      "title": "This Week in DGM World. - DGM Live",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oUEZvc3hCbDRrWnZ3RkxQOEtzRjYwNzRYWU5seEVualpPWGJlQVQxS2wxalZnMHd2MEg1LVlhZHdVRjVFNWF3ZUtiVUtNdlFfZ3B1UzBRLWw2SG9xcWliRXM2YTVUcHc?oc=5",
+      "source": "DGM Live",
+      "pubDate": "Fri, 20 Feb 2026 13:01:38 GMT"
+    },
+    {
+      "title": "World Bank chief's role on Trump-led Board of Peace prompts questions - Devex",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDlxVGlLU0hjU29OLUlwZXM5V3lGYTV6aGRpdEhDQmFWX0hiV1ZzajdKbUpVbERaek41YnZENnB0bG9WT2M3N3RVTTRHaHphcWFVZVJhRWVQVFJxYnFEaFlYb1VYcG1tWjhlYS1YZ21sRGVYR2xhUkR4R0dKZ0QyVjNVcTlWb0tMRkQtZGlQbWVuS0hXckdDZl8tZ0RMbFg1cnBzd2tR?oc=5",
+      "source": "Devex",
+      "pubDate": "Fri, 20 Feb 2026 17:30:32 GMT"
+    },
+    {
+      "title": "Advertisers, MLS aiming to take advantage of World Cup to build soccer fans in U.S. - Sports Business Journal",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVk3cF9mMzBncGlwTlRrY3FsVm1aLVNuMEFDVzlDTmN2MHdqSDkzMWF6U1I5Mmh1cURKVUZMdzZvSlU3NGZCX2hoWk9VTjFibWpnaVFNUkZWRm9mSUdRa21yeHlLWC16YmtnbzJEOTFDeExkVkFCMWxsTXdwUG51cGFHdS00VGlJdS1kOW82RkwtQzdLd0ZEd2JEVm4xTlhzOFhlbFQ2ZzRZWDkwMXdvdEhITTk2TG5ybHNJcmMtd3hVQ0JHLXJSZ2xnOWJSQTktMjZkZEZn?oc=5",
+      "source": "Sports Business Journal",
+      "pubDate": "Fri, 20 Feb 2026 17:00:20 GMT"
+    },
+    {
+      "title": "Reasons to worry about America’s investment position with the rest of the world - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tNC1sX0hxY0NFWDZtSW5tMEtVcHVEYjF3aWdFaWxLYVYyYmc4OFdsZUZON3dBc1kyMFhLT3VsQVdjcFNMUkNxM1lzdkVSQ29xOEpEX1htQzhGT21Hb3cwOVlFWEpCUWgxV0xOaTRWWF8?oc=5",
+      "source": "Financial Times",
+      "pubDate": "Fri, 20 Feb 2026 05:00:34 GMT"
+    },
+    {
+      "title": "News | World Cup set to reshape hotel demand in Toronto and Vancouver - CoStar",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmIwWDBya1M1c3dIOFkySjA3dUVKTDIwV3FiU0Y3bDRfbHctb2ZOV0NFSDYwVFFDTDYtdHFGTTlrbEVQZHV4bW9tSUNUUUU5emg3cFZaLTNFZ3BFQ1FjTjhXbExEdFNTRFpzU0RtLTI4UDZfdTJxcVhFWHY0MWFHUVBwbmRWX1VwUWY1T0VTZGJPNk9IbXdDb0lBMUFlTl9ReHhRWTJR?oc=5",
+      "source": "CoStar",
+      "pubDate": "Fri, 20 Feb 2026 19:19:40 GMT"
+    },
+    {
+      "title": "The Men Who Sold the World - The New York Review of Books",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhbzdPb0hxcExxNFJSRC0wX1BhOUo2a0x1VVdWcjRSTXpicEJhX3lPX2t0V1k5MnRnRHRSZlYzSkJMeHFleEJLbzRLcjJOZFI3NnZNOFpNTkwyZVFtUHNzci1WTHpGemphVE1LMkZrM2FRa1VVcjlFYw?oc=5",
+      "source": "The New York Review of Books",
+      "pubDate": "Fri, 20 Feb 2026 18:21:56 GMT"
+    },
+    {
+      "title": "Reflections with the greats: celebrating 100 years of Black History Month - The World Economic Forum",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLTlFUM2ZSWDRZZ1dnSjdWVkhsQmpEM2tlZm1wbklUdHU3NVdYdHBFaWFJam1FZC1NM1VJUWIzZ0dOWUV6YVRWbTZVYURQS3A4OVNNSVRWNloyUFpzZDBIbndWYUtFb3JTa1dkMG5sVDctWENock95ZUxn?oc=5",
+      "source": "The World Economic Forum",
+      "pubDate": "Fri, 20 Feb 2026 13:25:51 GMT"
+    },
+    {
+      "title": "Frazer School teams qualify for VEX Robotics World Championship - Mainstreet Daily News Gainesville",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFRwQjIyVEdXOHRrd3Iyc1VKSGo1WWgwb25zVTdlYVFpbldFTldBSHBXTTRFXy1qZTdzZ25xZDdqaEJPT1pKYlM4WFZNdDh2U3dhMjZzWjJnTzVIdUtoUVNwWjBkS051cFVnNlZ3NmY3RDhZVC1qZjRKR3dmTkpwVjVxTG5yLXhSeVpyZFZWbEg3cUZMcW16aU9CbWo4OUd0dWFjRHE4U29Kd2dDNlE?oc=5",
+      "source": "Mainstreet Daily News Gainesville",
+      "pubDate": "Fri, 20 Feb 2026 15:38:59 GMT"
+    },
+    {
+      "title": "No respite for World Cup fans affected by Trump travel restrictions - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZkZXbW42N0JVajZFeHhieG8zanoyQ1RmS3BrejM2UnVRVVdXTDRmaXcydFRLTUQwSFI3dGFhTC13aDVjMjltNDFhS1dzWEEwbWUtbUFhSWxMU0NTZEFyXzkySWVQZ3dnUXFYUjdOTDhNYkdHODlJZHBlVS1PYWgwbS1VNmx6aWNkNTlqWlRJbWdzSzVydERlSXZQYmowZUw5dDQ3TnlXQkJIU3F5X1E?oc=5",
+      "source": "ESPN",
+      "pubDate": "Thu, 19 Feb 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Australia leaves T20 World Cup after crushing Oman - Times Union",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3VobHl2UVRyRjZ4RGlKOVBfTEh3X3V1V29yRW1kZWd1UjM3LXVQNVhRcmY0WTMzU2VuWC12eWplN0Z1bEJqQnJLUWlrY1dER25KUTU1X3h6LTJhalkwS1EtQzV0WmFRSGE2N3RCdmNyX1lHSktXSi1PTmJtVVVSTk9WRVR0RlVSTG5KSVdJZTlHNE5HMnJXSEl0ZkRaSzJ3NGZ3VmlHMEM?oc=5",
+      "source": "Times Union",
+      "pubDate": "Fri, 20 Feb 2026 17:03:45 GMT"
+    },
+    {
+      "title": "Florida AG Uthmeier hosts press conference with advocacy, FIFA World Cup officials - WPEC",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQTzR5eWZGS0xPZXhaVDh5MlRzbmtmODFOLTBxZ1g4cnJBNmktVVlscmpUY1llQjZtSHl5ZkZ4SnJESE1UWnc3MFg4aXJmX3A4Tm1nbWwwY3RLQ0dMeHRHX2JKdkR4MTFzUUVnWGU1RDJ4Mnh1bkhiUncxRlVCa3FhRTVrYkNnZlZRb1d2N1dETVVYUGJlRThTamNOMzBFaDAxVWtxaVBfTGI3b2ZtWUtpQ3JidjhvY0FmSXY0U215ZXpVMm5XVGtsVEVnWjBKLS1JeDFFOENqWjZROHBfZU9nUTZDNUJqNFZfdlUwOXFLMDlmVm04SEM2YV9zMVR3ekxIcENQU2NKcFFfYmJvZFBNWXlKN1I4LVluXzVudV84NXNkMXF2NlZtcHFadGppTzBocUk0Rm45SERUZG5GempBc2h2X1BhMGJTdzMtRDIxTmtpQ2dWb0dnanlFc2EwYk9HdENHOUU3QzlLd190S2lDcmNnbHZiM1lRQktzMTJOeXBVclJqbG5nWDlVTQ?oc=5",
+      "source": "WPEC",
+      "pubDate": "Fri, 20 Feb 2026 17:58:37 GMT"
+    },
+    {
+      "title": "Supreme Court strikes down Trump tariffs - People's World",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHpPeVVpWUo3XzVPbXN4aTV1NzhKalpfdG1lRG1xaGpIbVJtN2JrbnZtYUpfcUpUYldBN19qdGYxSUtjelZuclNaVDNleVdaTDFYcS1SQ2VKSU9vY1U4Y3Y0bk9YNzRBTU1GWmFvdWt3RzZvNms5NFpjYjRON2dsakJvc1Y?oc=5",
+      "source": "People's World",
+      "pubDate": "Fri, 20 Feb 2026 18:10:48 GMT"
+    },
+    {
+      "title": "‘Kokuho’ sets up an epic backstage clash amid the highly lacquered world of kabuki theater - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkdYY1hZLUo0dGsyWGlTaG5tTHpORFpkUUFETEc3TkZubkxoWG05ZmhmWi1fUlRGcV8xNU1rLXB4ZHNJWU12T2NDNWNLVWQ3a1ZUUWFpekNhdmF2WVk4SF9HZDByZ3NsLWdVd3JGZ1pubUszNHB6dDhpSXRKMEFNZEFzN09tV0FEZ2hqeWZ4ZkpqcGVwNWNiclF6RXY5MVVhM2xVeTBHcFpHNFJRdzdzbA?oc=5",
+      "source": "Los Angeles Times",
+      "pubDate": "Fri, 20 Feb 2026 19:16:13 GMT"
+    },
+    {
+      "title": "The week around the world in 20 pictures - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOblZScWJ0Z3VQM3hGcnR2NGdlZGZDelR1RUxDMzh4YVl0cEJGbnB4VDVFNFpEVkF2WDJsVnBGWkl2bHg2a3dZa19nc1U0MVFmczFqNHU0ZHp6SXN3bVlCSTFIcEgyUnR4WDBhRkYzNWVfVjJGckRYaGh6c1pid0hKdHNDNmVCQWNqeXNrWklMUGNocllFOHVNYTA4a0c3OFBwVHVN?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Fri, 20 Feb 2026 18:44:00 GMT"
+    },
+    {
+      "title": "Armstrong World Industries acquires architectural design firm Eventscape - LancasterOnline",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVXFrN3hHaTR2cWpfTlZGS0l1T0VnMWdiQVBuSzEtRTB6dUZUZ2FDZllvS0x5ZHJBaTdKZFotR1BFZHh5S3pESGpfWnhVOEhPMHhPbjlCaEdXalQ2cDI0SVpqbV8tUklSck44WERLU0JSVXJuQkNjdW9QbVNzU2hPR2pMWGlDbG9JRG5xemxSM3dXTllCNWx0dmN5THM4OFNyejZGakFLLXg5WEpod2RpUmJpd3BQd1luNXBtYnBBOHlKNFZqdE1ZX2k3Rm5YZ213ZVM4dGYtZzYwNldqMUY4RG1aMmtiOGl6ZGxENF9RYm5YVXNGb1RIWXhmV2dtOVN2VE9QeA?oc=5",
+      "source": "LancasterOnline",
+      "pubDate": "Fri, 20 Feb 2026 20:14:00 GMT"
+    },
+    {
+      "title": "The business advantage of strong AI governance - The World Economic Forum",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMmhYdXBKSmQ3eTFoYUdlWkp0NHA3bHFfb2FiVFZHVUFoejBucWtpZ1ZhQzJRYXR6aVdwandKXzVjTjJxaC1UOXdwNzhOWGRuMHVNSmp4dVVzSG9NMzFqY0FSUE9uekRZTkh6TFdWd015VkVBTWZ3RHU2WjczS3dxQW1ueXRpcEE?oc=5",
+      "source": "The World Economic Forum",
+      "pubDate": "Fri, 20 Feb 2026 14:19:51 GMT"
+    },
+    {
+      "title": "US Travel Association Warns of Visa Barriers Before World Cup - TravelPulse",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRFQxVXlGZnJDMzVCWHpzbGpFWllpYlVWbzR6cjAwYVVPZ1lHVXVSZzJaOW5ieU1fSGMxMUh3d1hoZ3plLTQ4NURVT3VCR2FkZXFSODEySnVobFR0ejQxVG9VNS1uX2NSdElsbXhLYnh2VmRnVF9IOW1haFNVUzVqUzJCbzVVaU9wdzJacW9FTUFCZ3gxcUtxSmRrbEFKSkZYMVdfVjN2TTQ1NTQ?oc=5",
+      "source": "TravelPulse",
+      "pubDate": "Fri, 20 Feb 2026 20:40:00 GMT"
+    },
+    {
+      "title": "After a Super Bowl sex trafficking crackdown, NorCal authorities gear up for the World Cup - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObEdWTTc1MDhGWnpzVWZGRVpUb0x4alpfbENSMDhMMGlTSU9tOHhhMW1wczNqM1ZOUlIzSGphM2Z1emJhQUdocGh0N2ZJbkdnMGd1SklYa1A3M3AxYXR2c2J4SmZkUFhBWFA2YlVwYllBeUhhY0ZENGNOMUt6WnBuOFRzS0FqRlVvZkk5NlhCd1VINjFQWERTZC1tZ0QyWGpJRlRRMTVfVjNNVzRlVFQ0aGZPLU9idUVF?oc=5",
+      "source": "Los Angeles Times",
+      "pubDate": "Fri, 20 Feb 2026 02:42:00 GMT"
+    },
+    {
+      "title": "Finding Football: Ashton Jeanty’s around-the-world route to the sport he never left behind - Raiders.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkZOMHVlWWlDSnhEWDV4TWswcjlSemJiWDNZaEpKVjUzV0hiMUFHVWpfLTdFbkI0bXUyTTRlaWxERDUxWG5xTVRDRjhXaktGZjR2OW5CNFk5emNadVBNV3NfR0RWWUkzZER5aGd4cExoQVI0Y1VOYnV0aU1YMzlrRmxiSkUwZUt4Ny14eXRPaWdUNUE2ZWNLZE1SYktPZE1aRXE5NXNDUXk5S3BwNVc2MWZsVVh0N2s?oc=5",
+      "source": "Raiders.com",
+      "pubDate": "Fri, 20 Feb 2026 02:03:40 GMT"
+    },
+    {
+      "title": "Don Was unites The Pan-Detroit Ensemble on ‘Groove in the Face of Adversity’ : World Cafe Words and Music Podcast - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMVZjZ00xcTBqWTNaNXBWYTh0Y2Q2QkJ2aDlheXVzcTFPRDFxYXdyci1vdTlOR01qTEwtQU11czhKdnRKM2JtT1ZDTk1oMVFJY2JnSHdWSy1Xd01obllnQ3ZPUVBNdFNpampZbHk0N09hY1BUczBvblFHeVZWSEU0WlNFQkQ4T1g2UGpvT2xHRHdhdmUyX1V6X2RaQ2J4WXM4Rl96R0JiSm5UTmZLTnNGSm1uQnlfeGJhWmZB?oc=5",
+      "source": "NPR",
+      "pubDate": "Fri, 20 Feb 2026 14:32:09 GMT"
+    },
+    {
+      "title": "Anne’s Place Held Benefit at Performance of ‘The World to Come’ - Washington Jewish Week",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUVTTXBMQUNfbjBJdzI5U1YxX3NyMFlkbWF5Z3RrQm42WmgwSVBTSmVLZWF2alFFN3NpMmRXUW5yWExTdW9sX25TOVdTTDF5NXo0dHo1Tnh6UXFNM0tORk5nSmxGaGdQb1RYaXNVb3NWUkhoQ29KdTZOdXVrblF6clB5ZFFDLURCUllraEVjR0NmZV9tbFlLd2lrUExsQQ?oc=5",
+      "source": "Washington Jewish Week",
+      "pubDate": "Fri, 20 Feb 2026 14:46:06 GMT"
+    },
+    {
+      "title": "World Indoor Tour victories on the line in Toruń - worldathletics.org",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUs5SlI0VXhwSktHbTdUS2NQN2xyTFZyc1FEbUpNbmwzelNGTmxUTk1mZlV6Um1OV3hCOVFGd1d5ZE9CYjhZTjdoYjFZemRQUUkzdF9RWUdGQ1lFbWtVYU1rQVI0ZF9Yd2RHdW9ERlgycWd0ZHNvM05Xdks3Z2FiZ3YtZ2J4S21WRzVyUThfM2sxaVNJUmNjX1BRNFh4R0xtbTUxWTFyd0RSN3c?oc=5",
+      "source": "worldathletics.org",
+      "pubDate": "Fri, 20 Feb 2026 14:02:15 GMT"
+    },
+    {
+      "title": "Australia sign off with authority | Match Highlights | T20WC 2026 - ICC",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONkFwdUFkNzA5MWRMU2JRbEVMMXN0eUwybmd5d2FLQjJjU2tUa3Fmd3oxVGd5b0FOSlZxSmIyS3VncGE5QmxpTzdHMlRYeDlXbDQ1c2NXT2hWVV9JVmlmQTh0aUpKNG8yLUZGeFZ2ajVjV3UzeXRXVkdQRC1jak9zRkZ4Q1JaLXU1NXI3cTJRTWphdHE2bS05c0NPOENzR1ZtUVBBTnM2Z2g0cmgyclNvbXJqcWEwWHNFT1RWeVU3UXNzVkFEcW5xSTczeG0?oc=5",
+      "source": "ICC",
+      "pubDate": "Fri, 20 Feb 2026 16:39:06 GMT"
+    },
+    {
+      "title": "The world-famous Budweiser Clydesdales are coming to Brownsville for Charro Days Fiesta next week! The iconic horses, known for their Super Bowl appearances and unmistakable bay coats, white stockings, and towering six-foot stature at the shoulder, will - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0g5SS03WGtRZ1NNejZzQlQ2RHpmTjdhOElRMks2NXp5ai1raFN3RWIxMGRzcWc2RGVONjVTNXRhYW1BZVY0NWRPNW04cVVVUEt0TTNtaEZWUmpHVzhLcHJZZ29vb3hEQ01RaEQ3Q054eHBIaEJoaWpHZTgyTEZLckRINEl1QkN5eWxQRjJraHVFM3VGc0daRnVzWUtRUDV6SVA2Ql9seURTYlZyeTYzb182YU1XeWtNZlpLbHVpUzQwRkYxcTJXOHl1MUd1RFNoaWc?oc=5",
+      "source": "facebook.com",
+      "pubDate": "Fri, 20 Feb 2026 14:00:34 GMT"
+    },
+    {
+      "title": "Culture Friday: Christianity and liberalism | WORLD - wng.org",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVkZGQWx2X050bHR2czVIMkg5Ym1lc0VqdjZwd0prTktoaXlMVWoyTDdlQkJHQnpMcXBHaGJieVJkZTlIT3Zyd2Zpdmo1QXZMUjByNE5YUDJNdkRrNnRBSWVPRXR6S21vLXZzV3NRcDB1NTdFdUVzMzRHZUJzQTFPTGJUTFc?oc=5",
+      "source": "wng.org",
+      "pubDate": "Fri, 20 Feb 2026 08:17:50 GMT"
+    },
+    {
+      "title": "Emergence of Antarctic mineral resources in a warming world - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92aWJMQ3JYbzl0V1VjSlpZYzBvUllZdk0zTzNjUC1xU3B4YTdIOVRabmhTVS1YajJXQmZHX3pmY1FqSkVrYXdvaElOQnNPRDhQY2VxczlqblFBOU1DQVRB?oc=5",
+      "source": "Nature",
+      "pubDate": "Fri, 20 Feb 2026 11:06:51 GMT"
+    },
+    {
+      "title": "Mario Barrios vs. Ryan Garcia predictions: Will Garcia finally become a world champion? - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd1JxNUpLVUh1TTZfVUN0VFEzMTJvX0dqMTJ5TTBDaHpMNThjYW83bTV2eE44LVBiRmFzVDRIWUVWSW1BbkNzODBEZFlUUkNtaktYUk9EM19taVFKUFJieU9fNU01SG52cUJqTzk5Vy1mV0tkTkVDZnJiekQxbXFHUmJ2N1RZcncwSTJremw5YmNXUkRoekZ0bW1XejZFak5va2ZIWml2eVVtc2JFQUZFNTExVkNndWhkNUhqblJDSEZvd2RuY1Z6SDFMX0J2RGl5UU1FUk9B?oc=5",
+      "source": "Yahoo Sports",
+      "pubDate": "Fri, 20 Feb 2026 19:20:28 GMT"
+    },
+    {
+      "title": "Large-scale NJ World Cup fan fest canceled, to be replaced with smaller community events - NBC New York",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZEFJMEwzMUMwOFdOMEcxSkcwNWhHcTAyZHZwR1A3bmhzWllVUW9uamNDbzNiRDJobGRwX3Z0WEMwNkNBbTgwa2ZJdGY0R3M5VXFsRlNQbkRHWXB6NjJPT2VWbGtKN1laZ3pCR1RUSjJyTzZrNVlra2JlaUJjQTQ2SWVfWHNGNFNBSlVUaTU1cjlIekNBSzJkRWNvbFJGZWg1RnBfSXN2N2QyTWxkM3h3bjhleHhyX0dvLVZWeUlEUV9XS3lh0gHMAUFVX3lxTE5wOUNiNkVIWk9CbzN0Zk42T3VnSHltR1VtRnVHY1k4QUo1YXh1R3RndzJ0WHpJMEFqdFpYQW9CZjlFTzRGem5FdkpwNlZKS3FfcTc1WnFyc3hLeXF2NTVFRUxGcnlFTUcyRHRyeUNrOExRajl1eGM3ODJvRWpyWkpNVW5GOU5ieTRXVzNjckwyQXlkQmFoV1pwZU1BLXFWMVlRTWlWeGY2VzdXNFg1TnBxOHlaUzVKYjBKRlFDZ01RTExKRW05MnowS2lpOQ?oc=5",
+      "source": "NBC New York",
+      "pubDate": "Thu, 19 Feb 2026 17:46:46 GMT"
+    },
+    {
+      "title": "Frank Liska advances to captain of The World - Seatrade Cruise News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQODhGR2V4NHlsOVF4N0xWWmo1VVZUbGx2UllPWHdDWkpWeURaMGxFOXpBOE1HTEZHaUxwejkxSWprRFQ2d2VpcFI5QTVqOVhuQmFqLS1EWmJtdXdrWHRnSFZhdGgzN2dQVjhDa1ViVnZLQlFoR3FfVzJsWU40MDhURG1Xdi1Hb252dFFiTTU0UllRSVR5Z2dz?oc=5",
+      "source": "Seatrade Cruise News",
+      "pubDate": "Fri, 20 Feb 2026 14:13:44 GMT"
+    },
+    {
+      "title": "Fugaku and associated technologies help to solve major challenges in the world today - Fujitsu Global",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wOXQwNklid3FEVUpFWkZiUkZFM3FUVlpzdV9hQzBoNHluOTd6NXZHLW01RWM2dnBOLTVMUml3N2pJU3piekFhbW8yVEMwMGxQV1FGMzNzSzJvWVZELWo2WU5VM0wzTGY2dUFPN3FGNllmcVE4UFJaXzZYUQ?oc=5",
+      "source": "Fujitsu Global",
+      "pubDate": "Fri, 20 Feb 2026 09:05:22 GMT"
+    },
+    {
+      "title": "Datavault AI (DVLT) Partners With World Boxing Council to Transform Fan Engagement - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcVZjNzV6Yy1VYkZoOHhydkpTYkFFQVBfTzNlZHQzNmJYSGVIQk5XTzZ2c2ItMUI3WHctZmdfc09MSi1xcXI2ZGNOQkJ2OFI5cWZVR0lBTnh5anZyMGFzTGxNb0VzMjE3U0FrWnQ2dDQyMjIxcW9XRFIxbS1sVzRGMW5rMVE?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "Fri, 20 Feb 2026 19:15:00 GMT"
+    },
+    {
+      "title": "News | Let the Olympics be a reminder: Being part of the world is a good thing - CoStar",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZHV4cTJSMGtneEFyTnlTSm04Rm13Z2NCaTFheUpNbXd0aXhpVG1iRlRBLTVhbTB0Q3A1WnJnTzU4Z1pFanlVcnJOMWItWFdoMldPMDY2SjNGcW4xcEVPUEZhMFI0U3VrV3BBMFF4SmJtMXRReEl6UGFuSTl3MU5TeHBpbGJaOGZCMUJHU2IxeWFqUTRtZThzNzZnc1VsTEw2b3czRzhHUkp3UWQtbkFlSQ?oc=5",
+      "source": "CoStar",
+      "pubDate": "Fri, 20 Feb 2026 15:03:19 GMT"
+    },
+    {
+      "title": "Forthcoming Hilton hotel sparks ‘unique’ partnership with KC Zoo, World War I Museum - KSHB 41 Kansas City",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTW1qNUkzbVR3ZkFLQVViTGVoZ0lZUE1rQjJ2V0lqNmk4bjVKZ3N4U2treGhjVHlwZ3ZfWnh2ejhnLWdBMnJ6cjZvcFJaX29nalpiZmUxS0V1VHNSYUpJczFBWUhENFJBVG15aFZOQ050cFhpUHh4dG9ocjFsMlFpNWl0bEdqcWRYbEw2aTBuX3VYQ0tyVUMtSGpyMHBPTWpmaW03ekdfdTJnZnExRzJucElEZVBZUjlNRnc4cWE4enRuMHAzUFRDbGVxNkV4ODJSRHlJS2dDVzMtUQ?oc=5",
+      "source": "KSHB 41 Kansas City",
+      "pubDate": "Fri, 20 Feb 2026 14:06:48 GMT"
+    },
+    {
+      "title": "When the world needed the Games - Cleveland Jewish News",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUU1qelpDbFhiQWxnRHFDVFlhSmNydlFJZHlHTVlzZmdJV0FETndsSHBfckUzaGRWaUFqYmJRb09tNkplU2VfWHd0S3cwLTRzRGU4a0FfdTYxQi1qN0FsWmN4cENfc2RtWmphXzJhQXR0NE95V2NBa3lTdWQtQW0xN0pkX0g0TTF0emVOOXg2eUhHcnAtWWVFcUJKZ2N6cHJpYmF2c2o2a2FIUHpZSHlsLU1MZThFdUl0VzZ5WkRZTE5DbFVlalFTT2dRUENjQ3dIdWYtTG90cnLSAd4BQVVfeXFMTm9PYzRSS05NcDVtbG81ZHB0TDdlVmQtQTlGOHEzWk9lUDV0cUFMQm5NWlI0UlZGSmhSUnRiSVZhdFhmdUpkMXhBb3FDU1A5bXpkcEtfT1F2cHkxRlZncEJWSFdlR3hBY2h3TjVYbTFBT2MtY0Fsa0J2cXdkVmpjZ3NCSEF2NjRvQXZfWU5CTjJJclZZNExnX01UWUhxOEJ5bTRPT1Noc3BTSmhaR1N5NE8xUWZNTmhhUllPeVoxMkNXRnJFdmVBSUpObEc2R2hHcElNeVRpU2xlSk5NZHdn?oc=5",
+      "source": "Cleveland Jewish News",
+      "pubDate": "Fri, 20 Feb 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Warming World Increases Fire Risk Around the Globe - Carrier Management",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTFUtYWtTejRHSWJpWHJoN2l6S1p6SklfVzlacENScWVWbTVJU1BaMUQyZjlSX1l6X2JWMUFHTXBfVzBlOG44b21LbjYxQXFCZXNxcWoyS0RTYnNkT3NmYkV6clN0U2lab0RxUg?oc=5",
+      "source": "Carrier Management",
+      "pubDate": "Fri, 20 Feb 2026 15:10:47 GMT"
+    },
+    {
+      "title": "2026 Winter Olympics: Team GB '25 years' behind world's best in short track - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qRE5UaWR2TDhYcFJ4dm9IMkRUd2FEa0Z5OUZQbi1JUEhUNHZUampGSkdtakd1X1pYZU9MOUg4OUhZdTdsTFNBX1lyZVRDUjNZOGFOQUpILWdheVE?oc=5",
+      "source": "BBC",
+      "pubDate": "Fri, 20 Feb 2026 19:34:00 GMT"
+    },
+    {
+      "title": "World Cup fan fest in N.J. canceled in favor of community initiatives - Sports Business Journal",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUTBQQWVyQWJVVTlGUlRqLWNJUk41aDgwSTJoZ1VucUU0ampYWFMzQ2IzcVd2Tmk1SjBLdXdvT2MyN0NlMnRIUjVTcV9aSXBIVmJjMFRwREY1MUtiT0JVMFJoTlB4T2FiV2hJeGdTRWhLYkpfUktFTXNLbk5sNFBHck90VTQ2NUxMdlVndnBVWlpaOHdqUTlqSzJfWHRINFltOG4xclJRZ3Q1bzN2Z1E5S0lxbkhtWG91dUwzZ1FGZFBhQ2xZ?oc=5",
+      "source": "Sports Business Journal",
+      "pubDate": "Fri, 20 Feb 2026 13:46:24 GMT"
+    },
+    {
+      "title": "Leao shares Diogo Jota story, promises to ‘make him proud’ at World Cup - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmgzZ0xYREd5QlVxck53cldvS0owdjJvckJNNnRuOHUteGpQaVlEQmZnX1BRcFJteUVLNW1xUWlqb1pteGczMHFkUjV4dkJSTzNCdTVTd3JRZ1lWcWQ0QXN5cTYyNl9RTmtPX0RFNDU1TGZoT3NFNDlORjFuME9nelRQZw?oc=5",
+      "source": "Yahoo Sports",
+      "pubDate": "Fri, 20 Feb 2026 18:35:00 GMT"
     }
   ]
 }
