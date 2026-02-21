@@ -1,5 +1,11 @@
 {
   "annotations": [
-    { "locations": ["ZA", "NG", "US", "FR"] }
+    {
+      "locations": ["ZA", "NG", "US", "FR"],
+      "summary": "Test outage markers (mock data)",
+      "startDate": "2026-02-21T10:00:00Z",
+      "endDate": "",
+      "outage": { "outageType": "connectivity", "outageCause": "unknown" }
+    }
   ]
 }
