@@ -293,10 +293,10 @@ const WORLD_COUNTRIES_GEOJSON =
   "https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson";
 
 // Live endpoint (later you’ll replace with a real proxy)
-const OUTAGES_API = "/api/outages?dateRange=7d&limit=200";
+const OUTAGES_API = null;
 
 // Fallback to local file so this works now
-const OUTAGES_FALLBACK = "data/outages_mock.json";
+const OUTAGES_FALLBACK = "./data/outages_mock.json";
 
 let outageEnabled = false;
 
@@ -388,7 +388,7 @@ async function fetchOutagePayload(){
     return await tryFetch(OUTAGES_API);
   } catch (e1) {
     console.warn("Outages live API failed, using fallback:", e1?.message || e1);
-    return await tryFetch(OUTAGES_FALLBACK);
+    return await tryFetch(OUTAGES_FALLBACK + "?ts=" + Date.now());
   }
 }
 
