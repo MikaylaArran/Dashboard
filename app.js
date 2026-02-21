@@ -243,7 +243,6 @@ function initTopNews(){
   refreshTopNews();
 }
 
-// if you keep inline onchange="refreshTopNews()" in HTML:
 window.refreshTopNews = refreshTopNews;
 
 /* -----------------------------
@@ -281,13 +280,160 @@ function initMap(){
   }
   window.addEventListener("load", fixSize);
   window.addEventListener("resize", fixSize);
+
+  // ✅ NEW: hook up the checkbox toggle once map exists
+  initOutageToggle();
+}
+
+/* -----------------------------
+   INTERNET OUTAGES (Map Overlay)
+   - Tick/untick checkbox
+   - Shades countries with outages
+----------------------------- */
+
+// Countries GeoJSON (stable dataset)
+const WORLD_COUNTRIES_GEOJSON =
+  "https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson";
+
+// YOUR live endpoint (recommended: proxy to a provider)
+const OUTAGES_API = "/api/outages?dateRange=7d&limit=200";
+
+// Fallback (local) so you can test UI immediately
+const OUTAGES_FALLBACK = "data/outages_mock.json";
+
+let outageCountriesLayer = null;
+let outageEnabled = false;
+let lastOutageCountryCodes = new Set();
+
+function setOutageCount(n){
+  const el = document.getElementById("outagesCount");
+  if (el) el.textContent = String(n ?? 0);
+}
+
+function getIso2FromFeature(feature){
+  const props = feature?.properties || {};
+  const code = (props.ISO_A2 || props.iso_a2 || props.ISO2 || props.id || "").toString().toUpperCase();
+  return code;
+}
+
+function outageStyleForFeature(feature){
+  const code = getIso2FromFeature(feature);
+  const isOut = code && lastOutageCountryCodes.has(code);
+
+  return {
+    color: isOut ? "#ef4444" : "rgba(255,255,255,0.15)",
+    weight: isOut ? 1.5 : 0.6,
+    fillColor: isOut ? "#ef4444" : "transparent",
+    fillOpacity: isOut ? 0.22 : 0
+  };
+}
+
+async function loadCountriesLayer(){
+  if (outageCountriesLayer) return outageCountriesLayer;
+
+  const res = await fetch(WORLD_COUNTRIES_GEOJSON, { cache: "force-cache" });
+  if (!res.ok) throw new Error("Could not load countries GeoJSON");
+  const geo = await res.json();
+
+  outageCountriesLayer = L.geoJSON(geo, {
+    style: outageStyleForFeature,
+    onEachFeature: (feature, layer) => {
+      layer.on("click", () => {
+        const name = feature?.properties?.ADMIN || feature?.properties?.name || "Country";
+        const code = getIso2FromFeature(feature);
+        layer.bindPopup(`<strong>${safeText(name)}</strong>${code ? `<div class="news-meta">${safeText(code)}</div>` : ""}`).openPopup();
+      });
+    }
+  });
+
+  return outageCountriesLayer;
+}
+
+// Convert payload into a Set of ISO-2 country codes.
+// Supports either:
+// 1) { annotations: [ { locations:["ZA","US"] } ] }
+// 2) Cloudflare-like: { result: { annotations: [...] } }
+function parseOutageCountryCodes(payload){
+  const annotations = payload?.result?.annotations || payload?.annotations || [];
+  const set = new Set();
+
+  annotations.forEach(a => {
+    const locs = Array.isArray(a?.locations) ? a.locations : [];
+    locs.forEach(code => {
+      if (code) set.add(String(code).toUpperCase());
+    });
+  });
+
+  return set;
+}
+
+async function fetchOutageCountryCodes(){
+  // Try live first, fallback to local mock
+  const tryFetch = async (url) => {
+    const r = await fetch(url, { cache: "no-store" });
+    if (!r.ok) throw new Error(`Fetch failed (${r.status})`);
+    return await r.json();
+  };
+
+  try {
+    const payload = await tryFetch(OUTAGES_API);
+    return parseOutageCountryCodes(payload);
+  } catch (e1) {
+    console.warn("Outages live API failed, using fallback:", e1?.message || e1);
+    const payload = await tryFetch(OUTAGES_FALLBACK);
+    return parseOutageCountryCodes(payload);
+  }
+}
+
+async function refreshOutageLayer(){
+  if (!outageEnabled || !_map) return;
+
+  try{
+    lastOutageCountryCodes = await fetchOutageCountryCodes();
+    setOutageCount(lastOutageCountryCodes.size);
+
+    if (outageCountriesLayer) outageCountriesLayer.setStyle(outageStyleForFeature);
+  }catch(e){
+    console.error(e);
+    setOutageCount(0);
+  }
+}
+
+async function enableOutages(){
+  outageEnabled = true;
+  if (!_map) return;
+
+  const layer = await loadCountriesLayer();
+  layer.addTo(_map);
+  await refreshOutageLayer();
+}
+
+function disableOutages(){
+  outageEnabled = false;
+  setOutageCount(0);
+  lastOutageCountryCodes = new Set();
+
+  if (outageCountriesLayer && _map){
+    _map.removeLayer(outageCountriesLayer);
+  }
+}
+
+function initOutageToggle(){
+  const cb = document.getElementById("toggleOutages");
+  if (!cb) return;
+
+  cb.addEventListener("change", async (e) => {
+    const on = !!e.target.checked;
+    if (on) await enableOutages();
+    else disableOutages();
+  });
 }
 
 /* -----------------------------
    DEMOCRACY TRENDS (CSV)
    FIX: do NOT use window.demChart (Safari treats #demChart as window.demChart)
 ----------------------------- */
-let demChartInstance = null; // ✅ SAFE: not tied to element IDs
+let demChartInstance = null;
 
 function destroyDemChart(){
   try {
@@ -304,8 +450,6 @@ function destroyDemChart(){
 async function initDemocracyTrends(){
   const body = document.getElementById("demBody");
   const countrySel = document.getElementById("demCountry");
-
-  // IMPORTANT: do NOT capture the canvas early, get it after DOM exists
   if (!body || !countrySel) return;
 
   body.innerHTML = `<div class="news-meta">Loading democracy data…</div>`;
@@ -331,10 +475,6 @@ async function initDemocracyTrends(){
     countrySel.innerHTML = countries.map(c => `<option value="${safeText(c)}">${safeText(c)}</option>`).join("");
     countrySel.value = countries.includes("South Africa") ? "South Africa" : countries[0];
 
-    // ✅ DO NOT recreate the canvas id in a way that makes window.demChart appear.
-    // Just reuse the existing canvas already in index.html if it exists.
-    // If your index.html already has <canvas id="demChart"></canvas>, we keep it.
-    // If not, we inject it once.
     if (!document.getElementById("demChart")) {
       body.innerHTML = `
         <div class="dem-chart-wrap">
@@ -343,7 +483,6 @@ async function initDemocracyTrends(){
         <div class="news-meta" id="demNote" style="margin-top:10px;"></div>
       `;
     } else {
-      // Keep existing layout, but ensure note exists
       if (!document.getElementById("demNote")) {
         body.insertAdjacentHTML("beforeend", `<div class="news-meta" id="demNote" style="margin-top:10px;"></div>`);
       }
@@ -399,8 +538,6 @@ async function initDemocracyTrends(){
     }
 
     render(countrySel.value);
-
-    // ✅ prevents stacked listeners
     countrySel.onchange = (e) => render(e.target.value);
 
   } catch (e) {
@@ -426,6 +563,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   setInterval(initInstability, 60_000);
   setInterval(refreshTopNews, 60_000);
+
+  // ✅ NEW: refresh outages every 5 minutes (only does work if toggle is ON)
+  setInterval(refreshOutageLayer, 5 * 60_000);
 });
 
 console.log("APP LOADED ✅", new Date().toISOString());
