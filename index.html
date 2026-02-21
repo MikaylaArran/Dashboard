@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- External CSS (cache-bust) -->
-  <link rel="stylesheet" href="style.css?v=14" />
+  <link rel="stylesheet" href="style.css?v=15" />
 
   <!-- Leaflet (Map library) -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -27,6 +27,15 @@
     <div class="map-banner">
       <div id="worldMap"></div>
       <div class="map-time" id="mapTime">Loading time…</div>
+
+      <!-- ✅ NEW: Map toggle controls -->
+      <div class="map-controls">
+        <label class="map-toggle">
+          <input type="checkbox" id="toggleOutages" />
+          <span>Internet outages</span>
+        </label>
+        <span class="map-badge" id="outagesCount" title="Countries highlighted">0</span>
+      </div>
     </div>
   </div>
 
@@ -76,7 +85,6 @@
           <div class="panel-header">
             <div class="panel-title">TOP NEWS</div>
             <div class="meta-right">
-              <!-- IMPORTANT: no inline onchange here -->
               <select class="news-select" id="newsCategory">
                 <option value="all" selected>All</option>
                 <option value="world">World</option>
@@ -180,6 +188,6 @@
   </aside>
 
   <!-- External JS (cache-bust) -->
-  <script src="app.js?v=20" defer></script>
+  <script src="app.js?v=21" defer></script>
 </body>
 </html>
