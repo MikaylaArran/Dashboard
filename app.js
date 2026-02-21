@@ -281,29 +281,29 @@ function initMap(){
   window.addEventListener("load", fixSize);
   window.addEventListener("resize", fixSize);
 
-  // ✅ NEW: hook up the checkbox toggle once map exists
   initOutageToggle();
 }
 
 /* -----------------------------
-   INTERNET OUTAGES (Map Overlay)
-   - Tick/untick checkbox
-   - Shades countries with outages
+   INTERNET OUTAGES (Dots + Hover Insight)
 ----------------------------- */
 
-// Countries GeoJSON (stable dataset)
+// Countries GeoJSON (for geometry / bounds)
 const WORLD_COUNTRIES_GEOJSON =
   "https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson";
 
-// YOUR live endpoint (recommended: proxy to a provider)
+// Live endpoint (later you’ll replace with a real proxy)
 const OUTAGES_API = "/api/outages?dateRange=7d&limit=200";
 
-// Fallback (local) so you can test UI immediately
+// Fallback to local file so this works now
 const OUTAGES_FALLBACK = "data/outages_mock.json";
 
-let outageCountriesLayer = null;
 let outageEnabled = false;
+
+let outageCountriesLayer = null;     // geo layer (used for bounds)
+let outageDotsLayer = null;          // dot markers
 let lastOutageCountryCodes = new Set();
+let outageDetailsByCode = new Map();
 
 function setOutageCount(n){
   const el = document.getElementById("outagesCount");
@@ -312,20 +312,18 @@ function setOutageCount(n){
 
 function getIso2FromFeature(feature){
   const props = feature?.properties || {};
+  // dataset usually uses ISO_A2
   const code = (props.ISO_A2 || props.iso_a2 || props.ISO2 || props.id || "").toString().toUpperCase();
   return code;
 }
 
-function outageStyleForFeature(feature){
-  const code = getIso2FromFeature(feature);
-  const isOut = code && lastOutageCountryCodes.has(code);
+function ensureOutageDotsLayer(){
+  if (!outageDotsLayer) outageDotsLayer = L.layerGroup();
+  return outageDotsLayer;
+}
 
-  return {
-    color: isOut ? "#ef4444" : "rgba(255,255,255,0.15)",
-    weight: isOut ? 1.5 : 0.6,
-    fillColor: isOut ? "#ef4444" : "transparent",
-    fillOpacity: isOut ? 0.22 : 0
-  };
+function clearOutageDots(){
+  if (outageDotsLayer) outageDotsLayer.clearLayers();
 }
 
 async function loadCountriesLayer(){
@@ -335,40 +333,51 @@ async function loadCountriesLayer(){
   if (!res.ok) throw new Error("Could not load countries GeoJSON");
   const geo = await res.json();
 
+  // IMPORTANT:
+  // We make this layer invisible (no grey borders everywhere).
+  // We use it ONLY to compute country bounds/centers.
   outageCountriesLayer = L.geoJSON(geo, {
-    style: outageStyleForFeature,
-    onEachFeature: (feature, layer) => {
-      layer.on("click", () => {
-        const name = feature?.properties?.ADMIN || feature?.properties?.name || "Country";
-        const code = getIso2FromFeature(feature);
-        layer.bindPopup(`<strong>${safeText(name)}</strong>${code ? `<div class="news-meta">${safeText(code)}</div>` : ""}`).openPopup();
-      });
-    }
+    style: () => ({
+      color: "transparent",
+      weight: 0,
+      fillColor: "transparent",
+      fillOpacity: 0
+    })
   });
 
   return outageCountriesLayer;
 }
 
-// Convert payload into a Set of ISO-2 country codes.
-// Supports either:
-// 1) { annotations: [ { locations:["ZA","US"] } ] }
-// 2) Cloudflare-like: { result: { annotations: [...] } }
+// Parse payload into country codes + store tooltip insight per code
 function parseOutageCountryCodes(payload){
   const annotations = payload?.result?.annotations || payload?.annotations || [];
   const set = new Set();
 
+  outageDetailsByCode = new Map();
+
   annotations.forEach(a => {
     const locs = Array.isArray(a?.locations) ? a.locations : [];
+    const start = a?.startDate || a?.start || a?.started_at || "";
+    const end = a?.endDate || a?.end || a?.ended_at || "";
+    const cause = a?.outage?.outageCause || a?.cause || "";
+    const type  = a?.outage?.outageType  || a?.type  || "";
+    const summary = a?.summary || a?.description || "";
+
     locs.forEach(code => {
-      if (code) set.add(String(code).toUpperCase());
+      if (!code) return;
+      const c = String(code).toUpperCase();
+      set.add(c);
+
+      if (!outageDetailsByCode.has(c)) {
+        outageDetailsByCode.set(c, { code: c, start, end, cause, type, summary });
+      }
     });
   });
 
   return set;
 }
 
-async function fetchOutageCountryCodes(){
-  // Try live first, fallback to local mock
+async function fetchOutagePayload(){
   const tryFetch = async (url) => {
     const r = await fetch(url, { cache: "no-store" });
     if (!r.ok) throw new Error(`Fetch failed (${r.status})`);
@@ -376,35 +385,87 @@ async function fetchOutageCountryCodes(){
   };
 
   try {
-    const payload = await tryFetch(OUTAGES_API);
-    return parseOutageCountryCodes(payload);
+    return await tryFetch(OUTAGES_API);
   } catch (e1) {
     console.warn("Outages live API failed, using fallback:", e1?.message || e1);
-    const payload = await tryFetch(OUTAGES_FALLBACK);
-    return parseOutageCountryCodes(payload);
+    return await tryFetch(OUTAGES_FALLBACK);
   }
 }
 
-async function refreshOutageLayer(){
-  if (!outageEnabled || !_map) return;
+function buildOutageDots(){
+  if (!outageEnabled || !_map || !outageCountriesLayer) return;
 
-  try{
-    lastOutageCountryCodes = await fetchOutageCountryCodes();
+  const dots = ensureOutageDotsLayer();
+  clearOutageDots();
+
+  // For each country polygon, if it’s in outage set -> place dot at its center
+  outageCountriesLayer.eachLayer(layer => {
+    const feature = layer?.feature;
+    const code = getIso2FromFeature(feature);
+    if (!code || !lastOutageCountryCodes.has(code)) return;
+
+    const props = feature?.properties || {};
+    const name = props.ADMIN || props.name || code;
+
+    const info = outageDetailsByCode.get(code) || { code };
+    const center = layer.getBounds().getCenter();
+
+    const tooltipHtml = `
+      <div style="min-width:200px">
+        <strong>${safeText(name)} (${safeText(code)})</strong>
+        <div style="font-size:11px; opacity:0.9; margin-top:6px; line-height:1.35">
+          ${info.type ? `Type: ${safeText(info.type)}<br>` : ""}
+          ${info.cause ? `Cause: ${safeText(info.cause)}<br>` : ""}
+          ${info.start ? `Start: ${safeText(String(info.start))}<br>` : ""}
+          ${info.end ? `End: ${safeText(String(info.end))}<br>` : ""}
+          ${info.summary ? `<div style="margin-top:6px">${safeText(info.summary)}</div>` : ""}
+        </div>
+      </div>
+    `;
+
+    const dot = L.circleMarker(center, {
+      radius: 6,
+      weight: 1,
+      color: "#ef4444",
+      fillColor: "#ef4444",
+      fillOpacity: 0.85
+    });
+
+    // Hover insight
+    dot.bindTooltip(tooltipHtml, { direction: "top", sticky: true, opacity: 0.95 });
+
+    // Optional click (same info)
+    dot.bindPopup(tooltipHtml);
+
+    dots.addLayer(dot);
+  });
+
+  dots.addTo(_map);
+}
+
+async function refreshOutageLayer(){
+  if (!outageEnabled) return;
+
+  try {
+    // Ensure geo layer exists (invisible) so we can compute centers
+    await loadCountriesLayer();
+    if (_map && !(_map.hasLayer(outageCountriesLayer))) outageCountriesLayer.addTo(_map);
+
+    const payload = await fetchOutagePayload();
+    lastOutageCountryCodes = parseOutageCountryCodes(payload);
+
     setOutageCount(lastOutageCountryCodes.size);
 
-    if (outageCountriesLayer) outageCountriesLayer.setStyle(outageStyleForFeature);
-  }catch(e){
+    buildOutageDots();
+  } catch (e) {
     console.error(e);
     setOutageCount(0);
+    clearOutageDots();
   }
 }
 
 async function enableOutages(){
   outageEnabled = true;
-  if (!_map) return;
-
-  const layer = await loadCountriesLayer();
-  layer.addTo(_map);
   await refreshOutageLayer();
 }
 
@@ -412,10 +473,12 @@ function disableOutages(){
   outageEnabled = false;
   setOutageCount(0);
   lastOutageCountryCodes = new Set();
+  outageDetailsByCode = new Map();
 
-  if (outageCountriesLayer && _map){
-    _map.removeLayer(outageCountriesLayer);
-  }
+  if (_map && outageDotsLayer) _map.removeLayer(outageDotsLayer);
+  if (_map && outageCountriesLayer) _map.removeLayer(outageCountriesLayer);
+
+  clearOutageDots();
 }
 
 function initOutageToggle(){
@@ -564,7 +627,7 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(initInstability, 60_000);
   setInterval(refreshTopNews, 60_000);
 
-  // ✅ NEW: refresh outages every 5 minutes (only does work if toggle is ON)
+  // Refresh outage dots every 5 minutes (only does work if toggle is ON)
   setInterval(refreshOutageLayer, 5 * 60_000);
 });
 
