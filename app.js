@@ -296,7 +296,7 @@ const WORLD_COUNTRIES_GEOJSON =
 const OUTAGES_API = null;
 
 // Fallback to local file so this works now
-const OUTAGES_FALLBACK = "./data/outages_mock.json";
+const OUTAGES_FALLBACK = "/Dashboard/data/outages_mock.json";
 
 let outageEnabled = false;
 
