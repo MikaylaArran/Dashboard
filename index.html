@@ -5,10 +5,9 @@
   <title>Global Monitor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!-- IMPORTANT: both files are in the SAME folder as index.html -->
-  <link rel="stylesheet" href="./style.css?v=1" />
+  <link rel="stylesheet" href="./style.css?v=2" />
 
-  <!-- Leaflet (Map library) -->
+  <!-- Leaflet -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
@@ -44,11 +43,7 @@
           <div class="tabs" id="tabs-lt"></div>
 
           <div class="player">
-            <iframe
-              id="player-lt"
-              allow="autoplay; encrypted-media; picture-in-picture"
-              allowfullscreen>
-            </iframe>
+            <iframe id="player-lt" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
           </div>
 
           <div class="hint" id="ytHint-lt">
@@ -58,7 +53,6 @@
 
         <!-- RIGHT: PANELS (LT) -->
         <div class="right-col">
-
           <div class="panel" id="instabilityPanel-lt">
             <div class="panel-header">
               <div class="panel-title">COUNTRY INSTABILITY INDEX</div>
@@ -100,9 +94,7 @@
           <div class="panel" id="panel3-lt">
             <div class="panel-header">
               <div class="panel-title">PANEL 3</div>
-              <div class="meta-right">
-                <span class="badge">READY</span>
-              </div>
+              <div class="meta-right"><span class="badge">READY</span></div>
             </div>
             <div class="panel-body" id="panel3Body-lt">
               <div class="news-item">
@@ -120,7 +112,6 @@
                 <span class="badge">CSV</span>
               </div>
             </div>
-
             <div class="panel-body" id="demBody-lt">
               <div class="dem-chart-wrap">
                 <canvas id="demChart-lt"></canvas>
@@ -132,9 +123,7 @@
           <div class="panel" id="panel6-lt">
             <div class="panel-header">
               <div class="panel-title">LIVE INTELLIGENCE</div>
-              <div class="meta-right">
-                <span class="badge">LIVE</span>
-              </div>
+              <div class="meta-right"><span class="badge">LIVE</span></div>
             </div>
             <div class="panel-body" id="panel6Body-lt">
               <div class="news-item">
@@ -143,35 +132,15 @@
               </div>
             </div>
           </div>
-
         </div>
+
       </div>
     </section>
-  </div>
 
-  <!-- =========================
-       MAP (middle)
-  ========================== -->
-  <div class="map-strip">
-    <div class="map-banner">
-      <div id="worldMap"></div>
-      <div class="map-time" id="mapTime">Loading time…</div>
-
-      <div class="map-tools">
-        <label class="map-toggle">
-          <input type="checkbox" id="toggleOutages" />
-          <span>Internet outages</span>
-        </label>
-        <span class="map-badge" id="outagesCount">0</span>
-      </div>
-    </div>
-  </div>
-
-  <!-- =========================
-       SHORT TERM (after map)
-  ========================== -->
-  <div class="page">
-    <div class="term-banner">
+    <!-- =========================
+         SHORT TERM (NOW ABOVE MAP)
+    ========================== -->
+    <div class="term-banner" style="margin-top:22px;">
       <div class="term-title">SHORT TERM</div>
       <div class="term-subtitle">Immediate signals</div>
     </div>
@@ -189,11 +158,7 @@
           <div class="tabs" id="tabs"></div>
 
           <div class="player">
-            <iframe
-              id="player"
-              allow="autoplay; encrypted-media; picture-in-picture"
-              allowfullscreen>
-            </iframe>
+            <iframe id="player" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
           </div>
 
           <div class="hint" id="ytHint">
@@ -203,7 +168,6 @@
 
         <!-- RIGHT: PANELS -->
         <div class="right-col">
-
           <div class="panel" id="instabilityPanel">
             <div class="panel-header">
               <div class="panel-title">COUNTRY INSTABILITY INDEX</div>
@@ -245,9 +209,7 @@
           <div class="panel" id="panel3">
             <div class="panel-header">
               <div class="panel-title">PANEL 3</div>
-              <div class="meta-right">
-                <span class="badge">READY</span>
-              </div>
+              <div class="meta-right"><span class="badge">READY</span></div>
             </div>
             <div class="panel-body" id="panel3Body">
               <div class="news-item">
@@ -265,7 +227,6 @@
                 <span class="badge">CSV</span>
               </div>
             </div>
-
             <div class="panel-body" id="demBody">
               <div class="dem-chart-wrap">
                 <canvas id="demChart"></canvas>
@@ -277,9 +238,7 @@
           <div class="panel" id="panel6">
             <div class="panel-header">
               <div class="panel-title">LIVE INTELLIGENCE</div>
-              <div class="meta-right">
-                <span class="badge">LIVE</span>
-              </div>
+              <div class="meta-right"><span class="badge">LIVE</span></div>
             </div>
             <div class="panel-body" id="panel6Body">
               <div class="news-item">
@@ -288,13 +247,30 @@
               </div>
             </div>
           </div>
-
         </div>
+
       </div>
     </section>
   </div>
 
-  <!-- External JS -->
-  <script src="./app.js?v=1" defer></script>
+  <!-- =========================
+       MAP (NOW AFTER SHORT TERM)
+  ========================== -->
+  <div class="map-strip">
+    <div class="map-banner">
+      <div id="worldMap"></div>
+      <div class="map-time" id="mapTime">Loading time…</div>
+
+      <div class="map-tools">
+        <label class="map-toggle">
+          <input type="checkbox" id="toggleOutages" />
+          <span>Internet outages</span>
+        </label>
+        <span class="map-badge" id="outagesCount">0</span>
+      </div>
+    </div>
+  </div>
+
+  <script src="./app.js?v=2" defer></script>
 </body>
 </html>
