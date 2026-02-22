@@ -1,9 +1,8 @@
 /* app.js
-   Global Monitor Dashboard
-   - Live News (YouTube)
-   - Instability (local JSON)
-   - Top News (local JSON)
-   - Democracy Trends (CSV + Chart.js)
+   Global Monitor Dashboard (Dual)
+   - Short Term Insight (default IDs)
+   - Long Term (same dashboard with -lt IDs)
+   - Map is shared (single map at top)
 */
 
 /* -----------------------------
@@ -29,13 +28,14 @@ function liveEmbedUrl(channelId){
   return url.toString();
 }
 
-function initLiveNews(){
-  const tabs = document.getElementById("tabs");
-  const player = document.getElementById("player");
+function initLiveNewsFor(suffix = ""){
+  const tabs = document.getElementById(`tabs${suffix}`);
+  const player = document.getElementById(`player${suffix}`);
   if (!tabs || !player) return;
 
   function setChannel(channelId, tabEl){
-    document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+    // only clear tabs inside this tabs container
+    tabs.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
     if (tabEl) tabEl.classList.add("active");
     player.src = liveEmbedUrl(channelId);
   }
@@ -71,11 +71,11 @@ function severityFor(score){
   return { label:"MODERATE", color:"#22c55e" };
 }
 
-async function initInstability(){
-  const list = document.getElementById("instabilityList");
-  const updated = document.getElementById("instabilityUpdated");
-  const count = document.getElementById("instabilityCount");
-  const windowBadge = document.getElementById("instabilityWindow");
+async function initInstabilityFor(suffix = ""){
+  const list = document.getElementById(`instabilityList${suffix}`);
+  const updated = document.getElementById(`instabilityUpdated${suffix}`);
+  const count = document.getElementById(`instabilityCount${suffix}`);
+  const windowBadge = document.getElementById(`instabilityWindow${suffix}`);
 
   if (!list) return;
 
@@ -84,9 +84,11 @@ async function initInstability(){
     if(!res.ok) throw new Error("instability.json missing");
     const data = await res.json();
 
-    const rows = (data.countries || []).slice().sort((a,b)=>(Number(b.score||0))-(Number(a.score||0)));
-    if(count) count.textContent = rows.length;
+    const rows = (data.countries || [])
+      .slice()
+      .sort((a,b)=>(Number(b.score||0))-(Number(a.score||0)));
 
+    if(count) count.textContent = rows.length;
     if (windowBadge && data?.window_days) windowBadge.textContent = `${data.window_days}D`;
 
     list.classList.remove("is-empty");
@@ -151,10 +153,10 @@ async function loadTopNews(category){
   return await res.json();
 }
 
-function renderTopNews(payload){
-  const list = document.getElementById("topNewsList");
-  const updated = document.getElementById("topNewsUpdated");
-  const newsNEl = document.getElementById("newsN");
+function renderTopNewsFor(payload, suffix = ""){
+  const list = document.getElementById(`topNewsList${suffix}`);
+  const updated = document.getElementById(`topNewsUpdated${suffix}`);
+  const newsNEl = document.getElementById(`newsN${suffix}`);
 
   if (!list) return;
 
@@ -208,17 +210,17 @@ function renderTopNews(payload){
   });
 }
 
-async function refreshTopNews(){
-  const catEl = document.getElementById("newsCategory");
-  const updated = document.getElementById("topNewsUpdated");
+async function refreshTopNewsFor(suffix = ""){
+  const catEl = document.getElementById(`newsCategory${suffix}`);
+  const updated = document.getElementById(`topNewsUpdated${suffix}`);
   const category = catEl ? catEl.value : "all";
 
   try{
     if (updated) updated.textContent = "Loading…";
     const payload = await loadTopNews(category);
-    renderTopNews(payload);
+    renderTopNewsFor(payload, suffix);
   } catch (e){
-    const list = document.getElementById("topNewsList");
+    const list = document.getElementById(`topNewsList${suffix}`);
     if (updated) updated.textContent = "No data";
     if (list){
       list.classList.add("is-empty");
@@ -233,17 +235,15 @@ async function refreshTopNews(){
   }
 }
 
-function initTopNews(){
-  const newsCategoryEl = document.getElementById("newsCategory");
-  const newsNEl = document.getElementById("newsN");
+function initTopNewsFor(suffix = ""){
+  const newsCategoryEl = document.getElementById(`newsCategory${suffix}`);
+  const newsNEl = document.getElementById(`newsN${suffix}`);
 
-  if (newsCategoryEl) newsCategoryEl.addEventListener("change", refreshTopNews);
-  if (newsNEl) newsNEl.addEventListener("change", refreshTopNews);
+  if (newsCategoryEl) newsCategoryEl.addEventListener("change", () => refreshTopNewsFor(suffix));
+  if (newsNEl) newsNEl.addEventListener("change", () => refreshTopNewsFor(suffix));
 
-  refreshTopNews();
+  refreshTopNewsFor(suffix);
 }
-
-window.refreshTopNews = refreshTopNews;
 
 /* -----------------------------
    MAP
@@ -287,21 +287,16 @@ function initMap(){
 /* -----------------------------
    INTERNET OUTAGES (Dots + Hover Insight)
 ----------------------------- */
-
-// Countries GeoJSON (for geometry / bounds)
 const WORLD_COUNTRIES_GEOJSON =
   "https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson";
 
-// Live endpoint (later you’ll replace with a real proxy)
 const OUTAGES_API = null;
-
-// Fallback to local file so this works now
 const OUTAGES_FALLBACK = "/Dashboard/data/outages_mock.json";
 
 let outageEnabled = false;
 
-let outageCountriesLayer = null;     // geo layer (used for bounds)
-let outageDotsLayer = null;          // dot markers
+let outageCountriesLayer = null;
+let outageDotsLayer = null;
 let lastOutageCountryCodes = new Set();
 let outageDetailsByCode = new Map();
 
@@ -312,7 +307,6 @@ function setOutageCount(n){
 
 function getIso2FromFeature(feature){
   const props = feature?.properties || {};
-  // dataset usually uses ISO_A2
   const code = (props.ISO_A2 || props.iso_a2 || props.ISO2 || props.id || "").toString().toUpperCase();
   return code;
 }
@@ -333,9 +327,6 @@ async function loadCountriesLayer(){
   if (!res.ok) throw new Error("Could not load countries GeoJSON");
   const geo = await res.json();
 
-  // IMPORTANT:
-  // We make this layer invisible (no grey borders everywhere).
-  // We use it ONLY to compute country bounds/centers.
   outageCountriesLayer = L.geoJSON(geo, {
     style: () => ({
       color: "transparent",
@@ -348,7 +339,6 @@ async function loadCountriesLayer(){
   return outageCountriesLayer;
 }
 
-// Parse payload into country codes + store tooltip insight per code
 function parseOutageCountryCodes(payload){
   const annotations = payload?.result?.annotations || payload?.annotations || [];
   const set = new Set();
@@ -398,7 +388,6 @@ function buildOutageDots(){
   const dots = ensureOutageDotsLayer();
   clearOutageDots();
 
-  // For each country polygon, if it’s in outage set -> place dot at its center
   outageCountriesLayer.eachLayer(layer => {
     const feature = layer?.feature;
     const code = getIso2FromFeature(feature);
@@ -431,10 +420,7 @@ function buildOutageDots(){
       fillOpacity: 0.85
     });
 
-    // Hover insight
     dot.bindTooltip(tooltipHtml, { direction: "top", sticky: true, opacity: 0.95 });
-
-    // Optional click (same info)
     dot.bindPopup(tooltipHtml);
 
     dots.addLayer(dot);
@@ -447,7 +433,6 @@ async function refreshOutageLayer(){
   if (!outageEnabled) return;
 
   try {
-    // Ensure geo layer exists (invisible) so we can compute centers
     await loadCountriesLayer();
     if (_map && !(_map.hasLayer(outageCountriesLayer))) outageCountriesLayer.addTo(_map);
 
@@ -455,7 +440,6 @@ async function refreshOutageLayer(){
     lastOutageCountryCodes = parseOutageCountryCodes(payload);
 
     setOutageCount(lastOutageCountryCodes.size);
-
     buildOutageDots();
   } catch (e) {
     console.error(e);
@@ -493,29 +477,23 @@ function initOutageToggle(){
 }
 
 /* -----------------------------
-   DEMOCRACY TRENDS (CSV)
-   FIX: do NOT use window.demChart (Safari treats #demChart as window.demChart)
+   DEMOCRACY TRENDS (CSV) — Dual
 ----------------------------- */
 let demChartInstance = null;
+let demChartInstanceLT = null;
 
-function destroyDemChart(){
-  try {
-    if (demChartInstance && typeof demChartInstance.destroy === "function") {
-      demChartInstance.destroy();
-    }
-  } catch (_) {
-    // ignore
-  } finally {
-    demChartInstance = null;
-  }
+function destroyChart(ref){
+  try { if (ref && typeof ref.destroy === "function") ref.destroy(); } catch (_) {}
 }
 
-async function initDemocracyTrends(){
-  const body = document.getElementById("demBody");
-  const countrySel = document.getElementById("demCountry");
+async function initDemocracyTrendsFor(suffix = ""){
+  const body = document.getElementById(`demBody${suffix}`);
+  const countrySel = document.getElementById(`demCountry${suffix}`);
   if (!body || !countrySel) return;
 
-  body.innerHTML = `<div class="news-meta">Loading democracy data…</div>`;
+  // keep your existing structure; don’t wipe the whole panel layout
+  // we only show loading note briefly (optional)
+  // body.innerHTML = `<div class="news-meta">Loading democracy data…</div>`;
 
   try {
     const url = "data/VDEM_small.csv?ts=" + Date.now();
@@ -538,22 +516,8 @@ async function initDemocracyTrends(){
     countrySel.innerHTML = countries.map(c => `<option value="${safeText(c)}">${safeText(c)}</option>`).join("");
     countrySel.value = countries.includes("South Africa") ? "South Africa" : countries[0];
 
-    if (!document.getElementById("demChart")) {
-      body.innerHTML = `
-        <div class="dem-chart-wrap">
-          <canvas id="demChart"></canvas>
-        </div>
-        <div class="news-meta" id="demNote" style="margin-top:10px;"></div>
-      `;
-    } else {
-      if (!document.getElementById("demNote")) {
-        body.insertAdjacentHTML("beforeend", `<div class="news-meta" id="demNote" style="margin-top:10px;"></div>`);
-      }
-    }
-
-    const canvas = document.getElementById("demChart");
-    const note = document.getElementById("demNote");
-    if (!canvas) throw new Error("Canvas #demChart not found in DOM");
+    const canvas = document.getElementById(`demChart${suffix}`);
+    if (!canvas) throw new Error(`Canvas #demChart${suffix} not found`);
 
     const measures = [
       { key:"electoral_democracy_index", label:"Electoral" },
@@ -568,12 +532,6 @@ async function initDemocracyTrends(){
         .filter(r => String(r.country).trim() === String(country).trim())
         .sort((a,b)=>Number(a.year)-Number(b.year));
 
-      if (!data.length) {
-        destroyDemChart();
-        if (note) note.textContent = "No rows found for this country in the CSV.";
-        return;
-      }
-
       const years = data.map(d => d.year);
       const datasets = measures.map(m => ({
         label: m.label,
@@ -581,9 +539,14 @@ async function initDemocracyTrends(){
         tension: 0.3
       }));
 
-      destroyDemChart();
+      // destroy proper instance
+      if (suffix === "-lt") {
+        destroyChart(demChartInstanceLT);
+      } else {
+        destroyChart(demChartInstance);
+      }
 
-      demChartInstance = new Chart(canvas, {
+      const instance = new Chart(canvas, {
         type: "line",
         data: { labels: years, datasets },
         options: {
@@ -597,7 +560,8 @@ async function initDemocracyTrends(){
         }
       });
 
-      if (note) note.textContent = "";
+      if (suffix === "-lt") demChartInstanceLT = instance;
+      else demChartInstance = instance;
     }
 
     render(countrySel.value);
@@ -615,19 +579,32 @@ async function initDemocracyTrends(){
 }
 
 /* -----------------------------
-   BOOT
+   BOOT (init both dashboards)
 ----------------------------- */
 document.addEventListener("DOMContentLoaded", () => {
-  initLiveNews();
-  initInstability();
-  initTopNews();
+  // Short term (default IDs)
+  initLiveNewsFor("");
+  initInstabilityFor("");
+  initTopNewsFor("");
+  initDemocracyTrendsFor("");
+
+  // Long term (same dashboard, -lt IDs)
+  initLiveNewsFor("-lt");
+  initInstabilityFor("-lt");
+  initTopNewsFor("-lt");
+  initDemocracyTrendsFor("-lt");
+
+  // Map is single
   initMap();
-  initDemocracyTrends();
 
-  setInterval(initInstability, 60_000);
-  setInterval(refreshTopNews, 60_000);
+  // refresh both dashboards
+  setInterval(() => initInstabilityFor(""), 60_000);
+  setInterval(() => initInstabilityFor("-lt"), 60_000);
 
-  // Refresh outage dots every 5 minutes (only does work if toggle is ON)
+  setInterval(() => refreshTopNewsFor(""), 60_000);
+  setInterval(() => refreshTopNewsFor("-lt"), 60_000);
+
+  // Outages refresh (only if toggle ON)
   setInterval(refreshOutageLayer, 5 * 60_000);
 });
 
