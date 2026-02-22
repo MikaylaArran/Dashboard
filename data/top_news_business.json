@@ -1,21 +1,9 @@
 {
-  "generated_at_utc": "2026-02-22T15:15:21.565586Z",
+  "generated_at_utc": "2026-02-22T15:45:31.354791Z",
   "category": "business",
   "language": "en",
   "summary": "Top headlines pulled from Google News RSS (free, English). Category: business.",
   "articles": [
-    {
-      "title": "Supreme Court wades into U.S.-Cuba business disputes, with billions at stake - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRmNBTkl3S2pQY1Y0eUJrSjRMZGZhTjRCMWNMbklMektTVWhfYnY4N1p2OGVSZTExVGdZVWk4eXV5LXMzRVJIdkhJMWFFZDZudG1FMlI0VFMzOTdTdXNaU09OdEp0SnF3dnJMTjBLa3BmZEZhX0hodzNMVWJkdUwxTHRtV0pBWTZFRVdIdFpjYVDSAZYBQVVfeXFMT2NjNlhNbmYwdjNIa05pNVBBWHM4bFVNUll1ZHFGamtoZzhJMncyU3pDYVdjTl9ZYldIRXVKZTRhazhrS1hCVXpIaDd1M0VJMHpreG5ZVHUtWG8yY1BhWnMzU1pXUkpqSXg1WHhEQzBTWjdvVmtSbEpyV3QtY3ZCQVNiRmROa0FJb2tlcWF0Rks5ZDY2aWFB?oc=5",
-      "source": "CNBC",
-      "pubDate": "Sun, 22 Feb 2026 11:18:58 GMT"
-    },
-    {
-      "title": "Russia's Arctic units have been wrecked in Ukraine, but NATO is bracing for a 'dangerous' comeback - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQkRXQkpzWG84WkZ0S0w4eDNtWFhMLUdkVHFWWnh5M1BMN0lNdVJFaElxeVFodDNDTi1IelNyOUJEZExqSTk0aV8tTDlJQmZ6Nk1TX1RPdGdRYmZkYjExWjlnazh6amwybkZiQzc5T2pxV3otRFNSRWJDV2Ewdk5UaElMRFVRV0pNenhkcXRoM2hwTkVjV2I3a2QzVXUyWklKbGR2RFF3?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Sun, 22 Feb 2026 11:28:00 GMT"
-    },
     {
       "title": "While corporate America stayed silent, a small wine importer risked his business to challenge Trump’s tariffs - CNN",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWjR2RW40VTNfR0M4OEk0LWt6MkJIM1ZaUzlZZWhrZVBzNGh6ZUJyclpPcjJydUJNZ3RJS19TMlNPVnItT0tqZXBKOUZWUXJKV0pQZ0p3ZGNUNzRHdDlvYUJYNGFyQm5TQVU2YXVjQTNsM1FxcGpBWm1zdFBLNWtsRnRJcjF5bWM1R3E1XzJoajNtdw?oc=5",
@@ -23,22 +11,10 @@
       "pubDate": "Sat, 21 Feb 2026 10:00:34 GMT"
     },
     {
-      "title": "US businesses clamor for refunds after supreme court strikes down Trump’s tariffs - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0c4ZVk2VU9xZV92Q25YQTYwTUVZZy1yVGktVmJlc3Rjcm5yUVBvdFBaMDZ3WmM4bEI0Q09hMnhDUXc2TlJfNTYxTUpWQVlYWmZnNHprd1h1cEVBeEI0dUhuMWhUTHBXNU42RS10SUduZ0I2MGRiMjZXelQzZWMtTEgzXzY1UQ?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Sat, 21 Feb 2026 16:22:00 GMT"
-    },
-    {
-      "title": "'Hard to keep lights on' - Business owners cautiously welcome tariff ruling - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9odFpOY3ZJOUh4YkdSRjlfaG5IM0VtWDFKQi1UdllxNE1OaERaNFcwdWJKbE16bVkyS18wbjVSQld5cllyY1lKUFFpUXo4RDFVRU1MWGhib1ZvQQ?oc=5",
-      "source": "BBC",
-      "pubDate": "Sat, 21 Feb 2026 19:42:55 GMT"
-    },
-    {
-      "title": "Canal Place faces high-stakes reset as owner awaits closure of anchor Saks Fifth Avenue - NOLA.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcHFhRFBvc2RMaENybTRDSnhxSmxJd0Z0WnltOEhnZno0NGNvRkNFa2pla2pOakcxZ0ktUDd5cWhYa215U2M5TlM4c0ZKNGVKdzZ1eVlVZjRQRmhrejhFazFQMGUwSUZ6dXQwLS1ZZHFFcFZIN0UwbU1FNUcyV1BKcU1YT1YxbWZaWkczOGtFX0JaaDVUdmwtZlNTMnhpTmtrNjJpTEFqd3hHZXRBY3d5RWF5TXdKa19wQ3FEckF0b00xLUsyVG9fbFhmaHXSAdIBQVVfeXFMUFoxYzQ1YkRzbjI1aFJvS3RVdDJfNnFOUzliYjF3MjNKcElmY1JfYzRFUnV5ZUpkZWFHc3RVelI3Ykw4S2Y1Y0dHUzdWWU1HZTcwVzZheUxtZndfa0JQSnNtbGlFZ1pYWnQtWUZ2X3czb0VYODlJZTVZNXA4SHVQakxVX25oZkVEWE9uYXB2RHZPczJ5SXFxMm1sYVlpcXZ6Wk5BRzdRUHpLUjlZM3Zka01CVmd4SUMzU3ByX1RsUm5NZVdIRVRwVjFOZmNZMnpYTnRn?oc=5",
-      "source": "NOLA.com",
-      "pubDate": "Sun, 22 Feb 2026 10:00:00 GMT"
+      "title": "34-year-old spent $16K to start a side hustle, built it 20 minutes at a time—now her business brings in up to $90K a month - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdUJORUpkYU5ET3VlYUtpemlDY1FhZEJsXzFIUmJrRFZuVFBaMWlKUE9odHlSVTE1bUl5Q0RIZVVkN1ctNzgtSGF1T1R0cUt4NmxOUGNQbE5kNVZuRHBUTlA2QTlBallEVlNwbk05TEdwZlZ0b1phYy1VRm5QZDBSa0pmXzFfcHJGWExLVlR3bXVGSUVvMHhiRE82SdIBoAFBVV95cUxNd1ZNTVVYYk9uLWhCV25JYWlmdW5DNmZmSUZITHpVckF0cTB5M0t1UG83SDludnQ4eU1UZzBYcTU1dzRVWGpPWlNqSm4xclg0MDFkUkpjVW1fYlJTcXBWYjNKcmdMOUxoaFN2WklGNWw1TkFfeVg2aFdMUXoxMGJuSFF3U2tqUXBOSXpXU2duVFdneFJ5M0NLREZqUUU0YU1Z?oc=5",
+      "source": "CNBC",
+      "pubDate": "Sat, 21 Feb 2026 14:00:01 GMT"
     },
     {
       "title": "Nissan recalls over 640,000 vehicles for engine and gear issues - Fox Business",
@@ -47,22 +23,46 @@
       "pubDate": "Fri, 20 Feb 2026 22:37:00 GMT"
     },
     {
-      "title": "Business owner who challenged Trump's tariffs reacts to Supreme Court decision - PBS",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTmtINGVsYWhwdWtTcXN2RGR0X3B3MHU3VGVVRmpRUzhLTlFhSkNtSXpKVU1OTExvRHEtSTljUzBVY19EcEFBT3o5S3lLZS1QQUYtcHRXdGpDeEdQcG10dm84eVlPNEY1VUhrQmNrMG1yVzJSTHZrUjBsVVk3T2RGd0JFLVNnSkR0TU9XSFo4OTlOWkNOeDhydFF5WTZfZVRFMXFCbVVwRFZYdXAwaWROVw?oc=5",
-      "source": "PBS",
-      "pubDate": "Fri, 20 Feb 2026 23:45:19 GMT"
+      "title": "My Airbnb made me $2,300 a month and was almost always booked. Nightmare guests made me quit hosting. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXRsd2xpRmdPX1JlTklLLVFlQmlTR2U5N1lHRlRzNUVRUm43VFBYWVI0Qm1zc0J0SXNpNEdwQzg0Z2xoQ3hYV1lUY0U1UTZwTUdyMGFJMmhZbXM1WElkcXdQUWFHWFd2amxEQ2Y5bmZVYlVMNFg5Y09YNlhnZ2t1cWhBWWt2NWJnWEVJ?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Sat, 21 Feb 2026 12:47:00 GMT"
     },
     {
-      "title": "Colorado businesses and development advocates react to Supreme Court tariff ruling - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTml3YjM3cS1melJRQV90aHM2TVFGVTdXMk9ra1hkYWhTQjJSQ21XaXJhSzJiZDZCeC1acE1CNkM2MUc1aFc2NmJFZi02NERNVjlDaWxzYmdDVmNxdWgxMDV3SkNrNXg3cDI2QjAyc19UMWc2MjFnNkljdTB3M01NYXhEUTFfRFNTVHJlTS0xU3FLdUJtTzJFQQ?oc=5",
-      "source": "CBS News",
-      "pubDate": "Sat, 21 Feb 2026 14:38:00 GMT"
+      "title": "Supreme Court wades into US-Cuba business disputes, with billions at stake - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGVyQjVTZUZWRkZQQ05TSjdSS1lvVDdYaG5PSmZvZ09hLURwVGtNYlZ6Sm8zZEhzbjBPeEZyemt0d1pwc0JCYlVPWm5TQ3Fial9lck9lTHZQOUhFLVpIWWxKWVRNeWRpc3FjMFV2b29uU0xzN2dLVHNfS0JKUDFJS296elR3NWFpT0ZEV3ZkUXExZGl5MFJnZDlUc3paWEJ1TG1zWkl4b0dEazB4elljUmJuc3lPdw?oc=5",
+      "source": "Reuters",
+      "pubDate": "Sun, 22 Feb 2026 11:11:38 GMT"
     },
     {
-      "title": "Business - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01N0Y1NkRKM2RBQjM4ZlZJb3NZbEstenQzNEpiYlJpTWM3RWtyTTdwZFl5aWZJT2drY0hVVENrN3gtck1Iek0yNndNYkhqa0xXNjJxMW53M2xBYUJ2cHNnN3RDbWZzelBDRGczazVHMmZ0X1E?oc=5",
-      "source": "The Economist",
-      "pubDate": "Thu, 19 Feb 2026 13:47:16 GMT"
+      "title": "Opinion | How George Harrison Transformed the Music Business - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQMzdzSVNWTjc0TEJLZUhaMlZkV2lkc0dZRVMzcF9nOGk5VldVTjhQeHJuNDBGc1gwVGs0dkhnb3RkbWJGOTZISFYtNnFRamRvaW5FdjhFaWJ6ZzhBU2VUcWZ1RHU5anR3MjBfUXc0VmV1Ti0tVi1mR0s3dVRxVnRzbWhCS0thUk5rUG1RRHIwMll2cnhnY085b2E5ZldSc1BOSUlZTTU5aW9Ca1daUVJ6bFdKZjA2ZVp1ZC1yNFlwNFNjTmlVaHhhN1hMS1pFTFBrQk1pSzVGY2NJWmdBRFVHa25sdzBSZ2R3Y0lfa1lxUWIxQmMxZFR0cFNwRkZsT1c3dHBsb25VUm93MlpjOTM3S2FoNTdQMGZqZUE5bDhpVGhTYlgtbUhsRXlkV1RTbFJsMnZEdDlfN0VYNk5WTEJLOFJVbF85M3JyZV9DQjVRM1dMZW5VSmEzNEktVV9mWXByS1BNZk9vNEgxc09qcjQtcW11aU82d05raXdtQ2FZYm9qV2l2UURsZnpVdUZjbGNJU1pIaHZB?oc=5",
+      "source": "The Wall Street Journal",
+      "pubDate": "Fri, 20 Feb 2026 22:52:00 GMT"
+    },
+    {
+      "title": "US businesses clamor for refunds after supreme court strikes down Trump’s tariffs - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0c4ZVk2VU9xZV92Q25YQTYwTUVZZy1yVGktVmJlc3Rjcm5yUVBvdFBaMDZ3WmM4bEI0Q09hMnhDUXc2TlJfNTYxTUpWQVlYWmZnNHprd1h1cEVBeEI0dUhuMWhUTHBXNU42RS10SUduZ0I2MGRiMjZXelQzZWMtTEgzXzY1UQ?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Sat, 21 Feb 2026 16:22:00 GMT"
+    },
+    {
+      "title": "Ravens TE Isaiah Likely on impending free agency: Baltimore is home but business is business - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1NUWmExWFI1YzdTTnFKa0VfdGxqNTQ0ZjJuTUVKR3ZNNy10RlpGNWc1T0xLbVFfOFBWQThSQ1loTEh0X3VTRThoMklVTUxoeVJQaldNRjJVemxRQ1RrYzRDd01VYkRKTjl0LUxsSEFiemdGdW16X0o0NzJfOEIwRDlzelZlS3ZjaTlpMjN1MVFDWTRCTm56cHRqTjZha3g2Vzc0eDJpU3pXaFh0ZXRSQnNEMGd5Slk?oc=5",
+      "source": "NFL.com",
+      "pubDate": "Sat, 21 Feb 2026 20:19:00 GMT"
+    },
+    {
+      "title": "Today, Russia struck another American business in Ukraine—a civilian production facility of Mondelez in Trostianets—one of the first major U.S. investments in Ukraine’s independent economy. The missile hit one of the production buildings. Fortunately, there - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4OXZZbTVXU2VCc2N5dzZTVExhaHFHb0lLWUFULWJWX0RNUEF0a3NHMlNjM25OZDlCMnJuM1lWYVVQYktDeWRFbG1oaVlSRzJRTFJZLTdfSTZsaW5EMlhmU3o5ZTQ?oc=5",
+      "source": "x.com",
+      "pubDate": "Sat, 21 Feb 2026 21:18:19 GMT"
+    },
+    {
+      "title": "After Indiana gambit, Bears signal progress in Illinois - Crain's Chicago Business",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMXlCZHAtLVQzOVluQTZOS0RmNURXU1FHYk8yQnlLU01Zb05fYi0wQkY1Q2hrN1F2R3FHazZsdHM0d28yU3U1QjQyNWVKRHlXdnRpUzVjeENJX3V4WjM4YVFvbnhmbTVLcW1UZm9EYkdvTEdlT1ZtSGE2YnRRdDZnUWJNYzU3ZEVpWG1nSFpNSDYxMW5WUGxVVjY2WXdqX2dN?oc=5",
+      "source": "Crain's Chicago Business",
+      "pubDate": "Sat, 21 Feb 2026 22:21:49 GMT"
     },
     {
       "title": "I worked 14-hour days at a startup. A stage 3 cancer diagnosis changed how I succeeded at Netflix and Meta. - Business Insider",
@@ -77,16 +77,34 @@
       "pubDate": "Sun, 22 Feb 2026 10:02:00 GMT"
     },
     {
+      "title": "Business owners are wondering if they'll get their money back after tariff ruling - KUOW",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRUJBeHZTOXBUTG1za0hWUnpDOW1ZRkpfZkt1TmtwN21MR2RmN1oxRmpBWnp2Q0JaZHZicTNWa1AyOW5xcUNEQTlNT1Q5Y0x5elZMcmVJNHVlT2V0TVFGLWlxXzFjNV9YRmNvVGZ5SkcyU1BwdjAzcXkyTXdwb2xUNEJYbUtGblN1aGNQdjBZRnd2QzVReUZ0N2VFSVRkRUg0VlYyNE5ucGRaUE15ZTdB?oc=5",
+      "source": "KUOW",
+      "pubDate": "Sun, 22 Feb 2026 13:36:37 GMT"
+    },
+    {
       "title": "What is going on with the new FSU College of Business? - FSView & Florida Flambeau",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGhlNk5VS041eFZaNXlCZElIOTNxVHpsbEVuLTVETEN5SzROZXVpc2NEX0tjdW9UQlBUR3RUY2JYWjBZWUsyOWgxaUFwWWJoWlBOYm53Tl9OakN5czlGanZLbEMzX3VWTkt6ZW1OdEdPb1ZMUEF5V0k3QTJsLUtPT090eElobUFBWnR4MVR3SjRWd1BMOUpIQU1nY180dTFPOWVBUTJ2MW5RRm8xaWV6Y3JqRQ?oc=5",
       "source": "FSView & Florida Flambeau",
       "pubDate": "Sun, 22 Feb 2026 14:01:00 GMT"
     },
     {
-      "title": "Business owners are wondering if they'll get their money back after tariff ruling - KUOW",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRUJBeHZTOXBUTG1za0hWUnpDOW1ZRkpfZkt1TmtwN21MR2RmN1oxRmpBWnp2Q0JaZHZicTNWa1AyOW5xcUNEQTlNT1Q5Y0x5elZMcmVJNHVlT2V0TVFGLWlxXzFjNV9YRmNvVGZ5SkcyU1BwdjAzcXkyTXdwb2xUNEJYbUtGblN1aGNQdjBZRnd2QzVReUZ0N2VFSVRkRUg0VlYyNE5ucGRaUE15ZTdB?oc=5",
-      "source": "KUOW",
-      "pubDate": "Sun, 22 Feb 2026 13:36:37 GMT"
+      "title": "'Hard to keep lights on' - Business owners cautiously welcome tariff ruling - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9odFpOY3ZJOUh4YkdSRjlfaG5IM0VtWDFKQi1UdllxNE1OaERaNFcwdWJKbE16bVkyS18wbjVSQld5cllyY1lKUFFpUXo4RDFVRU1MWGhib1ZvQQ?oc=5",
+      "source": "BBC",
+      "pubDate": "Sat, 21 Feb 2026 19:42:55 GMT"
+    },
+    {
+      "title": "Supreme Court wades into U.S.-Cuba business disputes, with billions at stake - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRmNBTkl3S2pQY1Y0eUJrSjRMZGZhTjRCMWNMbklMektTVWhfYnY4N1p2OGVSZTExVGdZVWk4eXV5LXMzRVJIdkhJMWFFZDZudG1FMlI0VFMzOTdTdXNaU09OdEp0SnF3dnJMTjBLa3BmZEZhX0hodzNMVWJkdUwxTHRtV0pBWTZFRVdIdFpjYVDSAZYBQVVfeXFMT2NjNlhNbmYwdjNIa05pNVBBWHM4bFVNUll1ZHFGamtoZzhJMncyU3pDYVdjTl9ZYldIRXVKZTRhazhrS1hCVXpIaDd1M0VJMHpreG5ZVHUtWG8yY1BhWnMzU1pXUkpqSXg1WHhEQzBTWjdvVmtSbEpyV3QtY3ZCQVNiRmROa0FJb2tlcWF0Rks5ZDY2aWFB?oc=5",
+      "source": "CNBC",
+      "pubDate": "Sun, 22 Feb 2026 11:18:58 GMT"
+    },
+    {
+      "title": "Canal Place faces high-stakes reset as owner awaits closure of anchor Saks Fifth Avenue - NOLA.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcHFhRFBvc2RMaENybTRDSnhxSmxJd0Z0WnltOEhnZno0NGNvRkNFa2pla2pOakcxZ0ktUDd5cWhYa215U2M5TlM4c0ZKNGVKdzZ1eVlVZjRQRmhrejhFazFQMGUwSUZ6dXQwLS1ZZHFFcFZIN0UwbU1FNUcyV1BKcU1YT1YxbWZaWkczOGtFX0JaaDVUdmwtZlNTMnhpTmtrNjJpTEFqd3hHZXRBY3d5RWF5TXdKa19wQ3FEckF0b00xLUsyVG9fbFhmaHXSAdIBQVVfeXFMUFoxYzQ1YkRzbjI1aFJvS3RVdDJfNnFOUzliYjF3MjNKcElmY1JfYzRFUnV5ZUpkZWFHc3RVelI3Ykw4S2Y1Y0dHUzdWWU1HZTcwVzZheUxtZndfa0JQSnNtbGlFZ1pYWnQtWUZ2X3czb0VYODlJZTVZNXA4SHVQakxVX25oZkVEWE9uYXB2RHZPczJ5SXFxMm1sYVlpcXZ6Wk5BRzdRUHpLUjlZM3Zka01CVmd4SUMzU3ByX1RsUm5NZVdIRVRwVjFOZmNZMnpYTnRn?oc=5",
+      "source": "NOLA.com",
+      "pubDate": "Sun, 22 Feb 2026 10:00:00 GMT"
     },
     {
       "title": "Allen Caruso to challenge Woerner for 113th state Assembly seat - Times Union",
@@ -131,6 +149,12 @@
       "pubDate": "Sun, 22 Feb 2026 10:44:00 GMT"
     },
     {
+      "title": "Russia's Arctic units have been wrecked in Ukraine, but NATO is bracing for a 'dangerous' comeback - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQkRXQkpzWG84WkZ0S0w4eDNtWFhMLUdkVHFWWnh5M1BMN0lNdVJFaElxeVFodDNDTi1IelNyOUJEZExqSTk0aV8tTDlJQmZ6Nk1TX1RPdGdRYmZkYjExWjlnazh6amwybkZiQzc5T2pxV3otRFNSRWJDV2Ewdk5UaElMRFVRV0pNenhkcXRoM2hwTkVjV2I3a2QzVXUyWklKbGR2RFF3?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Sun, 22 Feb 2026 11:28:00 GMT"
+    },
+    {
       "title": "My company announced a return-to-office policy a few weeks ago. It's already affecting my relationship with my partner. - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWTNDUHk4RHhrUWtBemViS3FVVjdCdlNQRld5U3A0ektaSkRHMkIwazJZSmpVcXlYNWhXMFp5cUtBMnFrVE1yUEhqLW1tRDhXaXRlMms3ZVZGUWtfTllITmFOVTdLa0RXbXNsSVdrQ1VtdGR0Z21RUTJwekNSa2xOWTZvR0psbVlYMHBhOGRrdlhBblk?oc=5",
       "source": "Business Insider",
@@ -155,16 +179,22 @@
       "pubDate": "Fri, 20 Feb 2026 17:04:00 GMT"
     },
     {
+      "title": "Americans don't have enough savings for longer and longer job searches - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRkdBZTYzVHdBWnE2MHdtNVpkY0RaYzc0N2ZtcDQ5SzN0MGlXcExvUHRtNnBUZ1FoZXJUd0NQV3BOVUhWUDJiVEN3Ty1tZHJhQjJ1VDEzRWpzUk5qdV9qaWF0NHFVQjRzbFJUQ0t4RjlGVktGZHA4cVp2RXBHejJDQnhMWFllOWZxcjJ0VUt0WkpibmE5dW9SWmF6OWZQU0FIVjRRdDIzd0s4a0I1TTU4VGQ0WQ?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Sun, 22 Feb 2026 10:05:01 GMT"
+    },
+    {
+      "title": "My move from the US to Paris has come with a lot of benefits, but finding love has felt impossible - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzlGYl9CR1BxUGdyaG1LQ0lCUzVZbjB3OVVnaUItb0VTOFlENUxRazhnb1NiNGhBV1BpcEVjVll2Mko5SExxTzlobnYtVzA2aUhFU002amhTSks2cWJDbzJpamNXdExQRjhPUThjQTBZcHhuRTh4d2dRSG1nMEVCcE4wX0tUMTRkUmxXWmJKblZ2WFRzTWxPWUJzY0VBdkk?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Sun, 22 Feb 2026 15:02:00 GMT"
+    },
+    {
       "title": "Business Front Page for Feb. 22, 2026 - The Spokesman-Review",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16aGRPcTFWZzl1ZlZwOWNoU2hRQWFDbHlKV0VuWWdETkowbzV1ZklPQmctNW9oNWUtbEh3eWhWUXhRekdMYVhaUkpRcWo1QjhoWjdfQlJPTkFONkFVX2hjXy1pV1oyTW1U?oc=5",
       "source": "The Spokesman-Review",
       "pubDate": "Sun, 22 Feb 2026 08:35:07 GMT"
-    },
-    {
-      "title": "Politicians Can't Ignore Data Centers Anymore - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcndZY2xMZmNYS2xpdWt3dE1lLW5YNzF0UDJFeExEelBrYzBOcG5Fb3AzU2xscmxXZ1ZiSk5PcXN5SmxSVmdIOTlMYnRRZmlYUzlMTUQ5NlVGS09FNVhuc2g5cDhPZXhyRWo1V3ZpSDJiRWcxQ255b0JiTFM1dzc2cGh5dFQzN2JRcmZJZEItU25XNFphQW5IekQyNmw0Zw?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Sun, 22 Feb 2026 09:13:00 GMT"
     },
     {
       "title": "US economy grew slower than expected in fourth quarter - Fox Business",
@@ -177,6 +207,12 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VrSGlFeFA2LXVQR2Myb0RvMHNBMVY4SXlpWEVoZ1pYRFhBZm1jcmJuTjRuTHNNa3B0TXBfT2JNRHBpZS1IZFM3V0Q5OFA0enFSdnhSUUVSYTBaZUNOTFVTREFULW1hRDZtdk51bDk4ckR1Q043eUROSEM0cmtlblRjYzVTdw?oc=5",
       "source": "Sandusky Register",
       "pubDate": "Sun, 22 Feb 2026 15:01:19 GMT"
+    },
+    {
+      "title": "Politicians Can't Ignore Data Centers Anymore - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcndZY2xMZmNYS2xpdWt3dE1lLW5YNzF0UDJFeExEelBrYzBOcG5Fb3AzU2xscmxXZ1ZiSk5PcXN5SmxSVmdIOTlMYnRRZmlYUzlMTUQ5NlVGS09FNVhuc2g5cDhPZXhyRWo1V3ZpSDJiRWcxQ255b0JiTFM1dzc2cGh5dFQzN2JRcmZJZEItU25XNFphQW5IekQyNmw0Zw?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Sun, 22 Feb 2026 09:13:00 GMT"
     },
     {
       "title": "We compared Costco and Sam's Club prices on store brand products to see which is the better deal - Business Insider",
@@ -215,22 +251,16 @@
       "pubDate": "Sun, 22 Feb 2026 11:41:00 GMT"
     },
     {
-      "title": "My move from the US to Paris has come with a lot of benefits, but finding love has felt impossible - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzlGYl9CR1BxUGdyaG1LQ0lCUzVZbjB3OVVnaUItb0VTOFlENUxRazhnb1NiNGhBV1BpcEVjVll2Mko5SExxTzlobnYtVzA2aUhFU002amhTSks2cWJDbzJpamNXdExQRjhPUThjQTBZcHhuRTh4d2dRSG1nMEVCcE4wX0tUMTRkUmxXWmJKblZ2WFRzTWxPWUJzY0VBdkk?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Sun, 22 Feb 2026 15:02:00 GMT"
-    },
-    {
       "title": "Leave cigarette tax alone, keep Iowa businesses competitive | Opinion - The Des Moines Register",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVjZQeDFrQWxNdnpzdlV0ZVgwWkdSbVB1cE9zRWNRTGRhRnJkVS1ieXlYTF9DQ3lkVENONzNnU29pbkVMSmc1cDhBTGt0azcwYlBBMzdJeEFTNW03a0p6Z2YwYUdzakZleTJyeHFlV25qUmlKTGR4cVhadGNYRWpPM3U1eWx2SHRlQkhUSm1Cd1JsalNMVDU3alotb1pvMUEzOVRTOFgycWdacVpHZmNBVllyajRnTDJGYlY5ZEdCSWNrQWtPelZ6Y0tHcHNfc0pQWU5FTklsRl93X1NlNVViSVF3?oc=5",
       "source": "The Des Moines Register",
       "pubDate": "Sun, 22 Feb 2026 12:01:00 GMT"
     },
     {
-      "title": "34-year-old spent $16K to start a side hustle, built it 20 minutes at a time—now her business brings in up to $90K a month - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdUJORUpkYU5ET3VlYUtpemlDY1FhZEJsXzFIUmJrRFZuVFBaMWlKUE9odHlSVTE1bUl5Q0RIZVVkN1ctNzgtSGF1T1R0cUt4NmxOUGNQbE5kNVZuRHBUTlA2QTlBallEVlNwbk05TEdwZlZ0b1phYy1VRm5QZDBSa0pmXzFfcHJGWExLVlR3bXVGSUVvMHhiRE82SdIBoAFBVV95cUxNd1ZNTVVYYk9uLWhCV25JYWlmdW5DNmZmSUZITHpVckF0cTB5M0t1UG83SDludnQ4eU1UZzBYcTU1dzRVWGpPWlNqSm4xclg0MDFkUkpjVW1fYlJTcXBWYjNKcmdMOUxoaFN2WklGNWw1TkFfeVg2aFdMUXoxMGJuSFF3U2tqUXBOSXpXU2duVFdneFJ5M0NLREZqUUU0YU1Z?oc=5",
-      "source": "CNBC",
-      "pubDate": "Sat, 21 Feb 2026 14:00:01 GMT"
+      "title": "Business owner who challenged Trump's tariffs reacts to Supreme Court decision - PBS",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTmtINGVsYWhwdWtTcXN2RGR0X3B3MHU3VGVVRmpRUzhLTlFhSkNtSXpKVU1OTExvRHEtSTljUzBVY19EcEFBT3o5S3lLZS1QQUYtcHRXdGpDeEdQcG10dm84eVlPNEY1VUhrQmNrMG1yVzJSTHZrUjBsVVk3T2RGd0JFLVNnSkR0TU9XSFo4OTlOWkNOeDhydFF5WTZfZVRFMXFCbVVwRFZYdXAwaWROVw?oc=5",
+      "source": "PBS",
+      "pubDate": "Fri, 20 Feb 2026 23:45:19 GMT"
     },
     {
       "title": "Boise business reopens in new location after crash forced closure - KTVB",
@@ -239,16 +269,16 @@
       "pubDate": "Sun, 22 Feb 2026 05:15:00 GMT"
     },
     {
+      "title": "WORC offering small business assistance - Northeast Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXhaaG9rVzZpT2h3dWhsRXM2M0U2N21nS3NMOE5WNmJwNVo2SE53TkRVa3lzcDBBVHlOTFJhMDVZSFpxQ0Zrd1lWbGpfUVRiaEl6UVZiWWFsUkdFeGVSR3VMQzlXdnZKQWVDR0RjUFVpT1d6dmc0QS1UTlhNRXplNEVkWXY?oc=5",
+      "source": "Northeast Times",
+      "pubDate": "Sun, 22 Feb 2026 03:24:25 GMT"
+    },
+    {
       "title": "It's Your Business | Going to the dogs (literally) in Piatt County - The News-Gazette",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQnhPa0lQWlIyYUJ2d0RDMWVITUQ1cHlrWEhzV0FyV3c4Y0RPZHpMZzlIWjd0RWdvQUNlbFRjT3dUamRCdUJHV3RJZy1xd09yb3A4RU9xYXpPUXpxVWJZVlpCU0RlMDZ6ZXNzRFpvSnRoTnlPUHdBenNHcjZYMDVvRU43eHRHRUhrMzk3enM1bFk0WENZNkdHZHc2ZElObmpZZVV5c0NBQW9fRktRdnN0ck1ITTIwN2tXTHA1b1Y4X3hMTThSalJCaTZmMmFNMjJpT1lHRVNqN0RQYkVDMkoyT0RCLXRRblNNSXpBZ0dR?oc=5",
       "source": "The News-Gazette",
       "pubDate": "Sun, 22 Feb 2026 10:15:00 GMT"
-    },
-    {
-      "title": "Upper Midwest leaders navigate the region’s uncertain economic future - MPR News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd3FSUWstVk9LOEE2YXBIWlFLR3ZsLTMyMjJ2YnQ1bWM4dnV5YUtzdGJaTi1HYWsyamxSb3NMRjV2WEt3dGttdEVnNk45T3dNSTJtNFFzeGI4M3hLUEFqSXpocGhGeVpLWHRCMGVpNHZEZWpxWHlFS2poTFhMa1RBeVlqbVJucXhzc2o3OTctdnE1UWhibkxqbDM2RW1Ld096S0E?oc=5",
-      "source": "MPR News",
-      "pubDate": "Sun, 22 Feb 2026 13:00:00 GMT"
     },
     {
       "title": "Business Ins and Outs: Wendy's and The Hen close; 219 Sports Lounge, Dutch Bros and Dunkin open - nwitimes.com",
@@ -263,10 +293,10 @@
       "pubDate": "Fri, 20 Feb 2026 20:34:23 GMT"
     },
     {
-      "title": "WORC offering small business assistance - Northeast Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXhaaG9rVzZpT2h3dWhsRXM2M0U2N21nS3NMOE5WNmJwNVo2SE53TkRVa3lzcDBBVHlOTFJhMDVZSFpxQ0Zrd1lWbGpfUVRiaEl6UVZiWWFsUkdFeGVSR3VMQzlXdnZKQWVDR0RjUFVpT1d6dmc0QS1UTlhNRXplNEVkWXY?oc=5",
-      "source": "Northeast Times",
-      "pubDate": "Sun, 22 Feb 2026 03:24:25 GMT"
+      "title": "Upper Midwest leaders navigate the region’s uncertain economic future - MPR News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd3FSUWstVk9LOEE2YXBIWlFLR3ZsLTMyMjJ2YnQ1bWM4dnV5YUtzdGJaTi1HYWsyamxSb3NMRjV2WEt3dGttdEVnNk45T3dNSTJtNFFzeGI4M3hLUEFqSXpocGhGeVpLWHRCMGVpNHZEZWpxWHlFS2poTFhMa1RBeVlqbVJucXhzc2o3OTctdnE1UWhibkxqbDM2RW1Ld096S0E?oc=5",
+      "source": "MPR News",
+      "pubDate": "Sun, 22 Feb 2026 13:00:00 GMT"
     },
     {
       "title": "Business celebrates win over Trump tariffs, but refunds will take time - Reuters",
@@ -275,22 +305,16 @@
       "pubDate": "Fri, 20 Feb 2026 16:02:38 GMT"
     },
     {
+      "title": "Business groups applaud Supreme Court ruling on Trump tariffs - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSm90MUZmbzZSODFYdV9MTG1fekl4eDBtQ085aVZZbWF0TnhCcnYyUVY3RVctQmpLc3JBTWlUVTg5VGF5RFpYZ1ZKTHE5b3R3c0djMTFsZnFfc1pvZElhMnNqY2ExRnVVNFFFRUtaWEgzWE9Za3cyOFJTOUctVWdXMFB3?oc=5",
+      "source": "Axios",
+      "pubDate": "Sat, 21 Feb 2026 13:49:11 GMT"
+    },
+    {
       "title": "Portland business owners worried amid tariff uncertainty - KOIN.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGN0aFdQWXFTQ0dKWGJVMDBWMkg1QWJDVHIzbWYydTN4WmJNZnZITjU5TXI5c0RubkdDSGVLUklsczVFcnl2MVVRZHRhMXk1SFFJeEdwbGlKSTYyQThHdWVweEJLY1phc2J0anZxODJRRXJxTG8yc2w0bUlBQkpLbmRWY3BNejNvNzVRU1UxSXFRaDh1d1Vqag?oc=5",
       "source": "KOIN.com",
       "pubDate": "Sun, 22 Feb 2026 06:14:02 GMT"
-    },
-    {
-      "title": "Industry trade group, bank, nonprofits name boards; ex-McGlinchey Stafford attorneys hired - NOLA.com",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVWdRXzJIVVQ0NUpMbjB0ZkprbGtLa19rYlhBekItdlF1Tk5Cb2dwbXppVzU2TzltU3pGejk0MjF0Ym43aTN2bndiZ1F0N0RGUDBxTEpZZlhtWk9od2thZUdHbXVxMGp2cWRFUG9RMG5TdTlrTXNZXzFLOHF4ZFlKSGkySlVEbkF3YWQyZXItMlpYR1lOdjlXbV9Va0hhRy1Fa1FWem9TbC1Eb2FPbGlHdFJxT2h2WG00Qm9qWmU4LXRJWGZCcXk1NzlUTGQ1TWEwZjRJVUZfTnV1MEJiTUhNSVlycXMxbkl2d1hkNldn0gHzAUFVX3lxTE83cEdieUI4dUZNU1R4U2ZJRTNUXzBOdzJVQUdLS2M4YllXbS12NHlBVjJMdmpyTkxyMW5PWmdqWDByOWVQMFE5bEh2LThKUmswdm9semJSS3hIaU5SWVJEZDhuM1AxOHZXYi1CVF9PSnRxdlVNU0h2Q1FZNndYTENsQkkwTnctTGlITTlPU1I2b1V3NjBaWl85NWwtT2xHb21lcGxaenpNYW5abm1XQnVuNzdnaWN2QjhBTmFhcy04NlQ0Zkg1bWlpSS1mSUZLaHMwSjBDQy1JUlBWMHc5Ri1LaEN4eVhNTnRYSk9neDdpN2FmTQ?oc=5",
-      "source": "NOLA.com",
-      "pubDate": "Sun, 22 Feb 2026 10:00:00 GMT"
-    },
-    {
-      "title": "‘Murky Waters’ for Global Businesses After Trump’s Tariff Loss - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUh4bERsdE9tN281bTFfRWdheGkxU1NsSWprcGtJS1VYaW9pVDg2N19GbmZKaDFGdFZNaGtEWmdleXJCYVEweTFaQzNtSDYzb185Z21ZZ2Y2N0FkMjUwRWtxSG1TRkJjZHpJTEFmdFlGa1ZwVnBLWVUtMU9nc1ZlUlZFYXFiODBvWnE4UlRKSGZ6VGRyLTZfVVZSaWtSbFhSb053Xw?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Sat, 21 Feb 2026 16:34:21 GMT"
     },
     {
       "title": "Annual Jewel Awards recognizes the best of the best in local business - WBBJ TV",
@@ -305,22 +329,28 @@
       "pubDate": "Sun, 22 Feb 2026 13:35:00 GMT"
     },
     {
+      "title": "Industry trade group, bank, nonprofits name boards; ex-McGlinchey Stafford attorneys hired - NOLA.com",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVWdRXzJIVVQ0NUpMbjB0ZkprbGtLa19rYlhBekItdlF1Tk5Cb2dwbXppVzU2TzltU3pGejk0MjF0Ym43aTN2bndiZ1F0N0RGUDBxTEpZZlhtWk9od2thZUdHbXVxMGp2cWRFUG9RMG5TdTlrTXNZXzFLOHF4ZFlKSGkySlVEbkF3YWQyZXItMlpYR1lOdjlXbV9Va0hhRy1Fa1FWem9TbC1Eb2FPbGlHdFJxT2h2WG00Qm9qWmU4LXRJWGZCcXk1NzlUTGQ1TWEwZjRJVUZfTnV1MEJiTUhNSVlycXMxbkl2d1hkNldn0gHzAUFVX3lxTE83cEdieUI4dUZNU1R4U2ZJRTNUXzBOdzJVQUdLS2M4YllXbS12NHlBVjJMdmpyTkxyMW5PWmdqWDByOWVQMFE5bEh2LThKUmswdm9semJSS3hIaU5SWVJEZDhuM1AxOHZXYi1CVF9PSnRxdlVNU0h2Q1FZNndYTENsQkkwTnctTGlITTlPU1I2b1V3NjBaWl85NWwtT2xHb21lcGxaenpNYW5abm1XQnVuNzdnaWN2QjhBTmFhcy04NlQ0Zkg1bWlpSS1mSUZLaHMwSjBDQy1JUlBWMHc5Ri1LaEN4eVhNTnRYSk9neDdpN2FmTQ?oc=5",
+      "source": "NOLA.com",
+      "pubDate": "Sun, 22 Feb 2026 10:00:00 GMT"
+    },
+    {
+      "title": "One year later, Los Angeles residents continue to face rebuilding challenges: 'Fatigue factor' - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYVFVdmx0SnB5amZ2ejYtNnZLYWZ4VjZJZk1QVDUtYWo0WXRsQ00tbGtHeG12cnBiTnNoNFpZbXpHa3N0UHlRdjdvRWZiQ0U0bkhrem1SbEU4T1NiOWw0bGJSWmhCdFplSUdZUGIwdFNRNWRTcElTTnp5R3RCT2JZZFdJdU1SSUgxR3JTRkdkYUQ1dTRBYlNQY3JFYWI4MTB3U3l2SXRuUEZpdVEtbmRCSFVVOFBmV2ZQQWVSc1J3SXAyUdIBxwFBVV95cUxNQlR5ZEFtLXE1QklDNXVlUTU3MDJMczdEY3FvaUF1X0p0bmRmZmpTNjc3NWNfZWdDck4zMWFvdWdMNlVhS25zUTh5MGlwSVJUZFVyTXhQWWFCNnFZbkZtVk5rcnBtVUZiTktGc1Z5OW1jaG1mRGVOU3JLSFpSTTlGX28yZTFfMnlpZmcyV1FDVnpkZ0ROQXlxd3JwR3phLU9kVHZCVXU2Tml6TDVmVGMwRjg2NV9CLTRIc1pEVlUtTFA5N1NtSW93?oc=5",
+      "source": "Fox Business",
+      "pubDate": "Sun, 22 Feb 2026 10:00:00 GMT"
+    },
+    {
       "title": "3L Ediz Kalkan Builds Practice-Ready Skills Through UC Law SF’s Business Law Concentration - UC Law San Francisco",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeVhUb1ZhdUJDbE15cVBzdUVJVF8wY0ZldW95Yi1hcUZHNEF4anlhd3g0VDBnN3hQVWJFTk5MNVI1bmZJXy16MUVEQ0NtSndrZ0t4YlN4STNKSlBIbkZWUTlJZi1xakJNOFd4OGhLaWkyTVR5SnR4OXZPWjJLWVhsMkZ2MVZCd1VhZGVUTTBkLVc5akpRWlcwRWRMR0dVX0RSaUJaLVg0QWo3a3ZKb19CZTNEbEQtb29Ed3RpYlZVN2tnT3M?oc=5",
       "source": "UC Law San Francisco",
       "pubDate": "Fri, 20 Feb 2026 16:10:28 GMT"
     },
     {
-      "title": "Small Businesses, Big Results: Building Economic Strength In 2026 - Los Alamos Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0tudFJ2MVVZbWpvYVEyZFNkVExxckowWmphaWdKT2oyVXI3cjg4bk40OEZzRm9sLUNMUGRjMFdtZVpaa3gzcWlEbHRLVmktcGNCdm0weUlhZk5jelFkVzZiTzZkSGZzM0pVcHZDUFBmQ2tSN2FKcVFMdkZqXzBvdVN3aGdiVjQ3d3REWF9WRzFWbDRRMlRORzFQSVVSM3AwWlN4VUsxYms?oc=5",
-      "source": "Los Alamos Reporter",
-      "pubDate": "Sun, 22 Feb 2026 02:48:40 GMT"
-    },
-    {
-      "title": "Banner replacement on business corridors - Northeast Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMTZMMHFtWmtNQU5ybXQ2SjFia2ZoaHVqZWhZMWVTa3BFZjNqS3lfb2J5Y1ZyczRKQ3l6Szl3SmVLOVNTd2JVSmFVVF85ZGZ3dW9pZ0dZXzNUZFZvT0s5aVNDM3RoUUh2NVkyekhpelQ3NTh2YVc2T05nVkhKcGVlTVoybXB2dw?oc=5",
-      "source": "Northeast Times",
-      "pubDate": "Sun, 22 Feb 2026 02:59:28 GMT"
+      "title": "DHS suspends TSA PreCheck and Global Entry lanes at US airports during government shutdown - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDg1Z2lQZEpKblByTkZfOGVFTzZGRDI0RHhSbE55cGwxSGN1ZW9Nbk9lbUQ1aDI0Zjc1LU02RzRRc21WTnlnMFZPcmJobE9NZ3BzVHl3TWR3eG1ja25XNXpHU0o0QzY2UlloY0VvWmlHUi1LU1RDdXRpaHVXVnRGZ0ZEY2VTMS03X3pxQk96N2ZwX19MQVB4SmoyTjBtWkdLU1ZV?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Sun, 22 Feb 2026 14:40:00 GMT"
     },
     {
       "title": "Antler Creek Store Antiques and More opens in Healy - Fairbanks Daily News-Miner",
@@ -335,16 +365,22 @@
       "pubDate": "Fri, 20 Feb 2026 10:44:00 GMT"
     },
     {
+      "title": "Banner replacement on business corridors - Northeast Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMTZMMHFtWmtNQU5ybXQ2SjFia2ZoaHVqZWhZMWVTa3BFZjNqS3lfb2J5Y1ZyczRKQ3l6Szl3SmVLOVNTd2JVSmFVVF85ZGZ3dW9pZ0dZXzNUZFZvT0s5aVNDM3RoUUh2NVkyekhpelQ3NTh2YVc2T05nVkhKcGVlTVoybXB2dw?oc=5",
+      "source": "Northeast Times",
+      "pubDate": "Sun, 22 Feb 2026 02:59:28 GMT"
+    },
+    {
+      "title": "Small Businesses, Big Results: Building Economic Strength In 2026 - Los Alamos Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0tudFJ2MVVZbWpvYVEyZFNkVExxckowWmphaWdKT2oyVXI3cjg4bk40OEZzRm9sLUNMUGRjMFdtZVpaa3gzcWlEbHRLVmktcGNCdm0weUlhZk5jelFkVzZiTzZkSGZzM0pVcHZDUFBmQ2tSN2FKcVFMdkZqXzBvdVN3aGdiVjQ3d3REWF9WRzFWbDRRMlRORzFQSVVSM3AwWlN4VUsxYms?oc=5",
+      "source": "Los Alamos Reporter",
+      "pubDate": "Sun, 22 Feb 2026 02:48:40 GMT"
+    },
+    {
       "title": "Sam Altman says Elon Musk's idea of putting data centers in space is 'ridiculous' - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObVdrcVdUZ25XVTVZTWZhM3ktT3ZYZXhkTndXa0pma3JzcTBrU1pZQzV0ZUlTMjdad0JTT2wtQkN1U2tPLUprS2pSeHJxSHQwd056ZmVxZUFLVGFmMFNIZlNRcldJakpHRjBwWkpGNFd0bjZ6T0xrR2QyZVA0Nm9QR0J0eldGc0tmTk9hb0J6QWY?oc=5",
       "source": "Business Insider",
       "pubDate": "Sat, 21 Feb 2026 22:57:00 GMT"
-    },
-    {
-      "title": "Wilmington will not grant new business licenses to new smoke shops for one year - Delaware Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbDUtZ3BBck5NeHRBX2RjYVJkVEYydFZKaUY0SkN1RlJnNnBfS2NrVEVucTNuZkVaNFJqamdnVU1DNmVKQ245X0t4ODRETnFncmRyV1Vzd2hyS1pyRzhLYWhnLUpVOVZ1bkxzQWstM1NVTE9NLVVjd0k3TEZoNmpidkg2RkJMOWVUZHpOdnpRRjZ6d2lsUHNITmQxbWpyalk5eWxYbzNCQzFWaXN1YVpLa1JKWS1NRXB2RUg4a0JPR2FsVnVJYWxyN0tDNzAwQmNxcUZ4dU1ORE4?oc=5",
-      "source": "Delaware Public Media",
-      "pubDate": "Sat, 21 Feb 2026 23:17:00 GMT"
     },
     {
       "title": "Q&A: Zehnder's new leader on his background, family, new boutique inn - The Detroit News",
@@ -353,22 +389,28 @@
       "pubDate": "Sun, 22 Feb 2026 04:00:00 GMT"
     },
     {
+      "title": "Wilmington will not grant new business licenses to new smoke shops for one year - Delaware Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbDUtZ3BBck5NeHRBX2RjYVJkVEYydFZKaUY0SkN1RlJnNnBfS2NrVEVucTNuZkVaNFJqamdnVU1DNmVKQ245X0t4ODRETnFncmRyV1Vzd2hyS1pyRzhLYWhnLUpVOVZ1bkxzQWstM1NVTE9NLVVjd0k3TEZoNmpidkg2RkJMOWVUZHpOdnpRRjZ6d2lsUHNITmQxbWpyalk5eWxYbzNCQzFWaXN1YVpLa1JKWS1NRXB2RUg4a0JPR2FsVnVJYWxyN0tDNzAwQmNxcUZ4dU1ORE4?oc=5",
+      "source": "Delaware Public Media",
+      "pubDate": "Sat, 21 Feb 2026 23:17:00 GMT"
+    },
+    {
       "title": "Altadena Businesses Offered Subsidized Workers to Aid Wildfire Recovery - Pasadena Now",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWW5PdHBrSUg3SF96WF9VM2lHMEFRMWs3SHRDMUtxRDZmU0xtZkVHcVBUbXh3Rzl4RURSaVphYUJtSVdsUlJJaUFla2RySHl4SVBzYXNBZnVuSnNYd2p4UE9BZXhIUnVzLUVDUTB6NW1LMjJTWmZLNTVEX2c1aUlFS0JhVXUybFRhVC1qX25obldfSklIV2tyTTcyc0ZjOVFrU3c?oc=5",
       "source": "Pasadena Now",
       "pubDate": "Sun, 22 Feb 2026 13:41:34 GMT"
     },
     {
-      "title": "Black-Owned Business Expo in Fayetteville supports next generation of Black entrepreneurs - KHBS",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdkJvdW9WZ2QycV9SdFJZXzIwWmtud2hrQzdUM2tEeUxIMzMzT0NraHkwOWR2aGtTOEZmOTdLVkJIMl9wTlJqQlZaaDU1UG9OcDRLdlpWcVJTR1dJVTZHczdaSk9teU1aMnNBUTB3czE2UEViRUh0TDJJWXhnTDdIZGZvUXBJeWZiVERQVzRrbHZzZHpoQVRQRFNuMFpUeHlzUWw5T2hXQklqT3dRdU82bjJla0o3N1dfTi1lalc3QQ?oc=5",
-      "source": "KHBS",
-      "pubDate": "Sun, 22 Feb 2026 01:07:30 GMT"
-    },
-    {
       "title": "Flathead Business Watercooler - Daily Inter Lake",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QVXMzTnlEUDFWTWtwaHh3ZGZMUlhfSUF3ODRZRlhVemdRN3l5aWRZQTZWRHpCbHhBQkVvQ1FUMUxoYVBQeGxhVlM3a3NaY1Z6Vm11aWFkemxRdkNGVHQxLS1ZbWVKSGFxQVBJUXV4VExxWHFEaXNYcXF6RHZiZGc?oc=5",
       "source": "Daily Inter Lake",
       "pubDate": "Sun, 22 Feb 2026 06:08:42 GMT"
+    },
+    {
+      "title": "Black-Owned Business Expo in Fayetteville supports next generation of Black entrepreneurs - KHBS",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdkJvdW9WZ2QycV9SdFJZXzIwWmtud2hrQzdUM2tEeUxIMzMzT0NraHkwOWR2aGtTOEZmOTdLVkJIMl9wTlJqQlZaaDU1UG9OcDRLdlpWcVJTR1dJVTZHczdaSk9teU1aMnNBUTB3czE2UEViRUh0TDJJWXhnTDdIZGZvUXBJeWZiVERQVzRrbHZzZHpoQVRQRFNuMFpUeHlzUWw5T2hXQklqT3dRdU82bjJla0o3N1dfTi1lalc3QQ?oc=5",
+      "source": "KHBS",
+      "pubDate": "Sun, 22 Feb 2026 01:07:30 GMT"
     },
     {
       "title": "Despite NIL approval for Michigan high schoolers, businesses seeing early investment risks - MLive.com",
@@ -389,16 +431,10 @@
       "pubDate": "Sun, 22 Feb 2026 00:54:51 GMT"
     },
     {
-      "title": "Americans don't have enough savings for longer and longer job searches - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRkdBZTYzVHdBWnE2MHdtNVpkY0RaYzc0N2ZtcDQ5SzN0MGlXcExvUHRtNnBUZ1FoZXJUd0NQV3BOVUhWUDJiVEN3Ty1tZHJhQjJ1VDEzRWpzUk5qdV9qaWF0NHFVQjRzbFJUQ0t4RjlGVktGZHA4cVp2RXBHejJDQnhMWFllOWZxcjJ0VUt0WkpibmE5dW9SWmF6OWZQU0FIVjRRdDIzd0s4a0I1TTU4VGQ0WQ?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Sun, 22 Feb 2026 10:05:01 GMT"
-    },
-    {
-      "title": "DHS suspends TSA PreCheck and Global Entry lanes at US airports during government shutdown - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDg1Z2lQZEpKblByTkZfOGVFTzZGRDI0RHhSbE55cGwxSGN1ZW9Nbk9lbUQ1aDI0Zjc1LU02RzRRc21WTnlnMFZPcmJobE9NZ3BzVHl3TWR3eG1ja25XNXpHU0o0QzY2UlloY0VvWmlHUi1LU1RDdXRpaHVXVnRGZ0ZEY2VTMS03X3pxQk96N2ZwX19MQVB4SmoyTjBtWkdLU1ZV?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Sun, 22 Feb 2026 14:40:00 GMT"
+      "title": "State business leaders react as Supreme Court nixes many Trump tariffs - Montana Free Press",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcl9jdS10MGpnaVA5X0VhSWFuWHdfWG9pNnE3UFFIbGhHUW01OUQ1cGtybURTTW1zY0w0X09DWHhRdThsZjJnT085cjhBNlJraFJXaWtnTEtfV1VVWmViVFpXWTZYcmJOOUZ0V0M2ZnFMT1p3TjdxNldjM25hbXFuVnFBMzBlUlI3eFRVOVNIRHBBaDRqZ0oxeFVpNWZKalBGMnB5SWJxbzM5VHQzVEloRQ?oc=5",
+      "source": "Montana Free Press",
+      "pubDate": "Fri, 20 Feb 2026 23:00:02 GMT"
     },
     {
       "title": "Wind gust tears roof off Waynesboro business - WHSV",
@@ -407,22 +443,10 @@
       "pubDate": "Sat, 21 Feb 2026 23:13:00 GMT"
     },
     {
-      "title": "After Indiana gambit, Bears signal progress in Illinois - Crain's Chicago Business",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMXlCZHAtLVQzOVluQTZOS0RmNURXU1FHYk8yQnlLU01Zb05fYi0wQkY1Q2hrN1F2R3FHazZsdHM0d28yU3U1QjQyNWVKRHlXdnRpUzVjeENJX3V4WjM4YVFvbnhmbTVLcW1UZm9EYkdvTEdlT1ZtSGE2YnRRdDZnUWJNYzU3ZEVpWG1nSFpNSDYxMW5WUGxVVjY2WXdqX2dN?oc=5",
-      "source": "Crain's Chicago Business",
-      "pubDate": "Sat, 21 Feb 2026 22:21:49 GMT"
-    },
-    {
       "title": "Marion Business Expo connects community with local businesses - KGAN",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZFFtSFJaVFBRTzdEQ1Vwei1pczFHYS1JVjdVSTFFUkp5aVotb0FJd2V2NkxnWEFQeVpIbml0djkyaVF1TEZHMUVRUnZUc1NxaU8tWVAwNkNIVklUcU1rLVdDWm9GQUdjbWdjTVdUa2l0UV9mck11U1ZMSm5tbFRYN0VvN0tXdmNzbVIyTFdoOURkeGdrY0RjWg?oc=5",
       "source": "KGAN",
       "pubDate": "Sat, 21 Feb 2026 23:22:18 GMT"
-    },
-    {
-      "title": "How Chipotle lost its sizzle - TelegraphHerald.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDJYRm9zRnFKQmR3aDE0dVZiV2d5QktXdGtsVkdCMWZRNVVhLXB1T0JmcDZJcEFHZmJlSzZBMktTTjIyOXhkZEp0T0wxR3Z6Ylg3RUQ2U2hQc3Vnb3pvQVhpUmRGX3BuTEdOdkxkaGtlWFRyVExoSTVHNVlKN1dORzBOaVhtdGRPVHdpS2d5M2J0T3BZbUd5S2piYw?oc=5",
-      "source": "TelegraphHerald.com",
-      "pubDate": "Sun, 22 Feb 2026 07:00:00 GMT"
     },
     {
       "title": "SMU takes care of business vs. Boston College, maintains traction in NCAA Tournament race - Dallas News",
@@ -431,16 +455,16 @@
       "pubDate": "Sun, 22 Feb 2026 00:36:24 GMT"
     },
     {
-      "title": "State business leaders react as Supreme Court nixes many Trump tariffs - Montana Free Press",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcl9jdS10MGpnaVA5X0VhSWFuWHdfWG9pNnE3UFFIbGhHUW01OUQ1cGtybURTTW1zY0w0X09DWHhRdThsZjJnT085cjhBNlJraFJXaWtnTEtfV1VVWmViVFpXWTZYcmJOOUZ0V0M2ZnFMT1p3TjdxNldjM25hbXFuVnFBMzBlUlI3eFRVOVNIRHBBaDRqZ0oxeFVpNWZKalBGMnB5SWJxbzM5VHQzVEloRQ?oc=5",
-      "source": "Montana Free Press",
-      "pubDate": "Fri, 20 Feb 2026 23:00:02 GMT"
-    },
-    {
       "title": "Ariel Roblin: Help support the Sacramento businesses that have been recently burglarized - KCRA",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHRnNGFwNjdpMGUzLXl3Y3BXVjJVTVFRZjYwa2k2dVRFdWtwZVlfbDZZb2taZUNmUUJxS0R6OUdMQ2dQT2VPMFZsdmxEQkdsVlp2b1dMVW5mcWV0V1N6ZmxZNWNCa2NOOGxfaDFNTmhhWmNQV1dRNFZ3OXZKdTNjOHh5S0hxb0VVMVN1Sg?oc=5",
       "source": "KCRA",
       "pubDate": "Sun, 22 Feb 2026 14:00:00 GMT"
+    },
+    {
+      "title": "How Chipotle lost its sizzle - TelegraphHerald.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDJYRm9zRnFKQmR3aDE0dVZiV2d5QktXdGtsVkdCMWZRNVVhLXB1T0JmcDZJcEFHZmJlSzZBMktTTjIyOXhkZEp0T0wxR3Z6Ylg3RUQ2U2hQc3Vnb3pvQVhpUmRGX3BuTEdOdkxkaGtlWFRyVExoSTVHNVlKN1dORzBOaVhtdGRPVHdpS2d5M2J0T3BZbUd5S2piYw?oc=5",
+      "source": "TelegraphHerald.com",
+      "pubDate": "Sun, 22 Feb 2026 07:00:00 GMT"
     },
     {
       "title": "Taunton OKs residential kitchens for commercial use. How it works - Taunton Daily Gazette",
@@ -456,9 +480,15 @@
     },
     {
       "title": "The Biggest New Fans of 401(k)s Are Small Businesses - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNWmQ3eHc2TXV6QXNxU0ZEelFxdkxfcDB5bzZ4bWFLOE0wSl9FMzF6SWxEYzhpdFZZT3NJOWhla2RJTFFKcS1OWVE0c2VOMmZ6N3JfczIwSVJUR0xqNlhnMUtxUURCeGFoelUwWFNaYjZqOWtiTkx3QmtMVmRCUW1Pb0pGMlcteWFRNFNlT21wNEdGS0cza0RqUGJ3MWtfM1k4bzZobjB6SVlLQXphMkFBTDdyLTNDVW1qdExXVE83UGhYNUpfQnF3ZFJMOExjS042UnJUTFNzcWJHLWIwWE9xUTB6Z1dKMG9OX3V1X0h0RG9nb2R4dzBkanMxbWo2Y1U1SV9IYktpaFpVSzFlN1B0b1RCQ1FTSHZIN2ZyQlJ4UlNGTFROc1o4bHFmQ0l3OE52Y3BKSkRWVm9aYnliY0Z5OTAzVEpsUWtpbXNlblEzdXMyWmtrck0yWUJFYjRfblcxSm5qRHdRZFVjVXlwcGFqSWc1QkNES2ZVYngtbzZkejY0RUxJTW9wcXdCX0lHb0stbnpTbnE2eWlRNVlRaEU5VHRsYW8tblM4SDRXUDI1SElIUjg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOTEQ3QlRZSmV2b0gzUjdCUnhzSDcyRTVYSmkzYVNXakRkYlNfb1ZaNFlGVXJ5OHNSdkVfMFlXbGI0YVRQWEdHeWJqY1dSMHpZclh0dGZHU3pwS1NvVmZmTW11SHRZVlI1bG1qTDBGUEJQb2YtVEhfVXdYYmI0Wk55NDE0cEtrZVZtb1FtSm1pdklmLXgwcFFUSGNyYzZEQ3hMemEtZWZ6V05pNDNDSWg5OF9taTQzX2RqaTFQUGpZVDZuRXRSMkl1QVdXcHpZallCeTNUNzFKRkFOdEhCMWljeEF5X3NwZmtBLTlaWENWNjl6RVpsRnVoUU5EeFI2eXdDT2NlWFFmc0JmR2VWYmExUTBLYkFtbUdfdEx5T3J6M21LZVFyWFl0SERQTVZnZ29NUV96NFR0NXV1TTkyRThIQmNHemVEVDM4UXlLTm4tbk0wNVlCal9JbXB6TGtUODdzTnF2Y1h3QnFoZzdvUUxDQ24tSGR6d0RiUy1ZZUFKeWl5WU8wYmdyaWlBZ3NwRTBzZUo1WG1OWFAwWnJkSXhIZENSOHN5SHdNb3NNa1pDMFBEYkU?oc=5",
       "source": "The Wall Street Journal",
       "pubDate": "Sun, 22 Feb 2026 01:00:00 GMT"
+    },
+    {
+      "title": "‘Murky Waters’ for Global Businesses After Trump’s Tariff Loss - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUh4bERsdE9tN281bTFfRWdheGkxU1NsSWprcGtJS1VYaW9pVDg2N19GbmZKaDFGdFZNaGtEWmdleXJCYVEweTFaQzNtSDYzb185Z21ZZ2Y2N0FkMjUwRWtxSG1TRkJjZHpJTEFmdFlGa1ZwVnBLWVUtMU9nc1ZlUlZFYXFiODBvWnE4UlRKSGZ6VGRyLTZfVVZSaWtSbFhSb053Xw?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Sat, 21 Feb 2026 05:00:07 GMT"
     },
     {
       "title": "Big Tech wants more data centers. Residents in this New Jersey city said not here. - Business Insider",
@@ -467,22 +497,16 @@
       "pubDate": "Sat, 21 Feb 2026 20:47:00 GMT"
     },
     {
-      "title": "Business People - Northwest Arkansas Democrat-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4d3c0bHdTdnJwd1VSOElUUTVYVFRXcTgwekhEMDRiX3hqZG0xS2I0N3QxTGwwcG01VTFtdVA2ZEp4MEF0aXVKX1JfbjZjMjJxaE05Vi0ySWdfb3RIdlNSMVRsSHdFX0xhZ3FCc3c4eHcxTEItY1dF?oc=5",
-      "source": "Northwest Arkansas Democrat-Gazette",
-      "pubDate": "Sun, 22 Feb 2026 08:24:00 GMT"
-    },
-    {
-      "title": "Tri-state people in business: New hires, promotions, recognitions - TelegraphHerald.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUxjbGZKNklHT1VrcUI1THZTVlJUbnctSTAySVR3MFhsbnU3VWlWMmpORUU1UXF5M2tVZW1hWDhEbWVidmp2T09rckUxR1V3bTZpWHU2NG1zb1I3M3NiLUxIcEtoVkMzYXdBWHBybzFpazEzVWZ3ZVMwTENvUkpmYW4xeERGNzJIbkZndTdHcDA3NkdJMW5Na192Zw?oc=5",
-      "source": "TelegraphHerald.com",
-      "pubDate": "Sun, 22 Feb 2026 07:00:00 GMT"
-    },
-    {
       "title": "My 15-year-old is training for the 2034 Olympics. We are considering looking for financial sponsors for him. - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWZlTW96Vzhjalg5ZTFiVjYwS0hva2JxQ3FOa0pJakpuZXg0MTNDWEhFdmV3OVhWQkNjbXp3RThaYk5LTjZrUmhWZTY0VXQ2WHE0WjFINjFHdENocDNidUhaSVVMX0wxRV9tUVRGZnpRVE1zdFpiOVh3UmNZblVxRU9VZmVIelU0aUtQckdZUQ?oc=5",
       "source": "Business Insider",
       "pubDate": "Sat, 21 Feb 2026 15:20:00 GMT"
+    },
+    {
+      "title": "Business People - Northwest Arkansas Democrat-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4d3c0bHdTdnJwd1VSOElUUTVYVFRXcTgwekhEMDRiX3hqZG0xS2I0N3QxTGwwcG01VTFtdVA2ZEp4MEF0aXVKX1JfbjZjMjJxaE05Vi0ySWdfb3RIdlNSMVRsSHdFX0xhZ3FCc3c4eHcxTEItY1dF?oc=5",
+      "source": "Northwest Arkansas Democrat-Gazette",
+      "pubDate": "Sun, 22 Feb 2026 08:24:00 GMT"
     },
     {
       "title": "Why adults pursuing career growth or personal interests are the ‘new majority’ student - The Seattle Times",
@@ -491,28 +515,16 @@
       "pubDate": "Sun, 22 Feb 2026 13:26:09 GMT"
     },
     {
+      "title": "Tri-state people in business: New hires, promotions, recognitions - TelegraphHerald.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUxjbGZKNklHT1VrcUI1THZTVlJUbnctSTAySVR3MFhsbnU3VWlWMmpORUU1UXF5M2tVZW1hWDhEbWVidmp2T09rckUxR1V3bTZpWHU2NG1zb1I3M3NiLUxIcEtoVkMzYXdBWHBybzFpazEzVWZ3ZVMwTENvUkpmYW4xeERGNzJIbkZndTdHcDA3NkdJMW5Na192Zw?oc=5",
+      "source": "TelegraphHerald.com",
+      "pubDate": "Sun, 22 Feb 2026 07:00:00 GMT"
+    },
+    {
       "title": "Spills: Just how the oil and gas industry does business - Santa Fe New Mexican",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZW9IeDdxR0oxbEFNYU9zVEFta0F2cjJMck53a2xxdkh2Smc2aXdfOG5ZenlvVEhIcndWczVfRW83VTdGaUdHdjNpTzlub2R5Q2UxenR5bzNtWHJaYUZfLXlZcjRlMDN6NWhtUlRZV2ZGYWpZa09WRDdrSDZncXNVbnd4TVduX0o4Y3UwQVV4UWFZbnNGa3FfSXQwYVJlRnk4REUxbUV1a3MzUHF5SURkVzlLeWI3UHZqMWhBVjhUbWF5aGh1LUVUd0pzeHZXd1djd1ZybU5kaU9mSE54ejVSTFVfUnozVGprTHc?oc=5",
       "source": "Santa Fe New Mexican",
       "pubDate": "Sun, 22 Feb 2026 04:00:00 GMT"
-    },
-    {
-      "title": "Downtown Edwardsville business owners are finding ways to navigate construction - The Edwardsville Intelligencer",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYk9laF9obEJURG9VZU5nc1VsVnhoS1hxSzF3TXpXeTBwLUdfLWpRQWNsZWJ5ZWZLRXd3LXpKOExlUmo0Q2xaX2t0S3dlNHh3dFhIWldDNnZjZW1vWFg0bEc3WFdST3V5VVh6R25JblNOUG9fSTV1YzBMVHV0VV8xQzZ4M2xEbjcyemJ2TXZYNmt0TGdfc0hDZ0FXb3oyUGxnVWozUk4zOUI1YzQ?oc=5",
-      "source": "The Edwardsville Intelligencer",
-      "pubDate": "Sat, 21 Feb 2026 22:00:51 GMT"
-    },
-    {
-      "title": "Couple quit their jobs to start a proposal planning business in 2010—now it brings in 7 figures a year - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYlNrLU5SaGRhUERDNEJ4LWtiTVJzQWZyR3NoaURoUjJ1NkxkV2VESUJsUXU4cWNWM0RBUzBackQ5NGNXLU52bFpVOTR2LUVtNkc3aXV2ZlAycFVLb3BaWTNlQ0J6eGhEYXEya0Y2WVR4RjhJVlE5blc1eTZ6UGZBbnNaLUhVc3RNdVBWTnl1ZVFUemNSV19XQVFJQmZld9IBowFBVV95cUxOdjBUTUhHUklweDNCLVl5UmFmbFFaSERscTVoQ25VVjhzNDRLR3BsbDVKRjI4enZkTi1iWDVRUEZUOEhYaVhobWpqc21nTFZySXpzQTVDMUpPSk5WcVNlTk5ZakFsZ2tjQ29sZ2p5OUxyeFVNYWVxSXVOSEY4bURNNFVUak5YdXBRTXJwbTRCeFhEdmtVbFlRZlpqVlhzODRDbkRZ?oc=5",
-      "source": "CNBC",
-      "pubDate": "Wed, 18 Feb 2026 15:44:10 GMT"
-    },
-    {
-      "title": "Today, Russia struck another American business in Ukraine—a civilian production facility of Mondelez in Trostianets—one of the first major U.S. investments in Ukraine’s independent economy. The missile hit one of the production buildings. Fortunately, there - x.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4OXZZbTVXU2VCc2N5dzZTVExhaHFHb0lLWUFULWJWX0RNUEF0a3NHMlNjM25OZDlCMnJuM1lWYVVQYktDeWRFbG1oaVlSRzJRTFJZLTdfSTZsaW5EMlhmU3o5ZTQ?oc=5",
-      "source": "x.com",
-      "pubDate": "Sat, 21 Feb 2026 21:18:19 GMT"
     },
     {
       "title": "I'm an American who's lived in Paris for nearly a decade. These 8 things have surprised me about living in the French capital. - Business Insider",
@@ -521,16 +533,34 @@
       "pubDate": "Fri, 20 Feb 2026 14:40:00 GMT"
     },
     {
+      "title": "I quit my job at 41 to go back to school. 3 things helped me succeed in my new career. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0tNaVBRQ2szVDhuRjRiUTMtUm9QUElaZUI1V1JLN0lHNmQ4UVdQRDhqc3RTYVNXbDJoT096SXpJWVpuNVBRUEl5UF8xX2VhTk81ZXdFam9nODZ0OGhoVVZFQlpCeEVfN2xkSmwwYkF3TUREUjF1WlBkNE5uV2I3MXBzX1lwYllua1pDRFJCRFQ0OWJWVDlMN09n?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Sat, 21 Feb 2026 10:08:00 GMT"
+    },
+    {
+      "title": "Downtown Edwardsville business owners are finding ways to navigate construction - The Edwardsville Intelligencer",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYk9laF9obEJURG9VZU5nc1VsVnhoS1hxSzF3TXpXeTBwLUdfLWpRQWNsZWJ5ZWZLRXd3LXpKOExlUmo0Q2xaX2t0S3dlNHh3dFhIWldDNnZjZW1vWFg0bEc3WFdST3V5VVh6R25JblNOUG9fSTV1YzBMVHV0VV8xQzZ4M2xEbjcyemJ2TXZYNmt0TGdfc0hDZ0FXb3oyUGxnVWozUk4zOUI1YzQ?oc=5",
+      "source": "The Edwardsville Intelligencer",
+      "pubDate": "Sat, 21 Feb 2026 22:00:51 GMT"
+    },
+    {
       "title": "‘Founders on Tap’ event to offer real talk for growing businesses - The Owensboro Times",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV2VraUQ0UWZETXVITmQ1WUNEWlV2ZmN5dlRmWE5yUmlqM0pLSE5lbmlqUUJLMWV2Snl0WUhqc3g0X1ZxREhyYlJaTHRVN2xQT2NQREZ1UnQ3UmdOX0Q0aVB3ZjFoWldzaU4tYi04LTNleWF2dWJ6SHF6SWNiWXRTNXpqc01BbDFRU1prWF9raFJJd0l0bjRnNllLVlFfdnRzb3Z1TUE0d0JLT0RzcTN4WEpn?oc=5",
       "source": "The Owensboro Times",
       "pubDate": "Sun, 22 Feb 2026 06:21:09 GMT"
     },
     {
-      "title": "I quit my job at 41 to go back to school. 3 things helped me succeed in my new career. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0tNaVBRQ2szVDhuRjRiUTMtUm9QUElaZUI1V1JLN0lHNmQ4UVdQRDhqc3RTYVNXbDJoT096SXpJWVpuNVBRUEl5UF8xX2VhTk81ZXdFam9nODZ0OGhoVVZFQlpCeEVfN2xkSmwwYkF3TUREUjF1WlBkNE5uV2I3MXBzX1lwYllua1pDRFJCRFQ0OWJWVDlMN09n?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Sat, 21 Feb 2026 10:08:00 GMT"
+      "title": "Fear not money stops cattle business success dreams - Farm Progress",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWF3WktSa3JiNmNNY2ZuSDVBcW5hbE10R3RpSmlLaXM3ZlRCVlZSVGpoQjhURjBEOEpKR0t1dUFyT0dwcDV2NVYtaHVVcmJralp5czJ6OVNjM3pfZ1BzWHV4N194cC1TZGVxODhSWHk5dTh3Wk1yZ0lNY2ZINEhGeTdZa2FkcnM5aTltUE1Ib0RMd3h6Q2NZ?oc=5",
+      "source": "Farm Progress",
+      "pubDate": "Fri, 20 Feb 2026 14:44:25 GMT"
+    },
+    {
+      "title": "Capital Program Office releases Business Supports RFP to strengthen small and local construction and design firms - City of Philadelphia (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQTUwUERnYXFaaWxpWTh5U3p4MUlxZWh4Sk9Ba1lyQWpBazltTENiNGwtM2RNNXZOYWRWUmI2WUkwQkJTN3lWMHhhajN1ajkzNXN1SzNmV1BMLXJNUUhFSmN5cFhSeDhrN3FOX0FZY00xSXlzblhGOUFSUjNiUXNGQk9oa0hVVF9iaHkyUDJRd1pZeWo5dDg5bG0yb0NoUHhRVEFDMDdreHlYQ051RUJGUXhZc0VvenRXYjI4ejNFVDR1cUdTQzhHdTJsYlNJVFRhYzZFTGJwdmtFOWEwR1Q2Vw?oc=5",
+      "source": "City of Philadelphia (.gov)",
+      "pubDate": "Thu, 19 Feb 2026 16:21:43 GMT"
     },
     {
       "title": "Mississippi State Handles Its Business in Methodical Win Over Delaware - Sports Illustrated",
@@ -545,28 +575,10 @@
       "pubDate": "Sat, 21 Feb 2026 19:46:00 GMT"
     },
     {
-      "title": "Fear not money stops cattle business success dreams - Farm Progress",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWF3WktSa3JiNmNNY2ZuSDVBcW5hbE10R3RpSmlLaXM3ZlRCVlZSVGpoQjhURjBEOEpKR0t1dUFyT0dwcDV2NVYtaHVVcmJralp5czJ6OVNjM3pfZ1BzWHV4N194cC1TZGVxODhSWHk5dTh3Wk1yZ0lNY2ZINEhGeTdZa2FkcnM5aTltUE1Ib0RMd3h6Q2NZ?oc=5",
-      "source": "Farm Progress",
-      "pubDate": "Fri, 20 Feb 2026 14:44:25 GMT"
-    },
-    {
       "title": "2025 Business Outlook - TheDailyNewsOnline.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNXkxUzM1SzhJbWtzYnJLaV9udG5qOTFGbXhLS2pVemNzaXFLVk9SUTJsZC1DYmhiOG9tcERuR0hBdVN0NmlscDZ5R2ZlX1NfcExHRkZfMG1EbDFUczZHVXU3MUM5SUs0amg1aXgtckxtc3Rncnk3enhmdnJZMWtIMmUxMWYwQ3RjVzIxaFpBc0lwZ0dtRTRiRERlTHFLVEQ1bkp6MmlYeGxld2dtUGw0emhnekg?oc=5",
       "source": "TheDailyNewsOnline.com",
       "pubDate": "Sat, 21 Feb 2026 23:00:00 GMT"
-    },
-    {
-      "title": "9-Year-Old Dies After Being Struck by Car at Tuscaloosa Business - Tuscaloosa Thread",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDcVJmWnpTb1pJRHB0aG8yOXBITng3aFg1MlNoTWk5NzZkQUh4SmRacXpPcHF5UGJwTEk1QlFhYWQ3eURqdUVGU1VsWkF0U1RMYXZhc29nN3plSXkzZlRtZFA2YWwtLVpTYXVEYTAzM1NmM0ZyQVhr?oc=5",
-      "source": "Tuscaloosa Thread",
-      "pubDate": "Sat, 21 Feb 2026 20:59:02 GMT"
-    },
-    {
-      "title": "Capital Program Office releases Business Supports RFP to strengthen small and local construction and design firms - City of Philadelphia (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQTUwUERnYXFaaWxpWTh5U3p4MUlxZWh4Sk9Ba1lyQWpBazltTENiNGwtM2RNNXZOYWRWUmI2WUkwQkJTN3lWMHhhajN1ajkzNXN1SzNmV1BMLXJNUUhFSmN5cFhSeDhrN3FOX0FZY00xSXlzblhGOUFSUjNiUXNGQk9oa0hVVF9iaHkyUDJRd1pZeWo5dDg5bG0yb0NoUHhRVEFDMDdreHlYQ051RUJGUXhZc0VvenRXYjI4ejNFVDR1cUdTQzhHdTJsYlNJVFRhYzZFTGJwdmtFOWEwR1Q2Vw?oc=5",
-      "source": "City of Philadelphia (.gov)",
-      "pubDate": "Thu, 19 Feb 2026 16:21:43 GMT"
     },
     {
       "title": "Wind gust tears roof off Waynesboro business - WHSV",
@@ -575,10 +587,10 @@
       "pubDate": "Sat, 21 Feb 2026 23:12:00 GMT"
     },
     {
-      "title": "Opinion | How George Harrison Transformed the Music Business - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUmc0MFR0WWhqeHNFMHFrNGRncnBaQmNVQlBySHVQUWltSjM0R2w4UGdYQkNhMVVxZmpJUWs5dmQ4ZGRoTjQwRm81YzctNDdDZHpUN25GYms4Wll3TlN2Q1RhZmVDYzhIVlg1MUxtWGpQdGJXQzYtalBnN1FCR2Q3cnVsZndOZDhBcThQSXpGdXE0UlNvOGxIR2xIWUJnZEpuZWJab1RGbENocjhiRGozSmxLd202VFM3TWxPZVNYWGo5cUZCWm5GaXdFTEFNczRKOHJYXzlCUWpQZ3dIdmhMUHN4UHJhR1NsQjEwdGxkRnBrcjktN2F2T3c3RFMzTnVuUWVhVkNfMVRDLTNYOEVVeVVoQkR1ellrX0NHeXNoeldKaGJjQnROamlsSjBUSHZCQTRrMGtpci1wZWtwbThucWtKSmduMlUzU2FybXdsazNmU1Y5OGt2ZVRTbURHc3JnNjk4ZXhpSk8wNE5RMXNCRzdJWDY3SENTMjBQU19uS2thdGNwNk1xc3k2bVF5aUlRUzVIZElB?oc=5",
-      "source": "The Wall Street Journal",
-      "pubDate": "Fri, 20 Feb 2026 22:52:00 GMT"
+      "title": "9-Year-Old Dies After Being Struck by Car at Tuscaloosa Business - Tuscaloosa Thread",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDcVJmWnpTb1pJRHB0aG8yOXBITng3aFg1MlNoTWk5NzZkQUh4SmRacXpPcHF5UGJwTEk1QlFhYWQ3eURqdUVGU1VsWkF0U1RMYXZhc29nN3plSXkzZlRtZFA2YWwtLVpTYXVEYTAzM1NmM0ZyQVhr?oc=5",
+      "source": "Tuscaloosa Thread",
+      "pubDate": "Sat, 21 Feb 2026 20:59:02 GMT"
     },
     {
       "title": "Southern Maryland Businesses Invited To Maryland Aerospace Day 2026 - The BayNet",
@@ -587,22 +599,10 @@
       "pubDate": "Sun, 22 Feb 2026 11:00:00 GMT"
     },
     {
-      "title": "Marion Business Expo connects community with local businesses - KGAN",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbklpTXBmclFxNW9SNDlHVzQ2ZmFnVGc3VWpkTWxYaHpfNmlSZGk2WkhsM290dmpCZ2lnTG5NQ1hCenJRQWcyRkZrOFctekI4UnM3b2VJQllMT282X2p4MDNqNFNNWGZJZVpERjBvTHVsZVlTWGtPOG4tOE55NE10ZlNBcTJlT0V4WTRmc2hsWVVVUFpMOURmREZ2RXZhYjFxS05v?oc=5",
-      "source": "KGAN",
-      "pubDate": "Sat, 21 Feb 2026 22:05:19 GMT"
-    },
-    {
       "title": "“Could’ve been a lot worse” owner reacts after box-truck crashes into business - KCRG",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmh3NzJRQWpFeUZjV05LZEJkcm9Ia05YdjZycmxkZFNvR01IM0NuNG1VaktFZ2FxRE1zeDU5ZkRZMWFCNWhIY0dQblAxTmtNcWVza0lRcEcyMHBHSEtkd1FOTE5vQ3oweTVaY0tjUUpWT1ZQLV8wRWtpNFA3UVU0U0ZzZldzWmU4QVR1M2FjOGQ4RDBHUUFDTVVWOWUtRzFN0gG0AUFVX3lxTE1RaGFMcTVOZExQdUFRMTRKeFVOZW8tVVB6SHgtTE8yazZJUVB1cDRqTFpxNmFtbkk1blBGdF81Yy1wZnJaRTRjVkF1Smg0WTF6RVRvZVRKaU80NFc1QWJyaW10SkxYZ1BkSndiNkR4UEM1U25saG5TbFFkNXJBSDJFNlRhZkFuRm41RkstNWlyUUJOaDFxN2JHYVVRWS1XSW0yS1dnckdsZVZXdDhXbGoxc25neQ?oc=5",
       "source": "KCRG",
       "pubDate": "Sun, 22 Feb 2026 00:31:00 GMT"
-    },
-    {
-      "title": "The uncertainty around tariffs in regards to businesses and the U.S. economy - CNN",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRGNEN2RxMjgzb1BlcjVjLVB3LW5naGFUd096T3BCd2hNUFhKMU5DMVVKOUVUQ21iNDQzV0d2cGdlMk5Nc1U5Q0dPbzNPdHBleVFEZGIxUngwMHh5QmctSVdGTDlxMUV5WFd4cnpqWUxqNUFTVGlUQllMOUxTMkQ2amxYNWhRVmV0a01MaHFQQzhjRFFvQTBDZE55VkJfTjlDWWFEV0JLZjQ4YlRGdlVQMmpqMlNqUnNWZ3Y0WEZ3?oc=5",
-      "source": "CNN",
-      "pubDate": "Sun, 22 Feb 2026 01:01:11 GMT"
     }
   ]
 }
