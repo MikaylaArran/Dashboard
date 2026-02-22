@@ -5,8 +5,8 @@
   <title>Global Monitor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!-- IMPORTANT: both files are in the SAME folder as index.html -->
-  <link rel="stylesheet" href="./style.css?v=1" />
+  <!-- Your CSS -->
+  <link rel="stylesheet" href="./style.css?v=3" />
 
   <!-- Leaflet (Map library) -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -23,9 +23,29 @@
   </noscript>
 
   <!-- =========================
-       LONG TERM (before map)
+       MAP (RIGHT AT THE TOP)
+  ========================== -->
+  <div class="map-strip">
+    <div class="map-banner">
+      <div id="worldMap"></div>
+      <div class="map-time" id="mapTime">Loading time…</div>
+
+      <div class="map-tools">
+        <label class="map-toggle">
+          <input type="checkbox" id="toggleOutages" />
+          <span>Internet outages</span>
+        </label>
+        <span class="map-badge" id="outagesCount">0</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- =========================
+       CONTENT
   ========================== -->
   <div class="page">
+
+    <!-- LONG TERM -->
     <div class="term-banner">
       <div class="term-title">LONG TERM</div>
       <div class="term-subtitle">Strategic horizon</div>
@@ -100,9 +120,7 @@
           <div class="panel" id="panel3-lt">
             <div class="panel-header">
               <div class="panel-title">PANEL 3</div>
-              <div class="meta-right">
-                <span class="badge">READY</span>
-              </div>
+              <div class="meta-right"><span class="badge">READY</span></div>
             </div>
             <div class="panel-body" id="panel3Body-lt">
               <div class="news-item">
@@ -117,10 +135,9 @@
               <div class="panel-title">DEMOCRACY TREND</div>
               <div class="meta-right">
                 <select class="news-select" id="demCountry-lt"></select>
-                <span class="badge">CSV</span>
+                <span class="badge" id="demUpdated-lt">CSV</span>
               </div>
             </div>
-
             <div class="panel-body" id="demBody-lt">
               <div class="dem-chart-wrap">
                 <canvas id="demChart-lt"></canvas>
@@ -132,9 +149,7 @@
           <div class="panel" id="panel6-lt">
             <div class="panel-header">
               <div class="panel-title">LIVE INTELLIGENCE</div>
-              <div class="meta-right">
-                <span class="badge">LIVE</span>
-              </div>
+              <div class="meta-right"><span class="badge">LIVE</span></div>
             </div>
             <div class="panel-body" id="panel6Body-lt">
               <div class="news-item">
@@ -147,31 +162,9 @@
         </div>
       </div>
     </section>
-  </div>
 
-  <!-- =========================
-       MAP (middle)
-  ========================== -->
-  <div class="map-strip">
-    <div class="map-banner">
-      <div id="worldMap"></div>
-      <div class="map-time" id="mapTime">Loading time…</div>
-
-      <div class="map-tools">
-        <label class="map-toggle">
-          <input type="checkbox" id="toggleOutages" />
-          <span>Internet outages</span>
-        </label>
-        <span class="map-badge" id="outagesCount">0</span>
-      </div>
-    </div>
-  </div>
-
-  <!-- =========================
-       SHORT TERM (after map)
-  ========================== -->
-  <div class="page">
-    <div class="term-banner">
+    <!-- SHORT TERM -->
+    <div class="term-banner" style="margin-top:22px;">
       <div class="term-title">SHORT TERM</div>
       <div class="term-subtitle">Immediate signals</div>
     </div>
@@ -245,9 +238,7 @@
           <div class="panel" id="panel3">
             <div class="panel-header">
               <div class="panel-title">PANEL 3</div>
-              <div class="meta-right">
-                <span class="badge">READY</span>
-              </div>
+              <div class="meta-right"><span class="badge">READY</span></div>
             </div>
             <div class="panel-body" id="panel3Body">
               <div class="news-item">
@@ -262,10 +253,9 @@
               <div class="panel-title">DEMOCRACY TREND</div>
               <div class="meta-right">
                 <select class="news-select" id="demCountry"></select>
-                <span class="badge">CSV</span>
+                <span class="badge" id="demUpdated">CSV</span>
               </div>
             </div>
-
             <div class="panel-body" id="demBody">
               <div class="dem-chart-wrap">
                 <canvas id="demChart"></canvas>
@@ -277,9 +267,7 @@
           <div class="panel" id="panel6">
             <div class="panel-header">
               <div class="panel-title">LIVE INTELLIGENCE</div>
-              <div class="meta-right">
-                <span class="badge">LIVE</span>
-              </div>
+              <div class="meta-right"><span class="badge">LIVE</span></div>
             </div>
             <div class="panel-body" id="panel6Body">
               <div class="news-item">
@@ -292,9 +280,10 @@
         </div>
       </div>
     </section>
+
   </div>
 
   <!-- External JS -->
-  <script src="./app.js?v=1" defer></script>
+  <script src="./app.js?v=3" defer></script>
 </body>
 </html>
