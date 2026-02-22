@@ -2,7 +2,7 @@
    Global Monitor Dashboard (Dual)
    - Short Term Insight (default IDs)
    - Long Term (same dashboard with -lt IDs)
-   - Map is shared (single map at top)
+   - Shared map at top
 */
 
 /* -----------------------------
@@ -34,7 +34,6 @@ function initLiveNewsFor(suffix = ""){
   if (!tabs || !player) return;
 
   function setChannel(channelId, tabEl){
-    // only clear tabs inside this tabs container
     tabs.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
     if (tabEl) tabEl.classList.add("active");
     player.src = liveEmbedUrl(channelId);
@@ -290,7 +289,10 @@ function initMap(){
 const WORLD_COUNTRIES_GEOJSON =
   "https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson";
 
+// Live endpoint (later you can replace with a real proxy)
 const OUTAGES_API = null;
+
+// Your GitHub Pages fallback
 const OUTAGES_FALLBACK = "/Dashboard/data/outages_mock.json";
 
 let outageEnabled = false;
@@ -327,6 +329,7 @@ async function loadCountriesLayer(){
   if (!res.ok) throw new Error("Could not load countries GeoJSON");
   const geo = await res.json();
 
+  // Invisible layer: used only to compute bounds/centers
   outageCountriesLayer = L.geoJSON(geo, {
     style: () => ({
       color: "transparent",
@@ -367,6 +370,7 @@ function parseOutageCountryCodes(payload){
   return set;
 }
 
+// ✅ SAFE: only try OUTAGES_API if it exists
 async function fetchOutagePayload(){
   const tryFetch = async (url) => {
     const r = await fetch(url, { cache: "no-store" });
@@ -374,12 +378,15 @@ async function fetchOutagePayload(){
     return await r.json();
   };
 
-  try {
-    return await tryFetch(OUTAGES_API);
-  } catch (e1) {
-    console.warn("Outages live API failed, using fallback:", e1?.message || e1);
-    return await tryFetch(OUTAGES_FALLBACK + "?ts=" + Date.now());
+  if (OUTAGES_API) {
+    try {
+      return await tryFetch(OUTAGES_API);
+    } catch (e1) {
+      console.warn("Outages live API failed, using fallback:", e1?.message || e1);
+    }
   }
+
+  return await tryFetch(OUTAGES_FALLBACK + "?ts=" + Date.now());
 }
 
 function buildOutageDots(){
@@ -491,10 +498,6 @@ async function initDemocracyTrendsFor(suffix = ""){
   const countrySel = document.getElementById(`demCountry${suffix}`);
   if (!body || !countrySel) return;
 
-  // keep your existing structure; don’t wipe the whole panel layout
-  // we only show loading note briefly (optional)
-  // body.innerHTML = `<div class="news-meta">Loading democracy data…</div>`;
-
   try {
     const url = "data/VDEM_small.csv?ts=" + Date.now();
     const res = await fetch(url, { cache: "no-store" });
@@ -539,12 +542,8 @@ async function initDemocracyTrendsFor(suffix = ""){
         tension: 0.3
       }));
 
-      // destroy proper instance
-      if (suffix === "-lt") {
-        destroyChart(demChartInstanceLT);
-      } else {
-        destroyChart(demChartInstance);
-      }
+      if (suffix === "-lt") destroyChart(demChartInstanceLT);
+      else destroyChart(demChartInstance);
 
       const instance = new Chart(canvas, {
         type: "line",
@@ -582,19 +581,19 @@ async function initDemocracyTrendsFor(suffix = ""){
    BOOT (init both dashboards)
 ----------------------------- */
 document.addEventListener("DOMContentLoaded", () => {
-  // Short term (default IDs)
+  // Short term
   initLiveNewsFor("");
   initInstabilityFor("");
   initTopNewsFor("");
   initDemocracyTrendsFor("");
 
-  // Long term (same dashboard, -lt IDs)
+  // Long term
   initLiveNewsFor("-lt");
   initInstabilityFor("-lt");
   initTopNewsFor("-lt");
   initDemocracyTrendsFor("-lt");
 
-  // Map is single
+  // Single map
   initMap();
 
   // refresh both dashboards
@@ -604,7 +603,7 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(() => refreshTopNewsFor(""), 60_000);
   setInterval(() => refreshTopNewsFor("-lt"), 60_000);
 
-  // Outages refresh (only if toggle ON)
+  // Refresh outage dots every 5 minutes (only does work if toggle is ON)
   setInterval(refreshOutageLayer, 5 * 60_000);
 });
 
