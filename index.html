@@ -1,335 +1,654 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Global Monitor</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+:root{
+  --bg:#0b0f14;
+  --card:#0f141b;
+  --top:#0c1118;
+  --border:rgba(255,255,255,0.15);
+  --shadow:0 20px 60px rgba(0,0,0,0.5);
+  --gap:18px;
+  --radius:0px;
 
-  <!-- External CSS (cache-bust) -->
-  <link rel="stylesheet" href="style.css?v=14" />
+  --container: 1320px;
+  --mapH: clamp(260px, 36vh, 420px);
 
-  <!-- Leaflet (Map library) -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  /* consistent header height */
+  --headerH: 54px;
+}
 
-  <!-- Chart.js + PapaParse (Democracy Trend) -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/dist/papaparse.min.js"></script>
-</head>
+*{ box-sizing:border-box; }
 
-<body>
-  <noscript style="color:white; padding:12px; display:block;">
-    This dashboard needs JavaScript enabled to load the map and data panels.
-  </noscript>
+body{
+  margin:0;
+  background:var(--bg);
+  font-family: Arial, Helvetica, sans-serif;
+  color:white;
+  overflow-x:hidden;
+}
 
-  <!-- FULL WIDTH MAP -->
-  <div class="map-strip">
-    <div class="map-banner">
-      <div id="worldMap"></div>
-      <div class="map-time" id="mapTime">Loading time…</div>
-    </div>
-  </div>
+/* FULL WIDTH MAP */
+.map-strip{ width:100%; padding:22px 18px 0; }
+.map-banner{
+  width:100%;
+  height:var(--mapH);
+  border-radius:var(--radius);
+  overflow:hidden;
+  border:1px solid var(--border);
+  background:var(--card);
+  box-shadow:var(--shadow);
+  position:relative;
+}
+#worldMap{ width:100%; height:100%; }
 
-  <!-- CENTERED CONTENT -->
-  <div class="page">
+.map-time{
+  position:absolute;
+  top:10px;
+  left:50%;
+  transform:translateX(-50%);
+  padding:6px 10px;
+  border-radius:999px;
+  font-size:12px;
+  background:rgba(0,0,0,0.55);
+  border:1px solid rgba(255,255,255,0.15);
+  color:rgba(255,255,255,0.9);
+  backdrop-filter:blur(6px);
+  z-index:500;
+  pointer-events:none;
+}
 
-    <!-- =========================
-         SHORT TERM INSIGHT
-         (uses your existing IDs)
-    ========================== -->
-    <section class="section-block" id="shortTerm">
-      <div class="section-head">
-        <div class="section-title">SHORT TERM INSIGHT</div>
-      </div>
+/* ✅ Map tools (matches your FINAL index.html) */
+.map-tools{
+  position:absolute;
+  top:10px;
+  right:10px;
+  display:flex;
+  align-items:center;
+  gap:10px;
+  padding:6px 10px;
+  border-radius:999px;
+  font-size:12px;
+  background:rgba(0,0,0,0.55);
+  border:1px solid rgba(255,255,255,0.15);
+  color:rgba(255,255,255,0.9);
+  backdrop-filter:blur(6px);
+  z-index:500;
+}
 
-      <div class="dashboard">
+.map-toggle{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  cursor:pointer;
+  user-select:none;
+}
 
-        <!-- LEFT: LIVE NEWS -->
-        <div class="news-block">
-          <div class="header">
-            <div class="title">LIVE NEWS</div>
-            <div class="live"><div class="dot"></div>LIVE</div>
-          </div>
+.map-toggle input{
+  width:14px;
+  height:14px;
+  accent-color: red;
+}
 
-          <div class="tabs" id="tabs"></div>
+/* Leaflet dark controls */
+.leaflet-control-zoom a{
+  background:rgba(0,0,0,0.55) !important;
+  color:rgba(255,255,255,0.9) !important;
+  border:1px solid rgba(255,255,255,0.15) !important;
+}
+.leaflet-control-zoom a:hover{ background:rgba(0,0,0,0.75) !important; }
 
-          <div class="player">
-            <iframe
-              id="player"
-              allow="autoplay; encrypted-media; picture-in-picture"
-              allowfullscreen>
-            </iframe>
-          </div>
+/* CENTERED CONTENT */
+.page{
+  width:100%;
+  max-width:var(--container);
+  margin:0 auto;
+  padding:18px 18px 40px;
+}
 
-          <div class="hint" id="ytHint">
-            If a channel isn’t live right now, YouTube may show “This video is unavailable”.
-          </div>
-        </div>
+/* Optional section header styling */
+.section-block{ width:100%; }
+.section-head{
+  margin: 8px 0 12px;
+}
+.section-title{
+  font-weight: 900;
+  letter-spacing: 0.28em;
+  font-size: 12px;
+  text-transform: uppercase;
+  opacity: 0.85;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
 
-        <!-- RIGHT: PANELS -->
-        <div class="right-col">
+/* WORLD-MONITOR STYLE GRID:
+   4 columns: Live tile + 3 columns of panels
+   Live tile spans 2 rows */
+.dashboard{
+  width:100%;
+  display:grid;
+  grid-template-columns: 1.45fr 1fr 1fr 1fr;
+  gap: var(--gap);
+  align-items: stretch;
+}
 
-          <!-- Row 1 -->
-          <div class="panel" id="instabilityPanel">
-            <div class="panel-header">
-              <div class="panel-title">COUNTRY INSTABILITY INDEX</div>
-              <div class="meta-right">
-                <span class="badge" id="instabilityWindow">7D</span>
-                <span class="badge" id="instabilityUpdated">Loading…</span>
-                <span class="badge" id="instabilityCount">0</span>
-              </div>
-            </div>
-            <div class="panel-body" id="instabilityList"></div>
-          </div>
+/* LEFT: LIVE NEWS (span two rows) */
+.news-block{
+  grid-column: 1 / 2;
+  grid-row: 1 / span 2;
 
-          <div class="panel" id="topNewsPanel">
-            <div class="panel-header">
-              <div class="panel-title">TOP NEWS</div>
-              <div class="meta-right">
-                <select class="news-select" id="newsCategory">
-                  <option value="all" selected>All</option>
-                  <option value="world">World</option>
-                  <option value="politics">Politics</option>
-                  <option value="business">Business</option>
-                  <option value="technology">Technology</option>
-                  <option value="environment">Environment</option>
-                </select>
+  border:1px solid var(--border);
+  border-radius:var(--radius);
+  overflow:hidden;
+  background:var(--card);
+  box-shadow:var(--shadow);
 
-                <select class="news-select" id="newsN">
-                  <option value="20">20</option>
-                  <option value="40">40</option>
-                  <option value="60" selected>60</option>
-                  <option value="100">100</option>
-                </select>
+  display:flex;
+  flex-direction:column;
+  min-height:0;
+}
 
-                <span class="badge" id="topNewsUpdated">Loading…</span>
-              </div>
-            </div>
-            <div class="panel-body" id="topNewsList"></div>
-          </div>
+/* LIVE NEWS HEADER */
+.header{
+  height: var(--headerH);
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  padding:0 16px;
+  border-bottom:1px solid var(--border);
+  background:var(--top);
+  flex:0 0 auto;
+  gap:12px;
+  line-height: 1;
+}
 
-          <div class="panel" id="panel3">
-            <div class="panel-header">
-              <div class="panel-title">PANEL 3</div>
-              <div class="meta-right">
-                <span class="badge">READY</span>
-              </div>
-            </div>
-            <div class="panel-body" id="panel3Body">
-              <div class="news-item">
-                <strong>Empty panel</strong>
-                <div class="news-meta">Intentionally blank for now.</div>
-              </div>
-            </div>
-          </div>
+.title{
+  flex: 1 1 auto;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 
-          <!-- Row 2: DEMOCRACY TREND -->
-          <div class="panel" id="democracyPanel">
-            <div class="panel-header">
-              <div class="panel-title">DEMOCRACY TREND</div>
-              <div class="meta-right">
-                <select class="news-select" id="demCountry"></select>
-                <span class="badge" id="demUpdated">CSV</span>
-              </div>
-            </div>
+  font-weight: 800;
+  letter-spacing: 0.24em;
+  font-size: 13px;
+  text-transform: uppercase;
+  line-height: 1;
+  padding-top: 1px;
+  opacity: 0.95;
 
-            <div class="panel-body" id="demBody">
-              <div class="dem-controls" id="demMeasures"></div>
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
 
-              <div class="dem-chart-wrap">
-                <canvas id="demChart"></canvas>
-              </div>
+.live{
+  flex:0 0 auto;
+  display:flex;
+  align-items:center;
+  gap:6px;
+  font-size:12px;
+  opacity:0.85;
+  white-space: nowrap;
+}
 
-              <div class="news-item">
-                <div class="summary-title">Summary Statistics</div>
-                <div class="dem-table" id="demStats"></div>
-              </div>
+.dot{
+  width:10px;
+  height:10px;
+  background:red;
+  border-radius:50%;
+  box-shadow:0 0 10px red;
+}
 
-              <div class="news-item">
-                <div class="summary-title">Recent 5-Year Change</div>
-                <div class="dem-table" id="demChange"></div>
-              </div>
-            </div>
-          </div>
+.tabs{
+  display:flex;
+  gap:10px;
+  padding:10px;
+  border-bottom:1px solid rgba(255,255,255,0.1);
+  overflow-x:auto;
+  background:var(--top);
+  flex:0 0 auto;
+}
 
-          <!-- Row 2: Panel 6 -->
-          <div class="panel" id="panel6">
-            <div class="panel-header">
-              <div class="panel-title">LIVE INTELLIGENCE</div>
-              <div class="meta-right">
-                <span class="badge">LIVE</span>
-              </div>
-            </div>
-            <div class="panel-body" id="panel6Body">
-              <div class="news-item">
-                <strong>Placeholder</strong>
-                <div class="news-meta">Add content later.</div>
-              </div>
-            </div>
-          </div>
+.tab{
+  border:1px solid rgba(255,255,255,0.15);
+  padding:8px 14px;
+  border-radius:10px;
+  cursor:pointer;
+  font-size:12px;
+  white-space:nowrap;
+  opacity:0.7;
+  user-select:none;
+}
+.tab.active{ background:red; border-color:red; opacity:1; }
 
-        </div>
-      </div>
-    </section>
+.player{
+  position: relative;
+  flex: 1 1 auto;
+  min-height: 0;
+  background: black;
+}
+iframe{
+  position:absolute;
+  inset:0;
+  width:100%;
+  height:100%;
+  border:none;
+}
 
-    <!-- =========================
-         LONG TERM
-         (duplicate dashboard with -lt IDs)
-    ========================== -->
-    <section class="section-block" id="longTerm">
-      <div class="section-head" style="margin-top:18px;">
-        <div class="section-title">LONG TERM</div>
-      </div>
+.hint{
+  padding:10px 16px;
+  font-size:12px;
+  color:rgba(255,255,255,0.65);
+  border-top:1px solid rgba(255,255,255,0.08);
+  background:rgba(0,0,0,0.2);
+  flex:0 0 auto;
+}
 
-      <div class="dashboard">
+/* RIGHT: 3x2 panels grid across columns 2-4 */
+.right-col{
+  grid-column: 2 / 5;
+  grid-row: 1 / 3;
 
-        <!-- LEFT: LIVE NEWS (LT) -->
-        <div class="news-block">
-          <div class="header">
-            <div class="title">LIVE NEWS</div>
-            <div class="live"><div class="dot"></div>LIVE</div>
-          </div>
+  display:grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-auto-rows: clamp(260px, 32vh, 360px);
+  gap: var(--gap);
+  align-items: stretch;
+}
 
-          <div class="tabs" id="tabs-lt"></div>
+/* PANEL */
+.panel{
+  border:1px solid var(--border);
+  border-radius:var(--radius);
+  overflow:hidden;
+  background:var(--card);
+  box-shadow:var(--shadow);
+  display:flex;
+  flex-direction:column;
+  min-height:0;
+}
 
-          <div class="player">
-            <iframe
-              id="player-lt"
-              allow="autoplay; encrypted-media; picture-in-picture"
-              allowfullscreen>
-            </iframe>
-          </div>
+/* Header: tidy like reference */
+.panel-header{
+  height: var(--headerH);
+  padding: 0 14px;
+  border-bottom: 1px solid var(--border);
+  background: var(--top);
 
-          <div class="hint" id="ytHint-lt">
-            If a channel isn’t live right now, YouTube may show “This video is unavailable”.
-          </div>
-        </div>
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
 
-        <!-- RIGHT: PANELS (LT) -->
-        <div class="right-col">
+  flex: 0 0 auto;
+  line-height: 1;
+}
 
-          <!-- Row 1 -->
-          <div class="panel" id="instabilityPanel-lt">
-            <div class="panel-header">
-              <div class="panel-title">COUNTRY INSTABILITY INDEX</div>
-              <div class="meta-right">
-                <span class="badge" id="instabilityWindow-lt">7D</span>
-                <span class="badge" id="instabilityUpdated-lt">Loading…</span>
-                <span class="badge" id="instabilityCount-lt">0</span>
-              </div>
-            </div>
-            <div class="panel-body" id="instabilityList-lt"></div>
-          </div>
+.panel-title{
+  flex: 1 1 auto;
+  min-width: 0;
 
-          <div class="panel" id="topNewsPanel-lt">
-            <div class="panel-header">
-              <div class="panel-title">TOP NEWS</div>
-              <div class="meta-right">
-                <select class="news-select" id="newsCategory-lt">
-                  <option value="all" selected>All</option>
-                  <option value="world">World</option>
-                  <option value="politics">Politics</option>
-                  <option value="business">Business</option>
-                  <option value="technology">Technology</option>
-                  <option value="environment">Environment</option>
-                </select>
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 
-                <select class="news-select" id="newsN-lt">
-                  <option value="20">20</option>
-                  <option value="40">40</option>
-                  <option value="60" selected>60</option>
-                  <option value="100">100</option>
-                </select>
+  font-weight: 800;
+  font-size: 12px;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
 
-                <span class="badge" id="topNewsUpdated-lt">Loading…</span>
-              </div>
-            </div>
-            <div class="panel-body" id="topNewsList-lt"></div>
-          </div>
+  line-height: 1;
+  padding-top: 1px;
+  opacity: 0.95;
 
-          <div class="panel" id="panel3-lt">
-            <div class="panel-header">
-              <div class="panel-title">PANEL 3</div>
-              <div class="meta-right">
-                <span class="badge">READY</span>
-              </div>
-            </div>
-            <div class="panel-body" id="panel3Body-lt">
-              <div class="news-item">
-                <strong>Empty panel</strong>
-                <div class="news-meta">Intentionally blank for now.</div>
-              </div>
-            </div>
-          </div>
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
 
-          <!-- Row 2: DEMOCRACY TREND (LT) -->
-          <div class="panel" id="democracyPanel-lt">
-            <div class="panel-header">
-              <div class="panel-title">DEMOCRACY TREND</div>
-              <div class="meta-right">
-                <select class="news-select" id="demCountry-lt"></select>
-                <span class="badge" id="demUpdated-lt">CSV</span>
-              </div>
-            </div>
+.meta-right{
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 8px;
 
-            <div class="panel-body" id="demBody-lt">
-              <div class="dem-controls" id="demMeasures-lt"></div>
+  flex-wrap: nowrap;
+  white-space: nowrap;
 
-              <div class="dem-chart-wrap">
-                <canvas id="demChart-lt"></canvas>
-              </div>
+  line-height: 1;
+}
 
-              <div class="news-item">
-                <div class="summary-title">Summary Statistics</div>
-                <div class="dem-table" id="demStats-lt"></div>
-              </div>
+.badge{
+  height: 24px;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 8px;
+  border-radius:999px;
+  font-size:11px;
+  opacity:0.85;
+  background:rgba(255,255,255,0.04);
+  border:1px solid rgba(255,255,255,0.15);
+  white-space:nowrap;
+}
 
-              <div class="news-item">
-                <div class="summary-title">Recent 5-Year Change</div>
-                <div class="dem-table" id="demChange-lt"></div>
-              </div>
-            </div>
-          </div>
+/* Panel body scroll */
+.panel-body{
+  flex:1 1 auto;
+  min-height:0;
+  overflow-y:auto;
+  overflow-x:hidden;
 
-          <!-- Row 2: Panel 6 (LT) -->
-          <div class="panel" id="panel6-lt">
-            <div class="panel-header">
-              <div class="panel-title">LIVE INTELLIGENCE</div>
-              <div class="meta-right">
-                <span class="badge">LIVE</span>
-              </div>
-            </div>
-            <div class="panel-body" id="panel6Body-lt">
-              <div class="news-item">
-                <strong>Placeholder</strong>
-                <div class="news-meta">Add content later.</div>
-              </div>
-            </div>
-          </div>
+  padding:12px;
+  padding-right:8px;
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+}
+.panel-body.is-empty{
+  justify-content:center;
+  align-items:flex-start;
+}
 
-        </div>
-      </div>
-    </section>
+/* Scrollbars */
+.panel-body::-webkit-scrollbar{ width:10px; }
+.panel-body::-webkit-scrollbar-track{
+  background:rgba(255,255,255,0.04);
+  border-radius:999px;
+}
+.panel-body::-webkit-scrollbar-thumb{
+  background:rgba(255,255,255,0.18);
+  border-radius:999px;
+}
+.panel-body::-webkit-scrollbar-thumb:hover{
+  background:rgba(255,255,255,0.28);
+}
 
-  </div>
+/* Cards */
+.country-card, .news-item{
+  border:1px solid rgba(255,255,255,0.10);
+  border-radius:12px;
+  padding:10px;
+  background:rgba(0,0,0,0.18);
+}
 
-  <!-- COUNTRY REPORT DRAWER -->
-  <div class="drawer-overlay" id="drawerOverlay" aria-hidden="true"></div>
+.country-top{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+}
 
-  <aside class="drawer" id="countryDrawer" aria-hidden="true">
-    <div class="drawer-header">
-      <div class="drawer-title">
-        <div class="drawer-kicker">WORLD MONITOR</div>
-        <div class="drawer-country" id="drawerCountry">Country</div>
-      </div>
+.country-left{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  min-width:0;
+}
 
-      <button class="drawer-close" id="drawerClose" aria-label="Close">✕</button>
-    </div>
+.country-dot{
+  width:10px;
+  height:10px;
+  border-radius:50%;
+  flex:0 0 auto;
+}
 
-    <div class="drawer-content" id="drawerContent"></div>
-  </aside>
+.country-name{
+  font-size:13px;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  max-width:220px;
+}
 
-  <!-- External JS (cache-bust) -->
-  <script src="app.js?v=21" defer></script>
-</body>
-</html>
+.score-wrap{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  flex:0 0 auto;
+}
+
+.severity{
+  font-size:11px;
+  padding:3px 8px;
+  border-radius:999px;
+  border:1px solid rgba(255,255,255,0.15);
+  background:rgba(255,255,255,0.04);
+  opacity:0.95;
+  white-space:nowrap;
+}
+
+.score{ font-size:18px; font-weight:800; }
+
+.bar{
+  margin-top:6px;
+  height:5px;
+  border-radius:999px;
+  background:rgba(255,255,255,.10);
+  overflow:hidden;
+}
+.bar > div{ height:100%; width:0%; border-radius:999px; }
+
+.breakdown{
+  margin-top:6px;
+  color:rgba(255,255,255,.55);
+  font-size:11px;
+  letter-spacing:.06em;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.news-item a{ color:rgba(255,255,255,0.95); text-decoration:none; }
+.news-item a:hover{ text-decoration:underline; }
+
+.news-meta{
+  margin-top:6px;
+  font-size:11px;
+  color:rgba(255,255,255,0.6);
+}
+
+/* Top news controls: header-sized */
+.news-select,
+.news-btn{
+  height: 28px;
+  padding: 0 10px;
+  line-height: 28px;
+  border-radius: 9px;
+  font-size: 12px;
+  border: 1px solid rgba(255,255,255,0.15);
+  color: rgba(255,255,255,0.92);
+}
+
+.news-select{
+  background: rgba(0,0,0,0.35);
+  outline: none;
+}
+
+.news-btn{
+  background: rgba(255,255,255,0.08);
+  cursor: pointer;
+}
+.news-btn:hover{ background: rgba(255,255,255,0.14); }
+
+.summary-title{
+  letter-spacing: .12em;
+  font-size: 12px;
+  opacity: .85;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+}
+.summary-text{
+  font-size: 13px;
+  line-height: 1.35;
+  color: rgba(255,255,255,0.86);
+}
+
+/* Mobile: collapse */
+@media (max-width:1100px){
+  .dashboard{
+    grid-template-columns: 1fr;
+  }
+
+  .news-block{
+    grid-column: 1;
+    grid-row: auto;
+    height: clamp(360px, 45vh, 520px);
+  }
+
+  .right-col{
+    grid-column: 1;
+    grid-row: auto;
+    grid-template-columns: 1fr;
+    grid-auto-rows: clamp(280px, 40vh, 520px);
+  }
+}
+
+/* -----------------------------
+   COUNTRY REPORT DRAWER
+----------------------------- */
+.drawer-overlay{
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.55);
+  backdrop-filter: blur(3px);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 180ms ease;
+  z-index: 9998;
+}
+
+.drawer{
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: min(520px, 92vw);
+  background: rgba(15,20,27,0.98);
+  border-left: 1px solid rgba(255,255,255,0.12);
+  box-shadow: -30px 0 80px rgba(0,0,0,0.6);
+  transform: translateX(105%);
+  transition: transform 220ms ease;
+  z-index: 9999;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.drawer.open{
+  transform: translateX(0);
+}
+
+.drawer-overlay.open{
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.drawer-header{
+  height: var(--headerH);
+  padding: 0 14px;
+  border-bottom: 1px solid rgba(255,255,255,0.12);
+  background: rgba(12,17,24,0.95);
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.drawer-kicker{
+  font-size: 10px;
+  letter-spacing: .22em;
+  opacity: .7;
+  text-transform: uppercase;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.drawer-country{
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: .06em;
+  margin-top: 2px;
+}
+
+.drawer-close{
+  height: 30px;
+  width: 34px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.15);
+  background: rgba(255,255,255,0.06);
+  color: rgba(255,255,255,0.92);
+  cursor: pointer;
+}
+.drawer-close:hover{
+  background: rgba(255,255,255,0.12);
+}
+
+.drawer-content{
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow: auto;
+  padding: 14px;
+}
+
+/* Make the country cards feel clickable */
+.country-card{
+  cursor: pointer;
+}
+.country-card:hover{
+  border-color: rgba(255,255,255,0.18);
+  background: rgba(0,0,0,0.24);
+}
+
+.trend-up{ color:#ef4444; }
+.trend-down{ color:#22c55e; }
+.trend-flat{ color:rgba(255,255,255,0.6); }
+
+.kv-row{
+  display:flex;
+  gap:10px;
+  flex-wrap:wrap;
+  margin-top:10px;
+}
+.kv{
+  border:1px solid rgba(255,255,255,0.12);
+  background:rgba(255,255,255,0.04);
+  border-radius:12px;
+  padding:8px 10px;
+  font-size:12px;
+  opacity:.9;
+}
+.kv strong{ font-size:13px; }
+
+.type-list{
+  margin-top:10px;
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+}
+.type-row{
+  display:flex;
+  justify-content:space-between;
+  gap:10px;
+  font-size:12px;
+  color:rgba(255,255,255,0.85);
+}
+.type-row span{ color:rgba(255,255,255,0.6); }
+
+/* Democracy Trend panel spans 2 columns for wider chart (Short Term + Long Term) */
+#democracyPanel,
+#democracyPanel-lt{
+  grid-column: span 2;
+}
+
+.dem-chart-wrap{
+  height: 260px;
+}
+#demChart,
+#demChart-lt{
+  width: 100%;
+  height: 100%;
+}
+
+/* Leaflet tooltip look (clean + readable) */
+.leaflet-tooltip{
+  background: rgba(0,0,0,0.80);
+  border: 1px solid rgba(255,255,255,0.15);
+  color: rgba(255,255,255,0.95);
+  border-radius: 10px;
+  padding: 8px 10px;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+}
+
+.leaflet-tooltip:before{
+  border-top-color: rgba(255,255,255,0.15) !important;
+}
