@@ -54,8 +54,8 @@ body{
   pointer-events:none;
 }
 
-/* ✅ Map toggle controls (Internet outages) */
-.map-controls{
+/* ✅ Map tools (matches your FINAL index.html) */
+.map-tools{
   position:absolute;
   top:10px;
   right:10px;
@@ -86,18 +86,6 @@ body{
   accent-color: red;
 }
 
-.map-badge{
-  height:22px;
-  display:inline-flex;
-  align-items:center;
-  padding:0 8px;
-  border-radius:999px;
-  font-size:11px;
-  background:rgba(255,255,255,0.06);
-  border:1px solid rgba(255,255,255,0.15);
-  opacity:0.9;
-}
-
 /* Leaflet dark controls */
 .leaflet-control-zoom a{
   background:rgba(0,0,0,0.55) !important;
@@ -112,6 +100,20 @@ body{
   max-width:var(--container);
   margin:0 auto;
   padding:18px 18px 40px;
+}
+
+/* Optional section header styling */
+.section-block{ width:100%; }
+.section-head{
+  margin: 8px 0 12px;
+}
+.section-title{
+  font-weight: 900;
+  letter-spacing: 0.28em;
+  font-size: 12px;
+  text-transform: uppercase;
+  opacity: 0.85;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 /* WORLD-MONITOR STYLE GRID:
@@ -490,6 +492,7 @@ iframe{
     grid-auto-rows: clamp(280px, 40vh, 520px);
   }
 }
+
 /* -----------------------------
    COUNTRY REPORT DRAWER
 ----------------------------- */
@@ -585,6 +588,7 @@ iframe{
   border-color: rgba(255,255,255,0.18);
   background: rgba(0,0,0,0.24);
 }
+
 .trend-up{ color:#ef4444; }
 .trend-down{ color:#22c55e; }
 .trend-flat{ color:rgba(255,255,255,0.6); }
@@ -619,14 +623,18 @@ iframe{
   color:rgba(255,255,255,0.85);
 }
 .type-row span{ color:rgba(255,255,255,0.6); }
-/* Democracy Trend panel spans 2 columns for wider chart */
-#democracyPanel{
+
+/* Democracy Trend panel spans 2 columns for wider chart (Short Term + Long Term) */
+#democracyPanel,
+#democracyPanel-lt{
   grid-column: span 2;
 }
+
 .dem-chart-wrap{
   height: 260px;
 }
-#demChart{
+#demChart,
+#demChart-lt{
   width: 100%;
   height: 100%;
 }
