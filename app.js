@@ -4,7 +4,7 @@
    - Instability (local JSON)
    - Top News (local JSON)
    - Democracy Trends (CSV + Chart.js)
-   - Map + Internet Outages (dots + hover insight)
+   - Map + Outage dots
 */
 
 /* -----------------------------
@@ -30,9 +30,9 @@ function liveEmbedUrl(channelId){
   return url.toString();
 }
 
-function initLiveNewsFor(tabsId, playerId){
-  const tabs = document.getElementById(tabsId);
-  const player = document.getElementById(playerId);
+function initLiveNews(suffix = ""){
+  const tabs = document.getElementById(`tabs${suffix}`);
+  const player = document.getElementById(`player${suffix}`);
   if (!tabs || !player) return;
 
   function setChannel(channelId, tabEl){
@@ -72,16 +72,16 @@ function severityFor(score){
   return { label:"MODERATE", color:"#22c55e" };
 }
 
-async function initInstabilityFor({ listId, updatedId, countId, windowId }){
-  const list = document.getElementById(listId);
-  const updated = document.getElementById(updatedId);
-  const count = document.getElementById(countId);
-  const windowBadge = document.getElementById(windowId);
+async function initInstability(suffix = ""){
+  const list = document.getElementById(`instabilityList${suffix}`);
+  const updated = document.getElementById(`instabilityUpdated${suffix}`);
+  const count = document.getElementById(`instabilityCount${suffix}`);
+  const windowBadge = document.getElementById(`instabilityWindow${suffix}`);
 
   if (!list) return;
 
   try{
-    const res = await fetch("data/instability.json?ts=" + Date.now(), { cache:"no-store" });
+    const res = await fetch(`data/instability.json?ts=${Date.now()}`, { cache:"no-store" });
     if(!res.ok) throw new Error("instability.json missing");
     const data = await res.json();
 
@@ -152,10 +152,10 @@ async function loadTopNews(category){
   return await res.json();
 }
 
-function renderTopNews(payload, { listId, updatedId, nId }){
-  const list = document.getElementById(listId);
-  const updated = document.getElementById(updatedId);
-  const newsNEl = document.getElementById(nId);
+function renderTopNews(payload, suffix = ""){
+  const list = document.getElementById(`topNewsList${suffix}`);
+  const updated = document.getElementById(`topNewsUpdated${suffix}`);
+  const newsNEl = document.getElementById(`newsN${suffix}`);
 
   if (!list) return;
 
@@ -205,21 +205,21 @@ function renderTopNews(payload, { listId, updatedId, nId }){
       </div>
       <div class="news-meta">${safeText(pubDate)}${source ? ` | ${safeText(source)}` : ""}</div>
     `;
-    document.getElementById(listId).appendChild(item);
+    list.appendChild(item);
   });
 }
 
-async function refreshTopNewsFor({ catId, listId, updatedId, nId }){
-  const catEl = document.getElementById(catId);
-  const updated = document.getElementById(updatedId);
+async function refreshTopNews(suffix = ""){
+  const catEl = document.getElementById(`newsCategory${suffix}`);
+  const updated = document.getElementById(`topNewsUpdated${suffix}`);
   const category = catEl ? catEl.value : "all";
 
   try{
     if (updated) updated.textContent = "Loading…";
     const payload = await loadTopNews(category);
-    renderTopNews(payload, { listId, updatedId, nId });
+    renderTopNews(payload, suffix);
   } catch (e){
-    const list = document.getElementById(listId);
+    const list = document.getElementById(`topNewsList${suffix}`);
     if (updated) updated.textContent = "No data";
     if (list){
       list.classList.add("is-empty");
@@ -234,19 +234,14 @@ async function refreshTopNewsFor({ catId, listId, updatedId, nId }){
   }
 }
 
-function initTopNewsFor({ catId, nId, listId, updatedId }){
-  const newsCategoryEl = document.getElementById(catId);
-  const newsNEl = document.getElementById(nId);
+function initTopNews(suffix = ""){
+  const newsCategoryEl = document.getElementById(`newsCategory${suffix}`);
+  const newsNEl = document.getElementById(`newsN${suffix}`);
 
-  if (newsCategoryEl) newsCategoryEl.addEventListener("change", () =>
-    refreshTopNewsFor({ catId, nId, listId, updatedId })
-  );
+  if (newsCategoryEl) newsCategoryEl.addEventListener("change", () => refreshTopNews(suffix));
+  if (newsNEl) newsNEl.addEventListener("change", () => refreshTopNews(suffix));
 
-  if (newsNEl) newsNEl.addEventListener("change", () =>
-    refreshTopNewsFor({ catId, nId, listId, updatedId })
-  );
-
-  refreshTopNewsFor({ catId, nId, listId, updatedId });
+  refreshTopNews(suffix);
 }
 
 /* -----------------------------
@@ -272,18 +267,14 @@ function initMap(){
   function updateMapTime(){
     const label = document.getElementById("mapTime");
     if (!label) return;
-    const now = new Date();
-    label.textContent = now.toUTCString().replace("GMT", "UTC");
+    label.textContent = new Date().toUTCString().replace("GMT", "UTC");
   }
-
   updateMapTime();
   setInterval(updateMapTime, 1000);
 
-  function fixSize(){
-    setTimeout(() => _map && _map.invalidateSize(), 150);
-  }
-  window.addEventListener("load", fixSize);
-  window.addEventListener("resize", fixSize);
+  // Make sure Leaflet sizes correctly after layout
+  setTimeout(() => _map && _map.invalidateSize(), 200);
+  window.addEventListener("resize", () => setTimeout(() => _map && _map.invalidateSize(), 150));
 
   initOutageToggle();
 }
@@ -294,11 +285,10 @@ function initMap(){
 const WORLD_COUNTRIES_GEOJSON =
   "https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson";
 
-const OUTAGES_API = null;
-const OUTAGES_FALLBACK = "/Dashboard/data/outages_mock.json";
+const OUTAGES_API = null; // keep null for now
+const OUTAGES_FALLBACK = "data/outages_mock.json";
 
 let outageEnabled = false;
-
 let outageCountriesLayer = null;
 let outageDotsLayer = null;
 let lastOutageCountryCodes = new Set();
@@ -311,8 +301,7 @@ function setOutageCount(n){
 
 function getIso2FromFeature(feature){
   const props = feature?.properties || {};
-  const code = (props.ISO_A2 || props.iso_a2 || props.ISO2 || props.id || "").toString().toUpperCase();
-  return code;
+  return (props.ISO_A2 || props.iso_a2 || props.ISO2 || props.id || "").toString().toUpperCase();
 }
 
 function ensureOutageDotsLayer(){
@@ -346,7 +335,6 @@ async function loadCountriesLayer(){
 function parseOutageCountryCodes(payload){
   const annotations = payload?.result?.annotations || payload?.annotations || [];
   const set = new Set();
-
   outageDetailsByCode = new Map();
 
   annotations.forEach(a => {
@@ -361,7 +349,6 @@ function parseOutageCountryCodes(payload){
       if (!code) return;
       const c = String(code).toUpperCase();
       set.add(c);
-
       if (!outageDetailsByCode.has(c)) {
         outageDetailsByCode.set(c, { code: c, start, end, cause, type, summary });
       }
@@ -379,10 +366,11 @@ async function fetchOutagePayload(){
   };
 
   try {
+    if (!OUTAGES_API) throw new Error("No live outages API configured");
     return await tryFetch(OUTAGES_API);
   } catch (e1) {
     console.warn("Outages live API failed, using fallback:", e1?.message || e1);
-    return await tryFetch(OUTAGES_FALLBACK + "?ts=" + Date.now());
+    return await tryFetch(`${OUTAGES_FALLBACK}?ts=${Date.now()}`);
   }
 }
 
@@ -483,156 +471,125 @@ function initOutageToggle(){
 /* -----------------------------
    DEMOCRACY TRENDS (CSV)
 ----------------------------- */
-const demCharts = new Map(); // canvasId -> Chart instance
+function makeDemocracyTrends(suffix = ""){
+  let chartInstance = null;
 
-function destroyDemChart(canvasId){
-  try{
-    const ch = demCharts.get(canvasId);
-    if (ch && typeof ch.destroy === "function") ch.destroy();
-  }catch(_){}
-  demCharts.delete(canvasId);
-}
+  function destroy(){
+    try {
+      if (chartInstance && typeof chartInstance.destroy === "function") chartInstance.destroy();
+    } catch (_) {}
+    chartInstance = null;
+  }
 
-async function initDemocracyTrendsFor({ bodyId, countrySelId, canvasId }){
-  const body = document.getElementById(bodyId);
-  const countrySel = document.getElementById(countrySelId);
-  if (!body || !countrySel) return;
+  return async function init(){
+    const body = document.getElementById(`demBody${suffix}`);
+    const countrySel = document.getElementById(`demCountry${suffix}`);
+    const note = document.getElementById(`demNote${suffix}`);
+    const canvas = document.getElementById(`demChart${suffix}`);
 
-  body.innerHTML = `<div class="news-meta">Loading democracy data…</div>`;
+    if (!body || !countrySel || !canvas) return;
 
-  try{
-    const url = "data/VDEM_small.csv?ts=" + Date.now();
-    const res = await fetch(url, { cache: "no-store" });
-    if (!res.ok) throw new Error(`CSV not found (${res.status}). Put it at data/VDEM_small.csv`);
+    try {
+      if (note) note.textContent = "Loading democracy data…";
 
-    const text = await res.text();
-    const parsed = Papa.parse(text, { header:true, dynamicTyping:true, skipEmptyLines:true });
-    const rows = (parsed.data || []).filter(r => r && r.country && r.year);
+      const url = `data/VDEM_small.csv?ts=${Date.now()}`;
+      const res = await fetch(url, { cache: "no-store" });
+      if (!res.ok) throw new Error(`CSV not found (${res.status}). Put it at data/VDEM_small.csv`);
 
-    if (!rows.length){
-      body.innerHTML = `<div class="news-item"><strong>No democracy data</strong></div>`;
-      return;
-    }
+      const text = await res.text();
+      const parsed = Papa.parse(text, { header:true, dynamicTyping:true, skipEmptyLines:true });
+      const rows = (parsed.data || []).filter(r => r && r.country && r.year);
 
-    const countries = [...new Set(rows.map(r => String(r.country).trim()))].filter(Boolean).sort((a,b)=>a.localeCompare(b));
-    countrySel.innerHTML = countries.map(c => `<option value="${safeText(c)}">${safeText(c)}</option>`).join("");
-    countrySel.value = countries.includes("South Africa") ? "South Africa" : countries[0];
+      const countries = [...new Set(rows.map(r => String(r.country).trim()))]
+        .filter(Boolean)
+        .sort((a,b)=>a.localeCompare(b));
 
-    // Ensure chart HTML exists
-    body.innerHTML = `
-      <div class="dem-chart-wrap">
-        <canvas id="${safeText(canvasId)}"></canvas>
-      </div>
-      <div class="news-meta" style="margin-top:10px;" id="${safeText(canvasId)}-note"></div>
-    `;
+      countrySel.innerHTML = countries.map(c => `<option value="${safeText(c)}">${safeText(c)}</option>`).join("");
+      countrySel.value = countries.includes("South Africa") ? "South Africa" : (countries[0] || "");
 
-    const canvas = document.getElementById(canvasId);
-    const note = document.getElementById(`${canvasId}-note`);
-    if (!canvas) throw new Error(`Canvas #${canvasId} not found`);
+      const measures = [
+        { key:"electoral_democracy_index", label:"Electoral" },
+        { key:"liberal_democracy_index", label:"Liberal" },
+        { key:"electoral_fairness_index", label:"Fairness" },
+        { key:"vote_buying", label:"Vote Buying" },
+        { key:"freedom_of_expression_index", label:"Expression" }
+      ];
 
-    const measures = [
-      { key:"electoral_democracy_index", label:"Electoral" },
-      { key:"liberal_democracy_index", label:"Liberal" },
-      { key:"electoral_fairness_index", label:"Fairness" },
-      { key:"vote_buying", label:"Vote Buying" },
-      { key:"freedom_of_expression_index", label:"Expression" }
-    ];
+      function render(country){
+        const data = rows
+          .filter(r => String(r.country).trim() === String(country).trim())
+          .sort((a,b)=>Number(a.year)-Number(b.year));
 
-    function render(country){
-      const data = rows
-        .filter(r => String(r.country).trim() === String(country).trim())
-        .sort((a,b)=>Number(a.year)-Number(b.year));
+        if (!data.length){
+          destroy();
+          if (note) note.textContent = "No rows found for this country in the CSV.";
+          return;
+        }
 
-      if (!data.length){
-        destroyDemChart(canvasId);
-        if (note) note.textContent = "No rows found for this country in the CSV.";
-        return;
+        const years = data.map(d => d.year);
+        const datasets = measures.map(m => ({
+          label: m.label,
+          data: data.map(d => d[m.key]),
+          tension: 0.3
+        }));
+
+        destroy();
+
+        chartInstance = new Chart(canvas, {
+          type: "line",
+          data: { labels: years, datasets },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: { legend: { labels: { color: "#fff" } } },
+            scales: {
+              x: { ticks: { color: "#aaa" }, grid: { color: "rgba(255,255,255,0.05)" } },
+              y: { ticks: { color: "#aaa" }, grid: { color: "rgba(255,255,255,0.05)" } }
+            }
+          }
+        });
+
+        if (note) note.textContent = "";
       }
 
-      const years = data.map(d => d.year);
-      const datasets = measures.map(m => ({
-        label: m.label,
-        data: data.map(d => d[m.key]),
-        tension: 0.3
-      }));
+      render(countrySel.value);
+      countrySel.onchange = (e) => render(e.target.value);
 
-      destroyDemChart(canvasId);
-
-      const chart = new Chart(canvas, {
-        type: "line",
-        data: { labels: years, datasets },
-        options: {
-          responsive: true,
-          maintainAspectRatio: false,
-          plugins: { legend: { labels: { color: "#fff" } } },
-          scales: {
-            x: { ticks: { color: "#aaa" }, grid: { color: "rgba(255,255,255,0.05)" } },
-            y: { ticks: { color: "#aaa" }, grid: { color: "rgba(255,255,255,0.05)" } }
-          }
-        }
-      });
-
-      demCharts.set(canvasId, chart);
-      if (note) note.textContent = "";
+    } catch (e) {
+      if (note) note.textContent = `Error loading CSV: ${e?.message || String(e)}`;
+      console.error(e);
     }
-
-    render(countrySel.value);
-    countrySel.onchange = (e) => render(e.target.value);
-
-  }catch(e){
-    body.innerHTML = `
-      <div class="news-item">
-        <strong>Error loading CSV</strong>
-        <div class="news-meta">${safeText(e?.message || String(e))}</div>
-      </div>
-    `;
-    console.error(e);
-  }
+  };
 }
 
+const initDemocracyShort = makeDemocracyTrends("");
+const initDemocracyLong  = makeDemocracyTrends("-lt");
+
 /* -----------------------------
-   BOOT (initialize BOTH dashboards)
+   BOOT
 ----------------------------- */
 document.addEventListener("DOMContentLoaded", () => {
-  // Short term
-  initLiveNewsFor("tabs", "player");
-  initInstabilityFor({
-    listId:"instabilityList", updatedId:"instabilityUpdated", countId:"instabilityCount", windowId:"instabilityWindow"
-  });
-  initTopNewsFor({
-    catId:"newsCategory", nId:"newsN", listId:"topNewsList", updatedId:"topNewsUpdated"
-  });
-  initDemocracyTrendsFor({ bodyId:"demBody", countrySelId:"demCountry", canvasId:"demChart" });
-
   // Long term
-  initLiveNewsFor("tabs-lt", "player-lt");
-  initInstabilityFor({
-    listId:"instabilityList-lt", updatedId:"instabilityUpdated-lt", countId:"instabilityCount-lt", windowId:"instabilityWindow-lt"
-  });
-  initTopNewsFor({
-    catId:"newsCategory-lt", nId:"newsN-lt", listId:"topNewsList-lt", updatedId:"topNewsUpdated-lt"
-  });
-  initDemocracyTrendsFor({ bodyId:"demBody-lt", countrySelId:"demCountry-lt", canvasId:"demChart-lt" });
+  initLiveNews("-lt");
+  initInstability("-lt");
+  initTopNews("-lt");
+  initDemocracyLong();
 
   // Map
   initMap();
 
-  // Refresh
-  setInterval(() => initInstabilityFor({
-    listId:"instabilityList", updatedId:"instabilityUpdated", countId:"instabilityCount", windowId:"instabilityWindow"
-  }), 60_000);
+  // Short term
+  initLiveNews("");
+  initInstability("");
+  initTopNews("");
+  initDemocracyShort();
 
-  setInterval(() => initInstabilityFor({
-    listId:"instabilityList-lt", updatedId:"instabilityUpdated-lt", countId:"instabilityCount-lt", windowId:"instabilityWindow-lt"
-  }), 60_000);
+  // Refresh loops
+  setInterval(() => initInstability(""), 60_000);
+  setInterval(() => initInstability("-lt"), 60_000);
 
-  setInterval(() => refreshTopNewsFor({
-    catId:"newsCategory", nId:"newsN", listId:"topNewsList", updatedId:"topNewsUpdated"
-  }), 60_000);
-
-  setInterval(() => refreshTopNewsFor({
-    catId:"newsCategory-lt", nId:"newsN-lt", listId:"topNewsList-lt", updatedId:"topNewsUpdated-lt"
-  }), 60_000);
+  setInterval(() => refreshTopNews(""), 60_000);
+  setInterval(() => refreshTopNews("-lt"), 60_000);
 
   setInterval(refreshOutageLayer, 5 * 60_000);
 });
