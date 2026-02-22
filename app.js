@@ -1,610 +1,325 @@
-/* app.js
-   Global Monitor Dashboard (Dual)
-   - Short Term Insight (default IDs)
-   - Long Term (same dashboard with -lt IDs)
-   - Shared map at top
-*/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Global Monitor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-/* -----------------------------
-   LIVE NEWS (YouTube)
------------------------------ */
-const CHANNELS = [
-  { name: "SKY NEWS", channelId: "UCoMdktPbSTixAyNGwb-UYkQ" },
-  { name: "NBC NEWS", channelId: "UCeY0bbntWzzVIaj2z3QigXg" },
-  { name: "CBS NEWS", channelId: "UC8p1vwvWtl6T73JiExfWs1g" },
-  { name: "ABC NEWS", channelId: "UCBi2mrWuNuyYy4gbM6fU18Q" },
-  { name: "DW NEWS", channelId: "UCknLrEdhRCp1aegoMqRaCZg" },
-  { name: "AL JAZEERA", channelId: "UCNye-wNBqNL5ZzHSJj3l8Bg" },
-  { name: "FRANCE 24", channelId: "UCQfwfsi5VrQ8yKZ-UWmAEFg" },
-  { name: "EURONEWS", channelId: "UCSrZ3UV4jOidv8ppoVuvW9Q" }
-];
+  <!-- External CSS (cache-bust) -->
+  <link rel="stylesheet" href="style.css?v=16" />
 
-function liveEmbedUrl(channelId){
-  const url = new URL("https://www.youtube.com/embed/live_stream");
-  url.searchParams.set("channel", channelId);
-  url.searchParams.set("autoplay", "1");
-  url.searchParams.set("mute", "1");
-  url.searchParams.set("playsinline", "1");
-  return url.toString();
-}
+  <!-- Leaflet (Map library) -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
-function initLiveNewsFor(suffix = ""){
-  const tabs = document.getElementById(`tabs${suffix}`);
-  const player = document.getElementById(`player${suffix}`);
-  if (!tabs || !player) return;
+  <!-- Chart.js + PapaParse (Democracy Trend) -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/dist/papaparse.min.js"></script>
+</head>
 
-  function setChannel(channelId, tabEl){
-    tabs.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
-    if (tabEl) tabEl.classList.add("active");
-    player.src = liveEmbedUrl(channelId);
-  }
+<body>
+  <noscript style="color:white; padding:12px; display:block;">
+    This dashboard needs JavaScript enabled to load the map and data panels.
+  </noscript>
 
-  tabs.innerHTML = "";
-  CHANNELS.forEach((c, i) => {
-    const tab = document.createElement("div");
-    tab.className = "tab";
-    tab.innerText = c.name;
-    tab.addEventListener("click", () => setChannel(c.channelId, tab));
-    tabs.appendChild(tab);
-    if (i === 0) setChannel(c.channelId, tab);
-  });
-}
+  <!-- =========================
+       LONG TERM (BOX HEADER FIRST)
+  ========================== -->
+  <div class="section-box">
+    <div class="section-box-title">LONG TERM</div>
+    <div class="section-box-sub">Macro patterns, structural signals, democracy trajectory</div>
+  </div>
 
-/* -----------------------------
-   SAFE TEXT
------------------------------ */
-function safeText(s){
-  return String(s ?? "").replace(/[&<>"']/g, c => ({
-    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
-  }[c]));
-}
+  <!-- FULL WIDTH MAP (stays single, under LONG TERM header) -->
+  <div class="map-strip">
+    <div class="map-banner">
+      <div id="worldMap"></div>
+      <div class="map-time" id="mapTime">Loading time…</div>
 
-/* -----------------------------
-   INSTABILITY (JSON)
------------------------------ */
-function severityFor(score){
-  const x = Number(score ?? 0);
-  if (x >= 80) return { label:"CRITICAL", color:"#ef4444" };
-  if (x >= 65) return { label:"HIGH", color:"#f59e0b" };
-  if (x >= 50) return { label:"ELEVATED", color:"#eab308" };
-  return { label:"MODERATE", color:"#22c55e" };
-}
+      <!-- Map toggle (Internet outages) -->
+      <div class="map-tools">
+        <label class="map-toggle">
+          <input type="checkbox" id="toggleOutages" checked />
+          Internet outages
+        </label>
+        <span class="badge" id="outagesCount">0</span>
+      </div>
+    </div>
+  </div>
 
-async function initInstabilityFor(suffix = ""){
-  const list = document.getElementById(`instabilityList${suffix}`);
-  const updated = document.getElementById(`instabilityUpdated${suffix}`);
-  const count = document.getElementById(`instabilityCount${suffix}`);
-  const windowBadge = document.getElementById(`instabilityWindow${suffix}`);
+  <!-- CENTERED CONTENT -->
+  <div class="page">
 
-  if (!list) return;
+    <!-- =========================
+         LONG TERM DASHBOARD
+    ========================== -->
+    <section class="section-block" id="longTerm">
 
-  try{
-    const res = await fetch("data/instability.json?ts=" + Date.now(), { cache:"no-store" });
-    if(!res.ok) throw new Error("instability.json missing");
-    const data = await res.json();
+      <div class="dashboard">
 
-    const rows = (data.countries || [])
-      .slice()
-      .sort((a,b)=>(Number(b.score||0))-(Number(a.score||0)));
-
-    if(count) count.textContent = rows.length;
-    if (windowBadge && data?.window_days) windowBadge.textContent = `${data.window_days}D`;
-
-    list.classList.remove("is-empty");
-    list.innerHTML = "";
-
-    rows.forEach(item=>{
-      const score = Number(item.score ?? 0);
-      const sev = severityFor(score);
-
-      const card = document.createElement("div");
-      card.className="country-card";
-      card.innerHTML = `
-        <div class="country-top">
-          <div class="country-left">
-            <div class="country-dot" style="background:${sev.color}; box-shadow:0 0 10px ${sev.color}55;"></div>
-            <div class="country-name">${safeText(item.country ?? "Unknown")}</div>
+        <!-- LEFT: LIVE NEWS (LT) -->
+        <div class="news-block">
+          <div class="header">
+            <div class="title">LIVE NEWS</div>
+            <div class="live"><div class="dot"></div>LIVE</div>
           </div>
-          <div class="score-wrap">
-            <span class="severity" style="border-color:${sev.color}55; background:${sev.color}22; color:${sev.color};">${sev.label}</span>
-            <div class="score">${score}</div>
+
+          <div class="tabs" id="tabs-lt"></div>
+
+          <div class="player">
+            <iframe
+              id="player-lt"
+              allow="autoplay; encrypted-media; picture-in-picture"
+              allowfullscreen>
+            </iframe>
+          </div>
+
+          <div class="hint" id="ytHint-lt">
+            If a channel isn’t live right now, YouTube may show “This video is unavailable”.
           </div>
         </div>
-      `;
-      list.appendChild(card);
-    });
 
-    if(updated){
-      if (data?.generated_at_utc){
-        const dt = new Date(data.generated_at_utc);
-        updated.textContent = isNaN(dt) ? "Updated" : "Updated " + dt.toLocaleString();
-      } else {
-        updated.textContent = "Updated";
-      }
-    }
+        <!-- RIGHT: PANELS (LT) -->
+        <div class="right-col">
 
-  }catch(e){
-    if (updated) updated.textContent = "No data";
-    list.classList.add("is-empty");
-    list.innerHTML = `
-      <div class="news-item">
-        <strong>Instability data not found</strong>
-        <div class="news-meta">${safeText(e?.message || String(e))}</div>
-      </div>
-    `;
-    console.error(e);
-  }
-}
+          <div class="panel" id="instabilityPanel-lt">
+            <div class="panel-header">
+              <div class="panel-title">COUNTRY INSTABILITY INDEX</div>
+              <div class="meta-right">
+                <span class="badge" id="instabilityWindow-lt">7D</span>
+                <span class="badge" id="instabilityUpdated-lt">Loading…</span>
+                <span class="badge" id="instabilityCount-lt">0</span>
+              </div>
+            </div>
+            <div class="panel-body" id="instabilityList-lt"></div>
+          </div>
 
-/* -----------------------------
-   TOP NEWS (JSON)
------------------------------ */
-async function loadTopNews(category){
-  const cat = String(category || "all").toLowerCase().trim();
-  const file = `data/top_news_${cat}.json?ts=${Date.now()}`;
-  const res = await fetch(file, { cache: "no-store" });
+          <div class="panel" id="topNewsPanel-lt">
+            <div class="panel-header">
+              <div class="panel-title">TOP NEWS</div>
+              <div class="meta-right">
+                <select class="news-select" id="newsCategory-lt">
+                  <option value="all" selected>All</option>
+                  <option value="world">World</option>
+                  <option value="politics">Politics</option>
+                  <option value="business">Business</option>
+                  <option value="technology">Technology</option>
+                  <option value="environment">Environment</option>
+                </select>
 
-  if (!res.ok) {
-    const fallback = await fetch(`data/top_news_all.json?ts=${Date.now()}`, { cache: "no-store" });
-    if (!fallback.ok) throw new Error(`Missing top news JSON (tried ${file} and fallback top_news_all.json)`);
-    return await fallback.json();
-  }
-  return await res.json();
-}
+                <select class="news-select" id="newsN-lt">
+                  <option value="20">20</option>
+                  <option value="40">40</option>
+                  <option value="60" selected>60</option>
+                  <option value="100">100</option>
+                </select>
 
-function renderTopNewsFor(payload, suffix = ""){
-  const list = document.getElementById(`topNewsList${suffix}`);
-  const updated = document.getElementById(`topNewsUpdated${suffix}`);
-  const newsNEl = document.getElementById(`newsN${suffix}`);
+                <span class="badge" id="topNewsUpdated-lt">Loading…</span>
+              </div>
+            </div>
+            <div class="panel-body" id="topNewsList-lt"></div>
+          </div>
 
-  if (!list) return;
+          <div class="panel" id="panel3-lt">
+            <div class="panel-header">
+              <div class="panel-title">PANEL 3</div>
+              <div class="meta-right">
+                <span class="badge">READY</span>
+              </div>
+            </div>
+            <div class="panel-body" id="panel3Body-lt">
+              <div class="news-item">
+                <strong>Empty panel</strong>
+                <div class="news-meta">Intentionally blank for now.</div>
+              </div>
+            </div>
+          </div>
 
-  list.classList.remove("is-empty");
-  list.innerHTML = "";
+          <div class="panel" id="democracyPanel-lt">
+            <div class="panel-header">
+              <div class="panel-title">DEMOCRACY TREND</div>
+              <div class="meta-right">
+                <select class="news-select" id="demCountry-lt"></select>
+                <span class="badge" id="demUpdated-lt">CSV</span>
+              </div>
+            </div>
 
-  if (updated){
-    if (payload?.generated_at_utc){
-      const dt = new Date(payload.generated_at_utc);
-      updated.textContent = isNaN(dt) ? "Updated" : ("Updated " + dt.toLocaleString());
-    } else {
-      updated.textContent = "Updated";
-    }
-  }
+            <div class="panel-body" id="demBody-lt">
+              <div class="dem-chart-wrap">
+                <canvas id="demChart-lt"></canvas>
+              </div>
+              <div class="news-meta" id="demNote-lt" style="margin-top:10px;"></div>
+            </div>
+          </div>
 
-  const nWanted = parseInt(newsNEl?.value || "60", 10) || 60;
-  const articles = Array.isArray(payload?.articles) ? payload.articles : [];
+          <div class="panel" id="panel6-lt">
+            <div class="panel-header">
+              <div class="panel-title">LIVE INTELLIGENCE</div>
+              <div class="meta-right">
+                <span class="badge">LIVE</span>
+              </div>
+            </div>
+            <div class="panel-body" id="panel6Body-lt">
+              <div class="news-item">
+                <strong>Placeholder</strong>
+                <div class="news-meta">Add content later.</div>
+              </div>
+            </div>
+          </div>
 
-  if (!articles.length){
-    list.classList.add("is-empty");
-    list.innerHTML = `
-      <div class="news-item">
-        <strong>No news found.</strong>
-        <div class="news-meta">JSON loaded but has no articles.</div>
-      </div>
-    `;
-    return;
-  }
-
-  const displayCount = Math.min(nWanted, 40);
-
-  articles.slice(0, displayCount).forEach(a => {
-    const title = a?.title || "Untitled";
-    const link = a?.link || "";
-    const source = a?.source || "";
-    const pubDate = a?.pubDate || "";
-
-    const item = document.createElement("div");
-    item.className = "news-item";
-    item.innerHTML = `
-      <div>
-        ${
-          link
-            ? `<a href="${safeText(link)}" target="_blank" rel="noopener noreferrer"><strong>${safeText(title)}</strong></a>`
-            : `<strong>${safeText(title)}</strong>`
-        }
-      </div>
-      <div class="news-meta">${safeText(pubDate)}${source ? ` | ${safeText(source)}` : ""}</div>
-    `;
-    list.appendChild(item);
-  });
-}
-
-async function refreshTopNewsFor(suffix = ""){
-  const catEl = document.getElementById(`newsCategory${suffix}`);
-  const updated = document.getElementById(`topNewsUpdated${suffix}`);
-  const category = catEl ? catEl.value : "all";
-
-  try{
-    if (updated) updated.textContent = "Loading…";
-    const payload = await loadTopNews(category);
-    renderTopNewsFor(payload, suffix);
-  } catch (e){
-    const list = document.getElementById(`topNewsList${suffix}`);
-    if (updated) updated.textContent = "No data";
-    if (list){
-      list.classList.add("is-empty");
-      list.innerHTML = `
-        <div class="news-item">
-          <strong>Top news failed</strong>
-          <div class="news-meta">${safeText(e?.message || String(e))}</div>
-        </div>
-      `;
-    }
-    console.error(e);
-  }
-}
-
-function initTopNewsFor(suffix = ""){
-  const newsCategoryEl = document.getElementById(`newsCategory${suffix}`);
-  const newsNEl = document.getElementById(`newsN${suffix}`);
-
-  if (newsCategoryEl) newsCategoryEl.addEventListener("change", () => refreshTopNewsFor(suffix));
-  if (newsNEl) newsNEl.addEventListener("change", () => refreshTopNewsFor(suffix));
-
-  refreshTopNewsFor(suffix);
-}
-
-/* -----------------------------
-   MAP
------------------------------ */
-let _map;
-
-function initMap(){
-  const el = document.getElementById("worldMap");
-  if (!el || !window.L) return;
-  if (_map) return;
-
-  _map = L.map("worldMap", {
-    zoomControl: true,
-    attributionControl: false,
-    worldCopyJump: true
-  }).setView([15, 10], 2);
-
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
-    maxZoom: 19
-  }).addTo(_map);
-
-  function updateMapTime(){
-    const label = document.getElementById("mapTime");
-    if (!label) return;
-    const now = new Date();
-    label.textContent = now.toUTCString().replace("GMT", "UTC");
-  }
-
-  updateMapTime();
-  setInterval(updateMapTime, 1000);
-
-  function fixSize(){
-    setTimeout(() => _map && _map.invalidateSize(), 150);
-  }
-  window.addEventListener("load", fixSize);
-  window.addEventListener("resize", fixSize);
-
-  initOutageToggle();
-}
-
-/* -----------------------------
-   INTERNET OUTAGES (Dots + Hover Insight)
------------------------------ */
-const WORLD_COUNTRIES_GEOJSON =
-  "https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson";
-
-// Live endpoint (later you can replace with a real proxy)
-const OUTAGES_API = null;
-
-// Your GitHub Pages fallback
-const OUTAGES_FALLBACK = "/Dashboard/data/outages_mock.json";
-
-let outageEnabled = false;
-
-let outageCountriesLayer = null;
-let outageDotsLayer = null;
-let lastOutageCountryCodes = new Set();
-let outageDetailsByCode = new Map();
-
-function setOutageCount(n){
-  const el = document.getElementById("outagesCount");
-  if (el) el.textContent = String(n ?? 0);
-}
-
-function getIso2FromFeature(feature){
-  const props = feature?.properties || {};
-  const code = (props.ISO_A2 || props.iso_a2 || props.ISO2 || props.id || "").toString().toUpperCase();
-  return code;
-}
-
-function ensureOutageDotsLayer(){
-  if (!outageDotsLayer) outageDotsLayer = L.layerGroup();
-  return outageDotsLayer;
-}
-
-function clearOutageDots(){
-  if (outageDotsLayer) outageDotsLayer.clearLayers();
-}
-
-async function loadCountriesLayer(){
-  if (outageCountriesLayer) return outageCountriesLayer;
-
-  const res = await fetch(WORLD_COUNTRIES_GEOJSON, { cache: "force-cache" });
-  if (!res.ok) throw new Error("Could not load countries GeoJSON");
-  const geo = await res.json();
-
-  // Invisible layer: used only to compute bounds/centers
-  outageCountriesLayer = L.geoJSON(geo, {
-    style: () => ({
-      color: "transparent",
-      weight: 0,
-      fillColor: "transparent",
-      fillOpacity: 0
-    })
-  });
-
-  return outageCountriesLayer;
-}
-
-function parseOutageCountryCodes(payload){
-  const annotations = payload?.result?.annotations || payload?.annotations || [];
-  const set = new Set();
-
-  outageDetailsByCode = new Map();
-
-  annotations.forEach(a => {
-    const locs = Array.isArray(a?.locations) ? a.locations : [];
-    const start = a?.startDate || a?.start || a?.started_at || "";
-    const end = a?.endDate || a?.end || a?.ended_at || "";
-    const cause = a?.outage?.outageCause || a?.cause || "";
-    const type  = a?.outage?.outageType  || a?.type  || "";
-    const summary = a?.summary || a?.description || "";
-
-    locs.forEach(code => {
-      if (!code) return;
-      const c = String(code).toUpperCase();
-      set.add(c);
-
-      if (!outageDetailsByCode.has(c)) {
-        outageDetailsByCode.set(c, { code: c, start, end, cause, type, summary });
-      }
-    });
-  });
-
-  return set;
-}
-
-// ✅ SAFE: only try OUTAGES_API if it exists
-async function fetchOutagePayload(){
-  const tryFetch = async (url) => {
-    const r = await fetch(url, { cache: "no-store" });
-    if (!r.ok) throw new Error(`Fetch failed (${r.status})`);
-    return await r.json();
-  };
-
-  if (OUTAGES_API) {
-    try {
-      return await tryFetch(OUTAGES_API);
-    } catch (e1) {
-      console.warn("Outages live API failed, using fallback:", e1?.message || e1);
-    }
-  }
-
-  return await tryFetch(OUTAGES_FALLBACK + "?ts=" + Date.now());
-}
-
-function buildOutageDots(){
-  if (!outageEnabled || !_map || !outageCountriesLayer) return;
-
-  const dots = ensureOutageDotsLayer();
-  clearOutageDots();
-
-  outageCountriesLayer.eachLayer(layer => {
-    const feature = layer?.feature;
-    const code = getIso2FromFeature(feature);
-    if (!code || !lastOutageCountryCodes.has(code)) return;
-
-    const props = feature?.properties || {};
-    const name = props.ADMIN || props.name || code;
-
-    const info = outageDetailsByCode.get(code) || { code };
-    const center = layer.getBounds().getCenter();
-
-    const tooltipHtml = `
-      <div style="min-width:200px">
-        <strong>${safeText(name)} (${safeText(code)})</strong>
-        <div style="font-size:11px; opacity:0.9; margin-top:6px; line-height:1.35">
-          ${info.type ? `Type: ${safeText(info.type)}<br>` : ""}
-          ${info.cause ? `Cause: ${safeText(info.cause)}<br>` : ""}
-          ${info.start ? `Start: ${safeText(String(info.start))}<br>` : ""}
-          ${info.end ? `End: ${safeText(String(info.end))}<br>` : ""}
-          ${info.summary ? `<div style="margin-top:6px">${safeText(info.summary)}</div>` : ""}
         </div>
       </div>
-    `;
+    </section>
 
-    const dot = L.circleMarker(center, {
-      radius: 6,
-      weight: 1,
-      color: "#ef4444",
-      fillColor: "#ef4444",
-      fillOpacity: 0.85
-    });
+    <!-- =========================
+         SHORT TERM (BOX HEADER)
+    ========================== -->
+    <div class="section-box" style="margin-top:18px;">
+      <div class="section-box-title">SHORT TERM INSIGHT</div>
+      <div class="section-box-sub">Fast-moving events, outages, breaking updates</div>
+    </div>
 
-    dot.bindTooltip(tooltipHtml, { direction: "top", sticky: true, opacity: 0.95 });
-    dot.bindPopup(tooltipHtml);
+    <!-- =========================
+         SHORT TERM DASHBOARD
+         (your original IDs)
+    ========================== -->
+    <section class="section-block" id="shortTerm">
 
-    dots.addLayer(dot);
-  });
+      <div class="dashboard">
 
-  dots.addTo(_map);
-}
+        <!-- LEFT: LIVE NEWS -->
+        <div class="news-block">
+          <div class="header">
+            <div class="title">LIVE NEWS</div>
+            <div class="live"><div class="dot"></div>LIVE</div>
+          </div>
 
-async function refreshOutageLayer(){
-  if (!outageEnabled) return;
+          <div class="tabs" id="tabs"></div>
 
-  try {
-    await loadCountriesLayer();
-    if (_map && !(_map.hasLayer(outageCountriesLayer))) outageCountriesLayer.addTo(_map);
+          <div class="player">
+            <iframe
+              id="player"
+              allow="autoplay; encrypted-media; picture-in-picture"
+              allowfullscreen>
+            </iframe>
+          </div>
 
-    const payload = await fetchOutagePayload();
-    lastOutageCountryCodes = parseOutageCountryCodes(payload);
+          <div class="hint" id="ytHint">
+            If a channel isn’t live right now, YouTube may show “This video is unavailable”.
+          </div>
+        </div>
 
-    setOutageCount(lastOutageCountryCodes.size);
-    buildOutageDots();
-  } catch (e) {
-    console.error(e);
-    setOutageCount(0);
-    clearOutageDots();
-  }
-}
+        <!-- RIGHT: PANELS -->
+        <div class="right-col">
 
-async function enableOutages(){
-  outageEnabled = true;
-  await refreshOutageLayer();
-}
+          <div class="panel" id="instabilityPanel">
+            <div class="panel-header">
+              <div class="panel-title">COUNTRY INSTABILITY INDEX</div>
+              <div class="meta-right">
+                <span class="badge" id="instabilityWindow">7D</span>
+                <span class="badge" id="instabilityUpdated">Loading…</span>
+                <span class="badge" id="instabilityCount">0</span>
+              </div>
+            </div>
+            <div class="panel-body" id="instabilityList"></div>
+          </div>
 
-function disableOutages(){
-  outageEnabled = false;
-  setOutageCount(0);
-  lastOutageCountryCodes = new Set();
-  outageDetailsByCode = new Map();
+          <div class="panel" id="topNewsPanel">
+            <div class="panel-header">
+              <div class="panel-title">TOP NEWS</div>
+              <div class="meta-right">
+                <select class="news-select" id="newsCategory">
+                  <option value="all" selected>All</option>
+                  <option value="world">World</option>
+                  <option value="politics">Politics</option>
+                  <option value="business">Business</option>
+                  <option value="technology">Technology</option>
+                  <option value="environment">Environment</option>
+                </select>
 
-  if (_map && outageDotsLayer) _map.removeLayer(outageDotsLayer);
-  if (_map && outageCountriesLayer) _map.removeLayer(outageCountriesLayer);
+                <select class="news-select" id="newsN">
+                  <option value="20">20</option>
+                  <option value="40">40</option>
+                  <option value="60" selected>60</option>
+                  <option value="100">100</option>
+                </select>
 
-  clearOutageDots();
-}
+                <span class="badge" id="topNewsUpdated">Loading…</span>
+              </div>
+            </div>
+            <div class="panel-body" id="topNewsList"></div>
+          </div>
 
-function initOutageToggle(){
-  const cb = document.getElementById("toggleOutages");
-  if (!cb) return;
+          <div class="panel" id="panel3">
+            <div class="panel-header">
+              <div class="panel-title">PANEL 3</div>
+              <div class="meta-right">
+                <span class="badge">READY</span>
+              </div>
+            </div>
+            <div class="panel-body" id="panel3Body">
+              <div class="news-item">
+                <strong>Empty panel</strong>
+                <div class="news-meta">Intentionally blank for now.</div>
+              </div>
+            </div>
+          </div>
 
-  cb.addEventListener("change", async (e) => {
-    const on = !!e.target.checked;
-    if (on) await enableOutages();
-    else disableOutages();
-  });
-}
+          <div class="panel" id="democracyPanel">
+            <div class="panel-header">
+              <div class="panel-title">DEMOCRACY TREND</div>
+              <div class="meta-right">
+                <select class="news-select" id="demCountry"></select>
+                <span class="badge" id="demUpdated">CSV</span>
+              </div>
+            </div>
 
-/* -----------------------------
-   DEMOCRACY TRENDS (CSV) — Dual
------------------------------ */
-let demChartInstance = null;
-let demChartInstanceLT = null;
+            <div class="panel-body" id="demBody">
+              <div class="dem-chart-wrap">
+                <canvas id="demChart"></canvas>
+              </div>
+              <div class="news-meta" id="demNote" style="margin-top:10px;"></div>
+            </div>
+          </div>
 
-function destroyChart(ref){
-  try { if (ref && typeof ref.destroy === "function") ref.destroy(); } catch (_) {}
-}
+          <div class="panel" id="panel6">
+            <div class="panel-header">
+              <div class="panel-title">LIVE INTELLIGENCE</div>
+              <div class="meta-right">
+                <span class="badge">LIVE</span>
+              </div>
+            </div>
+            <div class="panel-body" id="panel6Body">
+              <div class="news-item">
+                <strong>Placeholder</strong>
+                <div class="news-meta">Add content later.</div>
+              </div>
+            </div>
+          </div>
 
-async function initDemocracyTrendsFor(suffix = ""){
-  const body = document.getElementById(`demBody${suffix}`);
-  const countrySel = document.getElementById(`demCountry${suffix}`);
-  if (!body || !countrySel) return;
-
-  try {
-    const url = "data/VDEM_small.csv?ts=" + Date.now();
-    const res = await fetch(url, { cache: "no-store" });
-    if (!res.ok) throw new Error(`CSV not found (${res.status}). Put it at data/VDEM_small.csv`);
-
-    const text = await res.text();
-    const parsed = Papa.parse(text, { header:true, dynamicTyping:true, skipEmptyLines:true });
-    const rows = (parsed.data || []).filter(r => r && r.country && r.year);
-
-    if (!rows.length) {
-      body.innerHTML = `<div class="news-item"><strong>No democracy data</strong></div>`;
-      return;
-    }
-
-    const countries = [...new Set(rows.map(r => String(r.country).trim()))]
-      .filter(Boolean)
-      .sort((a,b)=>a.localeCompare(b));
-
-    countrySel.innerHTML = countries.map(c => `<option value="${safeText(c)}">${safeText(c)}</option>`).join("");
-    countrySel.value = countries.includes("South Africa") ? "South Africa" : countries[0];
-
-    const canvas = document.getElementById(`demChart${suffix}`);
-    if (!canvas) throw new Error(`Canvas #demChart${suffix} not found`);
-
-    const measures = [
-      { key:"electoral_democracy_index", label:"Electoral" },
-      { key:"liberal_democracy_index", label:"Liberal" },
-      { key:"electoral_fairness_index", label:"Fairness" },
-      { key:"vote_buying", label:"Vote Buying" },
-      { key:"freedom_of_expression_index", label:"Expression" }
-    ];
-
-    function render(country){
-      const data = rows
-        .filter(r => String(r.country).trim() === String(country).trim())
-        .sort((a,b)=>Number(a.year)-Number(b.year));
-
-      const years = data.map(d => d.year);
-      const datasets = measures.map(m => ({
-        label: m.label,
-        data: data.map(d => d[m.key]),
-        tension: 0.3
-      }));
-
-      if (suffix === "-lt") destroyChart(demChartInstanceLT);
-      else destroyChart(demChartInstance);
-
-      const instance = new Chart(canvas, {
-        type: "line",
-        data: { labels: years, datasets },
-        options: {
-          responsive: true,
-          maintainAspectRatio: false,
-          plugins: { legend: { labels: { color: "#fff" } } },
-          scales: {
-            x: { ticks: { color: "#aaa" }, grid: { color: "rgba(255,255,255,0.05)" } },
-            y: { ticks: { color: "#aaa" }, grid: { color: "rgba(255,255,255,0.05)" } }
-          }
-        }
-      });
-
-      if (suffix === "-lt") demChartInstanceLT = instance;
-      else demChartInstance = instance;
-    }
-
-    render(countrySel.value);
-    countrySel.onchange = (e) => render(e.target.value);
-
-  } catch (e) {
-    body.innerHTML = `
-      <div class="news-item">
-        <strong>Error loading CSV</strong>
-        <div class="news-meta">${safeText(e?.message || String(e))}</div>
+        </div>
       </div>
-    `;
-    console.error(e);
-  }
-}
+    </section>
 
-/* -----------------------------
-   BOOT (init both dashboards)
------------------------------ */
-document.addEventListener("DOMContentLoaded", () => {
-  // Short term
-  initLiveNewsFor("");
-  initInstabilityFor("");
-  initTopNewsFor("");
-  initDemocracyTrendsFor("");
+  </div>
 
-  // Long term
-  initLiveNewsFor("-lt");
-  initInstabilityFor("-lt");
-  initTopNewsFor("-lt");
-  initDemocracyTrendsFor("-lt");
+  <!-- COUNTRY REPORT DRAWER -->
+  <div class="drawer-overlay" id="drawerOverlay" aria-hidden="true"></div>
 
-  // Single map
-  initMap();
+  <aside class="drawer" id="countryDrawer" aria-hidden="true">
+    <div class="drawer-header">
+      <div class="drawer-title">
+        <div class="drawer-kicker">WORLD MONITOR</div>
+        <div class="drawer-country" id="drawerCountry">Country</div>
+      </div>
 
-  // refresh both dashboards
-  setInterval(() => initInstabilityFor(""), 60_000);
-  setInterval(() => initInstabilityFor("-lt"), 60_000);
+      <button class="drawer-close" id="drawerClose" aria-label="Close">✕</button>
+    </div>
 
-  setInterval(() => refreshTopNewsFor(""), 60_000);
-  setInterval(() => refreshTopNewsFor("-lt"), 60_000);
+    <div class="drawer-content" id="drawerContent"></div>
+  </aside>
 
-  // Refresh outage dots every 5 minutes (only does work if toggle is ON)
-  setInterval(refreshOutageLayer, 5 * 60_000);
-});
-
-console.log("APP LOADED ✅", new Date().toISOString());
+  <!-- External JS (cache-bust) -->
+  <script src="app.js?v=22" defer></script>
+</body>
+</html>
