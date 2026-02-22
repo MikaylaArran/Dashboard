@@ -1,283 +1,640 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Global Monitor</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+/* app.js
+   Global Monitor Dashboard
+   - Live News (YouTube)
+   - Instability (local JSON)
+   - Top News (local JSON)
+   - Democracy Trends (CSV + Chart.js)
+   - Map + Internet Outages (dots + hover insight)
+*/
 
-  <!-- CSS -->
-  <link rel="stylesheet" href="style.css?v=17" />
+/* -----------------------------
+   LIVE NEWS (YouTube)
+----------------------------- */
+const CHANNELS = [
+  { name: "SKY NEWS", channelId: "UCoMdktPbSTixAyNGwb-UYkQ" },
+  { name: "NBC NEWS", channelId: "UCeY0bbntWzzVIaj2z3QigXg" },
+  { name: "CBS NEWS", channelId: "UC8p1vwvWtl6T73JiExfWs1g" },
+  { name: "ABC NEWS", channelId: "UCBi2mrWuNuyYy4gbM6fU18Q" },
+  { name: "DW NEWS", channelId: "UCknLrEdhRCp1aegoMqRaCZg" },
+  { name: "AL JAZEERA", channelId: "UCNye-wNBqNL5ZzHSJj3l8Bg" },
+  { name: "FRANCE 24", channelId: "UCQfwfsi5VrQ8yKZ-UWmAEFg" },
+  { name: "EURONEWS", channelId: "UCSrZ3UV4jOidv8ppoVuvW9Q" }
+];
 
-  <!-- Leaflet -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+function liveEmbedUrl(channelId){
+  const url = new URL("https://www.youtube.com/embed/live_stream");
+  url.searchParams.set("channel", channelId);
+  url.searchParams.set("autoplay", "1");
+  url.searchParams.set("mute", "1");
+  url.searchParams.set("playsinline", "1");
+  return url.toString();
+}
 
-  <!-- Charts -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/dist/papaparse.min.js"></script>
-</head>
+function initLiveNewsFor(tabsId, playerId){
+  const tabs = document.getElementById(tabsId);
+  const player = document.getElementById(playerId);
+  if (!tabs || !player) return;
 
-<body>
+  function setChannel(channelId, tabEl){
+    tabs.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+    if (tabEl) tabEl.classList.add("active");
+    player.src = liveEmbedUrl(channelId);
+  }
 
-  <!-- =========================
-       LONG TERM (BOXED)
-  ========================== -->
-  <div class="page">
-    <section class="section-shell">
-      <div class="section-bar">
-        <div class="section-bar-title">LONG TERM</div>
-        <div class="section-bar-meta">Strategic horizon</div>
-      </div>
+  tabs.innerHTML = "";
+  CHANNELS.forEach((c, i) => {
+    const tab = document.createElement("div");
+    tab.className = "tab";
+    tab.innerText = c.name;
+    tab.addEventListener("click", () => setChannel(c.channelId, tab));
+    tabs.appendChild(tab);
+    if (i === 0) setChannel(c.channelId, tab);
+  });
+}
 
-      <div class="section-body">
+/* -----------------------------
+   SAFE TEXT
+----------------------------- */
+function safeText(s){
+  return String(s ?? "").replace(/[&<>"']/g, c => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
+  }[c]));
+}
 
-        <div class="dashboard">
+/* -----------------------------
+   INSTABILITY (JSON)
+----------------------------- */
+function severityFor(score){
+  const x = Number(score ?? 0);
+  if (x >= 80) return { label:"CRITICAL", color:"#ef4444" };
+  if (x >= 65) return { label:"HIGH", color:"#f59e0b" };
+  if (x >= 50) return { label:"ELEVATED", color:"#eab308" };
+  return { label:"MODERATE", color:"#22c55e" };
+}
 
-          <!-- LIVE NEWS LT -->
-          <div class="news-block">
-            <div class="header">
-              <div class="title">LIVE NEWS</div>
-              <div class="live"><div class="dot"></div>LIVE</div>
-            </div>
+async function initInstabilityFor({ listId, updatedId, countId, windowId }){
+  const list = document.getElementById(listId);
+  const updated = document.getElementById(updatedId);
+  const count = document.getElementById(countId);
+  const windowBadge = document.getElementById(windowId);
 
-            <div class="tabs" id="tabs-lt"></div>
+  if (!list) return;
 
-            <div class="player">
-              <iframe id="player-lt" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
-            </div>
+  try{
+    const res = await fetch("data/instability.json?ts=" + Date.now(), { cache:"no-store" });
+    if(!res.ok) throw new Error("instability.json missing");
+    const data = await res.json();
 
-            <div class="hint" id="ytHint-lt">
-              If a channel isn’t live right now, YouTube may show “This video is unavailable”.
-            </div>
+    const rows = (data.countries || []).slice().sort((a,b)=>(Number(b.score||0))-(Number(a.score||0)));
+    if(count) count.textContent = rows.length;
+
+    if (windowBadge && data?.window_days) windowBadge.textContent = `${data.window_days}D`;
+
+    list.classList.remove("is-empty");
+    list.innerHTML = "";
+
+    rows.forEach(item=>{
+      const score = Number(item.score ?? 0);
+      const sev = severityFor(score);
+
+      const card = document.createElement("div");
+      card.className="country-card";
+      card.innerHTML = `
+        <div class="country-top">
+          <div class="country-left">
+            <div class="country-dot" style="background:${sev.color}; box-shadow:0 0 10px ${sev.color}55;"></div>
+            <div class="country-name">${safeText(item.country ?? "Unknown")}</div>
           </div>
-
-          <!-- RIGHT COL LT -->
-          <div class="right-col">
-
-            <div class="panel" id="instabilityPanel-lt">
-              <div class="panel-header">
-                <div class="panel-title">COUNTRY INSTABILITY INDEX</div>
-                <div class="meta-right">
-                  <span class="badge" id="instabilityWindow-lt">7D</span>
-                  <span class="badge" id="instabilityUpdated-lt">Loading…</span>
-                  <span class="badge" id="instabilityCount-lt">0</span>
-                </div>
-              </div>
-              <div class="panel-body" id="instabilityList-lt"></div>
-            </div>
-
-            <div class="panel" id="topNewsPanel-lt">
-              <div class="panel-header">
-                <div class="panel-title">TOP NEWS</div>
-                <div class="meta-right">
-                  <select class="news-select" id="newsCategory-lt">
-                    <option value="all">All</option>
-                    <option value="world">World</option>
-                    <option value="politics">Politics</option>
-                    <option value="business">Business</option>
-                    <option value="technology">Technology</option>
-                    <option value="environment">Environment</option>
-                  </select>
-
-                  <select class="news-select" id="newsN-lt">
-                    <option value="20">20</option>
-                    <option value="40">40</option>
-                    <option value="60" selected>60</option>
-                    <option value="100">100</option>
-                  </select>
-
-                  <span class="badge" id="topNewsUpdated-lt">Loading…</span>
-                </div>
-              </div>
-              <div class="panel-body" id="topNewsList-lt"></div>
-            </div>
-
-            <div class="panel" id="panel3-lt">
-              <div class="panel-header">
-                <div class="panel-title">PANEL 3</div>
-                <div class="meta-right"><span class="badge">READY</span></div>
-              </div>
-              <div class="panel-body" id="panel3Body-lt"></div>
-            </div>
-
-            <div class="panel" id="democracyPanel-lt">
-              <div class="panel-header">
-                <div class="panel-title">DEMOCRACY TREND</div>
-                <div class="meta-right">
-                  <select class="news-select" id="demCountry-lt"></select>
-                  <span class="badge" id="demUpdated-lt">CSV</span>
-                </div>
-              </div>
-              <div class="panel-body" id="demBody-lt">
-                <div class="dem-controls" id="demMeasures-lt"></div>
-                <div class="dem-chart-wrap"><canvas id="demChart-lt"></canvas></div>
-                <div class="dem-table" id="demStats-lt"></div>
-                <div class="dem-table" id="demChange-lt"></div>
-              </div>
-            </div>
-
-            <div class="panel" id="panel6-lt">
-              <div class="panel-header">
-                <div class="panel-title">LIVE INTELLIGENCE</div>
-                <div class="meta-right"><span class="badge">LIVE</span></div>
-              </div>
-              <div class="panel-body" id="panel6Body-lt"></div>
-            </div>
-
+          <div class="score-wrap">
+            <span class="severity" style="border-color:${sev.color}55; background:${sev.color}22; color:${sev.color};">${sev.label}</span>
+            <div class="score">${score}</div>
           </div>
         </div>
+      `;
+      list.appendChild(card);
+    });
 
+    if(updated){
+      if (data?.generated_at_utc){
+        const dt = new Date(data.generated_at_utc);
+        updated.textContent = isNaN(dt) ? "Updated" : "Updated " + dt.toLocaleString();
+      } else {
+        updated.textContent = "Updated";
+      }
+    }
+
+  }catch(e){
+    if (updated) updated.textContent = "No data";
+    list.classList.add("is-empty");
+    list.innerHTML = `
+      <div class="news-item">
+        <strong>Instability data not found</strong>
+        <div class="news-meta">${safeText(e?.message || String(e))}</div>
       </div>
-    </section>
-  </div>
+    `;
+    console.error(e);
+  }
+}
 
-  <!-- =========================
-       MAP
-  ========================== -->
-  <div class="map-strip">
-    <div class="map-banner">
-      <div id="worldMap"></div>
+/* -----------------------------
+   TOP NEWS (JSON)
+----------------------------- */
+async function loadTopNews(category){
+  const cat = String(category || "all").toLowerCase().trim();
+  const file = `data/top_news_${cat}.json?ts=${Date.now()}`;
+  const res = await fetch(file, { cache: "no-store" });
 
-      <div class="map-time" id="mapTime">Loading time…</div>
+  if (!res.ok) {
+    const fallback = await fetch(`data/top_news_all.json?ts=${Date.now()}`, { cache: "no-store" });
+    if (!fallback.ok) throw new Error(`Missing top news JSON (tried ${file} and fallback top_news_all.json)`);
+    return await fallback.json();
+  }
+  return await res.json();
+}
 
-      <div class="map-tools">
-        <label class="map-toggle">
-          <input type="checkbox" id="toggleOutages" />
-          <span>Internet outages</span>
-        </label>
-        <span class="badge" id="outagesCount">0</span>
+function renderTopNews(payload, { listId, updatedId, nId }){
+  const list = document.getElementById(listId);
+  const updated = document.getElementById(updatedId);
+  const newsNEl = document.getElementById(nId);
+
+  if (!list) return;
+
+  list.classList.remove("is-empty");
+  list.innerHTML = "";
+
+  if (updated){
+    if (payload?.generated_at_utc){
+      const dt = new Date(payload.generated_at_utc);
+      updated.textContent = isNaN(dt) ? "Updated" : ("Updated " + dt.toLocaleString());
+    } else {
+      updated.textContent = "Updated";
+    }
+  }
+
+  const nWanted = parseInt(newsNEl?.value || "60", 10) || 60;
+  const articles = Array.isArray(payload?.articles) ? payload.articles : [];
+
+  if (!articles.length){
+    list.classList.add("is-empty");
+    list.innerHTML = `
+      <div class="news-item">
+        <strong>No news found.</strong>
+        <div class="news-meta">JSON loaded but has no articles.</div>
       </div>
-    </div>
-  </div>
+    `;
+    return;
+  }
 
-  <!-- =========================
-       SHORT TERM (BOXED)
-  ========================== -->
-  <div class="page">
-    <section class="section-shell">
-      <div class="section-bar">
-        <div class="section-bar-title">SHORT TERM</div>
-        <div class="section-bar-meta">Operational horizon</div>
-      </div>
+  const displayCount = Math.min(nWanted, 40);
 
-      <div class="section-body">
+  articles.slice(0, displayCount).forEach(a => {
+    const title = a?.title || "Untitled";
+    const link = a?.link || "";
+    const source = a?.source || "";
+    const pubDate = a?.pubDate || "";
 
-        <div class="dashboard">
-
-          <!-- LIVE NEWS -->
-          <div class="news-block">
-            <div class="header">
-              <div class="title">LIVE NEWS</div>
-              <div class="live"><div class="dot"></div>LIVE</div>
-            </div>
-
-            <div class="tabs" id="tabs"></div>
-
-            <div class="player">
-              <iframe id="player" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
-            </div>
-
-            <div class="hint" id="ytHint">
-              If a channel isn’t live right now, YouTube may show “This video is unavailable”.
-            </div>
-          </div>
-
-          <!-- RIGHT COL -->
-          <div class="right-col">
-
-            <div class="panel" id="instabilityPanel">
-              <div class="panel-header">
-                <div class="panel-title">COUNTRY INSTABILITY INDEX</div>
-                <div class="meta-right">
-                  <span class="badge" id="instabilityWindow">7D</span>
-                  <span class="badge" id="instabilityUpdated">Loading…</span>
-                  <span class="badge" id="instabilityCount">0</span>
-                </div>
-              </div>
-              <div class="panel-body" id="instabilityList"></div>
-            </div>
-
-            <div class="panel" id="topNewsPanel">
-              <div class="panel-header">
-                <div class="panel-title">TOP NEWS</div>
-                <div class="meta-right">
-                  <select class="news-select" id="newsCategory">
-                    <option value="all">All</option>
-                    <option value="world">World</option>
-                    <option value="politics">Politics</option>
-                    <option value="business">Business</option>
-                    <option value="technology">Technology</option>
-                    <option value="environment">Environment</option>
-                  </select>
-
-                  <select class="news-select" id="newsN">
-                    <option value="20">20</option>
-                    <option value="40">40</option>
-                    <option value="60" selected>60</option>
-                    <option value="100">100</option>
-                  </select>
-
-                  <span class="badge" id="topNewsUpdated">Loading…</span>
-                </div>
-              </div>
-              <div class="panel-body" id="topNewsList"></div>
-            </div>
-
-            <div class="panel" id="panel3">
-              <div class="panel-header">
-                <div class="panel-title">PANEL 3</div>
-                <div class="meta-right"><span class="badge">READY</span></div>
-              </div>
-              <div class="panel-body" id="panel3Body"></div>
-            </div>
-
-            <div class="panel" id="democracyPanel">
-              <div class="panel-header">
-                <div class="panel-title">DEMOCRACY TREND</div>
-                <div class="meta-right">
-                  <select class="news-select" id="demCountry"></select>
-                  <span class="badge" id="demUpdated">CSV</span>
-                </div>
-              </div>
-              <div class="panel-body" id="demBody">
-                <div class="dem-controls" id="demMeasures"></div>
-                <div class="dem-chart-wrap"><canvas id="demChart"></canvas></div>
-                <div class="dem-table" id="demStats"></div>
-                <div class="dem-table" id="demChange"></div>
-              </div>
-            </div>
-
-            <div class="panel" id="panel6">
-              <div class="panel-header">
-                <div class="panel-title">LIVE INTELLIGENCE</div>
-                <div class="meta-right"><span class="badge">LIVE</span></div>
-              </div>
-              <div class="panel-body" id="panel6Body"></div>
-            </div>
-
-          </div>
-        </div>
-
-      </div>
-    </section>
-  </div>
-
-  <!-- DRAWER -->
-  <div class="drawer-overlay" id="drawerOverlay"></div>
-
-  <aside class="drawer" id="countryDrawer">
-    <div class="drawer-header">
+    const item = document.createElement("div");
+    item.className = "news-item";
+    item.innerHTML = `
       <div>
-        <div class="drawer-kicker">WORLD MONITOR</div>
-        <div class="drawer-country" id="drawerCountry">Country</div>
+        ${
+          link
+            ? `<a href="${safeText(link)}" target="_blank" rel="noopener noreferrer"><strong>${safeText(title)}</strong></a>`
+            : `<strong>${safeText(title)}</strong>`
+        }
       </div>
-      <button class="drawer-close" id="drawerClose">✕</button>
-    </div>
-    <div class="drawer-content" id="drawerContent"></div>
-  </aside>
+      <div class="news-meta">${safeText(pubDate)}${source ? ` | ${safeText(source)}` : ""}</div>
+    `;
+    document.getElementById(listId).appendChild(item);
+  });
+}
 
-  <!-- JS -->
-  <script src="app.js?v=22" defer></script>
+async function refreshTopNewsFor({ catId, listId, updatedId, nId }){
+  const catEl = document.getElementById(catId);
+  const updated = document.getElementById(updatedId);
+  const category = catEl ? catEl.value : "all";
 
-</body>
-</html>
+  try{
+    if (updated) updated.textContent = "Loading…";
+    const payload = await loadTopNews(category);
+    renderTopNews(payload, { listId, updatedId, nId });
+  } catch (e){
+    const list = document.getElementById(listId);
+    if (updated) updated.textContent = "No data";
+    if (list){
+      list.classList.add("is-empty");
+      list.innerHTML = `
+        <div class="news-item">
+          <strong>Top news failed</strong>
+          <div class="news-meta">${safeText(e?.message || String(e))}</div>
+        </div>
+      `;
+    }
+    console.error(e);
+  }
+}
+
+function initTopNewsFor({ catId, nId, listId, updatedId }){
+  const newsCategoryEl = document.getElementById(catId);
+  const newsNEl = document.getElementById(nId);
+
+  if (newsCategoryEl) newsCategoryEl.addEventListener("change", () =>
+    refreshTopNewsFor({ catId, nId, listId, updatedId })
+  );
+
+  if (newsNEl) newsNEl.addEventListener("change", () =>
+    refreshTopNewsFor({ catId, nId, listId, updatedId })
+  );
+
+  refreshTopNewsFor({ catId, nId, listId, updatedId });
+}
+
+/* -----------------------------
+   MAP
+----------------------------- */
+let _map;
+
+function initMap(){
+  const el = document.getElementById("worldMap");
+  if (!el || !window.L) return;
+  if (_map) return;
+
+  _map = L.map("worldMap", {
+    zoomControl: true,
+    attributionControl: false,
+    worldCopyJump: true
+  }).setView([15, 10], 2);
+
+  L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+    maxZoom: 19
+  }).addTo(_map);
+
+  function updateMapTime(){
+    const label = document.getElementById("mapTime");
+    if (!label) return;
+    const now = new Date();
+    label.textContent = now.toUTCString().replace("GMT", "UTC");
+  }
+
+  updateMapTime();
+  setInterval(updateMapTime, 1000);
+
+  function fixSize(){
+    setTimeout(() => _map && _map.invalidateSize(), 150);
+  }
+  window.addEventListener("load", fixSize);
+  window.addEventListener("resize", fixSize);
+
+  initOutageToggle();
+}
+
+/* -----------------------------
+   INTERNET OUTAGES (Dots + Hover Insight)
+----------------------------- */
+const WORLD_COUNTRIES_GEOJSON =
+  "https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson";
+
+const OUTAGES_API = null;
+const OUTAGES_FALLBACK = "/Dashboard/data/outages_mock.json";
+
+let outageEnabled = false;
+
+let outageCountriesLayer = null;
+let outageDotsLayer = null;
+let lastOutageCountryCodes = new Set();
+let outageDetailsByCode = new Map();
+
+function setOutageCount(n){
+  const el = document.getElementById("outagesCount");
+  if (el) el.textContent = String(n ?? 0);
+}
+
+function getIso2FromFeature(feature){
+  const props = feature?.properties || {};
+  const code = (props.ISO_A2 || props.iso_a2 || props.ISO2 || props.id || "").toString().toUpperCase();
+  return code;
+}
+
+function ensureOutageDotsLayer(){
+  if (!outageDotsLayer) outageDotsLayer = L.layerGroup();
+  return outageDotsLayer;
+}
+
+function clearOutageDots(){
+  if (outageDotsLayer) outageDotsLayer.clearLayers();
+}
+
+async function loadCountriesLayer(){
+  if (outageCountriesLayer) return outageCountriesLayer;
+
+  const res = await fetch(WORLD_COUNTRIES_GEOJSON, { cache: "force-cache" });
+  if (!res.ok) throw new Error("Could not load countries GeoJSON");
+  const geo = await res.json();
+
+  outageCountriesLayer = L.geoJSON(geo, {
+    style: () => ({
+      color: "transparent",
+      weight: 0,
+      fillColor: "transparent",
+      fillOpacity: 0
+    })
+  });
+
+  return outageCountriesLayer;
+}
+
+function parseOutageCountryCodes(payload){
+  const annotations = payload?.result?.annotations || payload?.annotations || [];
+  const set = new Set();
+
+  outageDetailsByCode = new Map();
+
+  annotations.forEach(a => {
+    const locs = Array.isArray(a?.locations) ? a.locations : [];
+    const start = a?.startDate || a?.start || a?.started_at || "";
+    const end = a?.endDate || a?.end || a?.ended_at || "";
+    const cause = a?.outage?.outageCause || a?.cause || "";
+    const type  = a?.outage?.outageType  || a?.type  || "";
+    const summary = a?.summary || a?.description || "";
+
+    locs.forEach(code => {
+      if (!code) return;
+      const c = String(code).toUpperCase();
+      set.add(c);
+
+      if (!outageDetailsByCode.has(c)) {
+        outageDetailsByCode.set(c, { code: c, start, end, cause, type, summary });
+      }
+    });
+  });
+
+  return set;
+}
+
+async function fetchOutagePayload(){
+  const tryFetch = async (url) => {
+    const r = await fetch(url, { cache: "no-store" });
+    if (!r.ok) throw new Error(`Fetch failed (${r.status})`);
+    return await r.json();
+  };
+
+  try {
+    return await tryFetch(OUTAGES_API);
+  } catch (e1) {
+    console.warn("Outages live API failed, using fallback:", e1?.message || e1);
+    return await tryFetch(OUTAGES_FALLBACK + "?ts=" + Date.now());
+  }
+}
+
+function buildOutageDots(){
+  if (!outageEnabled || !_map || !outageCountriesLayer) return;
+
+  const dots = ensureOutageDotsLayer();
+  clearOutageDots();
+
+  outageCountriesLayer.eachLayer(layer => {
+    const feature = layer?.feature;
+    const code = getIso2FromFeature(feature);
+    if (!code || !lastOutageCountryCodes.has(code)) return;
+
+    const props = feature?.properties || {};
+    const name = props.ADMIN || props.name || code;
+
+    const info = outageDetailsByCode.get(code) || { code };
+    const center = layer.getBounds().getCenter();
+
+    const tooltipHtml = `
+      <div style="min-width:200px">
+        <strong>${safeText(name)} (${safeText(code)})</strong>
+        <div style="font-size:11px; opacity:0.9; margin-top:6px; line-height:1.35">
+          ${info.type ? `Type: ${safeText(info.type)}<br>` : ""}
+          ${info.cause ? `Cause: ${safeText(info.cause)}<br>` : ""}
+          ${info.start ? `Start: ${safeText(String(info.start))}<br>` : ""}
+          ${info.end ? `End: ${safeText(String(info.end))}<br>` : ""}
+          ${info.summary ? `<div style="margin-top:6px">${safeText(info.summary)}</div>` : ""}
+        </div>
+      </div>
+    `;
+
+    const dot = L.circleMarker(center, {
+      radius: 6,
+      weight: 1,
+      color: "#ef4444",
+      fillColor: "#ef4444",
+      fillOpacity: 0.85
+    });
+
+    dot.bindTooltip(tooltipHtml, { direction: "top", sticky: true, opacity: 0.95 });
+    dot.bindPopup(tooltipHtml);
+
+    dots.addLayer(dot);
+  });
+
+  dots.addTo(_map);
+}
+
+async function refreshOutageLayer(){
+  if (!outageEnabled) return;
+
+  try {
+    await loadCountriesLayer();
+    if (_map && !(_map.hasLayer(outageCountriesLayer))) outageCountriesLayer.addTo(_map);
+
+    const payload = await fetchOutagePayload();
+    lastOutageCountryCodes = parseOutageCountryCodes(payload);
+
+    setOutageCount(lastOutageCountryCodes.size);
+    buildOutageDots();
+  } catch (e) {
+    console.error(e);
+    setOutageCount(0);
+    clearOutageDots();
+  }
+}
+
+async function enableOutages(){
+  outageEnabled = true;
+  await refreshOutageLayer();
+}
+
+function disableOutages(){
+  outageEnabled = false;
+  setOutageCount(0);
+  lastOutageCountryCodes = new Set();
+  outageDetailsByCode = new Map();
+
+  if (_map && outageDotsLayer) _map.removeLayer(outageDotsLayer);
+  if (_map && outageCountriesLayer) _map.removeLayer(outageCountriesLayer);
+
+  clearOutageDots();
+}
+
+function initOutageToggle(){
+  const cb = document.getElementById("toggleOutages");
+  if (!cb) return;
+
+  cb.addEventListener("change", async (e) => {
+    const on = !!e.target.checked;
+    if (on) await enableOutages();
+    else disableOutages();
+  });
+}
+
+/* -----------------------------
+   DEMOCRACY TRENDS (CSV)
+----------------------------- */
+const demCharts = new Map(); // canvasId -> Chart instance
+
+function destroyDemChart(canvasId){
+  try{
+    const ch = demCharts.get(canvasId);
+    if (ch && typeof ch.destroy === "function") ch.destroy();
+  }catch(_){}
+  demCharts.delete(canvasId);
+}
+
+async function initDemocracyTrendsFor({ bodyId, countrySelId, canvasId }){
+  const body = document.getElementById(bodyId);
+  const countrySel = document.getElementById(countrySelId);
+  if (!body || !countrySel) return;
+
+  body.innerHTML = `<div class="news-meta">Loading democracy data…</div>`;
+
+  try{
+    const url = "data/VDEM_small.csv?ts=" + Date.now();
+    const res = await fetch(url, { cache: "no-store" });
+    if (!res.ok) throw new Error(`CSV not found (${res.status}). Put it at data/VDEM_small.csv`);
+
+    const text = await res.text();
+    const parsed = Papa.parse(text, { header:true, dynamicTyping:true, skipEmptyLines:true });
+    const rows = (parsed.data || []).filter(r => r && r.country && r.year);
+
+    if (!rows.length){
+      body.innerHTML = `<div class="news-item"><strong>No democracy data</strong></div>`;
+      return;
+    }
+
+    const countries = [...new Set(rows.map(r => String(r.country).trim()))].filter(Boolean).sort((a,b)=>a.localeCompare(b));
+    countrySel.innerHTML = countries.map(c => `<option value="${safeText(c)}">${safeText(c)}</option>`).join("");
+    countrySel.value = countries.includes("South Africa") ? "South Africa" : countries[0];
+
+    // Ensure chart HTML exists
+    body.innerHTML = `
+      <div class="dem-chart-wrap">
+        <canvas id="${safeText(canvasId)}"></canvas>
+      </div>
+      <div class="news-meta" style="margin-top:10px;" id="${safeText(canvasId)}-note"></div>
+    `;
+
+    const canvas = document.getElementById(canvasId);
+    const note = document.getElementById(`${canvasId}-note`);
+    if (!canvas) throw new Error(`Canvas #${canvasId} not found`);
+
+    const measures = [
+      { key:"electoral_democracy_index", label:"Electoral" },
+      { key:"liberal_democracy_index", label:"Liberal" },
+      { key:"electoral_fairness_index", label:"Fairness" },
+      { key:"vote_buying", label:"Vote Buying" },
+      { key:"freedom_of_expression_index", label:"Expression" }
+    ];
+
+    function render(country){
+      const data = rows
+        .filter(r => String(r.country).trim() === String(country).trim())
+        .sort((a,b)=>Number(a.year)-Number(b.year));
+
+      if (!data.length){
+        destroyDemChart(canvasId);
+        if (note) note.textContent = "No rows found for this country in the CSV.";
+        return;
+      }
+
+      const years = data.map(d => d.year);
+      const datasets = measures.map(m => ({
+        label: m.label,
+        data: data.map(d => d[m.key]),
+        tension: 0.3
+      }));
+
+      destroyDemChart(canvasId);
+
+      const chart = new Chart(canvas, {
+        type: "line",
+        data: { labels: years, datasets },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { labels: { color: "#fff" } } },
+          scales: {
+            x: { ticks: { color: "#aaa" }, grid: { color: "rgba(255,255,255,0.05)" } },
+            y: { ticks: { color: "#aaa" }, grid: { color: "rgba(255,255,255,0.05)" } }
+          }
+        }
+      });
+
+      demCharts.set(canvasId, chart);
+      if (note) note.textContent = "";
+    }
+
+    render(countrySel.value);
+    countrySel.onchange = (e) => render(e.target.value);
+
+  }catch(e){
+    body.innerHTML = `
+      <div class="news-item">
+        <strong>Error loading CSV</strong>
+        <div class="news-meta">${safeText(e?.message || String(e))}</div>
+      </div>
+    `;
+    console.error(e);
+  }
+}
+
+/* -----------------------------
+   BOOT (initialize BOTH dashboards)
+----------------------------- */
+document.addEventListener("DOMContentLoaded", () => {
+  // Short term
+  initLiveNewsFor("tabs", "player");
+  initInstabilityFor({
+    listId:"instabilityList", updatedId:"instabilityUpdated", countId:"instabilityCount", windowId:"instabilityWindow"
+  });
+  initTopNewsFor({
+    catId:"newsCategory", nId:"newsN", listId:"topNewsList", updatedId:"topNewsUpdated"
+  });
+  initDemocracyTrendsFor({ bodyId:"demBody", countrySelId:"demCountry", canvasId:"demChart" });
+
+  // Long term
+  initLiveNewsFor("tabs-lt", "player-lt");
+  initInstabilityFor({
+    listId:"instabilityList-lt", updatedId:"instabilityUpdated-lt", countId:"instabilityCount-lt", windowId:"instabilityWindow-lt"
+  });
+  initTopNewsFor({
+    catId:"newsCategory-lt", nId:"newsN-lt", listId:"topNewsList-lt", updatedId:"topNewsUpdated-lt"
+  });
+  initDemocracyTrendsFor({ bodyId:"demBody-lt", countrySelId:"demCountry-lt", canvasId:"demChart-lt" });
+
+  // Map
+  initMap();
+
+  // Refresh
+  setInterval(() => initInstabilityFor({
+    listId:"instabilityList", updatedId:"instabilityUpdated", countId:"instabilityCount", windowId:"instabilityWindow"
+  }), 60_000);
+
+  setInterval(() => initInstabilityFor({
+    listId:"instabilityList-lt", updatedId:"instabilityUpdated-lt", countId:"instabilityCount-lt", windowId:"instabilityWindow-lt"
+  }), 60_000);
+
+  setInterval(() => refreshTopNewsFor({
+    catId:"newsCategory", nId:"newsN", listId:"topNewsList", updatedId:"topNewsUpdated"
+  }), 60_000);
+
+  setInterval(() => refreshTopNewsFor({
+    catId:"newsCategory-lt", nId:"newsN-lt", listId:"topNewsList-lt", updatedId:"topNewsUpdated-lt"
+  }), 60_000);
+
+  setInterval(refreshOutageLayer, 5 * 60_000);
+});
+
+console.log("APP LOADED ✅", new Date().toISOString());
