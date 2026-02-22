@@ -115,6 +115,32 @@ body{
   opacity: 0.85;
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
+/* WorldMonitor-style section header box */
+.section-box{
+  width:100%;
+  max-width: var(--container);
+  margin: 14px auto 0;
+  padding: 14px 16px;
+  border: 1px solid var(--border);
+  background: rgba(0,0,0,0.25);
+  box-shadow: var(--shadow);
+  border-radius: 12px;
+}
+
+.section-box-title{
+  font-weight: 900;
+  letter-spacing: 0.28em;
+  font-size: 12px;
+  text-transform: uppercase;
+  opacity: 0.95;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.section-box-sub{
+  margin-top: 6px;
+  font-size: 12px;
+  color: rgba(255,255,255,0.65);
+}
 
 /* WORLD-MONITOR STYLE GRID:
    4 columns: Live tile + 3 columns of panels
