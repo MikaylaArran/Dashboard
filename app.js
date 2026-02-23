@@ -553,7 +553,6 @@ document.addEventListener("DOMContentLoaded", () => {
   initLiveNewsFor("");
   initInstabilityFor("");
   initTopNewsFor("");
-  initDemocracyTrendsFor("");
 
   // Long term (IMPORTANT: suffix is "-lt")
   initLiveNewsFor("-lt");
