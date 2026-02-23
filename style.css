@@ -143,7 +143,6 @@ body{
 /* LEFT: LIVE NEWS */
 .news-block{
   grid-column: 1 / 2;
-  grid-row: 1 / span 2;
 
   border:1px solid var(--border);
   border-radius:var(--radius);
