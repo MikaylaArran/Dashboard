@@ -417,7 +417,7 @@ iframe{
   grid-column: 1 / -1;
 }
 
-.dem-chart-wrap{ height: 260px; }
+.dem-chart-wrap{ height: 320px; }
 #demChart, #demChart-lt{ width:100%; height:100%; }
 
 /* Tooltip */
