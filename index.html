@@ -48,115 +48,113 @@
 
     <section class="section-block" id="longTerm">
       <div class="dashboard">
-        <div class="layout-2col">
 
-          <!-- LEFT: LIVE NEWS (LT) -->
-          <div class="news-block">
-            <div class="header">
-              <div class="title">LIVE NEWS</div>
-              <div class="live"><div class="dot"></div>LIVE</div>
+        <!-- LEFT: LIVE NEWS (LT) -->
+        <div class="news-block">
+          <div class="header">
+            <div class="title">LIVE NEWS</div>
+            <div class="live"><div class="dot"></div>LIVE</div>
+          </div>
+
+          <div class="tabs" id="tabs-lt"></div>
+
+          <div class="player">
+            <iframe
+              id="player-lt"
+              allow="autoplay; encrypted-media; picture-in-picture"
+              allowfullscreen>
+            </iframe>
+          </div>
+
+          <div class="hint" id="ytHint-lt">
+            If a channel isn’t live right now, YouTube may show “This video is unavailable”.
+          </div>
+        </div>
+
+        <!-- RIGHT: PANELS (LT) -->
+        <div class="right-col">
+
+          <div class="panel" id="instabilityPanel-lt">
+            <div class="panel-header">
+              <div class="panel-title">COUNTRY INSTABILITY INDEX</div>
+              <div class="meta-right">
+                <span class="badge" id="instabilityWindow-lt">7D</span>
+                <span class="badge" id="instabilityUpdated-lt">Loading…</span>
+                <span class="badge" id="instabilityCount-lt">0</span>
+              </div>
             </div>
+            <div class="panel-body" id="instabilityList-lt"></div>
+          </div>
 
-            <div class="tabs" id="tabs-lt"></div>
+          <div class="panel" id="topNewsPanel-lt">
+            <div class="panel-header">
+              <div class="panel-title">TOP NEWS</div>
+              <div class="meta-right">
+                <select class="news-select" id="newsCategory-lt">
+                  <option value="all" selected>All</option>
+                  <option value="world">World</option>
+                  <option value="politics">Politics</option>
+                  <option value="business">Business</option>
+                  <option value="technology">Technology</option>
+                  <option value="environment">Environment</option>
+                </select>
 
-            <div class="player">
-              <iframe
-                id="player-lt"
-                allow="autoplay; encrypted-media; picture-in-picture"
-                allowfullscreen>
-              </iframe>
+                <select class="news-select" id="newsN-lt">
+                  <option value="20">20</option>
+                  <option value="40">40</option>
+                  <option value="60" selected>60</option>
+                  <option value="100">100</option>
+                </select>
+
+                <span class="badge" id="topNewsUpdated-lt">Loading…</span>
+              </div>
             </div>
+            <div class="panel-body" id="topNewsList-lt"></div>
+          </div>
 
-            <div class="hint" id="ytHint-lt">
-              If a channel isn’t live right now, YouTube may show “This video is unavailable”.
+          <div class="panel" id="panel3-lt">
+            <div class="panel-header">
+              <div class="panel-title">PANEL 3</div>
+              <div class="meta-right"><span class="badge">READY</span></div>
+            </div>
+            <div class="panel-body" id="panel3Body-lt">
+              <div class="news-item">
+                <strong>Empty panel</strong>
+                <div class="news-meta">Intentionally blank for now.</div>
+              </div>
             </div>
           </div>
 
-          <!-- RIGHT: PANELS (LT) -->
-          <div class="right-col">
-
-            <div class="panel" id="instabilityPanel-lt">
-              <div class="panel-header">
-                <div class="panel-title">COUNTRY INSTABILITY INDEX</div>
-                <div class="meta-right">
-                  <span class="badge" id="instabilityWindow-lt">7D</span>
-                  <span class="badge" id="instabilityUpdated-lt">Loading…</span>
-                  <span class="badge" id="instabilityCount-lt">0</span>
-                </div>
-              </div>
-              <div class="panel-body" id="instabilityList-lt"></div>
-            </div>
-
-            <div class="panel" id="topNewsPanel-lt">
-              <div class="panel-header">
-                <div class="panel-title">TOP NEWS</div>
-                <div class="meta-right">
-                  <select class="news-select" id="newsCategory-lt">
-                    <option value="all" selected>All</option>
-                    <option value="world">World</option>
-                    <option value="politics">Politics</option>
-                    <option value="business">Business</option>
-                    <option value="technology">Technology</option>
-                    <option value="environment">Environment</option>
-                  </select>
-
-                  <select class="news-select" id="newsN-lt">
-                    <option value="20">20</option>
-                    <option value="40">40</option>
-                    <option value="60" selected>60</option>
-                    <option value="100">100</option>
-                  </select>
-
-                  <span class="badge" id="topNewsUpdated-lt">Loading…</span>
-                </div>
-              </div>
-              <div class="panel-body" id="topNewsList-lt"></div>
-            </div>
-
-            <div class="panel" id="panel3-lt">
-              <div class="panel-header">
-                <div class="panel-title">PANEL 3</div>
-                <div class="meta-right"><span class="badge">READY</span></div>
-              </div>
-              <div class="panel-body" id="panel3Body-lt">
-                <div class="news-item">
-                  <strong>Empty panel</strong>
-                  <div class="news-meta">Intentionally blank for now.</div>
-                </div>
+          <div class="panel" id="democracyPanel-lt">
+            <div class="panel-header">
+              <div class="panel-title">DEMOCRACY TREND</div>
+              <div class="meta-right">
+                <select class="news-select" id="demCountry-lt"></select>
+                <span class="badge" id="demUpdated-lt">Loaded</span>
               </div>
             </div>
-
-            <div class="panel" id="democracyPanel-lt">
-              <div class="panel-header">
-                <div class="panel-title">DEMOCRACY TREND</div>
-                <div class="meta-right">
-                  <select class="news-select" id="demCountry-lt"></select>
-                  <span class="badge" id="demUpdated-lt">CSV</span>
-                </div>
+            <div class="panel-body" id="demBody-lt">
+              <div class="dem-chart-wrap">
+                <canvas id="demChart-lt"></canvas>
               </div>
-              <div class="panel-body" id="demBody-lt">
-                <div class="dem-chart-wrap">
-                  <canvas id="demChart-lt"></canvas>
-                </div>
-                <div class="news-meta" id="demNote-lt" style="margin-top:10px;"></div>
+              <div class="news-meta" id="demNote-lt" style="margin-top:10px;"></div>
+            </div>
+          </div>
+
+          <div class="panel" id="panel6-lt">
+            <div class="panel-header">
+              <div class="panel-title">LIVE INTELLIGENCE</div>
+              <div class="meta-right"><span class="badge">LIVE</span></div>
+            </div>
+            <div class="panel-body" id="panel6Body-lt">
+              <div class="news-item">
+                <strong>Placeholder</strong>
+                <div class="news-meta">Add content later.</div>
               </div>
             </div>
+          </div>
 
-            <div class="panel" id="panel6-lt">
-              <div class="panel-header">
-                <div class="panel-title">LIVE INTELLIGENCE</div>
-                <div class="meta-right"><span class="badge">LIVE</span></div>
-              </div>
-              <div class="panel-body" id="panel6Body-lt">
-                <div class="news-item">
-                  <strong>Placeholder</strong>
-                  <div class="news-meta">Add content later.</div>
-                </div>
-              </div>
-            </div>
-
-          </div><!-- /right-col -->
-        </div><!-- /layout-2col -->
+        </div><!-- /right-col -->
       </div><!-- /dashboard -->
     </section>
 
