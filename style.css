@@ -131,40 +131,19 @@ body{
 }
 .leaflet-control-zoom a:hover{ background:rgba(0,0,0,0.75) !important; }
 
-/* DASHBOARD GRID */
+/* DASHBOARD GRID (RESTORED WORKING LAYOUT) */
 .dashboard{
   width:100%;
-}
-
-/* Two-column layout: left fixed, right grid */
-.layout-2col{
-  width:100%;
   display:grid;
-  grid-template-columns: 1.45fr 3fr;
+  grid-template-columns: 1.45fr 1fr 1fr 1fr;
   gap: var(--gap);
-  align-items:start;
-}
-
-.layout-2col .news-block{
-  grid-column: 1;
-  height: clamp(520px, 72vh, 820px);
-  display:flex;
-  flex-direction:column;
-}
-
-.layout-2col .right-col{
-  grid-column: 2;
-}
-
-/* ensure player gets space */
-.layout-2col .news-block .player{
-  flex: 1 1 auto;
-  min-height: 320px;
+  align-items: stretch;
 }
 
 /* LEFT: LIVE NEWS */
 .news-block{
   grid-column: 1 / 2;
+  grid-row: 1 / span 2;
 
   border:1px solid var(--border);
   border-radius:var(--radius);
@@ -268,8 +247,19 @@ iframe{
   border-top:1px solid rgba(255,255,255,0.08);
   background:rgba(0,0,0,0.2);
   flex:0 0 auto;
+}
 
-  
+/* RIGHT: PANELS GRID */
+.right-col{
+  grid-column: 2 / 5;
+  grid-row: 1 / 3;
+
+  display:grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-auto-rows: clamp(260px, 32vh, 360px);
+  gap: var(--gap);
+  align-items: stretch;
+}
 
 /* PANEL */
 .panel{
@@ -420,11 +410,12 @@ iframe{
   outline: none;
 }
 
-/* Democracy panel wider */
+/* Democracy panel FULL ROW (right grid) */
 #democracyPanel,
 #democracyPanel-lt{
-  grid-column: 1 / -1; /* full row across all 3 columns */
+  grid-column: 1 / -1;
 }
+
 .dem-chart-wrap{ height: 260px; }
 #demChart, #demChart-lt{ width:100%; height:100%; }
 
