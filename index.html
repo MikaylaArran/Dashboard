@@ -5,12 +5,16 @@
   <title>Global Monitor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!-- Your CSS -->
-  <link rel="stylesheet" href="./style.css?v=999" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="./style.css?v=4" />
 
-  <!-- Leaflet (Map library) -->
+  <!-- Leaflet (Map) -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- Chart + Papa (MUST load before app.js) -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 </head>
 
 <body>
@@ -18,9 +22,7 @@
     This dashboard needs JavaScript enabled to load the map and data panels.
   </noscript>
 
-  <!-- =========================
-       MAP (RIGHT AT THE TOP)
-  ========================== -->
+  <!-- MAP (TOP) -->
   <div class="map-strip">
     <div class="map-banner">
       <div id="worldMap"></div>
@@ -36,11 +38,7 @@
     </div>
   </div>
 
-  <!-- =========================
-       CONTENT
-  ========================== -->
   <div class="page">
-
     <!-- LONG TERM -->
     <div class="term-banner">
       <div class="term-title">LONG TERM INSIGHTS</div>
@@ -48,7 +46,6 @@
 
     <section class="section-block" id="longTerm">
       <div class="dashboard">
-
         <!-- LEFT: LIVE NEWS (LT) -->
         <div class="news-block">
           <div class="header">
@@ -73,7 +70,6 @@
 
         <!-- RIGHT: PANELS (LT) -->
         <div class="right-col">
-
           <div class="panel" id="instabilityPanel-lt">
             <div class="panel-header">
               <div class="panel-title">COUNTRY INSTABILITY INDEX</div>
@@ -125,12 +121,13 @@
             </div>
           </div>
 
+          <!-- DEMOCRACY (LT ONLY) -->
           <div class="panel" id="democracyPanel-lt">
             <div class="panel-header">
               <div class="panel-title">DEMOCRACY TREND</div>
               <div class="meta-right">
                 <select class="news-select" id="demCountry-lt"></select>
-                <span class="badge" id="demUpdated-lt">Loaded</span>
+                <span class="badge" id="demUpdated-lt">CSV</span>
               </div>
             </div>
             <div class="panel-body" id="demBody-lt">
@@ -153,9 +150,8 @@
               </div>
             </div>
           </div>
-
-        </div><!-- /right-col -->
-      </div><!-- /dashboard -->
+        </div>
+      </div>
     </section>
 
     <!-- SHORT TERM -->
@@ -165,7 +161,6 @@
 
     <section class="section-block" id="shortTerm">
       <div class="dashboard">
-
         <!-- LEFT: LIVE NEWS -->
         <div class="news-block">
           <div class="header">
@@ -190,7 +185,6 @@
 
         <!-- RIGHT: PANELS -->
         <div class="right-col">
-
           <div class="panel" id="instabilityPanel">
             <div class="panel-header">
               <div class="panel-title">COUNTRY INSTABILITY INDEX</div>
@@ -254,18 +248,13 @@
               </div>
             </div>
           </div>
-
-        </div><!-- /right-col -->
-      </div><!-- /dashboard -->
+        </div>
+      </div>
     </section>
 
-  </div><!-- /page -->
-
-  <!-- Libraries (load first) -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  </div>
 
   <!-- App -->
-  <script src="./app.js?v=3"></script>
+  <script src="./app.js?v=4" defer></script>
 </body>
 </html>
