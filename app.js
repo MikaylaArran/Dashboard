@@ -139,7 +139,7 @@ async function loadTopNews(category){
   const res = await fetch(file, { cache: "no-store" });
 
   if (!res.ok) {
-    const fallback = await fetch(`data/top_news_all.json?ts=${Date.now()}`, { cache: "no-store" });
+    const fallback = await fetch(`./data/top_news_all.json?ts=${Date.now()}`, { cache: "no-store" });
     if (!fallback.ok) throw new Error(`Missing top news JSON (tried ${file} and fallback top_news_all.json)`);
     return await fallback.json();
   }
@@ -175,7 +175,7 @@ function renderTopNews(payload, suffix=""){
     return;
   }
 
-  const displayCount = Math.min(nWanted, 40);
+ const displayCount = Math.min(nWanted, articles.length);
   articles.slice(0, displayCount).forEach(a => {
     const title = a?.title || "Untitled";
     const link = a?.link || "";
@@ -276,7 +276,7 @@ const WORLD_COUNTRIES_GEOJSON =
   "https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson";
 
 const OUTAGES_API = null;
-const OUTAGES_FALLBACK = "data/outages_mock.json";
+const OUTAGES_FALLBACK = "./data/outages_mock.json";
 
 let outageEnabled = false;
 let outageCountriesLayer = null;
@@ -470,7 +470,7 @@ async function initDemocracyTrendsFor(suffix=""){
   if (!countrySel || !canvas) return;
 
   try{
-    const url = `data/VDEM_small.csv?ts=${Date.now()}`;
+    const url = `./data/VDEM_small.csv?ts=${Date.now()}`;
     const res = await fetch(url, { cache:"no-store" });
     if (!res.ok) throw new Error(`CSV not found (${res.status}). Put it at data/VDEM_small.csv`);
 
