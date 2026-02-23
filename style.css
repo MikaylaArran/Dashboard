@@ -420,6 +420,17 @@ iframe{
 .dem-chart-wrap{ height: 320px; }
 #demChart, #demChart-lt{ width:100%; height:100%; }
 
+/* Democracy panel: NO internal scroll, always show full chart */
+#democracyPanel .panel-body,
+#democracyPanel-lt .panel-body{
+  overflow: hidden;   /* removes scrollbar */
+}
+
+/* make sure the chart container has enough height */
+.dem-chart-wrap{
+  height: 320px;
+}
+
 /* Tooltip */
 .leaflet-tooltip{
   background: rgba(0,0,0,0.80);
