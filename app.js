@@ -467,16 +467,20 @@ async function initDemocracyTrendsFor(suffix=""){
   const countrySel = document.getElementById(`demCountry${suffix}`);
   const canvas = document.getElementById(`demChart${suffix}`);
   const note = document.getElementById(`demNote${suffix}`);
+   const badge = document.getElementById(`demUpdated${suffix}`);
+if (badge) badge.textContent = "Loading…";
+if (note) note.textContent = "";
   if (!countrySel || !canvas) return;
 
   try{
     const url = `./data/VDEM_small.csv?ts=${Date.now()}`;
     const res = await fetch(url, { cache:"no-store" });
-    if (!res.ok) throw new Error(`CSV not found (${res.status}). Put it at data/VDEM_small.csv`);
+    if (!res.ok) throw new Error(`CSV not found (${res.status}). Check: ./data/VDEM_small.csv (case-sensitive on GitHub Pages).`);
 
     const text = await res.text();
     const parsed = Papa.parse(text, { header:true, dynamicTyping:true, skipEmptyLines:true });
     const rows = (parsed.data || []).filter(r => r && r.country && r.year);
+     if (badge) badge.textContent = `Loaded ${rows.length}`;
 
     if (!rows.length){
       if (note) note.textContent = "No democracy data rows found in CSV.";
