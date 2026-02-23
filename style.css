@@ -467,3 +467,14 @@ iframe{
   }
   #democracyPanel, #democracyPanel-lt{ grid-column: auto; }
 }
+
+/* DEMOCRACY: make panel body scroll again (prevents clipping) */
+#democracyPanel .panel-body,
+#democracyPanel-lt .panel-body{
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+/* keep your chart height */
+.dem-chart-wrap{ height: 320px; }
+#demChart, #demChart-lt{ width:100%; height:100%; }
