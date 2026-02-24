@@ -1,50 +1,38 @@
 {
-  "generated_at_utc": "2026-02-24T18:46:05.357940Z",
+  "generated_at_utc": "2026-02-24T19:43:30.941843Z",
   "category": "politics",
   "language": "en",
   "summary": "Top headlines pulled from Google News RSS (free, English). Category: politics.",
   "articles": [
     {
-      "title": "Stephen Miller's staying power: From the Politics Desk - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVE9VeC1JVkQzc2RMM0VPTHNRR0ROYXV4YUZIaEFZTHlvQ0tUR0lrRHlXbFlGVUswS0JOajlXTENNWUZhY2RDczJ6LVY0MHhHcEZ2b3FRejBsWFM5dEQtbjRqOU9pUU11aWJldG43aDRJSUZObmtWNDhkTm9adjcxbmw1Zjk3UGtnVGNwOGM4c1VJUFNmeTJkaVdvcnV5N3plbFgw?oc=5",
-      "source": "NBC News",
-      "pubDate": "Mon, 23 Feb 2026 22:31:58 GMT"
-    },
-    {
-      "title": "How Jasmine Crockett’s unconventional Senate campaign is testing Texas politics - CNN",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaWxVS2V2X081N18wTG56WVZRVk50UVNlRnZ3UzMyc3Ftcm1LN05aY2ViQk5Hc3F1SnZvSzJXcEl6WWRHRGZZVlZobDFrWXlkYjYyQ2x6bmxldmJ6QkFfM2owV0NSVWpBT0ZiT24wYW5KODBWMk9hYTBuWlRzSHF4Z0hRNA?oc=5",
-      "source": "CNN",
-      "pubDate": "Mon, 23 Feb 2026 11:00:33 GMT"
-    },
-    {
-      "title": "Live Updates: Trump's 2026 State of the Union address - PBS",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1gwZDVubXlhaU5UTEpMN253RXNSUndnaXN1djE2M1RaQXJweUgyNGlycHZ4RXRMY0NoNjNiZGpRUk5tdkFwcFNVc3BYRzJNNnVhbUxLQi0wNWcyaUM4dDJIb01ZOW1UZE9ENk1tcGdxejFiZktzZFBfRDFsNDNtbUFHdHZZTVlNZGpDNFpHaWcwVTQ?oc=5",
-      "source": "PBS",
-      "pubDate": "Tue, 24 Feb 2026 18:26:49 GMT"
-    },
-    {
-      "title": "Paramount bets that politics, price will win it Warner Bros. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3NLUXptOENrUDFlV2ZWdjlIVEx1LUhPMTlYa3lNc1R0LVE1eVlHU0NaOWJRWHdoRU9pTnhtS1dMYjFWd3VNN3JBVnFQbzlXNWR6ZXlNYU4xSy0yUlBUMkdqUEF4bzZDV1RNOUk0V3lFb3pJMHpPYkFCTFZJczhwaVFfM0t4UQ?oc=5",
-      "source": "Yahoo Finance",
-      "pubDate": "Tue, 24 Feb 2026 17:57:03 GMT"
-    },
-    {
-      "title": "Calls grow for Texas Rep. Gonzales to resign over al­le­ga­tions of affair with ex-staffer - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMW0wV2VLZFhZWW1TdnROdGpaVWJuSkxNbDVaRWhnTC1RWnExUkQzR3pmdEYxbDdCNExUNVdDOEZZaFFIbDFhZWt2OEFjY1lQZEhkaWE5dlI4MHo3ZnRjWXhmSjVJdm5ZSmw3Vzd5UDhMc3dod2FWcHV3M2plTkpfMXlRVmowcjdFOFFFckFaXzJNbjhLY0t3bXpVWWRJcUx0dzBmeHRtUk9yUkszaVNCM2RqR1VpZld2S0ZsOEZVaWNMNmVOMWJQcA?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Tue, 24 Feb 2026 17:52:00 GMT"
-    },
-    {
-      "title": "Five Big Political Questions About Trump’s State of the Union Speech - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHZZTlB5OG5fc2tuQUZOVk5tRHphbnVDanRyUmFyWlhlOThqUDFqdV9yUnRGWGdIZkliSFBQM2lsR2xmN2tDU091TkhodVpVU3hUaUctNVNfeFJLRVRJeXFob21pejBSSHR4akJxWlltdUtNRHo0Qy1hZzJ0cmp5MTVuSWE2Z2x4WEJuRmpPdE94RlE?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Mon, 23 Feb 2026 23:31:43 GMT"
-    },
-    {
-      "title": "If you think politics shaped these Winter Olympics, just wait until LA 2028 - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFBaTzA0RkxaaHEtcllsN3d0Yjc2R1U0Y3hVZmY1VnBndjctOTdSVUgwVzZRamJvaWdtMHZXWHNaUDhGRXIwRzRuVjloa0JTTFFFQlJMOVNUb2ktaDJnTzUwbjZWbEV2MmNBVDVqUVRVWGRFcnpzRTBSVURmQ1JUMXJ1cG5vSWk4YzRMZy1xeXlyUkQzakdaRlhyS1k0aTBYamx3V2JvUHJJeFg5d0NyNU0tVlVuRDdldkVRRg?oc=5",
+      "title": "Mandelson complains arrest followed ‘baseless suggestion’ he was about to flee the country – UK politics live - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjVPUjVQd3ozWkhpYXZnektHUG1YYl8wSFRrNUcteGNrSG5zU0tNcDNWSTNDYzJkZ2l3WElzUmxvbEkxSTFyN0lQdlpOVVhROVM1WmhjUTdOcWVsZjB1VDZlWENqRTJoVEV3em85SHZsdWhCNUU0Yk1lVzRDck9TYzVJOEUxYU5wZ184NHFXUkU2WjlOb190c3NPSG5pQlFmWjVnbHJsWWdKYlVZck5WV2tDeU91YTZTODAtclFQZFlmQVVkSGFZRHBUTnFaZXZIdWpRcA?oc=5",
       "source": "The Guardian",
-      "pubDate": "Tue, 24 Feb 2026 15:35:00 GMT"
+      "pubDate": "Tue, 24 Feb 2026 19:08:00 GMT"
+    },
+    {
+      "title": "Trump’s tariff troubles might not be over - CNN",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWHFUai1DeEw3OFR0blY4UnZHUXUyOFo3ZzJsaGg5NzJPdDR3cWpua25INUtCRkdQRVpmNU9mbEJ1SmFNZE53SW5MVjRfMDNOMEFvaWh6ZkJOMk8xRXBzNlpfMDc3NC1FekVZZUpNcmFLQW0xZi11Z0JRelNuVjU0bEJfNlJvazVpNEJtZQ?oc=5",
+      "source": "CNN",
+      "pubDate": "Mon, 23 Feb 2026 19:00:33 GMT"
+    },
+    {
+      "title": "Live updates: Trump to give State of the Union speech tonight amid tariff threats, Iran tension - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWZneXBrMkFzMEpOSzN6Q01FNzFmeUV6clUtdVFDeXkyeDR6RnZqdl9VcnRQQmxUV3dpY0NxWEZ2RlNhMnI0VFBsM29VM3pDbWRLZTlRTFRsZkFXMTU0RFpqd215d0xMTmtudHBuWEFqSkRzR3c0VkNqQ3YxbVRNNS12Q2dabjZCRW42R3k5VzdWWk1XVVg0ZHRHNGhTUzE2U3BjS21NaWhfXzlJUUE1U3p3?oc=5",
+      "source": "NBC News",
+      "pubDate": "Tue, 24 Feb 2026 19:34:01 GMT"
+    },
+    {
+      "title": "Who is Mike Johnson? House Speaker set for State of the Union - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb1lMSFdrT1BmMm9jc1cwbVBwTWtHQkVTaDBiQkd6NDhob0Ztb2JpOWFFblFhdGVIRG9uRjBMN3pIWkFCc0ozYXpDSkFlRDJvRXQwVU9Ed1ViNl9ROFpBUE43ZnNIWGVaYlRUQWJQM1ptcW5iM3NLWFVVRzNaZkg3QmttOWV4Y3pscDlLTDg5aTBpMzdxUXlTMGRnQzlHZ3EyX2VlUU5rXzFOc1k?oc=5",
+      "source": "USA Today",
+      "pubDate": "Tue, 24 Feb 2026 19:10:27 GMT"
+    },
+    {
+      "title": "WATCH LIVE: Democratic lawmakers join 'People's State of the Union' rally during Trump's address - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazViRTlOZmNqNzBJX0hNTGdQVE9pb1ZUR1hUWk9DVHhXRjNRX0hVZ29QaFRNalRWRlN0UnJ2MTBGY3NnZldqSW8weVdmNmlIMjhTSURIUGFBUGlPaFBxeG4tRHNQajdaZGhFc2lQODlObF8xVXY3UTBpdjBURjg2MWN2RFZTUjJYZzFpSjBDaS14X182dFVQT2RtdlZYbVhBRDlTWlpPOGR1dGtDY2dKY0hPd2FrVEwtS0dKTkhRNWd0eGpjejNOVdIBzgFBVV95cUxQWFoxaENrVkExeHBTT1V2WVJSaGpMN3pWQjAwMzh4eTAzTTROM3FwMFhoZWRCN0dyWFN5Tjh1QjdkUVdrWDZWdnFxbzAzOHV2RlJadkFkMHhKSDhteE80bkI1dDZpZ0pTN1FiUHpwdGx2bG12dDJBbmFPNUZDZm5nSWZfM25PQ0VIT1Z6OFlQLWxiZGRQeFhZQWtrbTNGM2trYmpMUVZXZHFITjhJczVFVjI3a0U5WXFiZFJNNXA5YWMxQ2RueDZ3dWNIUWFKdw?oc=5",
+      "source": "PBS",
+      "pubDate": "Tue, 24 Feb 2026 19:03:29 GMT"
     },
     {
       "title": "Is politics ruining sports? Partisanship simmers after Olympic gold for men’s hockey - Star Tribune",
@@ -53,22 +41,28 @@
       "pubDate": "Tue, 24 Feb 2026 12:14:17 GMT"
     },
     {
+      "title": "Five Big Political Questions About Trump’s State of the Union Speech - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHZZTlB5OG5fc2tuQUZOVk5tRHphbnVDanRyUmFyWlhlOThqUDFqdV9yUnRGWGdIZkliSFBQM2lsR2xmN2tDU091TkhodVpVU3hUaUctNVNfeFJLRVRJeXFob21pejBSSHR4akJxWlltdUtNRHo0Qy1hZzJ0cmp5MTVuSWE2Z2x4WEJuRmpPdE94RlE?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Mon, 23 Feb 2026 23:31:43 GMT"
+    },
+    {
       "title": "Three Myths Fueling Companies’ Icy Silence on Politics | Andrew Winston - MIT Sloan Management Review",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDBCaDI0WFNDVlpuNnRfUW1tcTRPS1d2SjdfRk1TbFJWOEtNU202Zm5Mc3NOQTZIYzUxT08wRkdrWlpWWHdYWEZ0ZEFpVzR1YWZKam04QWViWHFCM0o4Y29oRVBXZUZZbzRHX2pZelNRUnZMNnZjdGd5NEJyODlZVWFXZmZrSVBGd0JFbzBFbW5yWmMt?oc=5",
       "source": "MIT Sloan Management Review",
       "pubDate": "Mon, 23 Feb 2026 12:00:27 GMT"
     },
     {
-      "title": "F-bombs, profanity and politics: a story not fit for this family newspaper - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVWtNcnBtUzA3Y1ZTR3hzdU1sT3hnTVZtUGhVQ1hVMDM1UG1wdDhQWjJudGp3Unlvc1VweEFTbkh1MGMtWW43MHlSY0xTSzVKUlFDakFZUi1fZzFrTnk3c1hDQzQ3R3BWY1lfRzFJZkRpUjB3WXp3WGNIQ3hVdmZ5SE8tZ2tDOHZ2MTcxbnl0MV9hMThGWXZNWWxMODZEeVpCSjFZakVjekdhb2pUbDI2eVdMeVM5czR4RnVSV3RSY3c?oc=5",
-      "source": "USA Today",
-      "pubDate": "Mon, 23 Feb 2026 18:38:00 GMT"
+      "title": "Forget Le Pen. French politics has a new archvillain. - politico.eu",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTgxSlAwdy1nYXFDZzBsODJfQUI1Ymd1UnB2QVB0dDJfSW4tMWYya0x6TTJ3Q01aem1sWFhtd1hOWF9Fdkl0VFZRb3o5QWVZN3ROVjJtTDk4ekdwYlYzNDAxbXBTN24ybENyOWNCWmNNaXhTLVVYalRiNjljYzlWb2JQQ3cwS0lUNUYtYkcwTnR6VzdFOE5Z?oc=5",
+      "source": "politico.eu",
+      "pubDate": "Mon, 23 Feb 2026 03:00:00 GMT"
     },
     {
-      "title": "Trump to address economy, tariffs and foreign policy in 2026 State of the Union address - CNN",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMMnBjQ1JubTRmLUQtS2J4YkN4eW5sN01aT3h0d0dHRjNBLTBNblNsZ2VMdko2QlU2a2FXZERnMGJFakpybWdxQmhJTUNaN1lfTWV3VkJqMWZ4cnZlbHRKQlg4czhMU0JEZUJCUnp5eHRkWHhsVUlB?oc=5",
-      "source": "CNN",
-      "pubDate": "Tue, 24 Feb 2026 17:16:00 GMT"
+      "title": "Politics take center stage as Paramount submits new offer for Warner Bros. Discovery - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa0N1cXFEbFlLTzc2dGV1UU56c0xWb21FbE5vZDFnRHBlUGN5TDdkekw5UFQ4LXVkRXJIR3M2TFpnWURNU0wweTlSOHlxdXBIU1NZNmltcDBtSkhZMHM0RXYybnRMQmxxakpVWWZIR3VNT1lLb19WYWtRNkFMcm9sUHVfSGhEU3QtWWV5MUZIaGtRUEN5aE90ejRDMC0xUVpXVkVXcWRIWjl5LXZSdVVTcU0xZEdBTnNUMkRTdw?oc=5",
+      "source": "Los Angeles Times",
+      "pubDate": "Tue, 24 Feb 2026 01:10:00 GMT"
     },
     {
       "title": "Never eat the candy on your pillow: reentry politics - prismreports.org",
@@ -95,52 +89,10 @@
       "pubDate": "Tue, 24 Feb 2026 16:00:00 GMT"
     },
     {
-      "title": "Live updates: Trump to give State of the Union address tonight amid tariff threats, Iran tension - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWZneXBrMkFzMEpOSzN6Q01FNzFmeUV6clUtdVFDeXkyeDR6RnZqdl9VcnRQQmxUV3dpY0NxWEZ2RlNhMnI0VFBsM29VM3pDbWRLZTlRTFRsZkFXMTU0RFpqd215d0xMTmtudHBuWEFqSkRzR3c0VkNqQ3YxbVRNNS12Q2dabjZCRW42R3k5VzdWWk1XVVg0ZHRHNGhTUzE2U3BjS21NaWhfXzlJUUE1U3p3?oc=5",
-      "source": "NBC News",
-      "pubDate": "Tue, 24 Feb 2026 18:39:27 GMT"
-    },
-    {
       "title": "Dear Annie: Do I set a boundary with a friend and ask that we never talk about politics? - lehighvalleylive",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSTV4TWpDWEg1dnUwcDlibDJpa1A4aVQyYnZsQ3VvdVlTVVdDOElDb3lvMFQ4NThGYUM2cGoxc0xfRmxKeTY1MUFpOFJ6QVJEWUZVREtCOHh4a3c4cE9vOHgwRE04S2EtS1VwcHg1Mlc0U2VfR0syVlctMHlPZ2hfem9sTXR4b1JCN0NrOWxVTURGUmhqRVVHOE9zVjFHSlAyMFVtQ0xyZEJad1lnb0hYUGFXU2pwd1BxemlzdGFCNFlaMHBiNkpIZWNkMk5QRzZUNW5NUnN30gHqAUFVX3lxTE5EUGFuVVhLd1JrMGlZQXBFejlPU1VLTkExYUZaWTJ6ZXh1UGlaS1lZSHZxbnJEUjdUYm9rX2ZxaTMxbmV5bkx4QmN5S01Cd0V0dGlNTmhFTFIyZ0VtZ0l2LU04UlVhSnl5Z1V1RFZHeVpYWWFJU2V0OHlGbW5ZTnEyS0hsbGlrVzRIem9vRVNBXzFrZWRaR1p1LTZhUFViaUdvNTh4M3VwQjhwWWVkTGFHSjl6SWZaTlN1LWMtanpxVzk1SFBlaVFVVy1JenlWaWs1RFhHcmhVMl9ER09lWnNJNVcxWS1zM0dyZw?oc=5",
       "source": "lehighvalleylive",
       "pubDate": "Tue, 24 Feb 2026 16:30:00 GMT"
-    },
-    {
-      "title": "Epstein-Related Arrest of Peter Mandelson Rattles British Politics - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNelVlaWt0WjBiRTZGTUJUa3Jtd3pMTGVEY3RDSm82dmt6aV9kSTA1TVA4Nl8wSUVtYXlOdlE0SFRhdE1saE92UnA2VGtYVXJZaGdZQjhLRHB6V2d5X25qQ1h0aDlsdWZkNjRYeFI0SWptMDZuXzBCTUFxRkc5VnJ0M1pwUEI1aU9wY05RekJRd09lQQ?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Tue, 24 Feb 2026 11:22:30 GMT"
-    },
-    {
-      "title": "Mchael Harriot on this moment for Black history - PBS",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJqc0Z4dG9NbF9GTjhxczBJcUY1WWtKMTFGR3M4Y0F3b1l0YmR5TUpLVVFudDlvNmllajhISlY0elJQRGt1TW1jS1hIUjNfaVhuWmtKVUY4Z3BnY3FMVlVQcW1UejdicHgzNzZHeThlSUZ6TmR1V1d5ZjBmTkRSTU45UGpydDhyNTRWNkhhR3hiQXlpWC1QeDRxUWF6Rmk2d2VfU2pUbHZkQ1NzckE?oc=5",
-      "source": "PBS",
-      "pubDate": "Tue, 24 Feb 2026 17:41:06 GMT"
-    },
-    {
-      "title": "House panel advances bipartisan bill to protect students with autism at public schools - Florida Politics",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdXcyUGdFbHZEN3lFZUhvalBBN1R4WGV5eXZSNllqVXV0bzJWOXBFNDAta1hGTGg3eTJPQjJ3ZGFWVHpIMG1PdDRWeDZEZ1kwZlBrSEhkUVlSR2pCWnlTUWkxNHZ1WFVuOGpXM3ZSak94VUs1R01IdTFLRmd4dUU2WTA0TVZFV2N4aEdiRlVSc2N2Z3BwQXpkTFd0ejM3bGxzUnJaN0h4SEh6YXUxaU5RRXdEYmtjR3hZaXNQM25PU09seWUwNzM2RzBsdw?oc=5",
-      "source": "Florida Politics",
-      "pubDate": "Tue, 24 Feb 2026 17:02:24 GMT"
-    },
-    {
-      "title": "Watch IndyStar politics team break down final week of legislative session - IndyStar",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZDdYSGNkR2x6V0NBbDNETy1kWTB4MG9YUEEtbmtxSklxV1N5SEVYOEhfcmtCSnRIeVl0eTdRNVlUX20zZ3poR0pTdjRvLUtjRHQxa1luVUVaYXZmaThSTGQ3ZnBKY1p2SmRKOXZVajYxMHJ0WW5HNkkxVklHRE1BRnl6dkhqN0VtQTZjRmxuOVFyZzRFNE1leFVtWm9IREpBd1VhXzd3QmRQZlNHdlViNGs5cnpUQ0tHdjRUNkZ5cWh5UUpfWk1RQVVNR1RPRVY3RFFkcVdKeUdJbElubVJnMllMZVNxY0VJ?oc=5",
-      "source": "IndyStar",
-      "pubDate": "Tue, 24 Feb 2026 15:18:00 GMT"
-    },
-    {
-      "title": "Essay: Gavin Newsom: They told me it was political suicide. I did it anyway - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWF84T3dJNnVPUFVobkE4WDh2Um9xeUU4RkV1aGJiaEJXZlhMcXRhMjNBMEd6emhsNVNvWmpmMUpYc2FITS1tNG9UODA2cDgzZWQ1ZWxmRFNvRmNXcHZPNzZKbnREc1ZHMGM0YVdXQm1RRFNaQm9SYkJhQ2E0QktaTEVhak5ad1dMa3llekROamg2RFBvdnJtRzVTMHR4d0RCS0JIQnhsaml0cUVJSEVTYjJJcHIyYlpvTlJUWlI4VGV5dw?oc=5",
-      "source": "Los Angeles Times",
-      "pubDate": "Tue, 24 Feb 2026 11:00:00 GMT"
-    },
-    {
-      "title": "Poll shows frontrunners in Maine governor’s race - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUxEQmlMU0UzbDdualBwYi0yU0loWXdlNERpcm00V2dEakxWcjRLdWFJYS1mMjRESnlkX1otVmJ6UTRLQXJEZl9pVmRiMkJMWXhSVjlRS2dXM25TeTRjQk5hSVJxZWdqWk9XS09iOTdWeDNQekV3M0NFcXZIbXJid2VIaVFoYkZkV0E0R2RrTUx3bEtIMVlrTmdDNWFUUmZfdVJnMUFfYTJBZE0?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Tue, 24 Feb 2026 18:05:00 GMT"
     },
     {
       "title": "The Odds: 2028 Potential Democratic Contenders - CNN",
@@ -149,10 +101,28 @@
       "pubDate": "Tue, 24 Feb 2026 14:48:36 GMT"
     },
     {
+      "title": "Epstein-Related Arrest of Peter Mandelson Rattles British Politics - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNelVlaWt0WjBiRTZGTUJUa3Jtd3pMTGVEY3RDSm82dmt6aV9kSTA1TVA4Nl8wSUVtYXlOdlE0SFRhdE1saE92UnA2VGtYVXJZaGdZQjhLRHB6V2d5X25qQ1h0aDlsdWZkNjRYeFI0SWptMDZuXzBCTUFxRkc5VnJ0M1pwUEI1aU9wY05RekJRd09lQQ?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Tue, 24 Feb 2026 11:22:30 GMT"
+    },
+    {
+      "title": "If you think politics shaped these Winter Olympics, just wait until LA 2028 - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFBaTzA0RkxaaHEtcllsN3d0Yjc2R1U0Y3hVZmY1VnBndjctOTdSVUgwVzZRamJvaWdtMHZXWHNaUDhGRXIwRzRuVjloa0JTTFFFQlJMOVNUb2ktaDJnTzUwbjZWbEV2MmNBVDVqUVRVWGRFcnpzRTBSVURmQ1JUMXJ1cG5vSWk4YzRMZy1xeXlyUkQzakdaRlhyS1k0aTBYamx3V2JvUHJJeFg5d0NyNU0tVlVuRDdldkVRRg?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Tue, 24 Feb 2026 19:03:00 GMT"
+    },
+    {
       "title": "WATCH LIVE: Major takeaways from Trump's 2026 State of the Union address - PBS",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbUEtTlg1UUczcTBlbk1Kald1N0ppWFR3d3RSaldyUGdCMWJ5Y25XcTVvVWlPeDZ2WTNDd3VabUREX0hSU3hJajFSck9yR1RmVjFwLU1WY2xHcWhaRTJISFhOd0dJMWJkd1p0UUlGa2lfOGt1SDVpWl9XbC1PRnFOS2ZMYTFsR2RNX0VrcXRvTWduaktsSDhUWnRHakZxMzcxRzZ2RndqU0tWb1lK0gGyAUFVX3lxTE5xNEpnN1czQ2I5bElUcGV6N3FQckVjM3dWN19vR2M0bDJmTlNGNVJlMkpxX0F2X29WemVUQlQ5eEN6UDlqU1F4Rmg1OGdyLUtnZ1MzSGtjbFRJTkxST2F3SXRZRllMMUQ0dUhHcDk5Z0pvQWJIV2RKZFhEX1lWczVlQllRWHJYdDBmX2xNUjdNYmJJcS1QdUpuOExaNm5rd2ZNaUhMcDRQdXZkYlZZSWtsSmc?oc=5",
       "source": "PBS",
       "pubDate": "Tue, 24 Feb 2026 16:27:14 GMT"
+    },
+    {
+      "title": "Faculty experts discuss State of the Union Address norms and key issues - Northwestern Now News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUZ6ZXVRZGEtMzlXckd1Xy1TbDZiRHhEUUN3S1VzYWZtT2Rfcy1TU0tRaEtqaGVBLXhId0VQUzJvZVlLZ0Nqd1JlRndlamZvX0Ntd2ttamkzRkNDLW50bXl5aVU3Rk1lcU5uTGlkZzRwTjdmTHhwdHlJaXo2R0txdTdLM2hzZE91ZzJtcW15LWZIb3FoaC1BMkdLaEloZnlkdlRQR01MMERjTVJYYlAtUFpuWkNmcUxFQU5KVG1sRQ?oc=5",
+      "source": "Northwestern Now News",
+      "pubDate": "Tue, 24 Feb 2026 18:48:05 GMT"
     },
     {
       "title": "Clay Yarborough’s ‘medical freedom’ bill survives bipartisan scrutiny in Senate Committee - Florida Politics",
@@ -161,10 +131,22 @@
       "pubDate": "Tue, 24 Feb 2026 16:42:26 GMT"
     },
     {
-      "title": "Supreme Court fails to deliver for Texas woman who claims Postal Service withheld mail because she is Black - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzFQck5DZTJfakJnajJfNnJPNU5kVkU1ak02QlFwLUpJckNtV3FHTHNCekx3RFVFbHN5MjFVUmJJUldyMEFyXzR0OS1yRVpQdEc5ZFJVaG5zZENMMG54cC14S0tWdDQwdWU3U1Fqb0t0Q0RRQnNiSUt6YlNXZ2hpOHBoV2FTZ1k1d1Vn?oc=5",
-      "source": "CNN",
-      "pubDate": "Tue, 24 Feb 2026 15:53:02 GMT"
+      "title": "Seona Maskara’s Search for Political Homes - Tufts Now",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EV0pPa09VN2RpcnlST29NVWVDbkYwMnIyWnJuaFQwMXR3bTFQd29LM1pOdmUxczFKQ2VhT192bXZHNWtvdE82TkRaQ0dKeDFwQ3gtbXkzbWJ3cWdjODJaaXV1OGtwUGxpY240VlNiMnhBSDhuVV9WbXh3?oc=5",
+      "source": "Tufts Now",
+      "pubDate": "Tue, 24 Feb 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Watch IndyStar politics team break down final week of legislative session - IndyStar",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZDdYSGNkR2x6V0NBbDNETy1kWTB4MG9YUEEtbmtxSklxV1N5SEVYOEhfcmtCSnRIeVl0eTdRNVlUX20zZ3poR0pTdjRvLUtjRHQxa1luVUVaYXZmaThSTGQ3ZnBKY1p2SmRKOXZVajYxMHJ0WW5HNkkxVklHRE1BRnl6dkhqN0VtQTZjRmxuOVFyZzRFNE1leFVtWm9IREpBd1VhXzd3QmRQZlNHdlViNGs5cnpUQ0tHdjRUNkZ5cWh5UUpfWk1RQVVNR1RPRVY3RFFkcVdKeUdJbElubVJnMllMZVNxY0VJ?oc=5",
+      "source": "IndyStar",
+      "pubDate": "Tue, 24 Feb 2026 15:18:00 GMT"
+    },
+    {
+      "title": "Poll shows frontrunners in Maine governor’s race - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUxEQmlMU0UzbDdualBwYi0yU0loWXdlNERpcm00V2dEakxWcjRLdWFJYS1mMjRESnlkX1otVmJ6UTRLQXJEZl9pVmRiMkJMWXhSVjlRS2dXM25TeTRjQk5hSVJxZWdqWk9XS09iOTdWeDNQekV3M0NFcXZIbXJid2VIaVFoYkZkV0E0R2RrTUx3bEtIMVlrTmdDNWFUUmZfdVJnMUFfYTJBZE0?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Tue, 24 Feb 2026 18:05:00 GMT"
     },
     {
       "title": "How much liberty do you really believe in? | Hal Bidlack - Colorado Politics",
@@ -173,10 +155,28 @@
       "pubDate": "Tue, 24 Feb 2026 08:04:39 GMT"
     },
     {
-      "title": "Rep. Jonathan Jackson talks about rejected request for his father, Rev. Jesse Jackson, to lie in honor at U.S. Capitol - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGVONjdyYUcxY1hqQlpPTFRnZTM4VXA5Um55THVNU05zV1pOYzBwa0VDZzZKRURaaUNhaTRoX29na3ZZMU92QlRpVmhUNHhYbVBpcUlRTXA1cGM1eVlWLVJuTUtoVjlPcE9BWE1SdGhwY3pxSlRZWTdxQ0dXVEg0T3JWTTdod1RmYW92NFN3ZHFrN19UZ3o4TF8xbnBTbVJiYWJR?oc=5",
+      "title": "Supreme Court fails to deliver for Texas woman who claims Postal Service withheld mail because she is Black - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzFQck5DZTJfakJnajJfNnJPNU5kVkU1ak02QlFwLUpJckNtV3FHTHNCekx3RFVFbHN5MjFVUmJJUldyMEFyXzR0OS1yRVpQdEc5ZFJVaG5zZENMMG54cC14S0tWdDQwdWU3U1Fqb0t0Q0RRQnNiSUt6YlNXZ2hpOHBoV2FTZ1k1d1Vn?oc=5",
       "source": "CNN",
-      "pubDate": "Tue, 24 Feb 2026 12:04:09 GMT"
+      "pubDate": "Tue, 24 Feb 2026 15:53:02 GMT"
+    },
+    {
+      "title": "Mchael Harriot on this moment for Black history - PBS",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJqc0Z4dG9NbF9GTjhxczBJcUY1WWtKMTFGR3M4Y0F3b1l0YmR5TUpLVVFudDlvNmllajhISlY0elJQRGt1TW1jS1hIUjNfaVhuWmtKVUY4Z3BnY3FMVlVQcW1UejdicHgzNzZHeThlSUZ6TmR1V1d5ZjBmTkRSTU45UGpydDhyNTRWNkhhR3hiQXlpWC1QeDRxUWF6Rmk2d2VfU2pUbHZkQ1NzckE?oc=5",
+      "source": "PBS",
+      "pubDate": "Tue, 24 Feb 2026 17:41:06 GMT"
+    },
+    {
+      "title": "Looking into transparency from the Department of Homeland Security - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbzRzaGlNXzlYd25XQVJWQjVYUWk4TUNJTDlCeWNpNl8xQ1FkdGxFMmJlUTB4N0tySFlQbGoyZDVVSlUtcjRQdm9WVVYtMU1VR1gyLXQ5MHlYUGVkSFBjX0FJX1NqcDBkTmY5REtQMjNYSktXb0p5MjQtcFJydlNJenBmMlhBYzkwNDhkdDdYWXhiZzRaU1ZuQ1ZBZFE4N3pFQ1QtaV9vTzlmdV9RR29YZGc1elJvYTZpak0yNkJGZWwwdXhsQVh6ZUhoTkJPeUpv?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Tue, 24 Feb 2026 16:34:00 GMT"
+    },
+    {
+      "title": "Essay: Gavin Newsom: They told me it was political suicide. I did it anyway - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWF84T3dJNnVPUFVobkE4WDh2Um9xeUU4RkV1aGJiaEJXZlhMcXRhMjNBMEd6emhsNVNvWmpmMUpYc2FITS1tNG9UODA2cDgzZWQ1ZWxmRFNvRmNXcHZPNzZKbnREc1ZHMGM0YVdXQm1RRFNaQm9SYkJhQ2E0QktaTEVhak5ad1dMa3llekROamg2RFBvdnJtRzVTMHR4d0RCS0JIQnhsaml0cUVJSEVTYjJJcHIyYlpvTlJUWlI4VGV5dw?oc=5",
+      "source": "Los Angeles Times",
+      "pubDate": "Tue, 24 Feb 2026 11:00:00 GMT"
     },
     {
       "title": "5 questions heading into Trump’s State of the Union address - Colorado Politics",
@@ -185,13 +185,37 @@
       "pubDate": "Tue, 24 Feb 2026 16:39:57 GMT"
     },
     {
+      "title": "Rep. Jonathan Jackson talks about rejected request for his father, Rev. Jesse Jackson, to lie in honor at U.S. Capitol - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGVONjdyYUcxY1hqQlpPTFRnZTM4VXA5Um55THVNU05zV1pOYzBwa0VDZzZKRURaaUNhaTRoX29na3ZZMU92QlRpVmhUNHhYbVBpcUlRTXA1cGM1eVlWLVJuTUtoVjlPcE9BWE1SdGhwY3pxSlRZWTdxQ0dXVEg0T3JWTTdod1RmYW92NFN3ZHFrN19UZ3o4TF8xbnBTbVJiYWJR?oc=5",
+      "source": "CNN",
+      "pubDate": "Tue, 24 Feb 2026 12:04:09 GMT"
+    },
+    {
+      "title": "Sound science should drive Colorado’s pesticide policy | OPINION - Colorado Politics",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFY1ZXRIdGZOeVk0UVJZRHFxdGlvczBISi03SXJzejBoRGFPdTV1ZDc3NHYxZVo3c01fTEM2TW1BVXhhaDJZTnpnS2ZxZnpvaUhINXU1N25oTEVucFlyeVlNajM5LTBUZ0NoQTZhaXM2R3hGY0tuRHlYMjcwcUVnMVlJZEoxeGJuZlN2dXFnZm5odUpDdXI3WXBIZHA4aFB1OFFRMEQzWmg0QQ?oc=5",
+      "source": "Colorado Politics",
+      "pubDate": "Tue, 24 Feb 2026 13:29:17 GMT"
+    },
+    {
+      "title": "Maine governor candidate Shah makes pitch to voters at Orono town hall - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR2NMZ2ZQWHJUUEFhRl9BRG85aVZsOFFoMlh1eWszRDJwY1NvWHBCU3lkM2MwU2VXTTUtWEltY01fY0k5V2tlNTJiWWJyc1NpZWJlcEpacWxfWk5vYnpMY1lOdWtON1lrOWdzN29RX2ZnOU1hS3VCWllfY2hscENBNm1MTmc4ekNqTDIyd296bmtxYWkxM2xIakpwYkJCZkVZOWprVE9rbVBrLXNZWTJpNFpuZUg4MmFINEVnRFFDX21vX3pnalkyZg?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Tue, 24 Feb 2026 18:16:00 GMT"
+    },
+    {
       "title": "Support Colorado’s SEED Act to rein in pesticides | OPINION - Colorado Politics",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFAtWmJ1Vm1wdUpSUWR3M2ZUZ1RDd2RRdGNKd3ZpbFE1SUdnQjhiWTR3dG55WlhQN09tMlV2QXFfR21qcHRHaVpmTEM3YUtwZ2huc1FMRnFxT05HNU1WcEg3eDR5RWZlcEFoVXhReUZJZ0J5ZjNmMjNBQWUxd0RfWFlzdE1VZlJvTjA3NVVEQ1Fjd01icDVEVXNoVm5oYTZQVElr?oc=5",
       "source": "Colorado Politics",
       "pubDate": "Tue, 24 Feb 2026 13:29:17 GMT"
     },
     {
-      "title": "WATCH LIVE: House GOP leaders share how tax cuts are helping their constituents ahead of Trump's address - PBS",
+      "title": "Platner maintains wide lead over Mills in U.S. Senate primary, new poll shows - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSnRGMkhIYkhqM3ZabUM5WUNNbS1TQ1RYNFNnN3J3X09zaFlQQ1FlcEtuYWxMUHhRaHZiLUhhRF81VkVBTFh6OFNBcXRsNXFBNlJsQVpDaHE1RlY1YjZqa19OWWJGaUI3ZThueWRudFNMTDE3Tld4YlVhNTlHNFh3c3lGZVFVYWlpa0d5TWlBdWdvbFQtU0RmN21sTEh4WWIxd3RyY2VPSTBLTC1HdlA1N3NKc2wxdUxjQ1k0M2RfMmo2RkFnTmxSUXVKR0J2eF9pR3c?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Tue, 24 Feb 2026 18:11:00 GMT"
+    },
+    {
+      "title": "WATCH: House GOP leaders share how tax cuts are helping their constituents ahead of Trump's address - PBS",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ1B2Y3lfX1ZTQnlFcU5taGJWSmR1TGhIemVKNWlDTFBBNkg2aGo2ZHRGT3luSjYzeEtaTnVOaV9aeWI1eTY2X2hNdmFhSEl6VWVabFpsYW54ZkE5ZFdvUGdEdlQzbkNjWFRlYlhwdENVS2F3YVNxb0F5dnZOQWxfNkxqQ2lKalZjeWl3NTU0M0xXbGJfc09nSG5hb1BaSVZvMl9jS2RmcGE1WUdWcUZXN1d0cjYtc1h2NUZnS1ZQVloyWTYtSFpwQVhKaXNpV0hKT1pUb09pTdIB3AFBVV95cUxOa29sYk50eld2MlF2ZzBCYmhjMzZscXNXRTNjSDFDQkFUVDI3YUppRE56R1RtYzVpZV8wS0s5alNwaXVmZnd1OFZFdXc5OGtybHNZZnNmdHVLVjgzMU14RmtrT0NWTlZIcG03blZyczdfY1hYaUx2SElFcmxEbDBBbzRwcXBsWHNudkRiYVI4dEd0ZmszTjVfcTZ4RWtTbHhjcXBfWWlhcWlvLU9zelMzclI2cklXWnhGSmFybHNqMGNjaWdKSF90d0JGWjF3RXJON1oxWGJlNlhqRHZr?oc=5",
       "source": "PBS",
       "pubDate": "Tue, 24 Feb 2026 15:00:36 GMT"
@@ -203,10 +227,10 @@
       "pubDate": "Tue, 24 Feb 2026 11:00:34 GMT"
     },
     {
-      "title": "E&E News: Midterm underdogs rally around data center politics - POLITICO Pro",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2d2NVZZbWdoQjhLTjVIUHFJdTBrTHJVb0ltU2VteFYxUkdmdlVpQmpRWWVTVHZreXNzZVIwRGpDbUMyOWM0THlvN3ZnZnNVazhYNU1ZUU9uSHh0LXJWcGUyRkZsWDJaWnJaeXJwSlloRWNKZ3NjcFlPT3BxX0k1aDlwRW1YejAxWmc5RWw5MXo1NFdYQjVxWU9kaHZ2TDVHdkRyd1RKcU5aZml0Rm51Q0NyTkRhZGhBeWY4RWZ3?oc=5",
-      "source": "POLITICO Pro",
-      "pubDate": "Tue, 24 Feb 2026 11:30:44 GMT"
+      "title": "Advance Colorado files 6 redistricting measures to counter Democratic proposals - Colorado Politics",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQnQxeWRjMXFPSi1jTzVnb2E2eE9XRFpPaXN3NFJsRnZWQk9nM1U1azlSanhzSnJiYzF3dVp5QTdvMEhGRXhwel9LZGY5RkNFMHJkSkF6MWRDNDlNMElqOGl6dmMyMlE2VGN2ajVyeFpmell0VGlqRFJBbFlDVVZqZWRTRGg5Q0pTRFRlX3BXUUNqRV9qMWxCdWxyd2doeWdURmU5ZjdmRXFhU2lSVnRFUnZDTHlvV2ZqN1NwMG83M2RJdw?oc=5",
+      "source": "Colorado Politics",
+      "pubDate": "Tue, 24 Feb 2026 18:34:56 GMT"
     },
     {
       "title": "COUNTERPOINT: Don’t Let Politics Destroy Honest Delivery Businesses - Streetsblog New York City",
@@ -215,10 +239,16 @@
       "pubDate": "Tue, 24 Feb 2026 05:02:00 GMT"
     },
     {
-      "title": "Advance Colorado files 6 redistricting measures to counter Democratic proposals - Colorado Politics",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQnQxeWRjMXFPSi1jTzVnb2E2eE9XRFpPaXN3NFJsRnZWQk9nM1U1azlSanhzSnJiYzF3dVp5QTdvMEhGRXhwel9LZGY5RkNFMHJkSkF6MWRDNDlNMElqOGl6dmMyMlE2VGN2ajVyeFpmell0VGlqRFJBbFlDVVZqZWRTRGg5Q0pTRFRlX3BXUUNqRV9qMWxCdWxyd2doeWdURmU5ZjdmRXFhU2lSVnRFUnZDTHlvV2ZqN1NwMG83M2RJdw?oc=5",
-      "source": "Colorado Politics",
-      "pubDate": "Tue, 24 Feb 2026 18:34:56 GMT"
+      "title": "Politics stain US hockey gold medal. This is how | Opinion - Bergen Record",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjkxVVZvSGwtdENsX2ZTNUFSSTVRM2Zib0hIdlFjS1BZcFRSTDFtOFFobFVhbDZxRUJCdzZjaVZ6OTBfVFNiWEhpdThNcEh2dGdwbEZTRXBLR2tubk11enY5cHliMEcyNXdwVU1TdXJ3RUZPWUZFajdWd0o5bWp5WDluMkpEM1pLX3FyYmhxcTZtblpESUdqcUFLejR5LUFYdkVtSU9MV1htTjZwUmc?oc=5",
+      "source": "Bergen Record",
+      "pubDate": "Tue, 24 Feb 2026 17:08:00 GMT"
+    },
+    {
+      "title": "E&E News: Midterm underdogs rally around data center politics - POLITICO Pro",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2d2NVZZbWdoQjhLTjVIUHFJdTBrTHJVb0ltU2VteFYxUkdmdlVpQmpRWWVTVHZreXNzZVIwRGpDbUMyOWM0THlvN3ZnZnNVazhYNU1ZUU9uSHh0LXJWcGUyRkZsWDJaWnJaeXJwSlloRWNKZ3NjcFlPT3BxX0k1aDlwRW1YejAxWmc5RWw5MXo1NFdYQjVxWU9kaHZ2TDVHdkRyd1RKcU5aZml0Rm51Q0NyTkRhZGhBeWY4RWZ3?oc=5",
+      "source": "POLITICO Pro",
+      "pubDate": "Tue, 24 Feb 2026 11:30:44 GMT"
     },
     {
       "title": "A cartel crackdown carries political risks for Trump - CNN",
@@ -227,22 +257,16 @@
       "pubDate": "Tue, 24 Feb 2026 05:00:34 GMT"
     },
     {
-      "title": "Ben Sasse and the Political Illusion - breakpoint.org",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Od3ZBVlI0MjJMYWk0cVhCOXVfVWw0bXN3azNkS29VajljTUZmX3BaMzlsTlh6M3lJR21FNm5lZzB3Z1VsZnNZa2JTclFmTUxfYzlCNVVhdnV0UjVrM3A0U2RfamRVekFQZlA0Ug?oc=5",
-      "source": "breakpoint.org",
-      "pubDate": "Tue, 24 Feb 2026 08:04:28 GMT"
-    },
-    {
-      "title": "Grief shapes community politics - The Daily Texan",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UX3JPd3VKVTI5eVRuNHRQQjItd205Z1lLWUJzaGR2Qzg0dU5QUDl1WG1GR1ZhWktzeFEwX1ZSS0tBblU1WU9iNXc4NE81Zkw4RUNxRTQzTm16NWV6aFNodUFFVlNwTV9HWHRJUDkxdFVVb1JUdEpVOQ?oc=5",
-      "source": "The Daily Texan",
-      "pubDate": "Tue, 24 Feb 2026 04:34:47 GMT"
-    },
-    {
-      "title": "How Farmer Concerns Are Shifting Iowa’s Political Landscape - Civil Eats",
+      "title": "How Agricultural Concerns Are Shifting Iowa’s Political Landscape - Civil Eats",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcDh3dWhxektEYnNVeWJseXViNmhaZE5pMVdXR0NEVTJlaXhRc2s2Z2M4bFpyMXlqVlE2UGJiSGZnbUhoOEN1Z05tWC1PWDItYVVVS1ZYVG1NOFdiRDh3eHl2ZDN5dC1JVEUyTGFucE1HSDQ4S3VIeGFoNG9fTVhVZ1pFelh2SXlvTXdXR2ZFR2ozSnE4U1RR?oc=5",
       "source": "Civil Eats",
       "pubDate": "Tue, 24 Feb 2026 10:37:41 GMT"
+    },
+    {
+      "title": "Latest News from CNN Politics - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVl9QVGNGLXV4R3pqSmtDWktNSUZ5ZVBhSUVxWDluY1IzTUQwMW1RQ1ZSWU1sSFp1RElkdzFLUHFUQU5yV3hKSEpiWVNoV1JVLTlWMGxNU1dZUTcyZTBoRWtxeGJMWk1VUlVkb2p4TGN0Y0ZmMlMzaWJFZDBDakZQZ1hFTGo2U0NUeUE?oc=5",
+      "source": "CNN",
+      "pubDate": "Tue, 24 Feb 2026 18:28:57 GMT"
     },
     {
       "title": "Whole Hog Politics: Epstein class warfare - American Enterprise Institute - AEI",
@@ -251,46 +275,16 @@
       "pubDate": "Tue, 24 Feb 2026 17:41:32 GMT"
     },
     {
+      "title": "Grief shapes community politics - The Daily Texan",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UX3JPd3VKVTI5eVRuNHRQQjItd205Z1lLWUJzaGR2Qzg0dU5QUDl1WG1GR1ZhWktzeFEwX1ZSS0tBblU1WU9iNXc4NE81Zkw4RUNxRTQzTm16NWV6aFNodUFFVlNwTV9HWHRJUDkxdFVVb1JUdEpVOQ?oc=5",
+      "source": "The Daily Texan",
+      "pubDate": "Tue, 24 Feb 2026 04:34:47 GMT"
+    },
+    {
       "title": "FedEx joins other U.S. companies, seeks a full refund after Trump tariffs are ruled illegal - PBS",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSTNrN25HZmxEdElCUWJ0N2oxQkZzQ1NlRnJsYlBUWURJVGRCTmdkd3k2UUxmZ0RnMHpNZlF4TFZ5elBFT1BybVpVNml1NkVRZzBxM3k5SjQwSlQyQ093VXJnT2RDel9RZmFfTGtTWkJURUcyUHZqMGFqZlUySXlheXlJbnNZSjV4M3JvbzVUSE4yM0t2NmRJazZoR2FuRVpTOVgzcFVSTnpXanRLWHhmbjhFaEJ4YlFLNktvYm92Uk9JYUtlcGc?oc=5",
       "source": "PBS",
       "pubDate": "Tue, 24 Feb 2026 15:22:24 GMT"
-    },
-    {
-      "title": "Epstein files fallout: Muted US response vs political reckoning in Europe - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTVM4dk9BZDdybWRXeWF3WkxOZW1GUmhvMk9yclV3S3JjdzN4U2REakNJbzBUQVo2Tk1vSlBJWjJPM0xJQ24tb0x1THpvRXhDUDNhZU43REFtaXpmaGJ2NDdZaVFUMWpaUVdaMVB5a2JxeTluSm80ZGhjcTlQZ2tQOEg4LVhyUnZ0aTNIdm1FMXBoMjdLaTNsQTRkRFNYY2lucU5LUTZPU05pNDBYdVBBRDhxTdIBuAFBVV95cUxNdXpfLVN5UkJDMmRmYU5JdEtJUVdFcTllWkkxM0JSTXVXYmloZ29BZzFLeVhxVnd6eDhOY2pLRUlCT0xlR1hxUGMwMVlRcGNGcjNuU1Jka0dDdWlXd0Z6b2U0ZHBOWExMR01VQk9Kc25Wcy0yRllsdFdCOEtwM1N2RGtDeE05cXFNelA0am44bmZ4ZEdKX1JwTkc1eGdIcHJ3RzZGck1BWXE1V2FzOGdVaGotWnV0RFJI?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Tue, 24 Feb 2026 13:12:09 GMT"
-    },
-    {
-      "title": "Top Trump officials insist courts must give guidance on how to approach potential tariff refunds - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOTBnNXlXbUxKSHRSZ3phWmJxN0cySkFQUFpZelJ1T0o4ZS03YkRuQkp2YkYxdEFHNlVsRVluSGtYRWNVOWhnNWkzTDBkMFdPTF9lSzJRS2NqcVdTNnUtSzRUYU1XWm00TjlIeko4UUZCVzhEUGticmdrVzdGRVgyMFZzLTkzVjNhZWxrMi1lRVBuaGFqRVR1SUJZTC1XOWdzU294b1c1ZkxwV2g3ZjZkSU11Y1RUQzBZR19iZVI0N2h2bUhnOU54QXRWRUFnb2I0d0tZc190VVFsN1AtRkIyZkdVUQ?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Mon, 23 Feb 2026 21:36:00 GMT"
-    },
-    {
-      "title": "Futures of the DMV and the Dean Dome: What NC’s GOP State Auditor Boliek says - Raleigh News & Observer",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYVZPMDhOaThCbG1oNDZSVHFFZmt2R2Rkdkc1RGZfS1J6U2gybHV4U3RKUTB0X2MwUlY2VFVoc0JselRKOTNWTGhERUxvUlJ2Z3Z2cm5qZG1rUzQ3SE93YUlWcWY1ajYweVBUTmV5OENGSEkxZ3h6Y0NrNFBQVklXZtIBgAFBVV95cUxOS1BJMERaSUpCbWxUX2hycDdNWkFFSndUMUpTN09DbWxJY2t6ZzU0YzBFZjB0ZHRkaktaRkJfOU1Vc0FpdGVfZWF1MXdwUTIwWDYyRHEta0taZjNVOWs0LUdJaDJlTmpMdVFqM1IxLTlYZTl5YUN5YkRHNHFNR3pPVQ?oc=5",
-      "source": "Raleigh News & Observer",
-      "pubDate": "Tue, 24 Feb 2026 11:00:00 GMT"
-    },
-    {
-      "title": "Sound science should drive Colorado’s pesticide policy | OPINION - Colorado Politics",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFY1ZXRIdGZOeVk0UVJZRHFxdGlvczBISi03SXJzejBoRGFPdTV1ZDc3NHYxZVo3c01fTEM2TW1BVXhhaDJZTnpnS2ZxZnpvaUhINXU1N25oTEVucFlyeVlNajM5LTBUZ0NoQTZhaXM2R3hGY0tuRHlYMjcwcUVnMVlJZEoxeGJuZlN2dXFnZm5odUpDdXI3WXBIZHA4aFB1OFFRMEQzWmg0QQ?oc=5",
-      "source": "Colorado Politics",
-      "pubDate": "Tue, 24 Feb 2026 08:52:20 GMT"
-    },
-    {
-      "title": "Judge moves to bury Trump classified document report - The Week",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnFHcnN0WkQzek5adVgyMnB6YVYxWVNDQWZ6dUoweTBseDdid3k5LXNBS2tlUTQ5ZkJGQnF2UERsSE1lcXI3bXBwRlhDZlpBUTUyaDQ2TlVhWldWV3AwQ3AtMnJEWFNSZjFRNnFpQVZacEc0QngxY0pSRGxVMFFaUEROdWMyOFk?oc=5",
-      "source": "The Week",
-      "pubDate": "Tue, 24 Feb 2026 16:58:56 GMT"
-    },
-    {
-      "title": "Quantifying Voter Enthusiasm With Eight Months To Go - Cook Political Report",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSlVFb1E5Zml3cWFCYjlPUnFMbFNnU0k3enlpem1oZThfdlVjWC1IMVlFNGZTR0hXVTdBMFZ4RzB4LXIwUHRnNS1HR3JzNTZ6aUt0d2doa3ZUUnRyZTBybTYwVElvMU5VWUJTQXVXWElhM0tsUTRreWhCYjRnZV9YWmZ0U3IyYUNjU0FmbUZrUU5jY2xycGprd1RHQVRZN1d5MzUzNVZKRk5rYXhsb3Fv?oc=5",
-      "source": "Cook Political Report",
-      "pubDate": "Tue, 24 Feb 2026 14:39:48 GMT"
     },
     {
       "title": "Mistakes, miscommunications, reversals: When political endorsements go bad - Detroit Free Press",
@@ -299,46 +293,22 @@
       "pubDate": "Tue, 24 Feb 2026 14:17:00 GMT"
     },
     {
-      "title": "Politics stain US hockey gold medal. This is how | Opinion - Bergen Record",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjkxVVZvSGwtdENsX2ZTNUFSSTVRM2Zib0hIdlFjS1BZcFRSTDFtOFFobFVhbDZxRUJCdzZjaVZ6OTBfVFNiWEhpdThNcEh2dGdwbEZTRXBLR2tubk11enY5cHliMEcyNXdwVU1TdXJ3RUZPWUZFajdWd0o5bWp5WDluMkpEM1pLX3FyYmhxcTZtblpESUdqcUFLejR5LUFYdkVtSU9MV1htTjZwUmc?oc=5",
-      "source": "Bergen Record",
-      "pubDate": "Tue, 24 Feb 2026 17:08:00 GMT"
+      "title": "Epstein files fallout: Muted US response vs political reckoning in Europe - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTVM4dk9BZDdybWRXeWF3WkxOZW1GUmhvMk9yclV3S3JjdzN4U2REakNJbzBUQVo2Tk1vSlBJWjJPM0xJQ24tb0x1THpvRXhDUDNhZU43REFtaXpmaGJ2NDdZaVFUMWpaUVdaMVB5a2JxeTluSm80ZGhjcTlQZ2tQOEg4LVhyUnZ0aTNIdm1FMXBoMjdLaTNsQTRkRFNYY2lucU5LUTZPU05pNDBYdVBBRDhxTdIBuAFBVV95cUxNdXpfLVN5UkJDMmRmYU5JdEtJUVdFcTllWkkxM0JSTXVXYmloZ29BZzFLeVhxVnd6eDhOY2pLRUlCT0xlR1hxUGMwMVlRcGNGcjNuU1Jka0dDdWlXd0Z6b2U0ZHBOWExMR01VQk9Kc25Wcy0yRllsdFdCOEtwM1N2RGtDeE05cXFNelA0am44bmZ4ZEdKX1JwTkc1eGdIcHJ3RzZGck1BWXE1V2FzOGdVaGotWnV0RFJI?oc=5",
+      "source": "Al Jazeera",
+      "pubDate": "Tue, 24 Feb 2026 13:12:09 GMT"
     },
     {
-      "title": "Tech’s politics push at home and abroad - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGxuR3QwZkdqTEdHb0hscm5TNVNvRXYxU0hzWXFORXNBVVBOUkhMSmx6R1NWX0xsb3g5T09Wcm0yMjg4MnUySFk0T1k3b3ZCSTZtSHlfQjlEb2FEVEJkQWlraU9PcHdha1NNbk1qSi04ai1RRkZCcDVlS3gzbVRQTWVvR2I0SG9KRmF0cldxMnJCVWU1elJN?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Tue, 24 Feb 2026 15:16:00 GMT"
-    },
-    {
-      "title": "Live fact-checking Trump's 2026 State of the Union address - PBS",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc25wMFBPTUZDUWpGdURUME9hSkZITDk0d0RHNTFtaXdVOXJjV2ZkejRJVmxYaVlrbXpwdU5QbVFNUU1ZZmFDamc2RXlQNlZpVHowMkpoUzlkNC1OQjVXYjN2eEV4bjdXd2VhSXhURnQyM3dCckhxNXpSekNWcjVCZ2FGNC1ENDRpM0hvVi1XaGdLQzJaOTg5THFxUdIBoAFBVV95cUxQMjR3V0pyQUNUdlUwR0FuZmowWmU3ZHc3RVJIQUlwYjcwWHpKM0UtNWo5VTBkU2FkUnBSRGVYZEkxR2NicXdqaWM1ZEVSb3d0RlBfeVd4UThhOVptWjkyUTRWMVk1ek1oTzhnSnloaThPdzYyMkhvZmk5TlhzUnJoOUU0Y3NsMEJlN004NTNZQUx4d0R3WHJFV3dfU3FzZkFM?oc=5",
+      "title": "Live Updates: Trump's 2026 State of the Union address - PBS",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1gwZDVubXlhaU5UTEpMN253RXNSUndnaXN1djE2M1RaQXJweUgyNGlycHZ4RXRMY0NoNjNiZGpRUk5tdkFwcFNVc3BYRzJNNnVhbUxLQi0wNWcyaUM4dDJIb01ZOW1UZE9ENk1tcGdxejFiZktzZFBfRDFsNDNtbUFHdHZZTVlNZGpDNFpHaWcwVTQ?oc=5",
       "source": "PBS",
-      "pubDate": "Tue, 24 Feb 2026 17:30:46 GMT"
+      "pubDate": "Tue, 24 Feb 2026 18:26:49 GMT"
     },
     {
-      "title": "Politics take center stage as Paramount submits new offer for Warner Bros. Discovery - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa0N1cXFEbFlLTzc2dGV1UU56c0xWb21FbE5vZDFnRHBlUGN5TDdkekw5UFQ4LXVkRXJIR3M2TFpnWURNU0wweTlSOHlxdXBIU1NZNmltcDBtSkhZMHM0RXYybnRMQmxxakpVWWZIR3VNT1lLb19WYWtRNkFMcm9sUHVfSGhEU3QtWWV5MUZIaGtRUEN5aE90ejRDMC0xUVpXVkVXcWRIWjl5LXZSdVVTcU0xZEdBTnNUMkRTdw?oc=5",
-      "source": "Los Angeles Times",
-      "pubDate": "Tue, 24 Feb 2026 01:10:00 GMT"
-    },
-    {
-      "title": "House Democrats bringing Jeffrey Epstein survivors to Trump's State of the Union speech - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMjRBTmkyRzNoSjVmRGR0ay1jMksySVJVQmtmQ3ZYZTllNXBhOWJ3YjlQWTFxR3dETEZjZzlTX1Y5a2V5OXBubTFTVnRoU0VoMzRvdzIyaTFBTlRBaXhxVVg3UUNPLWQzTkw0VjMyOXlsYUR6VVlmSVhNVXNuV2hWeXNuaFlpNlR6RDJ0RUVzNUpGd055MV8zY3ZTVzVjaW1jcEp4TFdRcHlvX19JS1FhaEd6UVFDV2p2VW1JUEZSQQ?oc=5",
-      "source": "NBC News",
-      "pubDate": "Tue, 24 Feb 2026 15:13:00 GMT"
-    },
-    {
-      "title": "Trump confronts his 3 main options on Iran — from diplomacy to trying to topple a regime - CNN",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVJFZmlLNk83RUM5LWJjcFVpdlVES0V3N3dhb0NsYnBOZnl5Mzd4NVFiRXVwOWRaZ3JONnI5d01YN2JscVhPem9yLUl5ZWpJbl9SNnZGWFlta3JUQm1qTDB0d1hWaldvSm5HcS15Sk9udDhvRHFZN1RVU0QtcmUtcQ?oc=5",
-      "source": "CNN",
-      "pubDate": "Tue, 24 Feb 2026 05:00:34 GMT"
-    },
-    {
-      "title": "Paramount bets that politics, price will win it Warner Bros. - Semafor",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3AzSVJqOTAxcGJRRGE2STJkanhQbFp0Z1FUWm10N1V1MTlheWFCZVJHZ2dTMVM1VTdRdVQ5eFRFdkJ2aDRoUDl1NF9DeGVXdHRvMnNPMGF4NlpxZ2J2ME9aRUFQaUdfTThmOEx2WFlJeWlkMUVjSmtKdkVjblBWVHVkSUlTQXhWR0ctYUxab3llelNDUl85TDVQRQ?oc=5",
-      "source": "Semafor",
-      "pubDate": "Tue, 24 Feb 2026 17:57:00 GMT"
+      "title": "Judge moves to bury Trump classified document report - The Week",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnFHcnN0WkQzek5adVgyMnB6YVYxWVNDQWZ6dUoweTBseDdid3k5LXNBS2tlUTQ5ZkJGQnF2UERsSE1lcXI3bXBwRlhDZlpBUTUyaDQ2TlVhWldWV3AwQ3AtMnJEWFNSZjFRNnFpQVZacEc0QngxY0pSRGxVMFFaUEROdWMyOFk?oc=5",
+      "source": "The Week",
+      "pubDate": "Tue, 24 Feb 2026 16:58:56 GMT"
     },
     {
       "title": "Top general said to warn Trump of Iran attack risks - The Week",
@@ -347,16 +317,40 @@
       "pubDate": "Tue, 24 Feb 2026 17:18:06 GMT"
     },
     {
-      "title": "Labour Together’s ‘smear campaign’ against journalists - The Week",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWmNkc3dvMHZKRUp3X2c4ekhCX205LWk1bWdJZlJsYXZrdzlIbVVGaU54Q2JWdmpEbXB6bnNlT1h0YkF0dGs3VTFZcnVfdGlHUEwzRmZoTF85TWtJOFI4UlhORUs2SDJHMkdudWdPV1hzVlE1MndrYWgtSGs3c3JZeHVMUGtjaDQ?oc=5",
-      "source": "The Week",
-      "pubDate": "Tue, 24 Feb 2026 12:43:02 GMT"
+      "title": "Top Trump officials insist courts must give guidance on how to approach potential tariff refunds - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOTBnNXlXbUxKSHRSZ3phWmJxN0cySkFQUFpZelJ1T0o4ZS03YkRuQkp2YkYxdEFHNlVsRVluSGtYRWNVOWhnNWkzTDBkMFdPTF9lSzJRS2NqcVdTNnUtSzRUYU1XWm00TjlIeko4UUZCVzhEUGticmdrVzdGRVgyMFZzLTkzVjNhZWxrMi1lRVBuaGFqRVR1SUJZTC1XOWdzU294b1c1ZkxwV2g3ZjZkSU11Y1RUQzBZR19iZVI0N2h2bUhnOU54QXRWRUFnb2I0d0tZc190VVFsN1AtRkIyZkdVUQ?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Mon, 23 Feb 2026 21:36:00 GMT"
     },
     {
-      "title": "Politics' Role in Park Service Sign Interpretation - Mirage News",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuUnR0Z2d0VWNoTGR3NWREbHhaZVpScjUtSThqQzZNaFUxVW1xaDk4cEIzNkhtOUw3bHNwRnBHU1ZycHk3d2lTeHpnd3FPaHNzamE5SU96RDBzT09rdTJHZVZod24tZmptcUVRZ3o3VTVPakNQYVJlQ2dn?oc=5",
-      "source": "Mirage News",
-      "pubDate": "Tue, 24 Feb 2026 15:58:00 GMT"
+      "title": "Quantifying Voter Enthusiasm With Eight Months To Go - Cook Political Report",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSlVFb1E5Zml3cWFCYjlPUnFMbFNnU0k3enlpem1oZThfdlVjWC1IMVlFNGZTR0hXVTdBMFZ4RzB4LXIwUHRnNS1HR3JzNTZ6aUt0d2doa3ZUUnRyZTBybTYwVElvMU5VWUJTQXVXWElhM0tsUTRreWhCYjRnZV9YWmZ0U3IyYUNjU0FmbUZrUU5jY2xycGprd1RHQVRZN1d5MzUzNVZKRk5rYXhsb3Fv?oc=5",
+      "source": "Cook Political Report",
+      "pubDate": "Tue, 24 Feb 2026 14:39:48 GMT"
+    },
+    {
+      "title": "'We have so much to talk about': Trump set to deliver first State of the Union of his second term - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3pvZGppMGlaMVpXNXVqeGZsTXJKa3B2QmVEd25ueHNvY2o4OTVxU1hXdzVWdVpuVUpUVWV1N1U5WGlUcktlemNLdWtHNkFWSXVqWDZtVk5oTmFjbkpfMmFqWFF5QXVPMHdrU2dSOUNCUlRObFZ5QWRvRjYwdTdvQnlSazFxdE1wSy1pSXpwcUlWa1dt?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Mon, 23 Feb 2026 22:57:00 GMT"
+    },
+    {
+      "title": "Tech’s politics push at home and abroad - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGxuR3QwZkdqTEdHb0hscm5TNVNvRXYxU0hzWXFORXNBVVBOUkhMSmx6R1NWX0xsb3g5T09Wcm0yMjg4MnUySFk0T1k3b3ZCSTZtSHlfQjlEb2FEVEJkQWlraU9PcHdha1NNbk1qSi04ai1RRkZCcDVlS3gzbVRQTWVvR2I0SG9KRmF0cldxMnJCVWU1elJN?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Tue, 24 Feb 2026 15:16:00 GMT"
+    },
+    {
+      "title": "House Democrats bringing Jeffrey Epstein survivors to Trump's State of the Union speech - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMjRBTmkyRzNoSjVmRGR0ay1jMksySVJVQmtmQ3ZYZTllNXBhOWJ3YjlQWTFxR3dETEZjZzlTX1Y5a2V5OXBubTFTVnRoU0VoMzRvdzIyaTFBTlRBaXhxVVg3UUNPLWQzTkw0VjMyOXlsYUR6VVlmSVhNVXNuV2hWeXNuaFlpNlR6RDJ0RUVzNUpGd055MV8zY3ZTVzVjaW1jcEp4TFdRcHlvX19JS1FhaEd6UVFDV2p2VW1JUEZSQQ?oc=5",
+      "source": "NBC News",
+      "pubDate": "Tue, 24 Feb 2026 18:45:00 GMT"
+    },
+    {
+      "title": "Live fact-checking Trump's 2026 State of the Union address - PBS",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc25wMFBPTUZDUWpGdURUME9hSkZITDk0d0RHNTFtaXdVOXJjV2ZkejRJVmxYaVlrbXpwdU5QbVFNUU1ZZmFDamc2RXlQNlZpVHowMkpoUzlkNC1OQjVXYjN2eEV4bjdXd2VhSXhURnQyM3dCckhxNXpSekNWcjVCZ2FGNC1ENDRpM0hvVi1XaGdLQzJaOTg5THFxUdIBoAFBVV95cUxQMjR3V0pyQUNUdlUwR0FuZmowWmU3ZHc3RVJIQUlwYjcwWHpKM0UtNWo5VTBkU2FkUnBSRGVYZEkxR2NicXdqaWM1ZEVSb3d0RlBfeVd4UThhOVptWjkyUTRWMVk1ek1oTzhnSnloaThPdzYyMkhvZmk5TlhzUnJoOUU0Y3NsMEJlN004NTNZQUx4d0R3WHJFV3dfU3FzZkFM?oc=5",
+      "source": "PBS",
+      "pubDate": "Tue, 24 Feb 2026 17:30:46 GMT"
     },
     {
       "title": "Laura Clellan officially named director of Colorado Parks and Wildlife - Colorado Politics",
@@ -365,58 +359,28 @@
       "pubDate": "Tue, 24 Feb 2026 18:39:21 GMT"
     },
     {
-      "title": "US re-asserts 2025 strikes ‘obliterated’ Iran’s nuclear programme - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnZFX1QwLTd6VUxLc1ViVzExb0h3SENpWGVCcUpPMFV6QmJvbEc4bmk3QzBJMEpZU3F3bzVBRzg5TFZXNFR1Mm5Pek1qenRIMldjNTB4ZndObmNJNjV3QzFNZ2NwNmdiVGVQYnYzWVpXTVRGeThMclJJTFlqeEx3Zm9sWGh1aWZVZGROYXZoX0RGUmdrT2Q3RzNyYXVNVjYySDljT2dB0gGrAUFVX3lxTE1VU3VTQTNuX1VmMEU5T0YxN1pzeEZmU21KWWtKRVpZeFR3YS1iSXNzSXg1OXlUNFRrdHBhSU9qdHBJM2lKX0g5cV9WVldvTnNhSW84YlIzbjh5OXZHcHN1ZGNkZThXQm9EV2k0T21Bck5fVFNsRVlkVlIyR3VjY2NTbEdwZ2g2M1JpZEFaNnlic0lUci1FZEtFTWNqaFkySVEtb2NRbUFjOEZJaw?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Tue, 24 Feb 2026 16:37:06 GMT"
+      "title": "Paramount bets that politics, price will win it Warner Bros. - Semafor",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3AzSVJqOTAxcGJRRGE2STJkanhQbFp0Z1FUWm10N1V1MTlheWFCZVJHZ2dTMVM1VTdRdVQ5eFRFdkJ2aDRoUDl1NF9DeGVXdHRvMnNPMGF4NlpxZ2J2ME9aRUFQaUdfTThmOEx2WFlJeWlkMUVjSmtKdkVjblBWVHVkSUlTQXhWR0ctYUxab3llelNDUl85TDVQRQ?oc=5",
+      "source": "Semafor",
+      "pubDate": "Tue, 24 Feb 2026 17:57:00 GMT"
     },
     {
-      "title": "Mayra Flores fights to reclaim a Rio Grande Valley seat in Congress as Trump backs a rival - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMC04OGktcGw4cnkzMGFKMEFVT0hZZmhyOEQ3Q3RZQklJeGh3VlBUQkEwbjFWaVotdlFtUG1RdmNhYkh3WWhWQTA5N09jdThzOEdKLVBVZnV6enFwYlNOdGZTZ3NPY0NSY1NpbEc4ajNsZEpocXp0dUxCMWJmRlA2dkJsSVdaS1AwZmpwQVBJbFkzbHJrcmZCeVVWWEl6bC1jUlJLcGpuN3dHVURJMFMzTTM4WEFFbi1sdm5PdlFsTQ?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Tue, 24 Feb 2026 17:31:00 GMT"
-    },
-    {
-      "title": "Four takeaways from Gavin Newsom’s new book, ‘Young Man in a Hurry’ - CNN",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiaXJiSU5ZWWNZMXpxV2xBVmFoWk9hbmtpM0VQd3IyVDk4Q1RTV2Z3WTNSTzJoSE1Ka1htV202a1k5UUJFVnd3VXZYQk1CbXlucVNZZDh1NlRldzMwSmEzU3hYQWtJQXRZMTlRLUlmd3phcC01SlE?oc=5",
+      "title": "Trump confronts his 3 main options on Iran — from diplomacy to trying to topple a regime - CNN",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVJFZmlLNk83RUM5LWJjcFVpdlVES0V3N3dhb0NsYnBOZnl5Mzd4NVFiRXVwOWRaZ3JONnI5d01YN2JscVhPem9yLUl5ZWpJbl9SNnZGWFlta3JUQm1qTDB0d1hWaldvSm5HcS15Sk9udDhvRHFZN1RVU0QtcmUtcQ?oc=5",
       "source": "CNN",
-      "pubDate": "Tue, 24 Feb 2026 10:00:34 GMT"
+      "pubDate": "Tue, 24 Feb 2026 05:00:34 GMT"
     },
     {
-      "title": "Gavin Newsom says he's 'punching a bully back' when he trolls Trump - NPR",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzgzUUlja3h3UTBId1Vvd0JFNGM1MFNZbHdYWlc1cXNTd0JCREVnSXhFQnVseDZIbGxCaXdzcWZxQldYZVlvVzFjUUdXSHc1a055bWZKMkFBY2tvS3RTeFRiX2VnX3loUUJYRHQ3cm9oUm9pMkk5eVIyS2dxNFJOaHhzTVFzY2NyRFk0SlhGRjItZVJfYzcyUGVlZGlYMFBQcE5Zc2hnemRMaEd1cU1td0p3?oc=5",
-      "source": "NPR",
-      "pubDate": "Tue, 24 Feb 2026 10:00:00 GMT"
+      "title": "Trump's SOTU address to focus on economy - news8000.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdXVrTjVtdU1WVzZrcUVqVGhpRGxCbWxHWWJ5UUgtNGpuakRhOFhVSWRvNmVHLXdLOXFwSWY1cVlPX0dqYlhxUGh5bVNGZ016b0dnNGt0dlNSeWhwZWVkenpnQU9CcEI3akpRZ0FsMVRKSWhZeGVLX25BQmkxR1pXQk8zcFQxd21uc0dlSkRkSUpfOG12QWY2OXdwT2NVQzFSclJLakVYU0NtVFAyQ2t2VDlqT1VIRXdJeS1ycnVrcnVkNkVW?oc=5",
+      "source": "news8000.com",
+      "pubDate": "Tue, 24 Feb 2026 18:45:44 GMT"
     },
     {
-      "title": "A policy wonk who wants Nancy Pelosi’s House seat is unafraid of a fight - Times of San Diego",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWks3Y1pZeWY1X291WFhJeW5BT29ySFlnZmllLU90SWhaWTh3eXpYUURTQVFBQmV4ZVhSVE9oNFAtTlh5ZGdLcHdURmo1a1p0SEx6azRpYjEwOVNYcG83X1dRNXVfOGFmUW1IeEJaLXFYUldKR2NsQXg2elhIa2JhdVp1TVNkUkpfWWY4cEpnRQ?oc=5",
-      "source": "Times of San Diego",
-      "pubDate": "Tue, 24 Feb 2026 18:30:00 GMT"
-    },
-    {
-      "title": "Populism is plain to see all around us | Letters - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOVVCb3ViTS1ZaEZYcXRLMEVhTWpRWE92UDVaUU1Ma0ZqckZseUQwLWxoMlI1VXFoY2dTMThfbzRlbDJ1d3pzS0pVLVg0bWlYSVgtdUtaSk5LeGhtUTVXbW9GZ0kxTHlQTGdpOEhuYWZfdk5qaTFNQ0JEN091bFJ4ZTNsakl4Q3lEaXU3NEZrQnY?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Tue, 24 Feb 2026 17:52:00 GMT"
-    },
-    {
-      "title": "Love of skiing trumps political and immigration concerns for international athletes during Birkie - Civic Media",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTGcxbUlST3BmVzFwMnRmY1J4Uzh2NUdUZ3Y3WWdvQjdCLWNIUjZ6TzNOV0UzX2psRUI0S2RVVVRyelotSm14VmFwTzJYeklwWENjSTRFdUtGTXJobzJ2bXZlM0Z6LVdpenJHTGhvcXh0NzI4RzdNSER3QW51WVVUd1lSNzFzVkRwVUc1bE5heElDRHU3ajNmZDcxelRxSVQ2NFVXZi13aGJFUkg2NFVhZWFCRTIwTWY1dm1pT0hsU3V4SnlHa2ZzcTJrQlV5eVdl?oc=5",
-      "source": "Civic Media",
-      "pubDate": "Tue, 24 Feb 2026 15:25:53 GMT"
-    },
-    {
-      "title": "Donald Trump’s bad tariff economics are also bad politics - The Times",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPWmFwTlFldnBfcjVYQTZiR3U0SW5QWlByU2kzYldBb3YwUHp4d3RjWjl3RTBheHY2ampVRmlnYTlxSTdEblNkUlc5NF9lM1BBbXhubkUzblFrMTQ0M3ZuZ1JXOUJNLUhJWEVMRndEV0pjZzJYM1NfTUtydnZKY29VS0RLUlhVcEV1dkMwLTdHNW1iS2VvN0V0R2U1VnR6azRHeXhFckpfbXBYWGtZOVc5eUdtVUVqR3lub0JnSFRLMktwTVFhemMtYllaMzI3eE9TRHE2NHprT3RSSi0xVG1GYnhDdXVHRXJCakVUU2hTemt0cnR0V05oZExRUEMxMTMxdjRGMURNcDJod0NsazdfRVZfRmFmWlFpX0RkbnlLeVFwMHR3U05HN0N1U3FieUl5X2VaX1lJV1VfUDJfTDlFYzFjM1lQUkZtNHFKR2dBUkg2akx6ODJ3dVdYQURJb0YydUl1a3JiUUNMdTY4cE1ZdXJCcmE2MnhpdlN5cDZJdjJ1elA1a2NUMEVROUVlUjhHX3Utam5BeWppdExpM3hVMw?oc=5",
-      "source": "The Times",
-      "pubDate": "Tue, 24 Feb 2026 15:52:14 GMT"
-    },
-    {
-      "title": "Armed man killed at Mar-a-Lago never interested in politics or guns: Cousin - NBC 6 South Florida",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXI3LTNQRW5CQnJIelVuR2dVR20wRlZ2MTZsbWd6RFgwMFE4dnpfbFV6MmlINjhBSWVKaE12ZEE2UDd6bkk1ZG01NF9pTmZOOHFEZ2YwZ1p2VVd1QWE3c0xaXzJBNlN5dkcwQmN2c2JHMDFpVVR1TjN3QnFtQmJzVi1zdE5Zd2pkNGpEam1YWWc0ZXc1alFERTc4V2k4UGo3OWNad3VuN3psbDNMemxwQ0hoNzNEY1J2V2h30gHDAUFVX3lxTE5PemxreW1UV1owckRPZ2Z4ZHdLTzZKRkhHeWlkelNBRDJyWWQyTjQxSjUwckVjdnRkVV92MVBKZ0ZIU014a1dpRmNlNUhOZmRyR0pCMFBuMnpXUlBhOHRMZTI2d1RTMGtOc2Z2ZGtHNlpLTU1KamFVc0dqSlNLRndzNGEwOW92UzA0WjU1SXRTTGw3eU1rNkFXWjB0RTlzU1FIeTU2YmoydE1NTXFQSURqYTNGeUllU2VPLUsxUEJ1Ri1MTQ?oc=5",
-      "source": "NBC 6 South Florida",
-      "pubDate": "Mon, 23 Feb 2026 16:15:20 GMT"
+      "title": "Labour Together’s ‘smear campaign’ against journalists - The Week",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWmNkc3dvMHZKRUp3X2c4ekhCX205LWk1bWdJZlJsYXZrdzlIbVVGaU54Q2JWdmpEbXB6bnNlT1h0YkF0dGs3VTFZcnVfdGlHUEwzRmZoTF85TWtJOFI4UlhORUs2SDJHMkdudWdPV1hzVlE1MndrYWgtSGs3c3JZeHVMUGtjaDQ?oc=5",
+      "source": "The Week",
+      "pubDate": "Tue, 24 Feb 2026 12:43:02 GMT"
     },
     {
       "title": "As Rep. Julia Letlow runs for Senate, late disclosure of 210 stock trades draws scrutiny - NOLA.com",
@@ -425,10 +389,58 @@
       "pubDate": "Tue, 24 Feb 2026 10:00:00 GMT"
     },
     {
-      "title": "First lady Melania and Donald Trump bringing separate guests to SOTU in break with precedent - CNN",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTSjVRSm9iTVNvSW5zaG1kcmdMN3FHUWJrb2R1UHltenBkWXBENk1iRVV3STFXMW9BNlRPbHlrU215bEV4RE9IYUdPZG9ZanA2aGsyWHk2OXVIOEhScU9hWmF1ZUhxam5MbE1vckc4dEdnRVVtaXRRTXNHMXNyb3M?oc=5",
-      "source": "CNN",
-      "pubDate": "Tue, 24 Feb 2026 15:51:45 GMT"
+      "title": "Politics' Role in Park Service Sign Interpretation - Mirage News",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuUnR0Z2d0VWNoTGR3NWREbHhaZVpScjUtSThqQzZNaFUxVW1xaDk4cEIzNkhtOUw3bHNwRnBHU1ZycHk3d2lTeHpnd3FPaHNzamE5SU96RDBzT09rdTJHZVZod24tZmptcUVRZ3o3VTVPakNQYVJlQ2dn?oc=5",
+      "source": "Mirage News",
+      "pubDate": "Tue, 24 Feb 2026 15:58:00 GMT"
+    },
+    {
+      "title": "Stephen Miller's staying power: From the Politics Desk - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVE9VeC1JVkQzc2RMM0VPTHNRR0ROYXV4YUZIaEFZTHlvQ0tUR0lrRHlXbFlGVUswS0JOajlXTENNWUZhY2RDczJ6LVY0MHhHcEZ2b3FRejBsWFM5dEQtbjRqOU9pUU11aWJldG43aDRJSUZObmtWNDhkTm9adjcxbmw1Zjk3UGtnVGNwOGM4c1VJUFNmeTJkaVdvcnV5N3plbFgw?oc=5",
+      "source": "NBC News",
+      "pubDate": "Mon, 23 Feb 2026 22:31:58 GMT"
+    },
+    {
+      "title": "A policy wonk who wants Nancy Pelosi’s House seat is unafraid of a fight - Times of San Diego",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWks3Y1pZeWY1X291WFhJeW5BT29ySFlnZmllLU90SWhaWTh3eXpYUURTQVFBQmV4ZVhSVE9oNFAtTlh5ZGdLcHdURmo1a1p0SEx6azRpYjEwOVNYcG83X1dRNXVfOGFmUW1IeEJaLXFYUldKR2NsQXg2elhIa2JhdVp1TVNkUkpfWWY4cEpnRQ?oc=5",
+      "source": "Times of San Diego",
+      "pubDate": "Tue, 24 Feb 2026 18:30:00 GMT"
+    },
+    {
+      "title": "Democrat quits clean energy firm over Epstein links - news8000.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeUN2MTV3Q2VoR0NCb0xScDhQMkhXRWY5Tl9TRDNRazllRGxtQWtsNGRDenhwMDI4UXlKZ1Jnd0g3MU4tSlJrS1M3SlNjRF9JQUZxY1hYY21QNWtFN2dVbVpDTHFjSEk3ejNfc0VXNF9UMEN4Y3dpa3RwUFpnMUkxeWtoN3ZPRmRmX2J4S3RGYk1wa0xLOXBZWnNvMlZ5TzFKbWt6LW1sck50WWlVOGpRN2Jjd0lsTXNadk94YXdaUlJHZ0xIelFmbFNXSGNtaTlWaC0zNGs0Rm81Y3JKR2tReXlDQ1RIV1JzVGk4MzgtTQ?oc=5",
+      "source": "news8000.com",
+      "pubDate": "Tue, 24 Feb 2026 17:02:47 GMT"
+    },
+    {
+      "title": "US re-asserts 2025 strikes ‘obliterated’ Iran’s nuclear programme - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnZFX1QwLTd6VUxLc1ViVzExb0h3SENpWGVCcUpPMFV6QmJvbEc4bmk3QzBJMEpZU3F3bzVBRzg5TFZXNFR1Mm5Pek1qenRIMldjNTB4ZndObmNJNjV3QzFNZ2NwNmdiVGVQYnYzWVpXTVRGeThMclJJTFlqeEx3Zm9sWGh1aWZVZGROYXZoX0RGUmdrT2Q3RzNyYXVNVjYySDljT2dB0gGrAUFVX3lxTE1VU3VTQTNuX1VmMEU5T0YxN1pzeEZmU21KWWtKRVpZeFR3YS1iSXNzSXg1OXlUNFRrdHBhSU9qdHBJM2lKX0g5cV9WVldvTnNhSW84YlIzbjh5OXZHcHN1ZGNkZThXQm9EV2k0T21Bck5fVFNsRVlkVlIyR3VjY2NTbEdwZ2g2M1JpZEFaNnlic0lUci1FZEtFTWNqaFkySVEtb2NRbUFjOEZJaw?oc=5",
+      "source": "Al Jazeera",
+      "pubDate": "Tue, 24 Feb 2026 16:37:06 GMT"
+    },
+    {
+      "title": "Gavin Newsom says he's 'punching a bully back' when he trolls Trump - NPR",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzgzUUlja3h3UTBId1Vvd0JFNGM1MFNZbHdYWlc1cXNTd0JCREVnSXhFQnVseDZIbGxCaXdzcWZxQldYZVlvVzFjUUdXSHc1a055bWZKMkFBY2tvS3RTeFRiX2VnX3loUUJYRHQ3cm9oUm9pMkk5eVIyS2dxNFJOaHhzTVFzY2NyRFk0SlhGRjItZVJfYzcyUGVlZGlYMFBQcE5Zc2hnemRMaEd1cU1td0p3?oc=5",
+      "source": "NPR",
+      "pubDate": "Tue, 24 Feb 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Armed man killed at Mar-a-Lago never interested in politics or guns: Cousin - NBC 6 South Florida",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXI3LTNQRW5CQnJIelVuR2dVR20wRlZ2MTZsbWd6RFgwMFE4dnpfbFV6MmlINjhBSWVKaE12ZEE2UDd6bkk1ZG01NF9pTmZOOHFEZ2YwZ1p2VVd1QWE3c0xaXzJBNlN5dkcwQmN2c2JHMDFpVVR1TjN3QnFtQmJzVi1zdE5Zd2pkNGpEam1YWWc0ZXc1alFERTc4V2k4UGo3OWNad3VuN3psbDNMemxwQ0hoNzNEY1J2V2h30gHDAUFVX3lxTE5PemxreW1UV1owckRPZ2Z4ZHdLTzZKRkhHeWlkelNBRDJyWWQyTjQxSjUwckVjdnRkVV92MVBKZ0ZIU014a1dpRmNlNUhOZmRyR0pCMFBuMnpXUlBhOHRMZTI2d1RTMGtOc2Z2ZGtHNlpLTU1KamFVc0dqSlNLRndzNGEwOW92UzA0WjU1SXRTTGw3eU1rNkFXWjB0RTlzU1FIeTU2YmoydE1NTXFQSURqYTNGeUllU2VPLUsxUEJ1Ri1MTQ?oc=5",
+      "source": "NBC 6 South Florida",
+      "pubDate": "Mon, 23 Feb 2026 16:15:20 GMT"
+    },
+    {
+      "title": "Populism is plain to see all around us | Letters - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOVVCb3ViTS1ZaEZYcXRLMEVhTWpRWE92UDVaUU1Ma0ZqckZseUQwLWxoMlI1VXFoY2dTMThfbzRlbDJ1d3pzS0pVLVg0bWlYSVgtdUtaSk5LeGhtUTVXbW9GZ0kxTHlQTGdpOEhuYWZfdk5qaTFNQ0JEN091bFJ4ZTNsakl4Q3lEaXU3NEZrQnY?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Tue, 24 Feb 2026 18:39:00 GMT"
+    },
+    {
+      "title": "Mayra Flores fights to reclaim a Rio Grande Valley seat in Congress as Trump backs a rival - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMC04OGktcGw4cnkzMGFKMEFVT0hZZmhyOEQ3Q3RZQklJeGh3VlBUQkEwbjFWaVotdlFtUG1RdmNhYkh3WWhWQTA5N09jdThzOEdKLVBVZnV6enFwYlNOdGZTZ3NPY0NSY1NpbEc4ajNsZEpocXp0dUxCMWJmRlA2dkJsSVdaS1AwZmpwQVBJbFkzbHJrcmZCeVVWWEl6bC1jUlJLcGpuN3dHVURJMFMzTTM4WEFFbi1sdm5PdlFsTQ?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Tue, 24 Feb 2026 17:31:00 GMT"
     },
     {
       "title": "Flexing ‘political juice,’ Collins secures majority of Maine’s outsized earmarks - Maine Morning Star",
@@ -437,22 +449,22 @@
       "pubDate": "Tue, 24 Feb 2026 09:28:39 GMT"
     },
     {
-      "title": "Politics Without Politicians by Hélène Landemore review – could we get rid of Farage, Truss and Trump? - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOXzRLdEZEaUdNOHJXYU5wR2d5ajRmWExFTzB4UE43Q2xoamtMTjdQeFVMT2ZhTUN0a3ZGSWZFeGkyMzlMLURkcE1VdnFJNjZzdnI1U01uYjBCUklaLWN6YTlyZDYteFZmYUVPeVlQNHJNdTJFd1RxcFFidzVwdGVTQUJhdlNILTBFTF9jT3ZxUGFxVlFJUjRlRDk4cDJBclRsXzZtaUFRTWhJQ1pITk9Kbm5mckltTGdRUlBYZFFn?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Mon, 23 Feb 2026 15:01:00 GMT"
+      "title": "Love of skiing trumps political and immigration concerns for international athletes during Birkie - Civic Media",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTGcxbUlST3BmVzFwMnRmY1J4Uzh2NUdUZ3Y3WWdvQjdCLWNIUjZ6TzNOV0UzX2psRUI0S2RVVVRyelotSm14VmFwTzJYeklwWENjSTRFdUtGTXJobzJ2bXZlM0Z6LVdpenJHTGhvcXh0NzI4RzdNSER3QW51WVVUd1lSNzFzVkRwVUc1bE5heElDRHU3ajNmZDcxelRxSVQ2NFVXZi13aGJFUkg2NFVhZWFCRTIwTWY1dm1pT0hsU3V4SnlHa2ZzcTJrQlV5eVdl?oc=5",
+      "source": "Civic Media",
+      "pubDate": "Tue, 24 Feb 2026 15:25:53 GMT"
     },
     {
-      "title": "Epstein survivor speaks out ahead of attending Trump’s State of the Union - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTU5aREVodFpvT1B0bGVNYmJaMVh4Y1Z6X3hValNVb25NWEl5NURBbTF0NmR6NFRxLUVDMEw3dlhpU0lfc1JYREVYQllWdjI2V0xvaVNJQkhrTk1yWGdzUWhQOHI1b1l1Qnc2N2pQZUdkS3VxQ3ZfVDBwOTVnWHgxeEZQTUt5UHpMWU9QQ25OdWpZNVJUZ1pFelR3UDRsSnhTQkFvSmdWbXkwX0lDTFB4c2tPeWdtOHdtRGc?oc=5",
-      "source": "CNN",
-      "pubDate": "Tue, 24 Feb 2026 05:53:32 GMT"
+      "title": "At a Festival Stirred by Controversy, the Politics Are Onscreen, Too - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZDBqSllwdTZGYk95M3ozZ0VjcGpwZDI2bl9aUG1LeVhHRG1HRXVNSWYtT182b2tnR3E5dGpxTWhTMl9BcHR1SW5wcFVaT1U5eUswWFdaQXZrWWJTeTU1Q0VxcEVOU0d1LV90MU9SdUtwZURVRzZJSDRNZnU1VGVDYWVnQQ?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Fri, 20 Feb 2026 17:11:26 GMT"
     },
     {
-      "title": "'We have so much to talk about': Trump set to deliver first State of the Union of his second term - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLXk1VUlKRjljN0VFR0JyVVk0QkdEYjhuMms0cjNqMFo3QW4yLWJqZTNIbXFEY2xyYWhZaS1qMExiaWt2Nk1iTzlYWkFiSWRGNHlsVkhod09fUGNfZFB4V1ViSjBRcm5WVVFTZXk1V2RCRW1zcnAzWmswaUp5eFVzSHBIc2FrSjFuRGJRSFFESlRudU0?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Mon, 23 Feb 2026 22:57:00 GMT"
+      "title": "Donald Trump’s bad tariff economics are also bad politics - The Times",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNbXp6czktSnhMWnRHdTRQeWFlbFpqRjQ3c0tYZzVKb1ZhRExZLTNsM1JlTHhOckFnR2FnUWFNTHllQ2paRkhYWnZJRUItT2JBX1d1c1Nid0hrZkNPNzJjWk1mWXE2NjdGeENIaE8xUTd4NndveGRwcXNjaV9oMldkbUpIZVNKakFSaWR5MEUwZEJENFVORGhKcF9wOHV4RWN0OEwxNDF0TDl3SEhBdTFjY2NHSGpuZlQ1NUxVNkVJa09sZkQyOXJjQmlVSWRWTmdZcXJvVWlaVEpOU2NiQXJZM0lDV0tHaUpKTElPZVNXT1Y5WDN2UkUzQkcxZG02LV9QbUtVcFBVNUlvUGlHNTVnV1VBak8zcndMUXpBb1RBOGZJOU8tc2RrSHNsS2toWUJHT2FpNEtvSTJNRmJUSXJ1US1pckdCRzNOcGZiZlBuVmpReTRfaTd0cGg5V3prbFRVTkl5b0hVQ1p6SVFhaTFDOUw5a3k3VlQzcUpheFJ6SkdLdEdnc3RzUFpqYlV1UlY0emVkRlB5SUhmZEtZYTlCRA?oc=5",
+      "source": "The Times",
+      "pubDate": "Tue, 24 Feb 2026 15:52:14 GMT"
     },
     {
       "title": "February 23, 2026 — Trump administration updates - CNN",
@@ -461,22 +473,28 @@
       "pubDate": "Tue, 24 Feb 2026 04:35:00 GMT"
     },
     {
-      "title": "Live Updates: State of the Union will hit on af­ford­ability, America's 250th an­niversary, Leavitt says - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWk1nejdZb3VFVUl1ZVdqaHRXSk5kN2xLRFBNOTVBZnQ2bXhlUE82MkRObTNKV29XNktkNXdTdVFSY1Zzdm4tTlIwOUwtNF9NR2padHdISC14bzBJYTV2ZlVpRlY5MTVTTEZVcXQtZ29mNlRnTnluVjQ5cTRFU19vZ0VJSFRaZUtPTThKMzgzWm9NeEQtNWpDaV9iZjlxNFk3LVZsSl9KZWFTV1dnZVZtRkdn?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Tue, 24 Feb 2026 18:21:00 GMT"
-    },
-    {
       "title": "Ayatollah Khamenei's Politics of Martyrdom Means Iran Won't Surrender to Trump's United States - Foreign Policy",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdllMMWlSY09UNzIyMF8zc2V6MGpUTU5idk5idVB0VU1QQnd1QWNsLWRsMC0xR2R1dkx4RUNnNVRzaFR4dTdEb0lLbXZkejM0c2NDNUN0LUN2SUltNnZTam1BeHlyaW1tcjlvNVVVcTdlWE5tT1dXN1pDODB4YVFydzE2eVZWSXFYbnlydFFhRXYzRWtMcUFWa1dKQ0pUV1Z6R1JFek00dFk?oc=5",
       "source": "Foreign Policy",
       "pubDate": "Tue, 24 Feb 2026 06:23:13 GMT"
     },
     {
+      "title": "Epstein survivor speaks out ahead of attending Trump’s State of the Union - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTU5aREVodFpvT1B0bGVNYmJaMVh4Y1Z6X3hValNVb25NWEl5NURBbTF0NmR6NFRxLUVDMEw3dlhpU0lfc1JYREVYQllWdjI2V0xvaVNJQkhrTk1yWGdzUWhQOHI1b1l1Qnc2N2pQZUdkS3VxQ3ZfVDBwOTVnWHgxeEZQTUt5UHpMWU9QQ25OdWpZNVJUZ1pFelR3UDRsSnhTQkFvSmdWbXkwX0lDTFB4c2tPeWdtOHdtRGc?oc=5",
+      "source": "CNN",
+      "pubDate": "Tue, 24 Feb 2026 05:53:32 GMT"
+    },
+    {
       "title": "Power & Politics: CT Comptroller Sean Scanlon announces reelection bid - News12 | Connecticut",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkxjOWNHa05WeWFpcUktR0N3S1YxZG9xTlJSczZnbW55RldWdkJJd0ZMMU5IcGhIZE4wZEMwSGo2bHZ6eEk4eHBMMWl5N1EzZGJlc1JxckdNa3hsS2ktbENaVEZIZVZBQm1WSVBWTEVQSEV1bTVxeVdwMUJlS2dGVVhYOTdVUnFpVW81R3ByWGZ0d2VDeWphakZHMU53alk?oc=5",
       "source": "News12 | Connecticut",
       "pubDate": "Tue, 24 Feb 2026 17:34:41 GMT"
+    },
+    {
+      "title": "Live Updates: State of the Union will hit on af­ford­ability, America's 250th an­niversary, Leavitt says - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbHJsNGpuRHlXTGFHOVpOcFBsTUdsdkhLajdNVld3QS0yclJid1hVTHZEWUUtM2M4MEo1Zk1OQ0xPaldVYlF5ZFQxSEU2QXNGWlF2ZnduNGtvSGZCYUdCb3hwV2h2T2p6OEpITmJrcUZJVXJ1SWhZMzg1WExlRFFHX1RUMkd3dDhQdlN0Z29Xa241S2FRZ0w0MUZzbGtjMkRiLW1lLURWdHhMdWN0alBRczNqMA?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Tue, 24 Feb 2026 18:21:00 GMT"
     },
     {
       "title": "Democrat & GOP lawmakers support Trump's ability to attack Iran - CNN",
@@ -491,40 +509,16 @@
       "pubDate": "Tue, 24 Feb 2026 14:42:46 GMT"
     },
     {
-      "title": "In Democratic Response to Trump, Spanberger Will Stress Affordability - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWW9BY21vUXBmS1pRbzg1VzVCXzhMUFdxYXp4NGFFdGVjWmNaMXRCSTR1YU1rU2NJdVFJRVd0bDA3T28tc0hQbnJqOC1xUlNVSTNGRFpXUHZtQzg4NFItU0phczIxX09SZXVtLVhaNXUtOHVpaUJHYnkyYlluZ2xiSDFsazRzWkNXOVZZTk5OeTFqWXRN?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Tue, 24 Feb 2026 18:11:06 GMT"
-    },
-    {
       "title": "50 years ago, the Supreme Court broke campaign finance regulation - KTEN",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ09NQ3JJRllwWk9RaTVrS3dGN3RSLUlmNlBkTThkSHNrRnUxbzljdjQ1LWZzM05OZXdkY0RSbUJEVHNnRmFyeHUtVnVnSGNkcFRkeUVhSjFpbHAyMExtaFl6NmdQSnpIc2ZMXzRMMzk3d2pEcXN0MW1HZk43YWttMnNuMHZUVHBmeEZGQkZTRlZQaEdLa2FoUG0wQ2xPaTNScDFuTGVCT2NoQ0Q3U2hDdlh2SXl5VXU1QnY3TzZRa0dFUnZpZ1lLeDNjZ3VtV2VlbFIxZkktYVltYkxGZEdHeEw5QQ?oc=5",
       "source": "KTEN",
       "pubDate": "Tue, 24 Feb 2026 15:32:24 GMT"
     },
     {
-      "title": "Which Iowa lawmakers voted for a 2% K-12 school funding increase? - The Des Moines Register",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTWwzYUZRSkJhM240Mkc2SDVkSG9rdllwNExfV01ONy1TVVl4WjVOQTBBRnZ0eXhBWkhJNHo5aVQ2QXNCeWZab0FJMUVJenV5Z09ZdlVuYW1HVTR5cnpGMm9SanljaGZBTE1CZk1WVnJkSGF6Vk5rbUpOVEY5WTJHYTBscHk0S29HNVI1ZDV3WTlsRnQ3MUJOX2RPc2U4RzhoallmQkJhM2VhSFhZRFZrcjRiZjZiTjNWV2wtTF82OVZkQ0pvTERvRVFYNkk0RHpNNWhURWVlcm5JamllRUJR?oc=5",
-      "source": "The Des Moines Register",
-      "pubDate": "Tue, 24 Feb 2026 14:03:00 GMT"
-    },
-    {
-      "title": "Trump heads into the State of the Union facing diminished voter trust on the economy - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVpFTTd6emhTd1NUempRMFNjWndUN3I4RWotbnZGVDY5OEhSeGxzY3VMRmdLZDFRVUFKVWItRmhlbDl0VWVackM0bVdDbkRZLUV2TnVtQXNIZ0xMM0pfMlVZWkFfOEVtUF9VNy1lTnJzcDVXZWtfYkhxUHVWdmE4dmtVd014RDNtSXRVcm90d1I2YUs3aUJwSlo2d1NVaTlXbEY3RUNRRXh1MzNHb2lDUjNFWkh3SXJKYW1OMDNHSUZJZ2dL?oc=5",
-      "source": "NBC News",
-      "pubDate": "Tue, 24 Feb 2026 10:00:40 GMT"
-    },
-    {
-      "title": "Texas border district flashing warning signs for 2026 midterm elections - CNN",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUHo4WXhIUFNRZWY1RGdVaFNBZ0Z4c0RWVGxZSWJuNEQ2cUZ1dHZqd282SnNDOFN1VHNaN3lER0x0Z19sVjFNX0ZrblRBTXBTSHEtcFNfeHF4ek5JZTczZngwczVVYkJES1N6OUVnYjE4UlpJSW13UlVTOUFQMmVkTUpaQUxGS3hCWXpvWkNBR3J6dw?oc=5",
-      "source": "CNN",
-      "pubDate": "Mon, 23 Feb 2026 21:26:59 GMT"
-    },
-    {
-      "title": "Politics take center stage as Paramount submits new offer for Warner Bros. Discovery - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0hVWGM3RVY1cG9zX2lQM2hfZXZiRXFSUml1NmNBeE9hcFRxX0JTcmtCWXZzQWZfNDNlaENvWnJNcTM4Zkd1dDRYQW1MNUxjalpQQmRFRUVHbE1PRDFWQU5OYnJ2RUdtcEZURUljWVBuSTJlU0tMVWdPTGV2ZTBtd3BwTFhkSDFiLWw3MkFn?oc=5",
-      "source": "Yahoo Finance",
-      "pubDate": "Tue, 24 Feb 2026 01:10:00 GMT"
+      "title": "Supreme Court bars suits against the Postal Service, even for intentional failure to deliver mail - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQTFMTHBCOHFvSURoU3Y0cEtQT0NKNmp1ZHpuZzkxQW5iTWF4d3lBMXNseVdDc0tTVzJvNUdwaHdDUmxvVkpuc0pMS1FLS1VFaGZRZUUydHNWNWJ6V3VybVlIV0g2Z1k2U3ZGX0prekprUWF1Q0tVSk1PeExGOUZrZVp6UHhQdFlUWWJ6OHliVkh2QzBLTGxqbHhhNG1fdw?oc=5",
+      "source": "Los Angeles Times",
+      "pubDate": "Tue, 24 Feb 2026 19:17:33 GMT"
     },
     {
       "title": "Molinaro launches grand return to New York politics - City & State New York",
@@ -533,40 +527,34 @@
       "pubDate": "Mon, 23 Feb 2026 19:36:34 GMT"
     },
     {
+      "title": "Trump heads into the State of the Union facing diminished voter trust on the economy - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVpFTTd6emhTd1NUempRMFNjWndUN3I4RWotbnZGVDY5OEhSeGxzY3VMRmdLZDFRVUFKVWItRmhlbDl0VWVackM0bVdDbkRZLUV2TnVtQXNIZ0xMM0pfMlVZWkFfOEVtUF9VNy1lTnJzcDVXZWtfYkhxUHVWdmE4dmtVd014RDNtSXRVcm90d1I2YUs3aUJwSlo2d1NVaTlXbEY3RUNRRXh1MzNHb2lDUjNFWkh3SXJKYW1OMDNHSUZJZ2dL?oc=5",
+      "source": "NBC News",
+      "pubDate": "Tue, 24 Feb 2026 10:00:40 GMT"
+    },
+    {
+      "title": "Jeanine Pirro's office shelves pursuit of Democrats over social video, sources say - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDJrX0xDcUdZQWhzdDgwRExIVXUxelRqaUcwWkYzZnByUWJXdmp3SFN0S3NvUWk0ZmpSRktWVXBBWFJHenhKUlZqY2VKV0dZMkJHTWp3UjdIcUM5WldiQzJISmZucUZBUUpzeklVVEx4RmtuZ1VUemFhUXgxZENoN2Q2YUFkUWFQVDlNUzBkOS02aGg3Mk9fZHEydnhDUUdfbGhoM2w5c2phd1ZQbDlyVTlkR0JEd2lDZUt1eGxZeXpBQTRoekJYOXBoUlZOQQ?oc=5",
+      "source": "NBC News",
+      "pubDate": "Tue, 24 Feb 2026 19:05:00 GMT"
+    },
+    {
+      "title": "Political analyst joins The Morning Show ahead of President Trump’s State of the Union address - News4JAX",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLXJsQld4SjlZdnZjb2hmUllPUi13Rk9OLVk0SGUwS1JjMTM3NV9DLXE0ajlYSEhpVmtMdElEcHVtZUJta250RlNva2FfYlJ0WDN1RTkwR2g3MVVWeVBDdFIxY0F6MU9oMEZ0WkpfSUtxdXZHRkw3VjhTeUNYdXl2N0lNODU0QldRazB1UVBwQ2c5U2h2TmNtWmdoMlFMTUNQbVBwSkM0d0JoQzFReEJuV1ZNZEtPeHFwQU8xUU1FWjNMYkhTdkZrekU4OTRDalBlM2xfa2VGYnlpakdlZTdudDY5b0w?oc=5",
+      "source": "News4JAX",
+      "pubDate": "Tue, 24 Feb 2026 12:45:25 GMT"
+    },
+    {
       "title": "Senate Democrats investigate CBS over blocked Colbert interview - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdUVqWElQYmEyV2lYVVlWcFd4UEl6UHFfaHFxMG56bEdHRk9mcE43WVhCZWRjM0xzTlI2aFdpMS1lMXpWaHIzVHYyNDVKWHFtM3FfNDI5M1pEdnR4eGRsdHZUbFJHempYaWhteFNLQ05ib3dQQ2NYWVNVcUxESmx4Y25ldkh1SE9yeGdjOC0wSQ?oc=5",
       "source": "The Guardian",
       "pubDate": "Tue, 24 Feb 2026 16:41:00 GMT"
     },
     {
-      "title": "Maria Elvira Salazar warns ICE directives could produce largest exodus of Christians ever from U.S. - Florida Politics",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWdLdGVaZkJXRlpZNFNwNk5mNlVlVEx1Q1p1b3cwWXlXcTgzdi13VHVHdF9sbDI0MHZYal9zcGk5UWN6SjJXYW5hTm9yZTVmMFZ1aW1zNEJ3M1NNX3NWNEZIT19xdUZlTXVOb2J2T25xTXZ4RnJZSEZxTDdIZW12UVF3VHQwOFVrZXMxNEtOMk5hb2dvMlhtSmNYcHNkUDdyZHJsMnR3bXJ5aUlzMUI5WlF2aUNKU29EdGpXZWFncFpxX0xXaC1saE95Unp2RU1ENUlhRjh1Y1ZQTFk?oc=5",
-      "source": "Florida Politics",
-      "pubDate": "Tue, 24 Feb 2026 17:38:26 GMT"
-    },
-    {
-      "title": "President Trump's State of the Union will lay out midterm agenda ahead of elections - KTVN",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbkRUY0JjTlhlemE2Sm9jNFUxWUhxeU9rQ0RZbzRocEpFc0NrSGlTM3FJeGkxNEl2Ymk5aS1Sam1vTjMxY3dUYWxuYm5wTVE3azJwbzlVMmhtYmtOb2FxMDVqdXNOZ1RiN3lySXBuQ3VCMS1kNTBVbklrNXh0Y2dob1ZuNkpMRFAxUUhEbDBXLVVJTFJERnh2M0FuZmRhNGEyeWh3SzA2RzR0eEhiRU4wcWdZNHVrdUpWblJFeW1DNkpWSFoydTUyaTU0YU9FcklFdlAxX3JSUVJuSWNTcDlVdzZ0X2F2NV92aGl1SFZRWDNlVzlUVXl6ZEJ0SFZIRjl0Tnc?oc=5",
-      "source": "KTVN",
-      "pubDate": "Tue, 24 Feb 2026 17:46:00 GMT"
-    },
-    {
-      "title": "Mystery lawmaker investigation highlights ‘pay to play’ problem in local government - KHON2",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBNk5nYmxrWWxZdXY4SHRlc1NMMkUyeC0xNTZLYXpnZFhmTFBLbjV2dTZhY0dHa0dHeHUwTEUxcXhFWlU1UmlOVEF0WHMzQjctYTZ2V3gyZHZEVi1pRDkzS2ZoeDFZcnVKaTR0ZnF3MXZ5SFhVaDNvb0xR0gF_QVVfeXFMTWI2T1NHZkJUUWJWWGRFRzFvdkRMSXhsYlZlVklTeVJVQmVpVW42N3BmQ3BlbTRMZldzVnRlOW42VVBiUm5fdTZPNnQxb1ZUUEZPVmwzRlhZTXE1VjRZaDM5eWtmNW9xR0g3ejNnVF93NTROdWdPNjNaalBIcFRiRQ?oc=5",
-      "source": "KHON2",
-      "pubDate": "Tue, 24 Feb 2026 02:41:30 GMT"
-    },
-    {
-      "title": "Shedding A Little More Light On 'Dark Political' 02/24/2026 - MediaPost",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZm4yRDJDSXJLWWtrOXdwNm9xcmlhQUJiN1M4LVBDbWVDNlJEWTRCbW1ydHBLbElqbThablZYdG5xcFZDdUtlQk1iTmVtZDdPbHloZzJLY3ltSTVVSWxSVEV5a3NCbVh3ZXlnV0NZcEt4UnY3TGtKNzd6RmdPWWU3Y2lGVnBsMFJwY1RxaTVlRHo5Uk9wZ2VaWEFlQThQN0YzR2dicy1NWlp6NUVCbVRYZDNZS0tXb2NaVnJLLQ?oc=5",
-      "source": "MediaPost",
-      "pubDate": "Tue, 24 Feb 2026 14:23:01 GMT"
-    },
-    {
-      "title": "Government to release Andrew trade envoy documents amid fierce criticism of former prince in MPs’ debate – UK politics live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjVPUjVQd3ozWkhpYXZnektHUG1YYl8wSFRrNUcteGNrSG5zU0tNcDNWSTNDYzJkZ2l3WElzUmxvbEkxSTFyN0lQdlpOVVhROVM1WmhjUTdOcWVsZjB1VDZlWENqRTJoVEV3em85SHZsdWhCNUU0Yk1lVzRDck9TYzVJOEUxYU5wZ184NHFXUkU2WjlOb190c3NPSG5pQlFmWjVnbHJsWWdKYlVZck5WV2tDeU91YTZTODAtclFQZFlmQVVkSGFZRHBUTnFaZXZIdWpRcA?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Tue, 24 Feb 2026 17:20:00 GMT"
+      "title": "Politics take center stage as Paramount submits new offer for Warner Bros. Discovery - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0hVWGM3RVY1cG9zX2lQM2hfZXZiRXFSUml1NmNBeE9hcFRxX0JTcmtCWXZzQWZfNDNlaENvWnJNcTM4Zkd1dDRYQW1MNUxjalpQQmRFRUVHbE1PRDFWQU5OYnJ2RUdtcEZURUljWVBuSTJlU0tMVWdPTGV2ZTBtd3BwTFhkSDFiLWw3MkFn?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "Tue, 24 Feb 2026 01:10:00 GMT"
     },
     {
       "title": "What happened in Iowa politics the week of Feb. 16-20 - Iowa Public Radio",
@@ -575,34 +563,46 @@
       "pubDate": "Mon, 23 Feb 2026 11:01:58 GMT"
     },
     {
-      "title": "Schumer’s Irresponsible Political Games Enter Double Digits - Representative Tom Cole | (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTROdWtHUHpaUWw0c09oTUJlRmJ2VEUxbGRSQzlhN2g3YV9mSDI5VnJlcGotOHNweFRVWGV4UENqcExqcFh4dzdpRVFleS1zcThYdzZKM01UNGNqZ01YbnNfR1NDTGN0TG1zSmtURXN0cHMtcnBOeGFteV92NEFNLXVPQTc3QUt6TVFfbHM2S3MxdE5kMW1seEJfdW1Rc1QzSHBfTg?oc=5",
-      "source": "Representative Tom Cole | (.gov)",
-      "pubDate": "Tue, 24 Feb 2026 14:06:24 GMT"
+      "title": "President Trump's State of the Union will lay out midterm agenda ahead of elections - KTVN",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbkRUY0JjTlhlemE2Sm9jNFUxWUhxeU9rQ0RZbzRocEpFc0NrSGlTM3FJeGkxNEl2Ymk5aS1Sam1vTjMxY3dUYWxuYm5wTVE3azJwbzlVMmhtYmtOb2FxMDVqdXNOZ1RiN3lySXBuQ3VCMS1kNTBVbklrNXh0Y2dob1ZuNkpMRFAxUUhEbDBXLVVJTFJERnh2M0FuZmRhNGEyeWh3SzA2RzR0eEhiRU4wcWdZNHVrdUpWblJFeW1DNkpWSFoydTUyaTU0YU9FcklFdlAxX3JSUVJuSWNTcDlVdzZ0X2F2NV92aGl1SFZRWDNlVzlUVXl6ZEJ0SFZIRjl0Tnc?oc=5",
+      "source": "KTVN",
+      "pubDate": "Tue, 24 Feb 2026 17:46:00 GMT"
     },
     {
-      "title": "The Jewish Contract with America: Covenant, Citizenship, and the Politics of Belonging - Jerusalem Center for Security and Foreign Affairs",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzFITElfQkd6T2ZMMU1PWjM0UEFkNHMxbml3bS1xbmthb1ZybjhKTndVNmVZcVlmMW1ETVViODdkUGxfZzdmT3ZyNUY2NllsZ0ZQN3h4SEJCeHk0MVZxRzhvSlNPNWYteEMxUDhtVUtVZkJnd19JUDhIUXNCd2d3aENZRUFvaVpaQmwwTFRhaFROa1lJVHYwLS13alE2WmdCVWhN?oc=5",
-      "source": "Jerusalem Center for Security and Foreign Affairs",
-      "pubDate": "Tue, 24 Feb 2026 12:32:39 GMT"
+      "title": "Maria Elvira Salazar warns ICE directives could produce largest exodus of Christians ever from U.S. - Florida Politics",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWdLdGVaZkJXRlpZNFNwNk5mNlVlVEx1Q1p1b3cwWXlXcTgzdi13VHVHdF9sbDI0MHZYal9zcGk5UWN6SjJXYW5hTm9yZTVmMFZ1aW1zNEJ3M1NNX3NWNEZIT19xdUZlTXVOb2J2T25xTXZ4RnJZSEZxTDdIZW12UVF3VHQwOFVrZXMxNEtOMk5hb2dvMlhtSmNYcHNkUDdyZHJsMnR3bXJ5aUlzMUI5WlF2aUNKU29EdGpXZWFncFpxX0xXaC1saE95Unp2RU1ENUlhRjh1Y1ZQTFk?oc=5",
+      "source": "Florida Politics",
+      "pubDate": "Tue, 24 Feb 2026 17:38:26 GMT"
     },
     {
-      "title": "WATCH LIVE: Gov. Spanberger delivers Democratic response to Trump's State of the Union - PBS",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb2dWMzNYMlhzbUtCMjFsQmdFZlBMMzlBNlZfZEs2MjdVSVp0RW1OWFVuUnV0LUJjMHR0QXBBM3VHY0EzYW1VamNBVFg0Sjc2aURMd2dYUHl3Q3JncmVJQnZma3NUd1pyaEpNVVJ2S3A2WGFLWUI4eDBLZ2VVSDdJNE1CN2plLTBXNTc0UU5TY09XbXhXejFIRGk2aThmeklHc3M0OXdWTFI0cEkyWUJuODFWN2l6bVdMU3dTNFFn0gHDAUFVX3lxTFBHU0owUExiRGFWNUN2c0RHVkM5VzUtaWcxMUxkdk0tY0hFbmF4bEFCenl0RVNCY3c0ak9IaHlsSU9rZGg2TGVwc1lOZ3ZvY1liSHRlU3NaNlJFQUI1NGtMcnlLbER0eURXWDVfc1UweGN6ajk0aWR1WVJpV1U0NUtLeHRaSDlHendYVWhpTGptMnl4ZjJsdHBkekdzVEE4LU1XdzdOVnJuWFJVRDdCX0FGc3dBeDdWa0dmTTFLeUljZTRKVQ?oc=5",
-      "source": "PBS",
-      "pubDate": "Tue, 24 Feb 2026 01:36:44 GMT"
+      "title": "AG warns bill risks political control of police watchdog - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aV2N3a1p4VVYtQUdYWnlpYTU3MDRpOGpBRU52R25RQ01XVFBfelkzZ3pUbi1mMDBkVEc3ZjJESV9UUEtGbHdhUmNVaHZCNDlVdG51NnE4VTdBdEtIVGtqUjFnaFhRNEstd0hDdU52N2lMYXZTU1hjSF85UQ?oc=5",
+      "source": "The Jerusalem Post",
+      "pubDate": "Tue, 24 Feb 2026 18:20:33 GMT"
     },
     {
-      "title": "What to watch in the race for North Carolina's open Senate seat - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2U4OUx3YU5ha0plWDVpMXZIOUpLeV8xUVVMWXJmWFc3T1ZadjY2UzYwSmloRlhpemNFZHgzZHNHcXlHUUJCbWZvSUt6TjZRQTNpdUprVVpYY3FIdkE5WWdkMkNmazVYeEhGamt4VWhaaG5JLWI3U0J0Yk5vNG44UzBpZUpDS1owSWV3QkJ1WUVEZ3JhUXp0MTVReVB1WjNxa2QtSGdPZzJsMlk?oc=5",
-      "source": "NPR",
-      "pubDate": "Mon, 23 Feb 2026 21:38:29 GMT"
+      "title": "'Plenty of time to change that': Rep. Jim Jordan reacts to CNN poll showing Trump's approval with independents at 26% - CNN",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXl4dUQ5YWk5bzlGNjhxOU1KRjgtd3NIVkdqd1ZSWmY2VnZZb0F6SVhfeFFfam9QS3RFR3hHbDhUcHZ3WHFnd21yLVJzNS1RbF9jTlc3Mkp2cHhTTlRYb043cHN4X1BNX0F6bFlBeWxJLVA0X0g3ZXYzLTVXa0RWSC1wSFdfeXY5UWM4QVdXWXV5RVBo?oc=5",
+      "source": "CNN",
+      "pubDate": "Tue, 24 Feb 2026 18:27:42 GMT"
     },
     {
-      "title": "The Complicated Politics of Rama Duwaji’s Style - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUh6XzFGQWJubTdTLTdRQm9wakpZbTNMZl9PX3RyQ01SakhhUmliaUh2T1ZVaHZna2N6ZnNuUUVKajZna3B4WjFkeUlTS25ORXUtUWU2cTlNSlFDYlV0MWdpMWgtWHNJSHVLbWxLQy1EeEN5WW5nU2loMHJKTWYwLV9RT2U?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Thu, 19 Feb 2026 10:00:25 GMT"
+      "title": "Texas border district flashing warning signs for 2026 midterm elections - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUHo4WXhIUFNRZWY1RGdVaFNBZ0Z4c0RWVGxZSWJuNEQ2cUZ1dHZqd282SnNDOFN1VHNaN3lER0x0Z19sVjFNX0ZrblRBTXBTSHEtcFNfeHF4ek5JZTczZngwczVVYkJES1N6OUVnYjE4UlpJSW13UlVTOUFQMmVkTUpaQUxGS3hCWXpvWkNBR3J6dw?oc=5",
+      "source": "CNN",
+      "pubDate": "Mon, 23 Feb 2026 21:26:59 GMT"
+    },
+    {
+      "title": "CalPERS appeals for ‘strong’ GPs in current political climate - New Private Markets",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTFY0N3djYnZpN19jc3NIZTR6MU5XMUNzdFZwS2JWUUEyNWZHckZSbkV5enI3UlRQX3ZaQUlCZjRkWkFOTFUyT2JkSjE2UjF3Ul9TR3haQzRTNnZoLWRVaVliejdyZ25FU1hrR0VCSGlsWXd5cVJ3M2o3STd1TWlTZWxZTnVrVFAtTkxfQ1RUR3QxWVgxLUdUUTNB?oc=5",
+      "source": "New Private Markets",
+      "pubDate": "Tue, 24 Feb 2026 18:37:22 GMT"
+    },
+    {
+      "title": "Mystery lawmaker investigation highlights ‘pay to play’ problem in local government - KHON2",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBNk5nYmxrWWxZdXY4SHRlc1NMMkUyeC0xNTZLYXpnZFhmTFBLbjV2dTZhY0dHa0dHeHUwTEUxcXhFWlU1UmlOVEF0WHMzQjctYTZ2V3gyZHZEVi1pRDkzS2ZoeDFZcnVKaTR0ZnF3MXZ5SFhVaDNvb0xR0gF_QVVfeXFMTWI2T1NHZkJUUWJWWGRFRzFvdkRMSXhsYlZlVklTeVJVQmVpVW42N3BmQ3BlbTRMZldzVnRlOW42VVBiUm5fdTZPNnQxb1ZUUEZPVmwzRlhZTXE1VjRZaDM5eWtmNW9xR0g3ejNnVF93NTROdWdPNjNaalBIcFRiRQ?oc=5",
+      "source": "KHON2",
+      "pubDate": "Tue, 24 Feb 2026 02:41:30 GMT"
     }
   ]
 }
