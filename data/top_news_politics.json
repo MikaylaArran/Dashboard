@@ -1,50 +1,38 @@
 {
-  "generated_at_utc": "2026-02-25T15:15:50.093523Z",
+  "generated_at_utc": "2026-02-25T16:39:32.500744Z",
   "category": "politics",
   "language": "en",
   "summary": "Top headlines pulled from Google News RSS (free, English). Category: politics.",
   "articles": [
     {
+      "title": "Takeaways from Donald Trump’s State of the Union address - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSVNuQUk3bEkzWFc3WWN3Ym80aUNPVnVGbmlNRFZwOUU2R3ZXa3ZvZU0yZkZxckZHVlZXblpsSHc2RnZGSFliOC1WME8xSm9hWjBRZHlWYlUyRlppc0ZNRjEyRGdiaXlRUVZORnJ3azlWMGJJV3FEVks4V1MzQldndWxhXzNqMHZmMnktWkhrLWY0cms?oc=5",
+      "source": "CNN",
+      "pubDate": "Wed, 25 Feb 2026 03:45:00 GMT"
+    },
+    {
+      "title": "Recapping Trump's State of the Union address: From the Politics Desk - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2dGaG9xYkthQmtMTWpSOHRaZUJ1OWRSVTlUQVRiNEczSU0zaC01STJmdEMtb3R1V1d0V3JpYk44WnVpVTRtQVFBQVAyWDdZR2lTa2J6YTlQQnc3VG56aU1WLUpUdWYtZURQVHZ1NHpPcUtUd1pDY3ZkdUctaGthWnlZSG9xMnJnQ01hNGNZR3RJRC1SeTJMQUZNSDcyM0tQS1ZveVFfOWM2OC16?oc=5",
+      "source": "NBC News",
+      "pubDate": "Wed, 25 Feb 2026 06:29:00 GMT"
+    },
+    {
       "title": "Live updates: Trump delivers 2026 State of the Union address | CNN Politics - CNN",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMMnBjQ1JubTRmLUQtS2J4YkN4eW5sN01aT3h0d0dHRjNBLTBNblNsZ2VMdko2QlU2a2FXZERnMGJFakpybWdxQmhJTUNaN1lfTWV3VkJqMWZ4cnZlbHRKQlg4czhMU0JEZUJCUnp5eHRkWHhsVUlB?oc=5",
       "source": "CNN",
-      "pubDate": "Wed, 25 Feb 2026 14:18:00 GMT"
+      "pubDate": "Wed, 25 Feb 2026 15:27:00 GMT"
     },
     {
-      "title": "Fact check: Trump makes false claims about the economy, elections and crime in State of the Union - CNN",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PR1hXaGs0NkFqc3dTYWdPNkVlZE9GR0pCd3BZbnVDYXQ1UW5IVGlMXzR3c2s2Vi14UGZ6X245LS1BMjF1V2Y5VVhsY1RCSmMxSXZWeUxqWk9DSHUwN0ktd1FncnRseHpFMEE1SWVPdnQ1R2pQRFd1eQ?oc=5",
+      "title": "Trump delivers longest State of the Union address in modern history - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbG1SXzlCUlVOcWV5VDMwV2ZidjJCZS03SmZpemNhSXhOakl5cUZKRmRaQUhhc3FBWDZuUW1WR0hiTUJLWEFNQW4xMkNDM09haFBzU3hma2lfQlRaMEJQbklmQkgwb21YOEw5LWZ6ajBqaTU4OHRTWExZZENadW5KeWpYZkpYV01wWHdTMldkS3hwTlVhb181MDFmRkJib1pSQi0yXzFuTWo5QnJ2NmxtWFh3YTVScWUxZ3pSazY1QjFLcEE2MzU3MExR?oc=5",
+      "source": "The Detroit News",
+      "pubDate": "Wed, 25 Feb 2026 15:46:00 GMT"
+    },
+    {
+      "title": "Rep. Omar: I had to remind him that his administration was responsible for killing two of my constituents - CNN",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdE1yeWpzdlZieXJBNFd6R3NON01IdW42azh4Tnl5OVVhbE5keVdncDZ6WjlWLTBEX21wenhILTRlZS1JdWRrTEp1UHY4b2JmSm9oTk5SUE1DVzlXVWFBT2dQelYzTVVWejhqZE9ic204TGRGT3V0cGFISDN6S0hkSDVLOFVGVnhkNGtTM2hReUFaOXl5TFVOcg?oc=5",
       "source": "CNN",
-      "pubDate": "Wed, 25 Feb 2026 03:13:00 GMT"
-    },
-    {
-      "title": "How Democrats reorganized their State of the Union resistance - vox.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQU52d1Z6cGJyM0JFeVp2bnZkanU2eE1fWm1sSko0enNnQXZxZU1fOG9YQjFTZjhPT0l3TW5jenNqcnJ6SmpnV3h5WmNfX01LVy1wNFh3bjhYMjQ0M0tVLUVnREJ6cTdIM0h0VzRhcXBMc1FjdFM4MllQTWtXcThqaEcta0NicDlkNEkzbHZfbDBtamZXaE9DQ0diY3MxVWx1T1VBQnE0Z0pUdHF4TF9uZVloVk51XzRhLW1aVWFVNVdLMG1v?oc=5",
-      "source": "vox.com",
-      "pubDate": "Wed, 25 Feb 2026 14:33:06 GMT"
-    },
-    {
-      "title": "Gambling on wars? Prediction markets usher in a 'Wild West' of betting - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeHREcjJoYzRpd1hIMEpYVVJqRzJVQUkzREZLaHZzWGJ3REdhOUdwME9obmVINWhZTkpzZEhuUHE2OFlSd1VFSzY5SEQ0NHR4RHhQSk5aOWxIT2xWa0tOaGpGT1djRjdyVWc4Z3hEazNkNjFrcWRoeFRxcEJ4N3pYZ1hLWDFDZm80ZXZ4OExSY3RxQ3RnUThyYTRJV3pLMTdoSF9GZlA5SmMxZ0hsaHdFcGpUTk0zdVhnS1ZreVJxTUZYOFFzS0E?oc=5",
-      "source": "USA Today",
-      "pubDate": "Wed, 25 Feb 2026 14:31:00 GMT"
-    },
-    {
-      "title": "Iran accuses US of spreading ‘big lies’ after Trump’s State of the Union address – US politics live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUlhLZVFfWVFVZ3BRaGhkWGFBLTVmVVVSTEZLWVMzdDFDUS0wcXJnVFYyQVdLSjZCVG5VNUp4LU5CVE9JSVZ6bU1UN0NoZVRselFJNkdERmRqQkxtaTJOSU53MUxKZVBPWlFrdjRaaWZQQ0xMYlBXai0yaGk4QzhfREFYQkQ3MGNFZXh2ZWJrNUhpRHVKbTRfMmpKU2hZc21aTDEwLXNvRVItamFUNXlKNXVHM0lHYlJDb0dvaXd3?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Wed, 25 Feb 2026 09:56:00 GMT"
-    },
-    {
-      "title": "Trump Puts On a Show, Casting Democrats as the Villains - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDFqZG9oRFg4N21kcVZRZnkwc0J2UDBscFFCRk9EaXBLVXE4QVl6OENRaGx0Y1FHM2QyLXI5UV9YblRCdG5aTmtnU054Nl92am95MWl1aXF4V0RjTktOMXlCMXhCdUZoQlZnblFROWpLcUxiUm4tSjRUMzZMQVNEbG5HbEhHS05XNVI0?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Wed, 25 Feb 2026 07:33:53 GMT"
-    },
-    {
-      "title": "The moment Trump’s State of the Union speech changed - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGhaa3Atc1FCQUNlZTZseHFHdV8wLW1MQ1dmN3JHNUI2STJzQXZ5TERBYlBOUGJ0WkNQdmhEM2tuWFJqamlmNUxuOU9jdGUtbmJXbFVwV2hlSll1cThMRjloem5MN3V5RUlQeGNaWXRUS0M3emo0eDUtN2I3dDZxYkFneGQ?oc=5",
-      "source": "The Washington Post",
-      "pubDate": "Wed, 25 Feb 2026 13:21:54 GMT"
+      "pubDate": "Wed, 25 Feb 2026 16:20:21 GMT"
     },
     {
       "title": "Seatmate politics - Politico",
@@ -53,16 +41,10 @@
       "pubDate": "Wed, 25 Feb 2026 02:35:44 GMT"
     },
     {
-      "title": "Rep. Al Green ejected from Trump's State of the Union after holding a 'Black People Aren't Apes' sign - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHM1cDFLNldJNzZGZ2dZRWEtdDB6U0VRM3V0ZGtpa3hQSlJaaXZIdHhHWlo4amM4MG9DeDlWU1ZocXVWWEs4ZDkzeUdVWU5Sdm1GZUNmUlBibU9DcUVOanhhVjNwZDRpMHBlbkxGNHBvR2xtZktnbTFNOTVUZkZWU3FmaldqTnlDaHkwUTV2c21aSHpOektrOEdHNVBTa0FLcmUyOVVUTUwtcEJTWEkxQ01NUHVvLXc?oc=5",
-      "source": "NBC News",
-      "pubDate": "Wed, 25 Feb 2026 02:28:00 GMT"
-    },
-    {
-      "title": "Read NPR's annotated fact check of President Trump's State of the Union - NPR",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NQWtuRUhPNVc2WTREUk1BX3duTlpHRFdfZTNaMDB0cWpTUkRUenNWZERVRndDWGM3S2FLNHdsRlZLRUlzWmQtZHIxRXE3MDlFdjU3NkIwZ3hQX0IzbFhJd1lKMks2Z3Z0MlNtSU8ydmJHZjRaS3AtRTNLNHo0UQ?oc=5",
-      "source": "NPR",
-      "pubDate": "Tue, 24 Feb 2026 23:06:41 GMT"
+      "title": "If you think politics shaped these Winter Olympics, just wait until LA 2028 - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFBaTzA0RkxaaHEtcllsN3d0Yjc2R1U0Y3hVZmY1VnBndjctOTdSVUgwVzZRamJvaWdtMHZXWHNaUDhGRXIwRzRuVjloa0JTTFFFQlJMOVNUb2ktaDJnTzUwbjZWbEV2MmNBVDVqUVRVWGRFcnpzRTBSVURmQ1JUMXJ1cG5vSWk4YzRMZy1xeXlyUkQzakdaRlhyS1k0aTBYamx3V2JvUHJJeFg5d0NyNU0tVlVuRDdldkVRRg?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Tue, 24 Feb 2026 19:16:00 GMT"
     },
     {
       "title": "The Transatlantic Defense Business Politics Can’t Break - War on the Rocks",
@@ -71,10 +53,28 @@
       "pubDate": "Wed, 25 Feb 2026 08:17:24 GMT"
     },
     {
+      "title": "Political outsiders are up against Thailand's powerful patronage system, defeated MP tells BBC - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hajBXclVCY0VDSnJvMUM1ZUpYMGhsTlJEeTNlRzBoNFkyakU1a1V5d0lScENHNEhDZDd3bjR0OVpzbWwzRnVDUkNXMWx3OVlMQTBOU21Vd0YzUQ?oc=5",
+      "source": "BBC",
+      "pubDate": "Tue, 24 Feb 2026 23:30:18 GMT"
+    },
+    {
+      "title": "Ayatollah Khamenei's Politics of Martyrdom Means Iran Won't Surrender to Trump's United States - Foreign Policy",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdllMMWlSY09UNzIyMF8zc2V6MGpUTU5idk5idVB0VU1QQnd1QWNsLWRsMC0xR2R1dkx4RUNnNVRzaFR4dTdEb0lLbXZkejM0c2NDNUN0LUN2SUltNnZTam1BeHlyaW1tcjlvNVVVcTdlWE5tT1dXN1pDODB4YVFydzE2eVZWSXFYbnlydFFhRXYzRWtMcUFWa1dKQ0pUV1Z6R1JFek00dFk?oc=5",
+      "source": "Foreign Policy",
+      "pubDate": "Tue, 24 Feb 2026 06:23:13 GMT"
+    },
+    {
       "title": "The week in politics (Feb. 25, 2026) - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0Z5U0ZnY0dIbG9oRWs0eDBiYWVGV2pqS09BWV83ZGJGTXd0OTdNSWxtNDRkS2ZTTGZONFZJN25Qd2pQQi1Ua1NYakRVQUJ3U2RvelFpSmJCRmNEbHZDaFA2QlJSbjFJay1NRkpsRHRfcVotWnVJcjFDaFdyaEYySGpnNGtTZjgwUWkwdGZGbEN4WURnTXdrcExzS2RUS0ExbE1JbUp1bGVDOWJROURDb2ZVaENCcks50gHAAUFVX3lxTE9sM2NjUF9PUThVd1BZNzFGREl4MzNKZEwxRDRJUmpWb2NrRk92MHZxTmNseDdCT3BlM0N0WjNCV3RpQmJJS2xnelA4eENVTE5Ka1daQjBKSi04T3hRRUtzU0N4U2JGcTZiWW1Jc3ZRZWE3VUpETWFPSzVQX1RxemZ4Tk9TS29BSVo5c3hJa3RUZG9tZTBpdkFlUUltMDVQNEFydkJ0Z2RYMzhTUDFFU0x5Y2haMEI1MGkwLVBaUDlhNQ?oc=5",
       "source": "Houston Public Media",
       "pubDate": "Wed, 25 Feb 2026 11:00:31 GMT"
+    },
+    {
+      "title": "Trial begins for group accused of antifa links in shooting at Texas im­mi­gration detention center - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmo5dEZxR3RsSHZ1VkRmaGdBc0pGX0VOWEFQNU9oelE1Y1h4aFdtN3hhOHZPRjllaFNSUGFodnFyWFZSVUJZMDJ3TVZSZmNUQ3o0QWdFazREVkU5YVBRYlc0bVh5TGZjMy1xN1pHMHBJb3VNMFZwX2IzbDVXSzFZV1pmTVgwTldBelhqb19oWGpVNjg0T1NlaWFrMW1iYTFFTTBSRnA2UGhEQVE4a1dkalk3Z0RvNG9KVVBBQV9hcWtBYTI5U0E?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Wed, 25 Feb 2026 13:23:00 GMT"
     },
     {
       "title": "SIU Simon Institute’s spring events focus on public service, politics, philanthropy - SIU News",
@@ -89,16 +89,22 @@
       "pubDate": "Wed, 25 Feb 2026 10:40:17 GMT"
     },
     {
+      "title": "Team USA flying high, now hit by political headwinds - NBC 6 South Florida",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeXdKWWdfUm1iemJlalFMMXVvT3BkYVdrNWQ5SlowUVhUeTNYVFkteUxFVmxNVTZrQmNDYWVxX0VzcTVtSzFIVU9XLUpCZllxYXNxYmdUODNSZEVPUlJkYVVwNDdVRDhlMHRVcmR0THNCTWQ1bHZmUmVDVFVlUlloNWdfOUI3TnZBSk1zV1cxYnpoOHhOemdXRUxOeWMxc19lbGfSAaoBQVVfeXFMTVBpTU1OX3RQYmg4YS11QVVDRzFmbmdxVFc1RjQ2dHBSNnRrWFI4ODN3emtUbXRocDBTNEhidE0weUhxSVlLeW1QczRRbmxmSm1LYTRYd2FJeGplcjFudXN5M3Axc0puODZnbnhNZkkwOC16Y24tWUJFYXhWYmU3MUNKQWZzVXZzTEUtc0ZWc0JlcnU2WGNrR2pQZE9PTV9uSXlVUjhVeE51RHc?oc=5",
+      "source": "NBC 6 South Florida",
+      "pubDate": "Tue, 24 Feb 2026 23:24:32 GMT"
+    },
+    {
       "title": "Inequities are plaguing the city's property tax system - Spectrum News NY1",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc19JTDZpTjBNejY2VXZZVzhVR3pCcU05LWJmckhqNlRtZEFxd0cxS05HSmJCZ1ZPYTZhYVdkNWNhbjduMlU2ejd0MU5lVnNLT05DUFFtaFM2cWpobi1wTDZfRmowd1AyTnNqNG5HaFE0MHltcmpwMHhQZlFlWUdHMjRYSTdQTkdDRGlRbEdSSTM0Q0pydGQ2ZWthVUhtTERhb29MZThB?oc=5",
       "source": "Spectrum News NY1",
       "pubDate": "Wed, 25 Feb 2026 00:00:00 GMT"
     },
     {
-      "title": "Team USA flying high, now hit by political headwinds - NBC 6 South Florida",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeXdKWWdfUm1iemJlalFMMXVvT3BkYVdrNWQ5SlowUVhUeTNYVFkteUxFVmxNVTZrQmNDYWVxX0VzcTVtSzFIVU9XLUpCZllxYXNxYmdUODNSZEVPUlJkYVVwNDdVRDhlMHRVcmR0THNCTWQ1bHZmUmVDVFVlUlloNWdfOUI3TnZBSk1zV1cxYnpoOHhOemdXRUxOeWMxc19lbGfSAaoBQVVfeXFMTVBpTU1OX3RQYmg4YS11QVVDRzFmbmdxVFc1RjQ2dHBSNnRrWFI4ODN3emtUbXRocDBTNEhidE0weUhxSVlLeW1QczRRbmxmSm1LYTRYd2FJeGplcjFudXN5M3Axc0puODZnbnhNZkkwOC16Y24tWUJFYXhWYmU3MUNKQWZzVXZzTEUtc0ZWc0JlcnU2WGNrR2pQZE9PTV9uSXlVUjhVeE51RHc?oc=5",
-      "source": "NBC 6 South Florida",
-      "pubDate": "Tue, 24 Feb 2026 23:24:32 GMT"
+      "title": "Busting Through the Hype and Politics of Forest Thinning - The Revelator",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VOU10MklwNktlUjY0Vy13YWsyYVd4enBySElUMnUwUjZwbU1STGlEVWdLbFNqVkhIWVRfUHFjOFBKM05vc0RaUFhSYWxnQm5VZjIySS1obXpDUQ?oc=5",
+      "source": "The Revelator",
+      "pubDate": "Wed, 25 Feb 2026 16:01:15 GMT"
     },
     {
       "title": "Trump projects power but heads weakened into a season of tough political challenges - Los Angeles Times",
@@ -107,10 +113,10 @@
       "pubDate": "Wed, 25 Feb 2026 11:00:00 GMT"
     },
     {
-      "title": "8 takeaways from Trump's State of the Union address - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX09SLThVbmZrNTF4QmNTb1g0eEFXb0FDRm1ZOE1BQnlOMVFYNmliemp4R2UwZGJvbUxpSTIyNDFUN2Q1VkFyaG82SEtpcTRobHNoNGxwWngtbzlhNEw2d2dhVUQ3TFZpY1VaTzRaNlFSTVZwTHpvRUkwSzNEZDk4TjluQXJ3QldJU2hMSUJxSGQxTVNjeU1CSkRWUkVGVTMwQV9tbWFnSENySFcxLTdzMVB3?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Wed, 25 Feb 2026 05:24:00 GMT"
+      "title": "Top Democrat defends State of the Union protests as House speaker says he nearly ejected Omar and Tlaib – live - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUlhLZVFfWVFVZ3BRaGhkWGFBLTVmVVVSTEZLWVMzdDFDUS0wcXJnVFYyQVdLSjZCVG5VNUp4LU5CVE9JSVZ6bU1UN0NoZVRselFJNkdERmRqQkxtaTJOSU53MUxKZVBPWlFrdjRaaWZQQ0xMYlBXai0yaGk4QzhfREFYQkQ3MGNFZXh2ZWJrNUhpRHVKbTRfMmpKU2hZc21aTDEwLXNvRVItamFUNXlKNXVHM0lHYlJDb0dvaXd3?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Wed, 25 Feb 2026 09:56:00 GMT"
     },
     {
       "title": "Good Authority - Michigan State University",
@@ -119,22 +125,16 @@
       "pubDate": "Wed, 25 Feb 2026 14:50:14 GMT"
     },
     {
-      "title": "Political outsiders are up against Thailand's powerful patronage system, defeated MP tells BBC - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hajBXclVCY0VDSnJvMUM1ZUpYMGhsTlJEeTNlRzBoNFkyakU1a1V5d0lScENHNEhDZDd3bjR0OVpzbWwzRnVDUkNXMWx3OVlMQTBOU21Vd0YzUQ?oc=5",
-      "source": "BBC",
-      "pubDate": "Tue, 24 Feb 2026 23:30:18 GMT"
+      "title": "WATCH: 'You killed Americans,' lawmaker says as Trump asks Congress to stand for protecting citizens - PBS",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdjBQR25QdFRjZ1VGS0FRNm0wb3hNdjhNRUN1TnNWeGEyTGdxVXVoZTBHcnZVM3BoV0t6bFc3WXE0OXhpZTlJMWNEU2ZhdzZaczEzZGM5ZmdKeGxGbDc3QWFjc1FuME9KR2dZMVJ0THVyd2tDenRONE4tQzJncDVYeWFmVFI2RWdmeS1SZEZFSmdOcEdqMy1ISzVoTmx3V0s3dE9yWmhHT2QtWEdtZUJBWUFTZ0lDN1FCeDJWNG9Rc3czVkpFNTlydTRvZGNlOHM?oc=5",
+      "source": "PBS",
+      "pubDate": "Wed, 25 Feb 2026 04:09:51 GMT"
     },
     {
-      "title": "Stark partisan divide in who thinks their side is winning and losing in politics - Pew Research Center",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ0pXUGdaNzBQbkNfUVNMcGxHQXU5cEdJLURJLTktOV96VVBCSlN6RlZRam56RFJQdXdiRFNBdTRscW1VWExwOTFFSlF4TGViWWd2UW5uSTFIamRHb0hMS3N2ZDBXWXFmVS1SZ0N6NGt4bklzdXY5ZTg2MEJoZHFIWFdtc3NOMzVzWlJPVGZqNWNFQjh5Z1JGWmIxcUJfRThEZmFwLU9fTGw1SmQ2My13dkM1b1lGV21Hd3hLSWJsRkNBQzJZQTBwX0lJaEY?oc=5",
-      "source": "Pew Research Center",
-      "pubDate": "Tue, 24 Feb 2026 18:09:03 GMT"
-    },
-    {
-      "title": "New Orleans council members urge Moreno administration to focus on Lake Forest Plaza site - NOLA.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDVjZHhHXzFLU0l3aXo2SkdmNG1ob0ZOdWlPclZCT1gzTHdKWktpQTlLZ0NGVERZMTVaZVJKRVoyUlpMdFM4Rlh1Tk1yYTNqMFNScWFtZ2RXWlR6WHVRYmZzNnFPSGZuNGIydUdiNGVmc2E2dHJkZEZ5RDV6a0RQb1RSS0Rib3luTzZERWgtUGUtdzVrd3gxWjA2VkNGeHEwSEVpWWhJc1RZYU5FcWfSAbMBQVVfeXFMTV84aGdONkdmOE5Bb0hWaWhLT2tyM1R1SWF5RWduUGw0bXFfc014RFFsS2VvN2lPRkJsVUdCWXlldnlxeG1ERFRaeEFXTHhkWWh1VHdIczdVV01uaWs3NVNHWWk2QjItbzdUTGxETGdtdHFLWmFXbHY2M1F2b2gtUDlkb29vWFFJM19wQ1ZZWlRqUTZjMUMxQzlFSlc3dFotLVdadk5aM2VBVFQ4M1ZMQ1RLbms?oc=5",
-      "source": "NOLA.com",
-      "pubDate": "Wed, 25 Feb 2026 10:00:00 GMT"
+      "title": "State of the Union address highlights: Trump clashes with Democrats in speech declaring a 'golden age' of America - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWZneXBrMkFzMEpOSzN6Q01FNzFmeUV6clUtdVFDeXkyeDR6RnZqdl9VcnRQQmxUV3dpY0NxWEZ2RlNhMnI0VFBsM29VM3pDbWRLZTlRTFRsZkFXMTU0RFpqd215d0xMTmtudHBuWEFqSkRzR3c0VkNqQ3YxbVRNNS12Q2dabjZCRW42R3k5VzdWWk1XVVg0ZHRHNGhTUzE2U3BjS21NaWhfXzlJUUE1U3p3?oc=5",
+      "source": "NBC News",
+      "pubDate": "Wed, 25 Feb 2026 05:24:14 GMT"
     },
     {
       "title": "Mamdani defends decision to reopen schools after snow day - Spectrum News NY1",
@@ -143,28 +143,10 @@
       "pubDate": "Tue, 24 Feb 2026 21:30:00 GMT"
     },
     {
-      "title": "Trump staged a State of the Union spectacle. But he couldn’t escape political gravity - CNN",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xQW5IbTEzcmRVZWVlUWpJRkVSQVFONXdscDJKb3R2WHl4ZWFZSkF6QldTbC04Z0VjaXAxbWxiU0NHZjhIZDVzTlhOUEtKYi1pNmNpRmF0Q0FwYXJiOHlGX2NUWXdIQVlsNHhWY21hUEpvc0k?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 25 Feb 2026 07:00:15 GMT"
-    },
-    {
-      "title": "Former President Biden to visit Syracuse Uni­versity for portrait unveiling in April - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc2N6ckgxa25aSWloQjZPRENETjUtVjJjQ0hSbEY4RkkzOFVDLTY4Wjh4OUlpWl9Tb1BiOGN1d2dabXdzZXFHanVpbzUyd2pLMzQwQkh3Y24wNDVwZnYwUk1IMEV0bHpzX2J2YnFkZ0N3dDN2WWdaeWd3ZVJjdkg1U3RObElTUGJlYW1sQURsMFdjV3oyd3FxcUZnYmhxNkZPal9zb2JOcHVpS0Jad1JyNjhSWm1yRi00RmpOSy1mWQ?oc=5",
+      "title": "8 takeaways from Trump's State of the Union address - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX09SLThVbmZrNTF4QmNTb1g0eEFXb0FDRm1ZOE1BQnlOMVFYNmliemp4R2UwZGJvbUxpSTIyNDFUN2Q1VkFyaG82SEtpcTRobHNoNGxwWngtbzlhNEw2d2dhVUQ3TFZpY1VaTzRaNlFSTVZwTHpvRUkwSzNEZDk4TjluQXJ3QldJU2hMSUJxSGQxTVNjeU1CSkRWUkVGVTMwQV9tbWFnSENySFcxLTdzMVB3?oc=5",
       "source": "Spectrum News",
-      "pubDate": "Wed, 25 Feb 2026 00:13:00 GMT"
-    },
-    {
-      "title": "Mayor responds to snowball fight amid calls for him to condemn 'assaults' - Spectrum News NY1",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdk1mektHMHlBU3VjbXNTSlpSWTE1RTYwSTYyMTJEVjlaLTUwd3RSaF9MTzVsYzNSR19CNXhRSkpVZ2ZqTEttYWRXS1BncHZzOFV3TTB2R0dycjFhMGt2dnB5cW5yUm9yaGNyN05hdGRwSjBINFNDa0JKSGNhcUl3N0pkRnRwUWc?oc=5",
-      "source": "Spectrum News NY1",
-      "pubDate": "Wed, 25 Feb 2026 01:39:00 GMT"
-    },
-    {
-      "title": "NYC's former chief equity officer to lead City Planning Commission - Spectrum News NY1",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZnd4dDJ5QU9vV0N1Z2tzak1ZOHZYdnc0T0UtM25PLXNOQ1c2VGlLZUVMMUVCNTdoWDE5d1kxRUR3WVdSLUpHeFJsVU1HTjRrbnFPQ3gzNTBpV1pTMXNkNGtuSEtVTWsxOGMwcjYyRWRCeGtKTldSbmlaTkdFeE5RRHN0MkxrSm93UWdxSk04Y3BlRXNFOHI4cVRCMXlXUFVHbU44SzF1bk9hM3ZmR3Rn?oc=5",
-      "source": "Spectrum News NY1",
-      "pubDate": "Tue, 24 Feb 2026 18:40:00 GMT"
+      "pubDate": "Wed, 25 Feb 2026 05:24:00 GMT"
     },
     {
       "title": "Democratic response to Trump's speech slams his immigration policy - CNN",
@@ -173,46 +155,58 @@
       "pubDate": "Wed, 25 Feb 2026 06:58:40 GMT"
     },
     {
+      "title": "Mayor responds to snowball fight amid calls for him to condemn 'assaults' - Spectrum News NY1",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdk1mektHMHlBU3VjbXNTSlpSWTE1RTYwSTYyMTJEVjlaLTUwd3RSaF9MTzVsYzNSR19CNXhRSkpVZ2ZqTEttYWRXS1BncHZzOFV3TTB2R0dycjFhMGt2dnB5cW5yUm9yaGNyN05hdGRwSjBINFNDa0JKSGNhcUl3N0pkRnRwUWc?oc=5",
+      "source": "Spectrum News NY1",
+      "pubDate": "Wed, 25 Feb 2026 01:39:00 GMT"
+    },
+    {
+      "title": "Former President Biden to visit Syracuse Uni­versity for portrait unveiling in April - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc2N6ckgxa25aSWloQjZPRENETjUtVjJjQ0hSbEY4RkkzOFVDLTY4Wjh4OUlpWl9Tb1BiOGN1d2dabXdzZXFHanVpbzUyd2pLMzQwQkh3Y24wNDVwZnYwUk1IMEV0bHpzX2J2YnFkZ0N3dDN2WWdaeWd3ZVJjdkg1U3RObElTUGJlYW1sQURsMFdjV3oyd3FxcUZnYmhxNkZPal9zb2JOcHVpS0Jad1JyNjhSWm1yRi00RmpOSy1mWQ?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Wed, 25 Feb 2026 00:13:00 GMT"
+    },
+    {
+      "title": "Trump staged a State of the Union spectacle. But he couldn’t escape political gravity - CNN",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xQW5IbTEzcmRVZWVlUWpJRkVSQVFONXdscDJKb3R2WHl4ZWFZSkF6QldTbC04Z0VjaXAxbWxiU0NHZjhIZDVzTlhOUEtKYi1pNmNpRmF0Q0FwYXJiOHlGX2NUWXdIQVlsNHhWY21hUEpvc0k?oc=5",
+      "source": "CNN",
+      "pubDate": "Wed, 25 Feb 2026 07:00:15 GMT"
+    },
+    {
+      "title": "New Orleans council members urge Moreno administration to focus on Lake Forest Plaza site - NOLA.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDVjZHhHXzFLU0l3aXo2SkdmNG1ob0ZOdWlPclZCT1gzTHdKWktpQTlLZ0NGVERZMTVaZVJKRVoyUlpMdFM4Rlh1Tk1yYTNqMFNScWFtZ2RXWlR6WHVRYmZzNnFPSGZuNGIydUdiNGVmc2E2dHJkZEZ5RDV6a0RQb1RSS0Rib3luTzZERWgtUGUtdzVrd3gxWjA2VkNGeHEwSEVpWWhJc1RZYU5FcWfSAbMBQVVfeXFMTV84aGdONkdmOE5Bb0hWaWhLT2tyM1R1SWF5RWduUGw0bXFfc014RFFsS2VvN2lPRkJsVUdCWXlldnlxeG1ERFRaeEFXTHhkWWh1VHdIczdVV01uaWs3NVNHWWk2QjItbzdUTGxETGdtdHFLWmFXbHY2M1F2b2gtUDlkb29vWFFJM19wQ1ZZWlRqUTZjMUMxQzlFSlc3dFotLVdadk5aM2VBVFQ4M1ZMQ1RLbms?oc=5",
+      "source": "NOLA.com",
+      "pubDate": "Wed, 25 Feb 2026 10:00:00 GMT"
+    },
+    {
+      "title": "What political violence does to citizens - European Consortium for Political Research (ECPR)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MUmZjU3V6T0h5eGZBMDQtS3JybTFSWlRpSTE4TGlMWTJzVlc3T2tPZk00cTNNSU9Xc3pIU3Z5YlNGNTJySTMzVlJQalRadVl2RnRlNTNUSFNsRHdMdjVqcUEwUkNaWEsxd3NoRExIc19ZbVE?oc=5",
+      "source": "European Consortium for Political Research (ECPR)",
+      "pubDate": "Wed, 25 Feb 2026 09:17:16 GMT"
+    },
+    {
+      "title": "NYC's former chief equity officer to lead City Planning Commission - Spectrum News NY1",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZnd4dDJ5QU9vV0N1Z2tzak1ZOHZYdnc0T0UtM25PLXNOQ1c2VGlLZUVMMUVCNTdoWDE5d1kxRUR3WVdSLUpHeFJsVU1HTjRrbnFPQ3gzNTBpV1pTMXNkNGtuSEtVTWsxOGMwcjYyRWRCeGtKTldSbmlaTkdFeE5RRHN0MkxrSm93UWdxSk04Y3BlRXNFOHI4cVRCMXlXUFVHbU44SzF1bk9hM3ZmR3Rn?oc=5",
+      "source": "Spectrum News NY1",
+      "pubDate": "Tue, 24 Feb 2026 18:40:00 GMT"
+    },
+    {
+      "title": "Underdog Democrats lean into data center concerns - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUlZWXVkR1R2RGZkNDhrMXFFekQxSG5xOVB5ZU1KZ0p0dG9sV3ZERUJld0UwMTJwTkp1MHg0LWNZU25mWWFOdS1pbUgzZEU1WVc0aUVsYXlNUVMyMGtMbWVydEppRzQzeVV4Q0JuZ29OWi1GcWJKRlpFODJIYW1XdTRkb05jODN6T05WZWRReFluMWl3Ty11akhkaE16bDRkNGNr?oc=5",
+      "source": "Politico",
+      "pubDate": "Wed, 25 Feb 2026 09:45:00 GMT"
+    },
+    {
+      "title": "Stark partisan divide in who thinks their side is winning and losing in politics - Pew Research Center",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ0pXUGdaNzBQbkNfUVNMcGxHQXU5cEdJLURJLTktOV96VVBCSlN6RlZRam56RFJQdXdiRFNBdTRscW1VWExwOTFFSlF4TGViWWd2UW5uSTFIamRHb0hMS3N2ZDBXWXFmVS1SZ0N6NGt4bklzdXY5ZTg2MEJoZHFIWFdtc3NOMzVzWlJPVGZqNWNFQjh5Z1JGWmIxcUJfRThEZmFwLU9fTGw1SmQ2My13dkM1b1lGV21Hd3hLSWJsRkNBQzJZQTBwX0lJaEY?oc=5",
+      "source": "Pew Research Center",
+      "pubDate": "Tue, 24 Feb 2026 18:09:03 GMT"
+    },
+    {
       "title": "How does politics influence interpretive signs at National Park Service sites? - Illinois News Bureau",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmx0aEpBSnBGR1V3R3pUbVo4c3A4WVhSVGl0dmVocWxVOHgyaW9rNkZ6TFVGR3dvMUQ0NENuZ216U2RQZEdyLTg4Wmh1UlVqNjFDQ2traTBZVmJzZVNDb1NnbkM4TDhmSEhmNEV4b0pvTTYwNld1RFA4dzlQWUNnNlFuSHgzbGxzazlRS0JncnNpZm9YcHRYbVpIdU5NVVhjSVJHeUZzSQ?oc=5",
       "source": "Illinois News Bureau",
       "pubDate": "Tue, 24 Feb 2026 15:53:07 GMT"
-    },
-    {
-      "title": "Democrat wins Maine House special election - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWV9BRGgtM2xHV05wRVlaUXhPUTV5SlhMdVo0VWRNYzNqQjJYM3BIRDZCNjl6TzBzU1lYWUI5bGhES0RKellqZ1hZLVpQaFpHaTFlTld2NEg2ZEQ2ZDlQWGJ6LUNJZXdHdGQzanIwMTFCYmloU1lGUWV0VVlLN2M0aUQwdjgzUTNCSU4wMVY4cTVFaFFsNlJvU05MMEZ4MHltb3M4?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Wed, 25 Feb 2026 13:18:00 GMT"
-    },
-    {
-      "title": "Is politics ruining sports? Partisanship simmers after Olympic gold for men’s hockey - Star Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm15bmdWS0dubGlqUFFOaC1iX3d3ZDVDQzNDRjFldEdjOG9lLWk4bXdPRnFjRU5DSHo2Z2tydy0xSVMydjdONXl0bnZTRW55Mm9Vc3U2WWxYZUczVzRleENxdm1oUEdsLWlHNW1YSi1IMUVjQTk4eWdlOWdrcWlfZTdWTjdYQWFETEFBVmtUVHk2QUpkMFQ5a1J5UU96VnBHdzRPT2h5b3gySjRfTDNzcjNEYXJjZHcwYkgwb1BLRXo?oc=5",
-      "source": "Star Tribune",
-      "pubDate": "Tue, 24 Feb 2026 22:03:36 GMT"
-    },
-    {
-      "title": "Munich, Washington, and the Return of Civilizational Politics - Hungarian Conservative",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlpUWmNiUXFBdWZjVXpFdEN0MUZCSzZ6NWJ1SXQwbEM3VEh6c3ZBSkJvTTZxZTJJOU85THZUdXhiVUNrNkthS2NSR1BhNWdwN25vUlROcGVsZEFvUDNJTmIxbmMwakRXcDI2b2hjTlNvdEpBdWt5RUJ0cTZVU2FCaU43S1RESHduNkIxbHk1aVZhSXBFdmVnZ0ItN3RyVzl4?oc=5",
-      "source": "Hungarian Conservative",
-      "pubDate": "Wed, 25 Feb 2026 08:28:07 GMT"
-    },
-    {
-      "title": "This Week in Politics: Supreme Court Overturns Trump’s Sweeping Tariffs - The Villanovan",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWRWZnRIM19ldlhZcnlSYnROMXFkMU51NHh1ZU8yejRyMUV3UEhyc1c0akRXNy1JdUpydS02azY4NnVhRFJERVllQlhnTDNiZEVQOHBHNkxHSnVORGdub1k5SlRMSjh5YmVsQkpzRDl6a05HbHpmWUVQbTlpanRPX3FkZURWb1ZrLVFpQmFOT3F2aGFkVXJuelVBY1Y3OURfQXhRTFEtaw?oc=5",
-      "source": "The Villanovan",
-      "pubDate": "Wed, 25 Feb 2026 13:04:48 GMT"
-    },
-    {
-      "title": "Never eat the candy on your pillow: reentry politics - prismreports.org",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XM3RmSmJrN2tjb0tPS2Q1b0VpTmlSUmNwcFREUWhWbHI2Qzk1NTNrZzg5SlhYclBVQzN2RVVNNnN1czFZbWFrSm9FMnk1dHZ1a0s5dVJaZmgtQ3BLQ2JUcDNQZ3ltRzNpZENxalhwdDU?oc=5",
-      "source": "prismreports.org",
-      "pubDate": "Tue, 24 Feb 2026 17:18:28 GMT"
-    },
-    {
-      "title": "Housing, building depend on natural gas in Colorado | OPINION - Colorado Politics",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVZyT1IyZUp5YmRQR2RUMmVJQkxRalpyRDBndUhVQnI0RU8xLVJzcjRtR2UxLWVScWEwaE9RMGtGSWZuelJYS0dDNUtnR05WcmFISUluZjdESVhvZGVlSGU0RV9WMU1nLTFJUE10SVJuU1RnMDFienZDN1FrZ0xVOEZJTmlRcTFpVjZNTWptRWtkdFcxNW9UNmp5MFpmS2dEWkxDX2NR?oc=5",
-      "source": "Colorado Politics",
-      "pubDate": "Wed, 25 Feb 2026 07:49:57 GMT"
     },
     {
       "title": "‘A partisan and politician’: Abraham Lincoln and the art of the deal - The Guardian",
@@ -221,10 +215,40 @@
       "pubDate": "Wed, 25 Feb 2026 11:39:00 GMT"
     },
     {
+      "title": "This Week in Politics: Supreme Court Overturns Trump’s Sweeping Tariffs - The Villanovan",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWRWZnRIM19ldlhZcnlSYnROMXFkMU51NHh1ZU8yejRyMUV3UEhyc1c0akRXNy1JdUpydS02azY4NnVhRFJERVllQlhnTDNiZEVQOHBHNkxHSnVORGdub1k5SlRMSjh5YmVsQkpzRDl6a05HbHpmWUVQbTlpanRPX3FkZURWb1ZrLVFpQmFOT3F2aGFkVXJuelVBY1Y3OURfQXhRTFEtaw?oc=5",
+      "source": "The Villanovan",
+      "pubDate": "Wed, 25 Feb 2026 13:04:48 GMT"
+    },
+    {
+      "title": "Exclusive | Spy Agency Blocks Congress From Seeing Gabbard Whistleblower Intelligence - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxONjhYV2kxVUJnT1Exc3JjYnFiWnlGQU9LbzBZYURMVzBUWDhqbGFkT3BXeUlFUDlta2FFSkhzaTNBRjRyQlVWdWdDOHM1bjFjOTJDN1YtODA2MXlIalhrWTAzdzNubUFOdTk4YmdkN2lVYUliQmZDN2NzZFBZU1N5MVRlLWh4X0UwX1VVX24wS2JaVmpXOVgyMlViNXpWdFdjRTBzSFloUjhnS0JRY2RSTTJVT1IxN2plZlZIUHo1blBGMnlPZUc0N0U1emthMTNKWVlIWXhlMnNQeWx4S1YtMkZRdFpCd2FNaS1hWlZabU9GMkhNWS1HcDRGOEw2enVJLTVBV3B4MkZTaXFNQU1ydktuSXhnNnhaRXY2VV92eVoxRDlQRHdxY29IakJtRll2bF9hYUpCcmRhSld2YlBCVW1kWllxUkpwdV9URmlpWDlPNFdFN3ZLUGRZVkdpQVVMR2l5SmthTHlIWjdLdVRpZEc5NXl0R1BPRjJiNXdaYmFrYzU2V01Hb2pGY0FZNGJ4MXAzbFBhTnhkZERwazlBS1NYN3FxcXJQcHhhVTlic0pwOHNSWWxyN1FsbUJLMzhmeEFjUG9OaGtmRkU1TEE?oc=5",
+      "source": "WSJ",
+      "pubDate": "Wed, 25 Feb 2026 15:09:00 GMT"
+    },
+    {
+      "title": "Munich, Washington, and the Return of Civilizational Politics - Hungarian Conservative",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlpUWmNiUXFBdWZjVXpFdEN0MUZCSzZ6NWJ1SXQwbEM3VEh6c3ZBSkJvTTZxZTJJOU85THZUdXhiVUNrNkthS2NSR1BhNWdwN25vUlROcGVsZEFvUDNJTmIxbmMwakRXcDI2b2hjTlNvdEpBdWt5RUJ0cTZVU2FCaU43S1RESHduNkIxbHk1aVZhSXBFdmVnZ0ItN3RyVzl4?oc=5",
+      "source": "Hungarian Conservative",
+      "pubDate": "Wed, 25 Feb 2026 08:28:07 GMT"
+    },
+    {
+      "title": "Is politics ruining sports? Partisanship simmers after Olympic gold for men’s hockey - Star Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm15bmdWS0dubGlqUFFOaC1iX3d3ZDVDQzNDRjFldEdjOG9lLWk4bXdPRnFjRU5DSHo2Z2tydy0xSVMydjdONXl0bnZTRW55Mm9Vc3U2WWxYZUczVzRleENxdm1oUEdsLWlHNW1YSi1IMUVjQTk4eWdlOWdrcWlfZTdWTjdYQWFETEFBVmtUVHk2QUpkMFQ5a1J5UU96VnBHdzRPT2h5b3gySjRfTDNzcjNEYXJjZHcwYkgwb1BLRXo?oc=5",
+      "source": "Star Tribune",
+      "pubDate": "Tue, 24 Feb 2026 22:03:36 GMT"
+    },
+    {
       "title": "Entering into politics for the first time, Mary Patterson wants to represent everyday people - Daily Tar Heel",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWl2cUlyRnJSUVBnUW9keFhsVUpsajY1bC1QUlF6b1dBa3l5VmJFWWxEeC1YRVZ4cU9ZOXRpWGhvUkh0djZtRUlpWE5CSEw0T3E3VTRrMlpyZkRuNXZaUmtsbUNFcXJMak5wSGtJaDZQVUVRaWpRMHljOVdhMXRJdEM0SG1mYnZjSWhjcw?oc=5",
       "source": "Daily Tar Heel",
       "pubDate": "Wed, 25 Feb 2026 01:38:50 GMT"
+    },
+    {
+      "title": "'Most Americans live in their silo' - CNN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92UU50MzhHR29XOGZCZUxZYVhUb3lGbjRNSndFby1TdThkU0xtVjRkQnlTS1QtS0ZuMUkwQkg2V3hDdWs4UWFHV3ZJeGVERzk3TWZwbHFYNFdXTWlzZVo1U2J4Tlc2Njd3a2cxbzAySjY?oc=5",
+      "source": "CNN",
+      "pubDate": "Wed, 25 Feb 2026 04:34:29 GMT"
     },
     {
       "title": "Politics Chat, February 24, 2026 - Letters from an American | Heather Cox Richardson",
@@ -233,16 +257,10 @@
       "pubDate": "Wed, 25 Feb 2026 00:17:03 GMT"
     },
     {
-      "title": "Style and Politics: On “The National Security Strategy of the United States of America” - Public Books",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaEUxSDBOLWJ0QVJPMUE3Ny1vM09TUmJ6Q3FIX0c2YlVZTXo0Q1dSYWRFa0VHYXhnVk0xQWlCcV8tZGNJdzhjamFzVWtLRHpfbnRkY2x2VFk0VHpEaDlacm9NUzVBNTB6YmJuamVvaExoa3lRejd3cUthQksxM0VPNTBaODdMOEtaby15Q0xXOVVJSFc5elhSeUo3QWpDbXd6YlVjX2ZEeWtDNjI4YjZQOVU5bw?oc=5",
-      "source": "Public Books",
-      "pubDate": "Tue, 24 Feb 2026 16:00:00 GMT"
-    },
-    {
-      "title": "'Most Americans live in their silo' - CNN",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92UU50MzhHR29XOGZCZUxZYVhUb3lGbjRNSndFby1TdThkU0xtVjRkQnlTS1QtS0ZuMUkwQkg2V3hDdWs4UWFHV3ZJeGVERzk3TWZwbHFYNFdXTWlzZVo1U2J4Tlc2Njd3a2cxbzAySjY?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 25 Feb 2026 04:34:29 GMT"
+      "title": "Housing, building depend on natural gas in Colorado | OPINION - Colorado Politics",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVZyT1IyZUp5YmRQR2RUMmVJQkxRalpyRDBndUhVQnI0RU8xLVJzcjRtR2UxLWVScWEwaE9RMGtGSWZuelJYS0dDNUtnR05WcmFISUluZjdESVhvZGVlSGU0RV9WMU1nLTFJUE10SVJuU1RnMDFienZDN1FrZ0xVOEZJTmlRcTFpVjZNTWptRWtkdFcxNW9UNmp5MFpmS2dEWkxDX2NR?oc=5",
+      "source": "Colorado Politics",
+      "pubDate": "Wed, 25 Feb 2026 07:49:57 GMT"
     },
     {
       "title": "Casey Means faces Senate health committee in con­fir­mation hearing to be U.S. surgeon general - Spectrum News",
@@ -257,16 +275,40 @@
       "pubDate": "Wed, 25 Feb 2026 05:11:21 GMT"
     },
     {
+      "title": "‘Unusual’: CNN’s data analyst looks at early voting in Texas - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeXJFdmNDTENNMVRrUE5jb0JhRWh3djBJY3pXa2lJM1drY0M2QlNwYkppN3dPUFQ1bmFvWkllcnJZTDdSN0F2dy1ZN1U4M0tmeUFNYm5SY0djcXBkX2V5NzE5TEVmS2otY0hwa1dqc05INVhvbjZUU1UtU3k5VUh2QzBuRWszN3N6eFVOTlpENXY?oc=5",
+      "source": "CNN",
+      "pubDate": "Wed, 25 Feb 2026 14:48:36 GMT"
+    },
+    {
+      "title": "Style and Politics: On “The National Security Strategy of the United States of America” - Public Books",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaEUxSDBOLWJ0QVJPMUE3Ny1vM09TUmJ6Q3FIX0c2YlVZTXo0Q1dSYWRFa0VHYXhnVk0xQWlCcV8tZGNJdzhjamFzVWtLRHpfbnRkY2x2VFk0VHpEaDlacm9NUzVBNTB6YmJuamVvaExoa3lRejd3cUthQksxM0VPNTBaODdMOEtaby15Q0xXOVVJSFc5elhSeUo3QWpDbXd6YlVjX2ZEeWtDNjI4YjZQOVU5bw?oc=5",
+      "source": "Public Books",
+      "pubDate": "Tue, 24 Feb 2026 16:00:00 GMT"
+    },
+    {
+      "title": "A look at Trump's false and misleading claims in his State of the Union speech - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaXZXdWdfY2RRTzZDcnUtS200TUIxQ3JyRWEta3RJQ2hDbDc4S25ZM25zTWpqQXk3WnN1QzZQb3pZeXpFREdCTTlLaktZNFAtR0RNY3hIS19WMzNNZzVHY2pNLVJwS2wyc0hySnZUMVotMlRUbDFmTUgwMTF5ejgxb2JFVGhUaE85bmdUbUFYc0JISk9FOWpOLWF6SVA0UnpZaFpsR25ZMXh1TGpMSkxVRA?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Wed, 25 Feb 2026 16:09:00 GMT"
+    },
+    {
       "title": "Affordable housing requires real reform, not more regulation | OPINION - Colorado Politics",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFBiWnNVbkV5cDg3MjJGLVRWSXZwVElBZVJ2SUlIcWt2bWhRVXJHTGpEaFhTUXNIOXhhZi1jZENzRFlXdXhjc2s0NjdQb0hTc2JKd3dDT3NvOUpIQ0NLU2VMclZBWW9rX202QUtIMUE2bkxKQnA4ZkR3VEVTMGFlbGV5Y0U3RThoemRPYkJyU3Y2aWNya1NIZVpJMVVaOW5nMWMtVTQzRkU5cldrWkxOVVhn?oc=5",
       "source": "Colorado Politics",
       "pubDate": "Wed, 25 Feb 2026 07:19:53 GMT"
     },
     {
-      "title": "Recapping Trump's State of the Union address: From the Politics Desk - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2dGaG9xYkthQmtMTWpSOHRaZUJ1OWRSVTlUQVRiNEczSU0zaC01STJmdEMtb3R1V1d0V3JpYk44WnVpVTRtQVFBQVAyWDdZR2lTa2J6YTlQQnc3VG56aU1WLUpUdWYtZURQVHZ1NHpPcUtUd1pDY3ZkdUctaGthWnlZSG9xMnJnQ01hNGNZR3RJRC1SeTJMQUZNSDcyM0tQS1ZveVFfOWM2OC16?oc=5",
-      "source": "NBC News",
-      "pubDate": "Wed, 25 Feb 2026 06:29:00 GMT"
+      "title": "‘We have to confront racism’: Rep. Al Green removed from State of the Union for second year in a row - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGFGdG5fdzJYOEtRelpic3dkRU4xY2F2TElpTUU5U3BtZk5ncVNxejZmY0NoQVBsTUxKWnFNc2lCdE15SnNMd2xBTTJsclRIcFlwc0FTbHJjd2gzZVh5QWxXY2xXb18zMXhBRUV0RDJFMUk4UHQxeWtTM2w4U3FyLU9TY0N2ZHpHejhsM0NndW1OOGtRdnNrN0VaNEt0bWxsbGZYOEVrMXNHX3RjbWNVcg?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Wed, 25 Feb 2026 15:58:00 GMT"
+    },
+    {
+      "title": "Never eat the candy on your pillow: reentry politics - prismreports.org",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XM3RmSmJrN2tjb0tPS2Q1b0VpTmlSUmNwcFREUWhWbHI2Qzk1NTNrZzg5SlhYclBVQzN2RVVNNnN1czFZbWFrSm9FMnk1dHZ1a0s5dVJaZmgtQ3BLQ2JUcDNQZ3ltRzNpZENxalhwdDU?oc=5",
+      "source": "prismreports.org",
+      "pubDate": "Tue, 24 Feb 2026 17:18:28 GMT"
     },
     {
       "title": "WATCH: Democratic lawmakers join 'People's State of the Union' rally during Trump's address - PBS",
@@ -281,6 +323,18 @@
       "pubDate": "Wed, 25 Feb 2026 03:40:00 GMT"
     },
     {
+      "title": "Amalek, Doubt, and the Politics of Cooling the Jews - Aish.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CR3FjVFZPOFVscEdRWGxxM0xLbmVybkg4UHRQa1BtNFNUSS0ybkRsYzVhenh0RXpSLVFGX1JxT0lBYjVCekVFX2RTTER3NmpKZk54S3llMlJad2MxTDJxWEFCNGllaXdhYUNSRlNJR3poaktLVnc?oc=5",
+      "source": "Aish.com",
+      "pubDate": "Wed, 25 Feb 2026 07:06:17 GMT"
+    },
+    {
+      "title": "EA-War and Politics 24: Talking with Ukraine on 4th Anniversary of Russia’s Invasion - EA WorldView",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNclZpLVFIX0d0VzU0Y1BlY3FBVjN6Q20wRS1QWVNBREdTbkgtV21JeDBudkxWM2Ztb1FySEd6NzdLanZVSDUzYXBqUU0ydldoaURlcEJGUUEyMGlpRnljY0Y3MFYwaVlrQnE5N1E4akdJMmZDT3A5aloyeXphcU9pLU9qNGdRc1VWWDdyQ0d2VQ?oc=5",
+      "source": "EA WorldView",
+      "pubDate": "Wed, 25 Feb 2026 11:43:10 GMT"
+    },
+    {
       "title": "Colorado is turning its back on agriculture | PODIUM - Colorado Politics",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1ZpR3VHczlBdU1EVWxKaV9LbEVuTURxVWxFNFA5endHV2pFelhaVmtLWnh1LVk0aDVvZkNUYmxQUUdmQ2JySlp1QWNacWRnR1FKNlp1cGRtYzY3T3J3dlBmQWdWZ3BPN1QxeVZZeEpqM2t2eGVVS3pHWjNuZC00TU9lZkptbmVzZS1FMjJlekJCUHlXWjFrbEgxZw?oc=5",
       "source": "Colorado Politics",
@@ -293,52 +347,34 @@
       "pubDate": "Wed, 25 Feb 2026 07:19:53 GMT"
     },
     {
-      "title": "Trump issues warning to Iran on nuclear weapons - CNN",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaFVIR2JlNUlLSHVvR3RSUHM5Sy12ZF9QU2dWcXVwcmZuSnU2T1ZIQ1dWbWJwWUVBTUVSZU84X3RHT3dMUUR4b3R1RDRNZW9Bc2hEblp1Nk5XMkowdy1NY3pkd3hkY2hIdkc0NmM2LWpVR19ucjVNbUJSOUlhWXZtSzBvejN3eElfN2haNmwtQWdVbzhoMVRfd3NHeEZZeGlfc1Y3a1pRSW81alI5VHBBQlFKSTVqQURXby1pZXo3ZVllaUgxM0ZuSzk1ekJWaXc?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 25 Feb 2026 09:18:41 GMT"
-    },
-    {
-      "title": "What political violence does to citizens - European Consortium for Political Research (ECPR)",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MUmZjU3V6T0h5eGZBMDQtS3JybTFSWlRpSTE4TGlMWTJzVlc3T2tPZk00cTNNSU9Xc3pIU3Z5YlNGNTJySTMzVlJQalRadVl2RnRlNTNUSFNsRHdMdjVqcUEwUkNaWEsxd3NoRExIc19ZbVE?oc=5",
-      "source": "European Consortium for Political Research (ECPR)",
-      "pubDate": "Wed, 25 Feb 2026 09:17:16 GMT"
-    },
-    {
-      "title": "EA-War and Politics 24: Talking with Ukraine on 4th Anniversary of Russia’s Invasion - EA WorldView",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNclZpLVFIX0d0VzU0Y1BlY3FBVjN6Q20wRS1QWVNBREdTbkgtV21JeDBudkxWM2Ztb1FySEd6NzdLanZVSDUzYXBqUU0ydldoaURlcEJGUUEyMGlpRnljY0Y3MFYwaVlrQnE5N1E4akdJMmZDT3A5aloyeXphcU9pLU9qNGdRc1VWWDdyQ0d2VQ?oc=5",
-      "source": "EA WorldView",
-      "pubDate": "Wed, 25 Feb 2026 11:43:10 GMT"
-    },
-    {
-      "title": "Amalek, Doubt, and the Politics of Cooling the Jews - Aish.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CR3FjVFZPOFVscEdRWGxxM0xLbmVybkg4UHRQa1BtNFNUSS0ybkRsYzVhenh0RXpSLVFGX1JxT0lBYjVCekVFX2RTTER3NmpKZk54S3llMlJad2MxTDJxWEFCNGllaXdhYUNSRlNJR3poaktLVnc?oc=5",
-      "source": "Aish.com",
-      "pubDate": "Wed, 25 Feb 2026 07:06:17 GMT"
-    },
-    {
-      "title": "The Odds: Early Voting in Texas - CNN",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeXJFdmNDTENNMVRrUE5jb0JhRWh3djBJY3pXa2lJM1drY0M2QlNwYkppN3dPUFQ1bmFvWkllcnJZTDdSN0F2dy1ZN1U4M0tmeUFNYm5SY0djcXBkX2V5NzE5TEVmS2otY0hwa1dqc05INVhvbjZUU1UtU3k5VUh2QzBuRWszN3N6eFVOTlpENXY?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 25 Feb 2026 14:48:36 GMT"
-    },
-    {
-      "title": "Hochul calls on Trump ad­min­is­tration to refund $13.5B in tariff revenue to New Yorkers - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUlNVzRXNHJEUVNCa1R4VWVCTGc3MEg2TnR4SU5pYUJlb3M0N1RTR2E3UXlORTcyd0txU3VVQktPVnJqVG1QQVFvOVlNNmFBanhMbWIyamFaRmRRU0cxYWZuRGp4NTh4ZE94TUpXMTZmVW9ieDNxSW1XNXFiekRuNTE3enM2SmpOLXJRX0thbHljWW1tTU5PYWgwb0tlbnZGTDdQWWdLUUlSc0l1aWtzeDhqZkhnZGp4dmNiMnhpbGNCZmc3?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Tue, 24 Feb 2026 21:00:00 GMT"
-    },
-    {
-      "title": "Lewis County De­mo­c­ratic Committee chair to run for northern N.Y. state Senate seat - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZVZqRXNzdE8zSEtHMktrV0pYeUtkMzVpV0U5RlktUVBxb1Fva251bnZ0Q3VyeHM1LXVFUHNCb0NpYzJwd0NsdnRZVW9hTXFGTm9FNjYzak1QT0pQdlNtYzNMNm5MVmRHVXRLY21TV2R3ZlAzWjNjaF9CTVFZUVNfbWl0aDVqMDl5MWwydXJ6SzJoYTlKUzV0U2FnY2pVVm5aWnlqYVhja0tQbzVhbUpNbW5CRmFhMjJfR1dNZEtsVlViT0RaRGc?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Tue, 24 Feb 2026 20:26:00 GMT"
-    },
-    {
       "title": "IndyStar politics team breaks down final week of legislative session - IndyStar",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTm5YaUNfVk9VZ1RUWWpxbW9WMWFtN3kzMzNlcTVtQmZFM3pvUHF2TTdvQW9hWWNXTWV0S2xoaXE3Q1pXYTc2U09pSjh5Mzh6SEtSem9HOWVWSk5CWXlkdjItaG51S0VjWXdtTjVEWmUtbU5vNUREeEdnZGFDbEctdEJod1VCQmg5ZnBfYzRuYUZtMy15OWJ2bGItUDIzSWlxaG16QTJxSGtPSGxNaEcxSi0wZjJaRHpSaTl4b0RJaGZJZDl2VWprWU9kQnBMdFZlQzgzLXdubExEYmh4Ri1HLTRXSXZPNkcyemtXRmVURmUyeVNDb0dGcWNjV0djTDA?oc=5",
       "source": "IndyStar",
       "pubDate": "Wed, 25 Feb 2026 14:35:45 GMT"
+    },
+    {
+      "title": "Republicans stare down epic voter enthusiasm gap ahead of 2026 midterms - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdV9xTGF6VUl3ZURUSngydS0wcms1NWtsN0VKTWlhYmw4TENVVktEU3dIOFVHT2dCbnUzTTFZWGNnRTFtc284UmV5bjZOQ1VaWkVSUTJZV1lRczMtUXc4NGdFTVRvX09pUnZTTENRYkE3TFVtb1JieXNsRHRvVHFsNWx5d2M3djVDcjk1R1VUR19zVVdwWVJzcw?oc=5",
+      "source": "The Washington Post",
+      "pubDate": "Wed, 25 Feb 2026 15:31:44 GMT"
+    },
+    {
+      "title": "Fact check: Trump makes false claims about the economy, elections and crime in State of the Union - CNN",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PR1hXaGs0NkFqc3dTYWdPNkVlZE9GR0pCd3BZbnVDYXQ1UW5IVGlMXzR3c2s2Vi14UGZ6X245LS1BMjF1V2Y5VVhsY1RCSmMxSXZWeUxqWk9DSHUwN0ktd1FncnRseHpFMEE1SWVPdnQ1R2pQRFd1eQ?oc=5",
+      "source": "CNN",
+      "pubDate": "Wed, 25 Feb 2026 03:13:00 GMT"
+    },
+    {
+      "title": "Seven clichés Texas politicians need to stop saying | Editorial - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWxOOUZnOGN6X2FtNHI2X3NndzJoWEN6b2lCbFgxRC1Sanp6RGRMS1pKakNVMW84aVRvdEdHZzgwUUx1ZlJQd1M3RTlsdGlvWjZvMzFrcDVsdXpoNVBBQ2VoRlNEZ0Q2R0hGZmFSc1lBMVBkdDU4Z05NSjFTTUpmX2N2VF9weTREd3FQVGE0bWtsNUJ4RlV5QUlENzFqQTIwZUdKLWZaY19MbUE0R1pF?oc=5",
+      "source": "Houston Chronicle",
+      "pubDate": "Wed, 25 Feb 2026 11:27:55 GMT"
+    },
+    {
+      "title": "Trump issues warning to Iran on nuclear weapons - CNN",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaFVIR2JlNUlLSHVvR3RSUHM5Sy12ZF9QU2dWcXVwcmZuSnU2T1ZIQ1dWbWJwWUVBTUVSZU84X3RHT3dMUUR4b3R1RDRNZW9Bc2hEblp1Nk5XMkowdy1NY3pkd3hkY2hIdkc0NmM2LWpVR19ucjVNbUJSOUlhWXZtSzBvejN3eElfN2haNmwtQWdVbzhoMVRfd3NHeEZZeGlfc1Y3a1pRSW81alI5VHBBQlFKSTVqQURXby1pZXo3ZVllaUgxM0ZuSzk1ekJWaXc?oc=5",
+      "source": "CNN",
+      "pubDate": "Wed, 25 Feb 2026 09:18:41 GMT"
     },
     {
       "title": "CNN instant poll on Trump's State of the Union address - CNN",
@@ -347,10 +383,16 @@
       "pubDate": "Wed, 25 Feb 2026 06:10:57 GMT"
     },
     {
-      "title": "Takeaways from Donald Trump’s State of the Union address - CNN",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSVNuQUk3bEkzWFc3WWN3Ym80aUNPVnVGbmlNRFZwOUU2R3ZXa3ZvZU0yZkZxckZHVlZXblpsSHc2RnZGSFliOC1WME8xSm9hWjBRZHlWYlUyRlppc0ZNRjEyRGdiaXlRUVZORnJ3azlWMGJJV3FEVks4V1MzQldndWxhXzNqMHZmMnktWkhrLWY0cms?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 25 Feb 2026 03:45:00 GMT"
+      "title": "The Politics of Presidential Portraiture - Art & Object",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XNFBNbWpRX3ByVXJ4NlNPcERYNnVUMTNUVlFMVGdvWlRVWk03QnVxWmtfV0oxZkc5Uk9YcDBQbmRrZVJVRktEZDNpVWpRUW9hZUVZWThDbjRRYzZ0bkRjQWJPQm4ySWtFTVdPN1dqb052T2EzWlE?oc=5",
+      "source": "Art & Object",
+      "pubDate": "Wed, 25 Feb 2026 14:29:54 GMT"
+    },
+    {
+      "title": "Hochul calls on Trump ad­min­is­tration to refund $13.5B in tariff revenue to New Yorkers - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUlNVzRXNHJEUVNCa1R4VWVCTGc3MEg2TnR4SU5pYUJlb3M0N1RTR2E3UXlORTcyd0txU3VVQktPVnJqVG1QQVFvOVlNNmFBanhMbWIyamFaRmRRU0cxYWZuRGp4NTh4ZE94TUpXMTZmVW9ieDNxSW1XNXFiekRuNTE3enM2SmpOLXJRX0thbHljWW1tTU5PYWgwb0tlbnZGTDdQWWdLUUlSc0l1aWtzeDhqZkhnZGp4dmNiMnhpbGNCZmc3?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Tue, 24 Feb 2026 21:00:00 GMT"
     },
     {
       "title": "What Are the Politics of a Platform? The Case of X - Tech Policy Press",
@@ -359,16 +401,10 @@
       "pubDate": "Wed, 25 Feb 2026 12:33:45 GMT"
     },
     {
-      "title": "The Politics of Presidential Portraiture - Art & Object",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XNFBNbWpRX3ByVXJ4NlNPcERYNnVUMTNUVlFMVGdvWlRVWk03QnVxWmtfV0oxZkc5Uk9YcDBQbmRrZVJVRktEZDNpVWpRUW9hZUVZWThDbjRRYzZ0bkRjQWJPQm4ySWtFTVdPN1dqb052T2EzWlE?oc=5",
-      "source": "Art & Object",
-      "pubDate": "Wed, 25 Feb 2026 14:29:54 GMT"
-    },
-    {
-      "title": "EU Nordic expansion: why would Iceland and Norway want in? - The Week",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jZWdJZDBOaDFXVGw5dFlaTElLMmdMSDRuRGFzS0h1bzB3aWZBTFpwRXhKNl9WT21lSVJsY2l4UkRGOGdoaEJaNFgwSnZISmpDcVBBQnhlOEktcHR5aXRtU1hyWldlcDA0UHJQSko4blNYV1FISjU0ekwyaG9mdw?oc=5",
-      "source": "The Week",
-      "pubDate": "Wed, 25 Feb 2026 14:24:01 GMT"
+      "title": "Democrat wins Maine House special election - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWV9BRGgtM2xHV05wRVlaUXhPUTV5SlhMdVo0VWRNYzNqQjJYM3BIRDZCNjl6TzBzU1lYWUI5bGhES0RKellqZ1hZLVpQaFpHaTFlTld2NEg2ZEQ2ZDlQWGJ6LUNJZXdHdGQzanIwMTFCYmloU1lGUWV0VVlLN2M0aUQwdjgzUTNCSU4wMVY4cTVFaFFsNlJvU05MMEZ4MHltb3M4?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Wed, 25 Feb 2026 13:18:00 GMT"
     },
     {
       "title": "Nationalism, Patriotism, and the Politics of Identity - Southwest Ledger",
@@ -377,16 +413,10 @@
       "pubDate": "Wed, 25 Feb 2026 13:34:25 GMT"
     },
     {
-      "title": "Texas Rep. Gonzales resists calls to resign over al­le­ga­tions of an affair with an ex-staffer - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMW0wV2VLZFhZWW1TdnROdGpaVWJuSkxNbDVaRWhnTC1RWnExUkQzR3pmdEYxbDdCNExUNVdDOEZZaFFIbDFhZWt2OEFjY1lQZEhkaWE5dlI4MHo3ZnRjWXhmSjVJdm5ZSmw3Vzd5UDhMc3dod2FWcHV3M2plTkpfMXlRVmowcjdFOFFFckFaXzJNbjhLY0t3bXpVWWRJcUx0dzBmeHRtUk9yUkszaVNCM2RqR1VpZld2S0ZsOEZVaWNMNmVOMWJQcA?oc=5",
+      "title": "Lewis County De­mo­c­ratic Committee chair to run for northern N.Y. state Senate seat - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZVZqRXNzdE8zSEtHMktrV0pYeUtkMzVpV0U5RlktUVBxb1Fva251bnZ0Q3VyeHM1LXVFUHNCb0NpYzJwd0NsdnRZVW9hTXFGTm9FNjYzak1QT0pQdlNtYzNMNm5MVmRHVXRLY21TV2R3ZlAzWjNjaF9CTVFZUVNfbWl0aDVqMDl5MWwydXJ6SzJoYTlKUzV0U2FnY2pVVm5aWnlqYVhja0tQbzVhbUpNbW5CRmFhMjJfR1dNZEtsVlViT0RaRGc?oc=5",
       "source": "Spectrum News",
-      "pubDate": "Tue, 24 Feb 2026 17:52:00 GMT"
-    },
-    {
-      "title": "If you think politics shaped these Winter Olympics, just wait until LA 2028 - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFBaTzA0RkxaaHEtcllsN3d0Yjc2R1U0Y3hVZmY1VnBndjctOTdSVUgwVzZRamJvaWdtMHZXWHNaUDhGRXIwRzRuVjloa0JTTFFFQlJMOVNUb2ktaDJnTzUwbjZWbEV2MmNBVDVqUVRVWGRFcnpzRTBSVURmQ1JUMXJ1cG5vSWk4YzRMZy1xeXlyUkQzakdaRlhyS1k0aTBYamx3V2JvUHJJeFg5d0NyNU0tVlVuRDdldkVRRg?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Tue, 24 Feb 2026 19:16:00 GMT"
+      "pubDate": "Tue, 24 Feb 2026 20:26:00 GMT"
     },
     {
       "title": "Live fact-checking Trump's 2026 State of the Union address - PBS",
@@ -395,22 +425,22 @@
       "pubDate": "Wed, 25 Feb 2026 04:39:37 GMT"
     },
     {
-      "title": "New York House Re­pub­licans urge meeting with Hochul to discuss state's chal­lenges - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUtQcmNxSHh1enpNUWFrZVhodmROQ0RMOUtybGFyS003azlobVZ6RXpBd2hRckdBcTZ2UDNLenN4MWJjS3g1UlBxS3RDdU5sODBVUWVCdUpMWG9FUTZKOUhWc3lCemJBbENmaHZxX3N5VUp2OF9WZU1lVzVabE1GUnpsb3Q0MUFxa0lmSmVRazhZbXFGVmhnSVJsT19McHF0ZUVoY25hQmdTeDkybGFnWkZn?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Tue, 24 Feb 2026 19:49:00 GMT"
-    },
-    {
       "title": "Fact-checking Trump's false claims ahead of the State of the Union - PBS",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONC1LcmdxV3A4YkJDelNGbFdfaEtLRUVBVWlZbjRueGQ2c2QzRS1fX0dsLXZFTG52RXltTl9ha3c4cHJrVWRBaFdJSVk5Qll2aG4wNXdCVi03LVZCcGw5TkRteFNDVnNqSnFDSm00Wktyb3Y2NnlyWE92WTBtUWZFMnQ2eENjOEpXbVk0aUxPNjNMdmRTeWdLNFdmNnlUbTJ2TnBXVzh3?oc=5",
       "source": "PBS",
       "pubDate": "Wed, 25 Feb 2026 01:39:25 GMT"
     },
     {
-      "title": "The ‘golden age of America’? Trump delivers the State of the Union address – podcast - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV1ctWU92X0dkbVBiSExfa0NUVXlpMFR6V2xhSmlXZzNRZkRYcnA1aXpIWlNOUXdmQkJIbTdxcnB3VDB5SXFyWDNXT0R6WHdNeUtlbDQ0UGlDalZtUlpxaXBRM0daRjFocm1ZMUpzb3I4akVpSDktemJtbWxEWlJ1VlRPVzBWdTVFNjB0ZDBObGg4RkxYVS1KTnBvaDdXMTFheG96SE1xNkR5WS1sdVhseVl2R1RvMEVaRlY4?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Wed, 25 Feb 2026 12:31:00 GMT"
+      "title": "Halfway through early voting, Democrats are outpacing Republicans in Texas - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNHEyNUpZOGZ6NElFYjRIZFJTMFE3aEN3WkRCV3JLbnQ3U0NwNEtOSkRmdjloR0dwYmVrZ2V6V2Y5Wl9WRGJSMG5GaWJScWFxOWtULTdZb292NW42Qk9YTzZnNURHOFk5RGo1bmlsVE4zMnpfZk1zVGFWYTFmWWNlZnpYd1hzWXU1SDFXbHZJRzlrVHRYZklDcXhWMlh0MWJIX2tEM293R296Xy1qdjhTaTBiZXprTVYxSDJzSDlqbGE?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Wed, 25 Feb 2026 15:44:00 GMT"
+    },
+    {
+      "title": "Rep. Al Green ejected from Trump's State of the Union after holding a 'Black People Aren't Apes' sign - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHM1cDFLNldJNzZGZ2dZRWEtdDB6U0VRM3V0ZGtpa3hQSlJaaXZIdHhHWlo4amM4MG9DeDlWU1ZocXVWWEs4ZDkzeUdVWU5Sdm1GZUNmUlBibU9DcUVOanhhVjNwZDRpMHBlbkxGNHBvR2xtZktnbTFNOTVUZkZWU3FmaldqTnlDaHkwUTV2c21aSHpOektrOEdHNVBTa0FLcmUyOVVUTUwtcEJTWEkxQ01NUHVvLXc?oc=5",
+      "source": "NBC News",
+      "pubDate": "Wed, 25 Feb 2026 15:19:00 GMT"
     },
     {
       "title": "Why did many Democrats wear a white button during the SOTU? - CNN",
@@ -419,16 +449,22 @@
       "pubDate": "Wed, 25 Feb 2026 06:04:55 GMT"
     },
     {
-      "title": "10 News political analyst Ed Lynch breaks down key takeaways from Trump’s State of the Union - WSLS",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRVNpckU2T0pBQmNzc3pYSEtLeUtwQmNMdDBQcGlnZHptdVI5T3ZXd2haSGJVM1lQemFKLWlrS28zVExRU3RWT3M2VUdKSkJKN3JlbmtDbHJWQmV0Qmo4dGh4aTRhS2ZVVFNLQVZxVUxfRnJDeFRoNXhlLWItYVNOLWNfamRjZW91dVZiWUtPOU5RNVcxRTFFSjlmdmRxcFVicHRUUVIwQzNpMmVnQWVYTEY2dFRBTlNRU2ZYS3RSNGJHblhvc3Y4cg?oc=5",
-      "source": "WSLS",
-      "pubDate": "Wed, 25 Feb 2026 13:05:19 GMT"
+      "title": "Texas Rep. Gonzales resists calls to resign over al­le­ga­tions of an affair with an ex-staffer - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMW0wV2VLZFhZWW1TdnROdGpaVWJuSkxNbDVaRWhnTC1RWnExUkQzR3pmdEYxbDdCNExUNVdDOEZZaFFIbDFhZWt2OEFjY1lQZEhkaWE5dlI4MHo3ZnRjWXhmSjVJdm5ZSmw3Vzd5UDhMc3dod2FWcHV3M2plTkpfMXlRVmowcjdFOFFFckFaXzJNbjhLY0t3bXpVWWRJcUx0dzBmeHRtUk9yUkszaVNCM2RqR1VpZld2S0ZsOEZVaWNMNmVOMWJQcA?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Tue, 24 Feb 2026 17:52:00 GMT"
     },
     {
       "title": "President Trump prepares lengthy State of the Union address - news8000.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUnNFcVJrVjh2eFpHV0QwQlZGdFlCUDZ5OHllWnFERFdSNUlUQ3dGM3kteG4tQmdRU2JKQ245OWQtSnpsU2FwbllEb2Q2RnNBby0xWnNqenVad195RHFTdC00NktYaWg1MVVsOUV5UFBBRnd4WWVlZUFvYUJoS1l0TVdCbFBGcXZENE9lS3NKLWQwV2tjdHVsTjZ3N0VqSzNrMDk4ckFJZmRITzJXX3JsYWthbHY0NnVma0lvT3MwZUZ0UEN1ZEtNc3FXanNKMDJ4eDZxVURsakc4S1VZMHBKV0RjaEJGVVM0M3hTYlZiQXg3b2RvRjB3V3Fn?oc=5",
       "source": "news8000.com",
       "pubDate": "Wed, 25 Feb 2026 14:32:52 GMT"
+    },
+    {
+      "title": "10 News political analyst Ed Lynch breaks down key takeaways from Trump’s State of the Union - WSLS",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRVNpckU2T0pBQmNzc3pYSEtLeUtwQmNMdDBQcGlnZHptdVI5T3ZXd2haSGJVM1lQemFKLWlrS28zVExRU3RWT3M2VUdKSkJKN3JlbmtDbHJWQmV0Qmo4dGh4aTRhS2ZVVFNLQVZxVUxfRnJDeFRoNXhlLWItYVNOLWNfamRjZW91dVZiWUtPOU5RNVcxRTFFSjlmdmRxcFVicHRUUVIwQzNpMmVnQWVYTEY2dFRBTlNRU2ZYS3RSNGJHblhvc3Y4cg?oc=5",
+      "source": "WSLS",
+      "pubDate": "Wed, 25 Feb 2026 13:05:19 GMT"
     },
     {
       "title": "The Politics of Storytelling: Black Student Union Hosts Panel on Journalism and Representation - The College Voice",
@@ -443,16 +479,28 @@
       "pubDate": "Wed, 25 Feb 2026 12:36:40 GMT"
     },
     {
-      "title": "Midterm underdogs rally around data center politics - E&E News by POLITICO",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU0owdHNJUHhTVnQtQ0NzUGhxZGlsellyVzRyUlp3bWthMnJFdjlka251UTEyX1dSYWQ4S2FxQkh4Z1lhVHgtZ1o4LU9kU0stSjNhZTlCYkZNYVU5OVNwTjZkTzZDcGczRVVUU1JNcFY5M1N6UHNPeEpCUERQdnF6U2RZeHVBYkdMRXFRNQ?oc=5",
-      "source": "E&E News by POLITICO",
-      "pubDate": "Tue, 24 Feb 2026 11:30:00 GMT"
+      "title": "A politics of hope: Author Christopher Mathias talks about his book, ‘To Catch a Fascist’ - Oregon ArtsWatch",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFp4NjRxbm9IbHpwcFliaHhXNVFrRFNCbkFXdzdQNFFHNFI2aXQ5NzBtQkZuQkdleG5hREtsdXZOdGV3b1AzalgtdGtWZnZlOEJKc3JtQkZEbHhMVVBiM0tfaklERG0wbEtnUWRFVkFNZlpkaVNERHhaV0VmODdWQldROTBGNUhTcE1LaGpqRFh6QmxkdDY5WFJyckdHeUk4NWkyYWNtRHJ3RUdCdi0zSk9qaDM?oc=5",
+      "source": "Oregon ArtsWatch",
+      "pubDate": "Wed, 25 Feb 2026 03:42:30 GMT"
     },
     {
-      "title": "LDS and other Utahns on whether they would vote for Trump today, views of state politicians - The Salt Lake Tribune",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWk1feHZqd3hVQUVYZVFuZjktM2Uyb0tYcXdvT21scFNoSG5lSnNFTGt3LTZ2TnQ0cE1sRFZJWVRVTThyVzlSUGYyM1lJYU9Fa2FkejdTYnNRQmgzUXZlUDhuM3laN1FIQjhUYVF6SHNtOGlfLWlTYnR4b09SVE50WEdyY05DT2s?oc=5",
-      "source": "The Salt Lake Tribune",
-      "pubDate": "Wed, 25 Feb 2026 13:01:02 GMT"
+      "title": "US men’s Olympic hockey team visit White House – as it happened - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0hBVlNBV05yLU5aYXdoOW1yUGJOaU1DSzQ1ZG9vTlVjN3k0dHkzNjdvQzhTZEs4elJQakpKdFhJT0NJSFk5Tlg0bHF4eE4wOUdWb2hoR0Q3b19CU1NOcU5DOFg3ZDZ2TmcyV2paZEZOTWhERnRtZkdpSGxjZGN6ZkhGVEkwSmNacG5meGxRRy1STzl6emZMQVR6dWE2UlJmcDNVYw?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Tue, 24 Feb 2026 23:43:35 GMT"
+    },
+    {
+      "title": "Trump’s State of the Union left some viewers unconvinced that he’ll lower cost of living, CNN poll finds - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY1oyOTZmQldnWjNSQXJIYlZjNUNqSXdEaWJjaW1ab3pyTGRlTEVpOGUzM29xVmhkcDZuRENlV21Vd096VGU4M05GOTgzRjFwRDM3TGtoWXoxVDBxUGp6TTlzcW5YRnVydS0wRF9NeVR2dVRoTHR2alNRWkQyQU1PWTJWdzBfenprYzd4Z3plN3hDZw?oc=5",
+      "source": "CNN",
+      "pubDate": "Wed, 25 Feb 2026 06:31:13 GMT"
+    },
+    {
+      "title": "How Democrats reorganized their State of the Union resistance - vox.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQU52d1Z6cGJyM0JFeVp2bnZkanU2eE1fWm1sSko0enNnQXZxZU1fOG9YQjFTZjhPT0l3TW5jenNqcnJ6SmpnV3h5WmNfX01LVy1wNFh3bjhYMjQ0M0tVLUVnREJ6cTdIM0h0VzRhcXBMc1FjdFM4MllQTWtXcThqaEcta0NicDlkNEkzbHZfbDBtamZXaE9DQ0diY3MxVWx1T1VBQnE0Z0pUdHF4TF9uZVloVk51XzRhLW1aVWFVNVdLMG1v?oc=5",
+      "source": "vox.com",
+      "pubDate": "Wed, 25 Feb 2026 14:33:06 GMT"
     },
     {
       "title": "How UGA political science spaces combat polarization - The Red & Black",
@@ -461,40 +509,16 @@
       "pubDate": "Wed, 25 Feb 2026 10:00:00 GMT"
     },
     {
-      "title": "Trump's theatrical State of the Union address offers little hint of any change in course - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56U1BCa3pTVHB5WTdLQnZsVWpZdGRVZnlTbkJ5OWFQMFZfV0VlR0YwTVYycXk1T2pDM3FocnN0cTdzd2hiNFg3bVNIUTBocmxjOUFtejY2bjNEZw?oc=5",
-      "source": "BBC",
-      "pubDate": "Wed, 25 Feb 2026 10:11:20 GMT"
+      "title": "Hochul won't take matching funds in reelection campaign - Spectrum News NY1",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOREJaNkZoazFUYnN3ZGhPbVFkYWxRbVRlWDJGbGM3TlJ1OWdIVURLQ1lNOHdiWW14Rlh6bXU3VU52bS1GLXdfRUJFbGdJblFCMmNmMVhWOWwxdkVHVXZ4VF9rVWszNmw0MHlFZ3RYRjRfanZacllXRWdxQ2tPaHhINmlhczNhRmRqVnJnaVFmRTI5ZkxSRjZOSm9xX2xPSHBGT2NuTVVWOA?oc=5",
+      "source": "Spectrum News NY1",
+      "pubDate": "Mon, 23 Feb 2026 16:15:00 GMT"
     },
     {
-      "title": "A politics of hope: Author Christopher Mathias talks about his book, ‘To Catch a Fascist’ - Oregon ArtsWatch",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFp4NjRxbm9IbHpwcFliaHhXNVFrRFNCbkFXdzdQNFFHNFI2aXQ5NzBtQkZuQkdleG5hREtsdXZOdGV3b1AzalgtdGtWZnZlOEJKc3JtQkZEbHhMVVBiM0tfaklERG0wbEtnUWRFVkFNZlpkaVNERHhaV0VmODdWQldROTBGNUhTcE1LaGpqRFh6QmxkdDY5WFJyckdHeUk4NWkyYWNtRHJ3RUdCdi0zSk9qaDM?oc=5",
-      "source": "Oregon ArtsWatch",
-      "pubDate": "Wed, 25 Feb 2026 03:42:30 GMT"
-    },
-    {
-      "title": "Germany Politics - GazetteXtra",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0s4Y2ljMGFTUVBDVmJURXpsMS1oOVE0SUxEWlJVUkl6czEtWXRkbGUxeVdBa3AzeUx0cTBNd05nT2ktdVdkTFR4TTlFSjFpNkJkb1daS1htcDFrMWJJUXFEeF9ZMWJmVmVPSy1JdWN5MlB6RmpHTURMcXp3X0sxcFFpYU44MDI5QWtQeEd3UndvQVJUNlVqUzFOSlRIVnRJa0l3aWMzdlBiWEJnSGlr?oc=5",
-      "source": "GazetteXtra",
-      "pubDate": "Wed, 25 Feb 2026 10:10:07 GMT"
-    },
-    {
-      "title": "WATCH: ‘We all know' Trump is not making your life more affordable, Spanberger says - PBS",
+      "title": "WATCH: 'We all know' Trump is not making your life more affordable, Spanberger says - PBS",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEJhd3YwTU1uSWcxb28wamlHUEVzSF82VWpCMzNJbGtCd0VOQzhGaHBJQUpKb0gzc2s5bUVFSmhQWW5YQUxxNEkxTG1IcURtbHhENnZqanc2NXBBNG5LSHNrQmdQZ3ZsWEIyWDdrYVg0dEhUeFFpb2dlT2NySURNNE80TDhqTVh3UzRjWkVTWHIwUzB1ZU4xNUxBcVZseVZqTF9VcENHS0l3TFB0ZGJJaE9seUt1WU9M?oc=5",
       "source": "PBS",
       "pubDate": "Wed, 25 Feb 2026 04:57:16 GMT"
-    },
-    {
-      "title": "Republicans stare down epic voter enthusiasm gap ahead of 2026 midterms - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdV9xTGF6VUl3ZURUSngydS0wcms1NWtsN0VKTWlhYmw4TENVVktEU3dIOFVHT2dCbnUzTTFZWGNnRTFtc284UmV5bjZOQ1VaWkVSUTJZV1lRczMtUXc4NGdFTVRvX09pUnZTTENRYkE3TFVtb1JieXNsRHRvVHFsNWx5d2M3djVDcjk1R1VUR19zVVdwWVJzcw?oc=5",
-      "source": "The Washington Post",
-      "pubDate": "Wed, 25 Feb 2026 14:01:44 GMT"
-    },
-    {
-      "title": "Davos: As an Era Comes to a Close - Politics Today",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uQTZFQU9TU09zZDlMX1l1dXQ1Zk1sQWQ4eXA0Q0V3QzlrLVFoNFJ0OURhcDZCWFM3bDhFN3dVbEhPV0RqUW1USWpzanVhY0FfbUdYZm9YTzJkcVlrTDQyVnVyYXQzaGRMT3NN?oc=5",
-      "source": "Politics Today",
-      "pubDate": "Wed, 25 Feb 2026 07:31:30 GMT"
     },
     {
       "title": "Politics driving deportation, welcome alternative - The Journal Gazette",
@@ -503,16 +527,16 @@
       "pubDate": "Wed, 25 Feb 2026 04:00:00 GMT"
     },
     {
-      "title": "The Sunshine Blog: Sylvia Luke Wants You To Hear The Story From Her - Honolulu Civil Beat",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONnlTUkNEaXU4WDdpVVh5MHdBcFNsclc4ams1aUxyeGdicXlhMjh1NXAwcFZyU0FyQ2hKVWJWcjU0dDl6WmxqMHotWTg0QXRQX1BDOGdJdjNZVWZoNXFTT3p6ZS1NUVNtN0preE9vUDlmYjRINko2NHpvaWk4Sk5BMFFwMmstQ2lNZ25BTlJJTGhpSFRMbFR4Z05JY2pzVTZSMmhkZG9iREpTRzJSY2Vz?oc=5",
-      "source": "Honolulu Civil Beat",
-      "pubDate": "Wed, 25 Feb 2026 10:07:01 GMT"
+      "title": "Germany Politics - GazetteXtra",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0s4Y2ljMGFTUVBDVmJURXpsMS1oOVE0SUxEWlJVUkl6czEtWXRkbGUxeVdBa3AzeUx0cTBNd05nT2ktdVdkTFR4TTlFSjFpNkJkb1daS1htcDFrMWJJUXFEeF9ZMWJmVmVPSy1JdWN5MlB6RmpHTURMcXp3X0sxcFFpYU44MDI5QWtQeEd3UndvQVJUNlVqUzFOSlRIVnRJa0l3aWMzdlBiWEJnSGlr?oc=5",
+      "source": "GazetteXtra",
+      "pubDate": "Wed, 25 Feb 2026 10:10:07 GMT"
     },
     {
-      "title": "5 takeaways from Trump's State of the Union address - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEFGckM1NXZuQnRzbzRWQVZoaHlKNUltS1hxV3hCZ1ljXzRBT3J0YzRxZ0xmZ25xakNYQlhGcG11X2l3cFVuTEtCOGVRbzRxTTd6c3RBRHRSbHdWemZKa3o2Umw5aEtKdlktWEFrX0pJM1phQ3JDdkJfcVhwaHhlb0JfTENUX3lmd2c?oc=5",
-      "source": "NPR",
-      "pubDate": "Wed, 25 Feb 2026 09:08:29 GMT"
+      "title": "Analysis | Trump reframes America, in two acts - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaWsxQkxrWVljamRWUHVqWEZmcGw5Y0hMQnc2Y1BsdUNpQ1k3NUJ2akFpMGhXTVdPanpOcUNnZi15dFloTFB5SHdoRTBvLTdoZHBMRXNNZnQ2TC1Da19vd0EyUE14aGVLekZaQVJZMURGM21ZRVZFX1ZQNlFmXzZGNkhZck1LTFFpOEIxUA?oc=5",
+      "source": "The Washington Post",
+      "pubDate": "Wed, 25 Feb 2026 16:01:53 GMT"
     },
     {
       "title": "Lawmakers Discuss Politics & the State of the Union - C-SPAN",
@@ -521,64 +545,28 @@
       "pubDate": "Wed, 25 Feb 2026 02:43:54 GMT"
     },
     {
-      "title": "Donald Trump: State of the Union Address - February 24, 2026 - Factba.se - Roll Call",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BbElQUUhEVTZfNG5pdEloZUhia1pCY2JwdEtNOXBPNTZ5dHZfTXhZMWYtcnp4MEs1cUtQdHRXVURaZ2otWG9maEtla2xxYlBYV1k3V3NkblhhMDhCLUhkVWlpTk1GSnpRazJWTXFMMUtmMkpu?oc=5",
-      "source": "Roll Call",
-      "pubDate": "Wed, 25 Feb 2026 04:04:10 GMT"
+      "title": "Davos: As an Era Comes to a Close - Politics Today",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uQTZFQU9TU09zZDlMX1l1dXQ1Zk1sQWQ4eXA0Q0V3QzlrLVFoNFJ0OURhcDZCWFM3bDhFN3dVbEhPV0RqUW1USWpzanVhY0FfbUdYZm9YTzJkcVlrTDQyVnVyYXQzaGRMT3NN?oc=5",
+      "source": "Politics Today",
+      "pubDate": "Wed, 25 Feb 2026 07:31:30 GMT"
     },
     {
-      "title": "Hochul won't take matching funds in reelection campaign - Spectrum News NY1",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOREJaNkZoazFUYnN3ZGhPbVFkYWxRbVRlWDJGbGM3TlJ1OWdIVURLQ1lNOHdiWW14Rlh6bXU3VU52bS1GLXdfRUJFbGdJblFCMmNmMVhWOWwxdkVHVXZ4VF9rVWszNmw0MHlFZ3RYRjRfanZacllXRWdxQ2tPaHhINmlhczNhRmRqVnJnaVFmRTI5ZkxSRjZOSm9xX2xPSHBGT2NuTVVWOA?oc=5",
-      "source": "Spectrum News NY1",
-      "pubDate": "Mon, 23 Feb 2026 16:15:00 GMT"
+      "title": "Trump's theatrical State of the Union address offers little hint of any change in course - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56U1BCa3pTVHB5WTdLQnZsVWpZdGRVZnlTbkJ5OWFQMFZfV0VlR0YwTVYycXk1T2pDM3FocnN0cTdzd2hiNFg3bVNIUTBocmxjOUFtejY2bjNEZw?oc=5",
+      "source": "BBC",
+      "pubDate": "Wed, 25 Feb 2026 10:11:20 GMT"
     },
     {
-      "title": "Analysis | Trump reframes America, in two acts - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaWsxQkxrWVljamRWUHVqWEZmcGw5Y0hMQnc2Y1BsdUNpQ1k3NUJ2akFpMGhXTVdPanpOcUNnZi15dFloTFB5SHdoRTBvLTdoZHBMRXNNZnQ2TC1Da19vd0EyUE14aGVLekZaQVJZMURGM21ZRVZFX1ZQNlFmXzZGNkhZck1LTFFpOEIxUA?oc=5",
-      "source": "The Washington Post",
-      "pubDate": "Wed, 25 Feb 2026 14:31:53 GMT"
+      "title": "The Sunshine Blog: Sylvia Luke Wants You To Hear The Story From Her - Honolulu Civil Beat",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONnlTUkNEaXU4WDdpVVh5MHdBcFNsclc4ams1aUxyeGdicXlhMjh1NXAwcFZyU0FyQ2hKVWJWcjU0dDl6WmxqMHotWTg0QXRQX1BDOGdJdjNZVWZoNXFTT3p6ZS1NUVNtN0preE9vUDlmYjRINko2NHpvaWk4Sk5BMFFwMmstQ2lNZ25BTlJJTGhpSFRMbFR4Z05JY2pzVTZSMmhkZG9iREpTRzJSY2Vz?oc=5",
+      "source": "Honolulu Civil Beat",
+      "pubDate": "Wed, 25 Feb 2026 10:07:01 GMT"
     },
     {
-      "title": "CNN tracked how long Trump’s record-breaking speech ran - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LRThGaGhoQ2xvSUZBa0RNZUZtcURKZndzWGw4NVlFNHVzRWlXVjRGV3doekFJVTdDbDVvd1JZNjhkdVFrTTlHQzM3aEg5MjVSVVA2WDNZdTBub1F1emZacF95Z2s3aHNUYklmRDBVcWdWTXNCNkJ1VVlOc0tIZw?oc=5",
-      "source": "CNN",
-      "pubDate": "Wed, 25 Feb 2026 00:50:00 GMT"
-    },
-    {
-      "title": "Citi to invest $60B in housing affordability, as POTUS spotlights crisis in State of the Union address - Florida Politics",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUmg0X0EwN3ZMR1cyUC1mRVhUeFhGd0NjdmZsaTFBQnFyVC1UYS1tLVBjSlY0dmlMQzBZTFhrVjZ6Q1piZWZxUC0wQ1hySkFIRzg3RUw5RnVkdzIyekF0bTZhMk9zWlgzZUpNTmEzT0pnX0hpVDhvbDFYaTYtQkdoRF9MRC12UktQYzN1dUM1WUdvUVQyTzZvTmxZWWxzZlRLeUhObE5SU0Y4QzNBbEFkSVljUUdTamNNd3o5SzhNWm1YZEZPeWs1SXNMeEIwSGxTdzJ6N1V5U2lCT3NnQnc?oc=5",
-      "source": "Florida Politics",
-      "pubDate": "Wed, 25 Feb 2026 14:16:48 GMT"
-    },
-    {
-      "title": "N.Y. bill would offer tax credit for con­verting underused office space into housing - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYk4xcF9FZ0NOSDJPUEZwWS1sZFV3MGdoV0JOSnl4ZmxYcm43eC1iajV1Q2pvR0ZKSVU3U2pSU1JrMzFzdlRoSXFpMDhWZ2I0eTJuY0JpUnh5dVFYeVhFX0pXbU9MY0FmSWJUVm4zTTNFUk9hMDA2Nm9mQjlXaFB5ZnBsMUNJeFp6V0FRTjdEY0pOdDBaRkMwOVJkaU9uUmh6LUhCTW5kU2ZFVHQtLWhuR25CaXlNcGFVcENzVFlibzgxN21LY0p6YTdkbjF3YUE2UEZxNFV3cWltdG52LU96VzFR?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Tue, 24 Feb 2026 19:52:00 GMT"
-    },
-    {
-      "title": "US re-asserts 2025 strikes ‘obliterated’ Iran’s nuclear programme - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnZFX1QwLTd6VUxLc1ViVzExb0h3SENpWGVCcUpPMFV6QmJvbEc4bmk3QzBJMEpZU3F3bzVBRzg5TFZXNFR1Mm5Pek1qenRIMldjNTB4ZndObmNJNjV3QzFNZ2NwNmdiVGVQYnYzWVpXTVRGeThMclJJTFlqeEx3Zm9sWGh1aWZVZGROYXZoX0RGUmdrT2Q3RzNyYXVNVjYySDljT2dB0gGrAUFVX3lxTE1VU3VTQTNuX1VmMEU5T0YxN1pzeEZmU21KWWtKRVpZeFR3YS1iSXNzSXg1OXlUNFRrdHBhSU9qdHBJM2lKX0g5cV9WVldvTnNhSW84YlIzbjh5OXZHcHN1ZGNkZThXQm9EV2k0T21Bck5fVFNsRVlkVlIyR3VjY2NTbEdwZ2g2M1JpZEFaNnlic0lUci1FZEtFTWNqaFkySVEtb2NRbUFjOEZJaw?oc=5",
+      "title": "Will Ethiopia be part of Israel’s ‘hexagon’ alliance rivalling its enemies? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWDRiVHJ4TjFWNmxKblVGYktQdEs3a0hUMGR2Wk9CRXdFc29LX2NnR09IWTU3cS13VzEzOWJJcGxsMkpUdEVfcXkwRFc3NUNIMFZyQnJCTEJyR0h5NkQ0Q0tQcmhhckZOdExPa2p0OXI3STE2N2RWWmdNNnVZamU0b3RIcHRIa19Bd1FoQWJsTmUydHJKZmxEQnJFNU9vOVlfc1NyeVVfR0dDR3JOb3Ewb0lB0gG3AUFVX3lxTFBLVFNnV09KTGxVMF8yS0hIalJFUzdaMW5lNVFySWxkNHphXzlrVHdMdnNZaFJ6b3kzc0ZreWdySkowZnVtTzloRjA5WDVoSzRQQl9XdXFkS0JYclNYd21MNmszd0VvZ3RZM0xUYWgyZXBuQk1FSG1XVUktbGt3dzh6WnpSMmJnY0pPOTdWVWRZN3NaMG9XVHZLaldfSlg1NHhzZW16UEM3Mlo1bllxdnJSc3lmYlRqSQ?oc=5",
       "source": "Al Jazeera",
-      "pubDate": "Wed, 25 Feb 2026 09:56:39 GMT"
-    },
-    {
-      "title": "Seven clichés Texas politicians need to stop saying | Editorial - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWxOOUZnOGN6X2FtNHI2X3NndzJoWEN6b2lCbFgxRC1Sanp6RGRMS1pKakNVMW84aVRvdEdHZzgwUUx1ZlJQd1M3RTlsdGlvWjZvMzFrcDVsdXpoNVBBQ2VoRlNEZ0Q2R0hGZmFSc1lBMVBkdDU4Z05NSjFTTUpmX2N2VF9weTREd3FQVGE0bWtsNUJ4RlV5QUlENzFqQTIwZUdKLWZaY19MbUE0R1pF?oc=5",
-      "source": "Houston Chronicle",
-      "pubDate": "Wed, 25 Feb 2026 11:27:55 GMT"
-    },
-    {
-      "title": "8 takeaways from Trump's 2026 State of the Union address - PBS",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2pEU0tkZ1c5N3FWOGpmYThQNUxPUEF3elZObnphakxwLXpBaUJhWXRkUUxrSjBuSkJzMWs1cDhnMk1IanltbVl0VEk2UGZFdVVCVTdFVjM2MlB2aHJySmZkdkQzYU8ycmFwQWhZSWoyaFVJZVpEd1ZOZ2pYb0kxcEtXbERHSEs1dWlxYXhwQUx2SWxwWTQweNIBngFBVV95cUxPSGNoeU11N0pfT0ptWk5nTTRXd193NTQxOEpZZDFaM1doVVZfeEEtcnFQUHRFVnVmR3J6U0JNRlBNYVJqOFBFVEhvZkdnSTVNTUxoQ3A2WmRKa095NllnSEY3M3NCalF0WVdpWTdHWm5xOEdCQVhfWXF1eDliblJORnh5Y3lRQUc2NjY3U2lUclBEUUhybGRkTi1lT3BfQQ?oc=5",
-      "source": "PBS",
-      "pubDate": "Wed, 25 Feb 2026 04:59:41 GMT"
-    },
-    {
-      "title": "In Democratic rebuttal, Spanberger accuses Trump of driving up costs and chaos - InsideNoVa.com",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeG01U0FrOGNwaE1fc3NMaHBiZW9sa05kYWk4Qm9oN2s1Sy1INndxZmRHUkdzUllvSUYtSDQ5cnlNMHNUbnRpVnowY0t5NFIzWmNXR2tQZjhleGVhbmJjMzZ1bHFNS1lacjJWNnY2LWRQa2gwZDZ0ZjJLS3VSUmNHeFVVbUM1bzB3d3hFeTk0d0RoMng3bkVNZ0xhNmVvUUZKZi1KMkRKcGozbW96eUZkQkFpbEFvbVgtbk5mZExDLWo2WVlzZUFwSVJHUzFoYWx6WHQ0bTNYRGVVLU9QT0Q0N2Z1dHdFcUY4Y25pd0FHTm1kQVYwbzRpekNlN3Y?oc=5",
-      "source": "InsideNoVa.com",
-      "pubDate": "Wed, 25 Feb 2026 13:34:00 GMT"
+      "pubDate": "Wed, 25 Feb 2026 14:50:42 GMT"
     },
     {
       "title": "Albany mayor to introduce zoning amendment legislation - Spectrum News",
@@ -587,22 +575,34 @@
       "pubDate": "Tue, 24 Feb 2026 13:59:00 GMT"
     },
     {
-      "title": "New Orleans complex will avoid water shutoffs while officials settle $1.5M past-due bill - NOLA.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1hTd2tMeXg5R1NSN0VMTXZlVnVLUzZ6UzVSQUhGc00yUXB6M2hwWXZhU09nUmgyZk9DX05QV1pHRUptNFl3dGx1QkNIVnNWYkFaQ1BlczJ3RTE1QllJVlBtelI4VDZibDdFek1FTk1sZGwwU0JCc3I3QkVFZ1hTR3E3OE4xNmV5VWZYYTNaclB2NENENDZ6WVJGdm5oMno4MzgxSjY0Qk9tU05SaUlLNFkwNnliZ9IBuwFBVV95cUxQNXBYdFFRVl9sQzhwakpKYUM3M0JzLVNCZzZaYkZHYUdoOFdnMERmdy1sNlROaUE0M3hLM0NNVjRlc1lyY3BmblhtZ2tlZS04ZnIzSGVKRi02TzdtOElrQ3Q4N251WEliM1BHUW53c1daVl9UQVY0d3ZZOWZDTFY2UXJYX0F1OVY4R3NEOVM3YTFVT3lzeDhvZThnUXgyTTFSdHprT0hDWC11RkN6TXBzanNvM2VaSkVTNUt3?oc=5",
-      "source": "NOLA.com",
-      "pubDate": "Tue, 24 Feb 2026 21:10:00 GMT"
+      "title": "5 takeaways from Trump's State of the Union address - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEFGckM1NXZuQnRzbzRWQVZoaHlKNUltS1hxV3hCZ1ljXzRBT3J0YzRxZ0xmZ25xakNYQlhGcG11X2l3cFVuTEtCOGVRbzRxTTd6c3RBRHRSbHdWemZKa3o2Umw5aEtKdlktWEFrX0pJM1phQ3JDdkJfcVhwaHhlb0JfTENUX3lmd2c?oc=5",
+      "source": "NPR",
+      "pubDate": "Wed, 25 Feb 2026 09:08:29 GMT"
     },
     {
-      "title": "The US in Brief: The bully, from the pulpit - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaVhPakdsR1ZPaGg3RnNvX3Z6cXNpdHhNb0ZrWS1qMkh6Q1owdzlQYlpUOW9xTVdhWUZKMkg5ZWVUUmxzWWlDTVRFbEo3Q2hMbUFQY1VWZWlaUjExS2FkSkpESDZ4aWtETW1kbGRuLUlvSmo3WGpTU2RKUUowM0tsVnU3QVBqY3ZsS0tzVDFSV1k?oc=5",
-      "source": "The Economist",
-      "pubDate": "Wed, 25 Feb 2026 12:18:47 GMT"
+      "title": "Citi to invest $60B in housing affordability, as POTUS spotlights crisis in State of the Union address - Florida Politics",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUmg0X0EwN3ZMR1cyUC1mRVhUeFhGd0NjdmZsaTFBQnFyVC1UYS1tLVBjSlY0dmlMQzBZTFhrVjZ6Q1piZWZxUC0wQ1hySkFIRzg3RUw5RnVkdzIyekF0bTZhMk9zWlgzZUpNTmEzT0pnX0hpVDhvbDFYaTYtQkdoRF9MRC12UktQYzN1dUM1WUdvUVQyTzZvTmxZWWxzZlRLeUhObE5SU0Y4QzNBbEFkSVljUUdTamNNd3o5SzhNWm1YZEZPeWs1SXNMeEIwSGxTdzJ6N1V5U2lCT3NnQnc?oc=5",
+      "source": "Florida Politics",
+      "pubDate": "Wed, 25 Feb 2026 14:16:48 GMT"
     },
     {
-      "title": "John Shipley: Immediately swept into politics, U.S. men’s hockey team takes the bait - InForum",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUC1SRS01dzNtTWt3Yk1Ydi1BS2ZtNjZHRVBXMVVNM3BNRUVETjJsQmVwa3hkeUJlSjlzSTdnZi00MVlNWG1Iay1FVUhvSG5hb0F2VE45RjNfa01YX0NFNTN1Rm9seURxa1FNZTNpUVFoVTlDU2QtSy1BdE1iTmgxOThOSlQzNzFSdndpUExxa1k5WW9OMVVHOTl1bExSdlBEOXdaNk1RdklDUjNNRmxMXw?oc=5",
-      "source": "InForum",
-      "pubDate": "Wed, 25 Feb 2026 01:40:00 GMT"
+      "title": "Donald Trump: State of the Union Address - February 24, 2026 - Factba.se - Roll Call",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BbElQUUhEVTZfNG5pdEloZUhia1pCY2JwdEtNOXBPNTZ5dHZfTXhZMWYtcnp4MEs1cUtQdHRXVURaZ2otWG9maEtla2xxYlBYV1k3V3NkblhhMDhCLUhkVWlpTk1GSnpRazJWTXFMMUtmMkpu?oc=5",
+      "source": "Roll Call",
+      "pubDate": "Wed, 25 Feb 2026 04:04:10 GMT"
+    },
+    {
+      "title": "Jason Lias: No politics, just love of country, at Olympics - TribLIVE.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUVKV1pGdzlteHY3N1hycnRDdkhLbGR4dUNhWUFoWEZFdGFkV0hyc3A1blZ2YTBtSnlVbk50WDZiSFYya0NZd1JEckZIZDZBR0FObUFPb3prbV9oRktYSF9LVmIwZVpmSDJFLTNIMU44YmQxNUhsMEE2WGxXTklFRTdpeUFYdFhjZWNfWlpB?oc=5",
+      "source": "TribLIVE.com",
+      "pubDate": "Wed, 25 Feb 2026 16:03:10 GMT"
+    },
+    {
+      "title": "8 takeaways from Trump's 2026 State of the Union address - PBS",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2pEU0tkZ1c5N3FWOGpmYThQNUxPUEF3elZObnphakxwLXpBaUJhWXRkUUxrSjBuSkJzMWs1cDhnMk1IanltbVl0VEk2UGZFdVVCVTdFVjM2MlB2aHJySmZkdkQzYU8ycmFwQWhZSWoyaFVJZVpEd1ZOZ2pYb0kxcEtXbERHSEs1dWlxYXhwQUx2SWxwWTQweNIBngFBVV95cUxPSGNoeU11N0pfT0ptWk5nTTRXd193NTQxOEpZZDFaM1doVVZfeEEtcnFQUHRFVnVmR3J6U0JNRlBNYVJqOFBFVEhvZkdnSTVNTUxoQ3A2WmRKa095NllnSEY3M3NCalF0WVdpWTdHWm5xOEdCQVhfWXF1eDliblJORnh5Y3lRQUc2NjY3U2lUclBEUUhybGRkTi1lT3BfQQ?oc=5",
+      "source": "PBS",
+      "pubDate": "Wed, 25 Feb 2026 04:59:41 GMT"
     }
   ]
 }
