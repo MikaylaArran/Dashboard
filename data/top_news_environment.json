@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-01T18:19:34.771933Z",
+  "generated_at_utc": "2026-03-01T18:54:03.151559Z",
   "category": "environment",
   "language": "en",
   "summary": "Top headlines pulled from Google News RSS (free, English). Category: environment.",
@@ -15,6 +15,12 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZmhIUkVtZlZiMUpmV0JIWnVCWlRzY3V6VVJ6NDc2VEZ1VTFJUnc4TGphRF93ajBpVHI3ODl3NHVpaXdkQW5rdXdKRUxDWk1sc1FIZlVBdW1icDZuZEItdVltaTNrX3VmN3pYMlRBS085N3Q0M0dVeHpoV1Y3RERfSldLRXAycHpaTEg2RlBRM193bkNU?oc=5",
       "source": "Brookings",
       "pubDate": "Thu, 26 Feb 2026 22:29:53 GMT"
+    },
+    {
+      "title": "DC Bureau Environment USDA to give up massive DC office building as shift of staff to states begins - KUNC",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY29xMGNYenZHWE50RW1XcHBSeVpIVi1KZHNFMzBXYjc0b0dZbGVFblRhd1RhVWdSY1VXa1NnQmtNMHlMbEo3Z255c0dsOU5PaDBIdFhGRU9PeDAyem5MTHY4YkNPWVhfSmRUVEJNRTRTanVadGxHNm8takp4MWhVUVN0MVR5QVFVdEdWQTlfR3JYRzlUYldMb0xCLXVaXzBReXNzZUswM2w3YnhUbHd0czN0SG5LRGZuLXpfS1dNY2Z4a0FBQk1CMFhta25vWUFvUnc?oc=5",
+      "source": "KUNC",
+      "pubDate": "Sun, 01 Mar 2026 13:00:00 GMT"
     },
     {
       "title": "Climate law mandates could cost New Yorkers $4,000 in higher energy bills, state analysis shows - City & State New York",
@@ -35,6 +41,24 @@
       "pubDate": "Sun, 01 Mar 2026 15:00:03 GMT"
     },
     {
+      "title": "Revitalized Sunrise Movement chapter tackles climate change - The Scarlet & Black",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM0RJQnRtTjZldkdhQ2x3bWQybWRqX2R1bGQwM2JuYTF4Z2xTMGNXU3JaVEhoNmEwWmZkSXpTUUFKaUFKRkc1bXVWTnVUQmYwOUZDalNaRV9yVnFfZ2cwcVl2TVVBUzJONGd0V3pabGhWczFRU0JtQXlvSnlTSWpLaUo2dlJ5VkJFM2ttY09RODc3TEtYT1NN?oc=5",
+      "source": "The Scarlet & Black",
+      "pubDate": "Sun, 01 Mar 2026 18:39:04 GMT"
+    },
+    {
+      "title": "NY climate law could hike bills $4,200. Will Gov. Hochul act? - Times Herald-Record",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNW52bEQweUgtWXFialRCVmhpd1BVVmNxRWpZajIxWVVjRTVFblNXNG1mUXJmLUtuVGVlWnBUbW5DbFNwRlZGY2c5eG5vNzNUeXR4NlBMOHBPYXBTWUlpeEdfcnBXY1VrNUlSTUR2aEdOWEo2STZFdHcxY01SUEY2TlVScEFQV3RqZFIzSDlKcXRzanRXTWxIWjVDSURUZmhjVlZCaktoZVhyS2ZmNi1oc3JsT0Nhc2ZOSW9OV2cwdVJ6N3E2OHEzZDNxQnNXR0diTWlleXpRN0k3NXJh?oc=5",
+      "source": "Times Herald-Record",
+      "pubDate": "Sun, 01 Mar 2026 10:03:00 GMT"
+    },
+    {
+      "title": "California Air Resources Board Approves Proposed Corporate Climate Disclosure Regulation - Ropes & Gray LLP",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU0d2QXk1cjVnMnRMcW9zRW9XT1hpM3dwZG50N0NPTHk0bmUzVWZOZjhLRDY1R1FWZ285QjZsaEJoc0hpTTZfc3dadnhSdzdGZi1VTzhZSVRRZ0JVczVvYmpBQV94bThxQlN0cXVQci1aV3d3Ny1RMkxMbV9JSVFhTl9tNXJUQTVyaXdyVlRxY28yNTdNcEktdWFDYlI3TldpVFVmRXhlYnVzYzcxTVI0N0tySWg5cjJQSXQ4VDJNNnN0TmZDODRtRGw1dU4tc3B4NWxOVQ?oc=5",
+      "source": "Ropes & Gray LLP",
+      "pubDate": "Fri, 27 Feb 2026 11:19:13 GMT"
+    },
+    {
       "title": "Trump Is Attacking Climate Science. Scientists Are Fighting Back. - The New Republic",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2Sl96RWRua1dJQ2Rra2p5TldQaFVma21URkNySWVYMEY1VlBRQ1hpN2xrcjlDcXJXTGZCLThsQ3hMWWFJX2xDRWozYUltMTJpejdTejZYZmFERjAwZXRCd0JON1EzTEVpNnQ0SXMyY2pZVDVrVmR3?oc=5",
       "source": "The New Republic",
@@ -47,28 +71,10 @@
       "pubDate": "Sat, 28 Feb 2026 22:15:49 GMT"
     },
     {
-      "title": "California Air Resources Board Approves Proposed Corporate Climate Disclosure Regulation - Ropes & Gray LLP",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU0d2QXk1cjVnMnRMcW9zRW9XT1hpM3dwZG50N0NPTHk0bmUzVWZOZjhLRDY1R1FWZ285QjZsaEJoc0hpTTZfc3dadnhSdzdGZi1VTzhZSVRRZ0JVczVvYmpBQV94bThxQlN0cXVQci1aV3d3Ny1RMkxMbV9JSVFhTl9tNXJUQTVyaXdyVlRxY28yNTdNcEktdWFDYlI3TldpVFVmRXhlYnVzYzcxTVI0N0tySWg5cjJQSXQ4VDJNNnN0TmZDODRtRGw1dU4tc3B4NWxOVQ?oc=5",
-      "source": "Ropes & Gray LLP",
-      "pubDate": "Fri, 27 Feb 2026 11:19:13 GMT"
-    },
-    {
       "title": "Climate summit focuses on sustainability solutions - The Frederick News-Post",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPeGF6WUdtdlNTSGpRMkhmSGR0cEJmNkU4X3p6bTBYZTBZX3NEeGk5S1pNWmxyZzZWWWM4ZmNLaEhDLXBJODRHc2I0WGlWTG1rZkUxb2xvMmlIVnFadzNBcTNVc1ozSnI1c2RUNThVanFnMTlsOHdrQmxXbFctaFZLSGFobXZncG5UbTFHbGRTX0xNRmt1YjQ5ajExai1SQ2t1Y2RrLXQ4NnlHZDV0R0lkb3JTUHJGQktSQlNoQVE0T0ZkcEZtbks4anBTY3N0eUE1NTdQVUVTZ0ZjY0FoQUc3VTZEZmtkMzBHLXdpMUtXY2NoU0dGLVhOQXhaSEVUakVTeUE?oc=5",
       "source": "The Frederick News-Post",
       "pubDate": "Sun, 01 Mar 2026 03:53:00 GMT"
-    },
-    {
-      "title": "Will NY weaken climate law to tame utility cost spikes? What we know - Lohud",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYnlBZGNrSXhtRHlTV0NaTFdBb01JYzlRQm45eWRiVGNvb2lFd0FzYnpCRUJTMlZoQ1JFRmIyeFFrdnlRWWNqTVA3OUtualZxWE9KREp2dE90azV5S2JXMzVvbV9NR2YxbW1yRUEzVEJkazR2akJMd3Ztel9CZmVnWkt1VUdZWURFNHREZF9US3h3WXoxZkJqU2EtZ3VkRHFwOTZLV0VUWTR1QnJienVtVDFWbTZoeDFCdFhpZ2xxc0FQck93X2FWdTRNWk0?oc=5",
-      "source": "Lohud",
-      "pubDate": "Sun, 01 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "title": "DC Bureau Environment USDA to give up massive DC office building as shift of staff to states begins - KUNC",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY29xMGNYenZHWE50RW1XcHBSeVpIVi1KZHNFMzBXYjc0b0dZbGVFblRhd1RhVWdSY1VXa1NnQmtNMHlMbEo3Z255c0dsOU5PaDBIdFhGRU9PeDAyem5MTHY4YkNPWVhfSmRUVEJNRTRTanVadGxHNm8takp4MWhVUVN0MVR5QVFVdEdWQTlfR3JYRzlUYldMb0xCLXVaXzBReXNzZUswM2w3YnhUbHd0czN0SG5LRGZuLXpfS1dNY2Z4a0FBQk1CMFhta25vWUFvUnc?oc=5",
-      "source": "KUNC",
-      "pubDate": "Sun, 01 Mar 2026 13:00:00 GMT"
     },
     {
       "title": "Making sense of a chaotic planet: How understanding weather and climate risks depends on supercomputers like NCAR’s - coyotegulch.blog",
@@ -77,10 +83,16 @@
       "pubDate": "Sun, 01 Mar 2026 16:15:49 GMT"
     },
     {
-      "title": "White House Watch: Tracking Attacks on Our Environment & Health - NRDC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXRXT1ZGdUF0S2NRNkhWR0cyRjBreExxaWtDMDdvUEZ6RTdSUTBwaTRyQWxaTVVMTTlUaS1nREJvMlVGM2RsX1d3U19nT3h0MG8xeDZlVUR5ZWZPYlVGeWpQRjZKVU54Sm96MjZ3MGFXYk00ZC1vZUk3WmVSS3FkTVpkM2RJRE0zQ1BaYVNiVDZUUQ?oc=5",
-      "source": "NRDC",
-      "pubDate": "Tue, 24 Feb 2026 12:00:00 GMT"
+      "title": "Amazon CEO Andy Jassy explains the benefits to developers on the Stateful Runtime Environment that Amazon and OpenAI will co-create - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdTA4aUNzcDZwZmxkWl9CWTgtN1phY0lMSEdaNjdCSVk2R29USHpvVURDelJGMXhGcHRMSUl3UHZiNEVaZm5ETlNsX2VpNFExY3UxWHJTNnBLQXVjeHV5bzdMc05LN1pHZ3VONm1qTE9qXzZaalVRbGV2aFVDOUdHOFNMZVJpZw?oc=5",
+      "source": "About Amazon",
+      "pubDate": "Fri, 27 Feb 2026 19:56:44 GMT"
+    },
+    {
+      "title": "Perspectives: Policyholders face complex recovery environment - businessinsurance.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTXlxYXJISVR6TUFNSzNWZnliNEhXUnN5YXdzRW9SUHJXSXFWUmRUWnhveTJSZjg2aTE2Q0QxSE5zMjMxZmRKUFptWXdVVUxpcldiMHNtVU5QV1hTdk5MVDdaWmtwVGJlNDBPZ1BtblBWMEJiWUxLX1NYbm5LbzlUbjVFcHRWSFJmMUU3aWdGcWJIeWgzRERyOUdKZw?oc=5",
+      "source": "businessinsurance.com",
+      "pubDate": "Sun, 01 Mar 2026 13:01:38 GMT"
     },
     {
       "title": "Billions in Climate Investment Are Useless Without the Skills to Execute - inc.com",
@@ -89,28 +101,16 @@
       "pubDate": "Sun, 01 Mar 2026 16:13:18 GMT"
     },
     {
-      "title": "Amazon CEO Andy Jassy explains the benefits to developers on the Stateful Runtime Environment that Amazon and OpenAI will co-create - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdTA4aUNzcDZwZmxkWl9CWTgtN1phY0lMSEdaNjdCSVk2R29USHpvVURDelJGMXhGcHRMSUl3UHZiNEVaZm5ETlNsX2VpNFExY3UxWHJTNnBLQXVjeHV5bzdMc05LN1pHZ3VONm1qTE9qXzZaalVRbGV2aFVDOUdHOFNMZVJpZw?oc=5",
-      "source": "About Amazon",
-      "pubDate": "Fri, 27 Feb 2026 19:56:44 GMT"
+      "title": "Cobb climate summary & weather forecast for Sunday, March 1, 2026 - Cobb Courier",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW1EN3BvbnQ5LTZIYlFDSWpncE5RNGZmdVNaakVZcGNtcjVVRHFHX2hFa3gxb3QwVEhCMFUxQkZJZ3k4MDk4RW9VS2ZzdHdQdDE3ODBCUmlaN2RqVjVVajU5TmJaM3RoZnhKdXJkQVhPb2RyengxaHgxQkUyUUVodU1ja3dFLW9Id1BtRnZtUkVaMWJoTHl5WENicGFudmNDMEE?oc=5",
+      "source": "Cobb Courier",
+      "pubDate": "Sun, 01 Mar 2026 13:19:54 GMT"
     },
     {
       "title": "Rapid Warming of the Pacific Ocean Subsurface in February 2026 - Climate Impact Company",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeWJObXN1ZWhXbUtkdk9pMlY2VHVqMHJTNTJ0T1ZXTTZVYXhmRWpTX2xKczM4eU1xdUx5N0NCQ0kwRkoxelQ1YzQ3aFZIeFVVRWltS0I3Smw3Y2FtbDVtRmZ6aUFrS1pYandjMDV3Y3Z2VjBqVDBFRUNrak1yS1FlRGVOeXZlS25kMDRHS2EyZTBnQ0ZhaWJDRE9HQmVjempwakNIZ2dXblhubGRDeXVFaFdqUzhRUkZ0eklreDhWZFY3ak0wbzZQTnN0UXNxd3kzMkx4ZlhpMWNrWWE2TE56RjhCbkhvdHJnVlk0eWk5ZTkzRkZIbTJUOUJrdUpqTWVpcjh3WHRNUklINXdr?oc=5",
       "source": "Climate Impact Company",
       "pubDate": "Sun, 01 Mar 2026 11:44:57 GMT"
-    },
-    {
-      "title": "5 Key Takeaways From California’s New Climate Change Reporting Rule - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNclVodHllX3ItNVhRbS1JZEdfYmZhWXlYemRYd05aemdqZVVEcHoxQ2ozOFFDdUJ1VGduMjVlTmF1b1dfQU1MNnZiOVQ1ZTdIa2lVcWdMZ1UtTDB5Q1VFbTJoSmwtZ1V0TUh5Z2tHYU85WkowZ1hwSXhLRXBCUXoxZDF5bUhIYzFSeXdXMGdBamdiV3M0YU5TMnN6WjFySzNfNUp4Vy0xaFJSZ2plOXhnMzVGRWd3TDBfdkE?oc=5",
-      "source": "Forbes",
-      "pubDate": "Sun, 01 Mar 2026 00:21:49 GMT"
-    },
-    {
-      "title": "Cobb climate summary & weather forecast for Sunday, March 1, 2026 - Cobb Courier",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW1EN3BvbnQ5LTZIYlFDSWpncE5RNGZmdVNaakVZcGNtcjVVRHFHX2hFa3gxb3QwVEhCMFUxQkZJZ3k4MDk4RW9VS2ZzdHdQdDE3ODBCUmlaN2RqVjVVajU5TmJaM3RoZnhKdXJkQVhPb2RyengxaHgxQkUyUUVodU1ja3dFLW9Id1BtRnZtUkVaMWJoTHl5WENicGFudmNDMEE?oc=5",
-      "source": "Cobb Courier",
-      "pubDate": "Sun, 01 Mar 2026 13:19:54 GMT"
     },
     {
       "title": "Are ‘Climate Hushers’ Lurking in the Democratic Party? - Inside Climate News",
@@ -125,22 +125,40 @@
       "pubDate": "Sun, 01 Mar 2026 09:45:00 GMT"
     },
     {
+      "title": "5 Key Takeaways From California’s New Climate Change Reporting Rule - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNclVodHllX3ItNVhRbS1JZEdfYmZhWXlYemRYd05aemdqZVVEcHoxQ2ozOFFDdUJ1VGduMjVlTmF1b1dfQU1MNnZiOVQ1ZTdIa2lVcWdMZ1UtTDB5Q1VFbTJoSmwtZ1V0TUh5Z2tHYU85WkowZ1hwSXhLRXBCUXoxZDF5bUhIYzFSeXdXMGdBamdiV3M0YU5TMnN6WjFySzNfNUp4Vy0xaFJSZ2plOXhnMzVGRWd3TDBfdkE?oc=5",
+      "source": "Forbes",
+      "pubDate": "Sun, 01 Mar 2026 00:21:49 GMT"
+    },
+    {
+      "title": "Antarctica’s melting ice won’t help fight climate change after all - Earth.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWd4aEFHejM3cHRDMnFoNW5YTnVKeEpyWThMdjdidlRNcjVWcS1IcDhBdzlxYlBfRmFNc2NlRC1ETXR5amZITWhPZG5Qb3U3Q1dOa0RuS3NnR2VjM08xVnlZbWhBMmxFb0ZnWm9JbGp4dkpiTl8tc3FTRDFuWWJncjFNekVXR2E3TWZmVkNMS19YOV83OUJV?oc=5",
+      "source": "Earth.com",
+      "pubDate": "Sun, 01 Mar 2026 16:05:33 GMT"
+    },
+    {
       "title": "Montevideo Advances Climate Action - Latina Republic",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXBwVHlUUWRkMDZkQWF6d1E5aXJiWWZXa1V3bm50UGFXSXhwdzN2WXJvbWJSc3pqZHo4Y05NQ3VpYUVuR1NucmQ4Tl9SVHlQTHR0MEhQMEo5YTI0YnJLTkJlZmhwOVZpMkJ6NjlZOVVKQjhWa1NWSnBaQkREbkJNUE9YR0FEdE95VXVwWXdNUDlvMjJjNE1EM0p0cjB3UEN6MWNsTV9pWHZxbWlIcDkwemFrY3o?oc=5",
       "source": "Latina Republic",
       "pubDate": "Sun, 01 Mar 2026 16:11:12 GMT"
     },
     {
-      "title": "The effects of turnout at major climate protests on politically-interested bystanders: a survey field experiment - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hZ1hBdDJ1QmpQOEMybE5aUkpFYU9fZ1pwVEV6dE1ydDdNOXBua1laNS1ab3J5aXQxV1BGMXRkRTJEUERfaHNoR2tWQ1RuRHJJa3ZEUWJXVHpEaHAxNDVr?oc=5",
-      "source": "Nature",
-      "pubDate": "Sat, 28 Feb 2026 23:00:54 GMT"
+      "title": "Nick Castellanos on enjoying his new environment - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUTm8xR2lMRmlrYnZhaGR3Q2hNbmxkT2VFX09KNEtLazNCWHF3cUJBVWxCakVMZFNFVmRkSTQ4cWk3cm5HS3hPY1RZemV6MlkxMWVOYzZNc29vVDlZUFg2R3lIYjU5amRBMERzbDZRSllTeUh2YW92UGNSNGZaclE?oc=5",
+      "source": "MLB.com",
+      "pubDate": "Sun, 01 Mar 2026 18:40:48 GMT"
     },
     {
       "title": "Implications of overshoot for climate mitigation strategies - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KVFU3cjVnRWo4QklDU2pPQThYUFlYaHNsbThpQ1dTeHZCWWFaM0NhX2NfN3lsM3ZhMUdJMUVrZEVxU1dObHlpbXZqaWNTM0dEUHVHVjlYSE9pU2FwSW5r?oc=5",
       "source": "Nature",
       "pubDate": "Sat, 28 Feb 2026 00:04:18 GMT"
+    },
+    {
+      "title": "The effects of turnout at major climate protests on politically-interested bystanders: a survey field experiment - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hZ1hBdDJ1QmpQOEMybE5aUkpFYU9fZ1pwVEV6dE1ydDdNOXBua1laNS1ab3J5aXQxV1BGMXRkRTJEUERfaHNoR2tWQ1RuRHJJa3ZEUWJXVHpEaHAxNDVr?oc=5",
+      "source": "Nature",
+      "pubDate": "Sat, 28 Feb 2026 23:00:54 GMT"
     },
     {
       "title": "A Tiny Caribbean Island Sued the Netherlands Over Climate Change, and Won - Inside Climate News",
@@ -155,16 +173,16 @@
       "pubDate": "Thu, 26 Feb 2026 21:27:24 GMT"
     },
     {
-      "title": "Letters: Trump can’t be serious | World Cup in Orlando? | Climate editorial went too far - Orlando Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaDNWT2wzMTAxXzlHSFpjSWg4V3RDWjBhOFNxZmpBU0pJWlVlMkRQazktSDlfczdSN2VtX0NuS0FwQTltZWpONlNlRUlLNkVvLXZrbGZSWmUzTjRnUWFpMUxvMXlJQ0Fha3ZiN2ktS2c0M19OWjlFbE9IelNpQUVReUplUjBEWXBSSWdCN3RaWjV3YVY0YUZFcmFmSXpKMjdOTDUwWWM0RXJDR1NGeTlUaWFCYm9fdjRjZ0g0T1lxR0lFQjA?oc=5",
-      "source": "Orlando Sentinel",
-      "pubDate": "Sun, 01 Mar 2026 10:30:31 GMT"
-    },
-    {
       "title": "Thousands of pollution incidents in England downgraded without site visit, data suggests - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObUgxbWc0cXZNNmFyenZIc09ZYW9xRUtFWVpuSnRCSjQydUV1c3paa09yTWVBdXc0LUZMLVRlWnA1UXNIamZTc2ZuQ2EtTDAxQk9nb1oyc0Z1NUozN0lpdy1KNFVXVjJGS0VsMm9HTUhGckpNSzhZZTVqLTZWMi15ZEo3Mk4xU2I1U2hiUEdEYlNQS1FKR24xQkgxaEFnY1JoWm9kVE5mU08yczZYRWd0cjZIdW1ETl96V2I1MGN4WWdFOXV6NXNCaWcwSHhfUQ?oc=5",
       "source": "The Guardian",
       "pubDate": "Sun, 01 Mar 2026 16:29:00 GMT"
+    },
+    {
+      "title": "Letters: Trump can’t be serious | World Cup in Orlando? | Climate editorial went too far - Orlando Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaDNWT2wzMTAxXzlHSFpjSWg4V3RDWjBhOFNxZmpBU0pJWlVlMkRQazktSDlfczdSN2VtX0NuS0FwQTltZWpONlNlRUlLNkVvLXZrbGZSWmUzTjRnUWFpMUxvMXlJQ0Fha3ZiN2ktS2c0M19OWjlFbE9IelNpQUVReUplUjBEWXBSSWdCN3RaWjV3YVY0YUZFcmFmSXpKMjdOTDUwWWM0RXJDR1NGeTlUaWFCYm9fdjRjZ0g0T1lxR0lFQjA?oc=5",
+      "source": "Orlando Sentinel",
+      "pubDate": "Sun, 01 Mar 2026 10:30:31 GMT"
     },
     {
       "title": "atlantic-major-1946-2025 - Yale Climate Connections",
@@ -173,34 +191,10 @@
       "pubDate": "Sun, 01 Mar 2026 01:46:08 GMT"
     },
     {
-      "title": "Environment Board officially signs off on natural space ordinance revisions - Evanston RoundTable",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcXVDU0JBS1N4cURrVGRLNF9GODh1WmZNbkVIS3ZEVVN6TVlzQ2lMSF9KVzdQcGFzZk55UEQxWnd3ZktJZFNTekx3Wl9XX0NVcnhXcHF5cGppOGtLS1RmaFA2M040N2NoNkt1dzRsVWxnSlhwVWNYeG1GYTNTSnpNTXlUTHM0QkYtbDk4OEY5YnZzRzFjZERjQ0xiZERWUERGVUg0dTBSTjRwZWMwNkN5dE9oa1dFMHJ1bFE?oc=5",
-      "source": "Evanston RoundTable",
-      "pubDate": "Sat, 28 Feb 2026 21:31:17 GMT"
-    },
-    {
-      "title": "Antarctica’s melting ice won’t help fight climate change after all - Earth.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWd4aEFHejM3cHRDMnFoNW5YTnVKeEpyWThMdjdidlRNcjVWcS1IcDhBdzlxYlBfRmFNc2NlRC1ETXR5amZITWhPZG5Qb3U3Q1dOa0RuS3NnR2VjM08xVnlZbWhBMmxFb0ZnWm9JbGp4dkpiTl8tc3FTRDFuWWJncjFNekVXR2E3TWZmVkNMS19YOV83OUJV?oc=5",
-      "source": "Earth.com",
-      "pubDate": "Sun, 01 Mar 2026 16:04:16 GMT"
-    },
-    {
       "title": "Will climate change bring more major hurricane landfalls to the U.S.? - Yale Climate Connections",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3dYay1seWlrUHNDamdDbmk3d0xzU1FZY0t3blJlaE5lQ0tnVk45dU5JandYSU1kZHlNeUZBSm5vaWtmQ3hHV1dic3lELVlzSzRPeUh5X3ZuOTEtQ2cwZV9ReFJJeXZuM1JyOXlMZmF4eE8xT20wampOeVp3NnRObVptY2NSQW1GWTFELW1LUnNMVjhSUTJpd21xZ24yUEFGVjQxZjl5TmhCdmtLd2pCZg?oc=5",
       "source": "Yale Climate Connections",
       "pubDate": "Fri, 27 Feb 2026 12:00:00 GMT"
-    },
-    {
-      "title": "Political Polarization Can Spur CO2 Emissions, Stymie Climate Action - Eurasia Review",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnp5cWpzX1UxWHlQRnJIcXVSZ3lSVUZZTGxsSlF0c1JaOGRZazBKRVZLSmVwbWZJQ1VyYVJMNjBTZzdkOHhJVlF0bVdLeWxqbW5vT1llakJoRU5vaFl3RHJhZ2NlR3hTNHV0RG1kV2htelZodGlMZXQ4SVRYXzlVcUVURUdPMnZUVFE2NzZZZ0QxMFNPZUNFdVRDOHRBemVFR1JQVEJaWDBkMDA?oc=5",
-      "source": "Eurasia Review",
-      "pubDate": "Sun, 01 Mar 2026 01:25:15 GMT"
-    },
-    {
-      "title": "Climate Has Slipped From Canada’s Political Priorities, Guilbeault Warns - The Energy Mix",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTBkblhpRXE5RXE2REFmeGJSX2JwWldqN2dKZTdCWlBJeC1EdWRpRThwd0ZqMnZoYUFnbGp5bE1CZTFwVlEycmFtYXlDNjB4YkJDZFdJeWJTMnlnbmxucklvVFNRMFhCZF9uLWZGWVYwMVRfT3pnVnNNSVkzVXBtUkYtdVlvajVGNXkwb1gyRE9zUkJXME8wRFBKRDQ1ZzVrRFE?oc=5",
-      "source": "The Energy Mix",
-      "pubDate": "Sun, 01 Mar 2026 17:14:53 GMT"
     },
     {
       "title": "'The world remains unprepared': Why scientists are calling for a global assessment of climate change - Euronews.com",
@@ -209,40 +203,22 @@
       "pubDate": "Fri, 27 Feb 2026 11:26:01 GMT"
     },
     {
+      "title": "Environment Board officially signs off on natural space ordinance revisions - Evanston RoundTable",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcXVDU0JBS1N4cURrVGRLNF9GODh1WmZNbkVIS3ZEVVN6TVlzQ2lMSF9KVzdQcGFzZk55UEQxWnd3ZktJZFNTekx3Wl9XX0NVcnhXcHF5cGppOGtLS1RmaFA2M040N2NoNkt1dzRsVWxnSlhwVWNYeG1GYTNTSnpNTXlUTHM0QkYtbDk4OEY5YnZzRzFjZERjQ0xiZERWUERGVUg0dTBSTjRwZWMwNkN5dE9oa1dFMHJ1bFE?oc=5",
+      "source": "Evanston RoundTable",
+      "pubDate": "Sat, 28 Feb 2026 21:31:17 GMT"
+    },
+    {
+      "title": "Climate Has Slipped From Canada’s Political Priorities, Guilbeault Warns - The Energy Mix",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTBkblhpRXE5RXE2REFmeGJSX2JwWldqN2dKZTdCWlBJeC1EdWRpRThwd0ZqMnZoYUFnbGp5bE1CZTFwVlEycmFtYXlDNjB4YkJDZFdJeWJTMnlnbmxucklvVFNRMFhCZF9uLWZGWVYwMVRfT3pnVnNNSVkzVXBtUkYtdVlvajVGNXkwb1gyRE9zUkJXME8wRFBKRDQ1ZzVrRFE?oc=5",
+      "source": "The Energy Mix",
+      "pubDate": "Sun, 01 Mar 2026 17:14:53 GMT"
+    },
+    {
       "title": "Keep WA carbon funds flowing to fight climate change | Editorial - The Seattle Times",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHQ2RzFNbnA2RWZveFI5c0dDSS1NdDhNZnJhTXBjbXl0TnkyU2w5MThUdElFbzUzRy1jYXlLSDJ0UmhqVm93UjVISll0VlhsWjdRT3l4WkcxNjBBZzVPUGR0czZoOHhHOHI5R1pjaE1zWm9yTnR3SXZWU3VQbWRlRGRnRkdEWUZ4YmJCMm9WcjlnVmJFWjFfejFTNFVMT0U?oc=5",
       "source": "The Seattle Times",
       "pubDate": "Fri, 27 Feb 2026 15:00:00 GMT"
-    },
-    {
-      "title": "Formulating Forum: Climate-Responsive Sun Protection and Eco-friendly Water Resistance - Cosmetics & Toiletries",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdEI1S1JiRzdrMWJkeU1Ldm9tbjF6N19Ray1ITGkzUmpESlhLQUNFbERBem9xZEtnaUVxbmRtVDMwUktnbThUSmJMR0htbXZxM05tdWtGT0VKVkJVSXZiRzhWcVVNd1NwWUgwMS1oTlNYNEtPSlE4MmxlMm9fcTRpTXlaMTJBRjNYME5YUnhVdER4M3JraUZWUWN6VnFqTXE1WllzN3lrdGUyWjFQZlNFbW9JaktTR2dkTlZBMzdBT1Zhc2VkckNsVHJibFg2SVZPaDdMaUNVcThsVUpqMlFZeXM1Y1VoNDNQNnFTdTZnTEc1WWVhNWp4a2JR?oc=5",
-      "source": "Cosmetics & Toiletries",
-      "pubDate": "Sun, 01 Mar 2026 13:03:08 GMT"
-    },
-    {
-      "title": "Seattle’s No-Cost Climate Pollution Cut - The Urbanist",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVTN6UmNlZnlWTUNoWEp3enRGVHN5VGZCLW1hbW5DV2hXMXdWUGxhR0RBenNhWF9YbWJOMFltV1RFNWxGMGFxX3VGTmRobGE2X0lEdmxqdjRjOGlwUkxseHZOLVNDLXpCaFdXWWI2QUVLcnNCSHotcmJLQWpNd2hzdEZGVDRfV0FueWFxdQ?oc=5",
-      "source": "The Urbanist",
-      "pubDate": "Sat, 28 Feb 2026 21:35:27 GMT"
-    },
-    {
-      "title": "Perspectives: Policyholders face complex recovery environment - businessinsurance.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTXlxYXJISVR6TUFNSzNWZnliNEhXUnN5YXdzRW9SUHJXSXFWUmRUWnhveTJSZjg2aTE2Q0QxSE5zMjMxZmRKUFptWXdVVUxpcldiMHNtVU5QV1hTdk5MVDdaWmtwVGJlNDBPZ1BtblBWMEJiWUxLX1NYbm5LbzlUbjVFcHRWSFJmMUU3aWdGcWJIeWgzRERyOUdKZw?oc=5",
-      "source": "businessinsurance.com",
-      "pubDate": "Sun, 01 Mar 2026 13:01:38 GMT"
-    },
-    {
-      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckEzUjRMM0tRM0Z6MzZzSV93ckI4dVFaS0ZlOVVndTQtSG1xWUFsdFhMV0E4QUYxY1RaUUZfZnJYaWlDWlFpcmJWZ21rSGlfQy1iak5CajVYeXZLX1Fkdjg0U3ZvekstNmh1bG5XUWVkT3c4MmdoSjZ0NXNUcW03UHEwcWhiUHVmdVdOX0xIV1g0MF9Fd3BPai1pdmotem1O?oc=5",
-      "source": "OpenAI",
-      "pubDate": "Fri, 27 Feb 2026 13:35:37 GMT"
-    },
-    {
-      "title": "What Trump’s new tariffs mean for climate tech - Arizona Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04U2JGOXdXVS1JLXJvYkR1SUFRZl9ESXZKb3pNVnpjM051WngxQlh4Vi1jZEgyb21IZkM3S2J5aGo4eE5jZjJ3SVJYNUU0M2xDanA4dUZlSjhIblgyeGJTaW1vbUg5YzBXSEVZTUVDay1lY21QbS1J?oc=5",
-      "source": "Arizona Daily Star",
-      "pubDate": "Sun, 01 Mar 2026 13:00:00 GMT"
     },
     {
       "title": "Fear that herbicides are poisoning Orange County creeks blows up on social media - Los Angeles Times",
@@ -251,10 +227,28 @@
       "pubDate": "Sun, 01 Mar 2026 11:00:00 GMT"
     },
     {
-      "title": "Focus On New Geopolitical Environment, Asset Allocation – Wellington Management - Wealth Briefing",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSllIODYyRUFfWFI2UURuMTRuUjh4eGNsRjJLQ3VScHhlZ2NWY0FfQmk5UWo2SmE1OHp5WmgxbEZybzJ6LU9NWXRsMUw1TENiRlNWWGFqX2I1UWpRUEV1a3Zod2pXdF9aRldpQl9EbTF3dFVmZ2pheWFYMFZPUGVKYzNoVkRhcHdENnNzNFBZWjU4VXZma2JVTEZ3MEZhOVdKZlR1ZHJ1eDlXenB4aHFDalRTV2hka1RhZFJ1QzIzSXN6V0tkYzBR?oc=5",
-      "source": "Wealth Briefing",
-      "pubDate": "Sun, 01 Mar 2026 14:20:27 GMT"
+      "title": "Political Polarization Can Spur CO2 Emissions, Stymie Climate Action - Eurasia Review",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnp5cWpzX1UxWHlQRnJIcXVSZ3lSVUZZTGxsSlF0c1JaOGRZazBKRVZLSmVwbWZJQ1VyYVJMNjBTZzdkOHhJVlF0bVdLeWxqbW5vT1llakJoRU5vaFl3RHJhZ2NlR3hTNHV0RG1kV2htelZodGlMZXQ4SVRYXzlVcUVURUdPMnZUVFE2NzZZZ0QxMFNPZUNFdVRDOHRBemVFR1JQVEJaWDBkMDA?oc=5",
+      "source": "Eurasia Review",
+      "pubDate": "Sun, 01 Mar 2026 01:25:15 GMT"
+    },
+    {
+      "title": "Formulating Forum: Climate-Responsive Sun Protection and Eco-friendly Water Resistance - Cosmetics & Toiletries",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdEI1S1JiRzdrMWJkeU1Ldm9tbjF6N19Ray1ITGkzUmpESlhLQUNFbERBem9xZEtnaUVxbmRtVDMwUktnbThUSmJMR0htbXZxM05tdWtGT0VKVkJVSXZiRzhWcVVNd1NwWUgwMS1oTlNYNEtPSlE4MmxlMm9fcTRpTXlaMTJBRjNYME5YUnhVdER4M3JraUZWUWN6VnFqTXE1WllzN3lrdGUyWjFQZlNFbW9JaktTR2dkTlZBMzdBT1Zhc2VkckNsVHJibFg2SVZPaDdMaUNVcThsVUpqMlFZeXM1Y1VoNDNQNnFTdTZnTEc1WWVhNWp4a2JR?oc=5",
+      "source": "Cosmetics & Toiletries",
+      "pubDate": "Sun, 01 Mar 2026 13:03:08 GMT"
+    },
+    {
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckEzUjRMM0tRM0Z6MzZzSV93ckI4dVFaS0ZlOVVndTQtSG1xWUFsdFhMV0E4QUYxY1RaUUZfZnJYaWlDWlFpcmJWZ21rSGlfQy1iak5CajVYeXZLX1Fkdjg0U3ZvekstNmh1bG5XUWVkT3c4MmdoSjZ0NXNUcW03UHEwcWhiUHVmdVdOX0xIV1g0MF9Fd3BPai1pdmotem1O?oc=5",
+      "source": "OpenAI",
+      "pubDate": "Fri, 27 Feb 2026 13:35:37 GMT"
+    },
+    {
+      "title": "Seattle’s No-Cost Climate Pollution Cut - The Urbanist",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVTN6UmNlZnlWTUNoWEp3enRGVHN5VGZCLW1hbW5DV2hXMXdWUGxhR0RBenNhWF9YbWJOMFltV1RFNWxGMGFxX3VGTmRobGE2X0lEdmxqdjRjOGlwUkxseHZOLVNDLXpCaFdXWWI2QUVLcnNCSHotcmJLQWpNd2hzdEZGVDRfV0FueWFxdQ?oc=5",
+      "source": "The Urbanist",
+      "pubDate": "Sat, 28 Feb 2026 21:35:27 GMT"
     },
     {
       "title": "U.S. Rep. Jim Himes Visits Center for Climate, Coastal, and Marine Studies - Fairfield University",
@@ -263,16 +257,16 @@
       "pubDate": "Fri, 27 Feb 2026 16:18:31 GMT"
     },
     {
-      "title": "New Mexico Environment Department Officials To Update County Board Of Utilities On LANL Chromium Plume During March 4 Work Session - Los Alamos Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPb2tFdDQtcHV3VXdjU0ZRSTVqbkdtQ0l2RzdQbEE5NWIzT1NQaHV2VkV5TmszMUtSRXc3TTNyTUExQ3g0VUJpMlQxVWlIX19xd3dPUjBPV2pMbzU0THdiOHZMOUNjWjhjYkloa0luTEVhUk1SNHEtTkdGUTMtYXNfVGg3QzZMZVVtR3RSV3QzOU0xeER6U3dkMFdBdVVRUUw0cXVVRmIzcFIxN01uTHd1am8yRkhDdmxuQS1iT3MwQnNvTWtybjNKWlB3d1ZBZU9pZndOLXUtNmJ6aDVaSnU5bEFINnRTU0lKRWhzVEJKTjV4cGFGMHQ0STVSMWJ1d0M0aGc?oc=5",
-      "source": "Los Alamos Reporter",
-      "pubDate": "Sun, 01 Mar 2026 04:47:16 GMT"
+      "title": "What Trump’s new tariffs mean for climate tech - Arizona Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04U2JGOXdXVS1JLXJvYkR1SUFRZl9ESXZKb3pNVnpjM051WngxQlh4Vi1jZEgyb21IZkM3S2J5aGo4eE5jZjJ3SVJYNUU0M2xDanA4dUZlSjhIblgyeGJTaW1vbUg5YzBXSEVZTUVDay1lY21QbS1J?oc=5",
+      "source": "Arizona Daily Star",
+      "pubDate": "Sun, 01 Mar 2026 13:00:00 GMT"
     },
     {
-      "title": "A major climate hope in Antarctica just melted away - ScienceDaily",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FQk9ENkVZY1lEdzVpaEFVVzBkVWtPZ2dSUDBNSk1YVURYbzQ0Y2p5b3BWS2Z6a1kyLWlRdmFQbWpfcDBoMnF3Wm1rZWFnQTltVFZ2OXZ6ODdZTTVib3ZjNVBPd2xVTEIzdFlxeE9Rdw?oc=5",
-      "source": "ScienceDaily",
-      "pubDate": "Sat, 28 Feb 2026 15:12:31 GMT"
+      "title": "Focus On New Geopolitical Environment, Asset Allocation – Wellington Management - Wealth Briefing",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSllIODYyRUFfWFI2UURuMTRuUjh4eGNsRjJLQ3VScHhlZ2NWY0FfQmk5UWo2SmE1OHp5WmgxbEZybzJ6LU9NWXRsMUw1TENiRlNWWGFqX2I1UWpRUEV1a3Zod2pXdF9aRldpQl9EbTF3dFVmZ2pheWFYMFZPUGVKYzNoVkRhcHdENnNzNFBZWjU4VXZma2JVTEZ3MEZhOVdKZlR1ZHJ1eDlXenB4aHFDalRTV2hka1RhZFJ1QzIzSXN6V0tkYzBR?oc=5",
+      "source": "Wealth Briefing",
+      "pubDate": "Sun, 01 Mar 2026 14:20:27 GMT"
     },
     {
       "title": "The beautiful Venetian plant with a secret climate superpower - grist.org",
@@ -281,16 +275,16 @@
       "pubDate": "Thu, 26 Feb 2026 18:37:47 GMT"
     },
     {
+      "title": "New Mexico Environment Department Officials To Update County Board Of Utilities On LANL Chromium Plume During March 4 Work Session - Los Alamos Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPb2tFdDQtcHV3VXdjU0ZRSTVqbkdtQ0l2RzdQbEE5NWIzT1NQaHV2VkV5TmszMUtSRXc3TTNyTUExQ3g0VUJpMlQxVWlIX19xd3dPUjBPV2pMbzU0THdiOHZMOUNjWjhjYkloa0luTEVhUk1SNHEtTkdGUTMtYXNfVGg3QzZMZVVtR3RSV3QzOU0xeER6U3dkMFdBdVVRUUw0cXVVRmIzcFIxN01uTHd1am8yRkhDdmxuQS1iT3MwQnNvTWtybjNKWlB3d1ZBZU9pZndOLXUtNmJ6aDVaSnU5bEFINnRTU0lKRWhzVEJKTjV4cGFGMHQ0STVSMWJ1d0M0aGc?oc=5",
+      "source": "Los Alamos Reporter",
+      "pubDate": "Sun, 01 Mar 2026 04:47:16 GMT"
+    },
+    {
       "title": "Young innovators can win $100,000 for proven climate solutions - Earth.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU1NaVDNaeDU1UnlBanJ0N2VlZXhZMzFVQ1MwN2d6NXdYNUFRRXRyVVd4d09faU8tYTktM3VaQndqanRCMlBxeG1PUTQtYmU0U2F2UXZmN0IxS09oYlY1SERmYllvLXJCWXBsbkF3enZ6NWdrRm1TRzRaUmkyS1c4Qk85YnlBbmxvVFUxcjNsam1JZw?oc=5",
       "source": "Earth.com",
       "pubDate": "Sun, 01 Mar 2026 01:28:45 GMT"
-    },
-    {
-      "title": "The climate cost of staying cool: How AC could impact global warming by 2050 - Phys.org",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PNDIxb0J2UG43UW1ZdW5jWmV5aGcxMHUwZVgtUnJjOEFnSXFJNnpjWC10aUp0Wm9VV1lXZEhndXBpSWlpc1BaOFdiZm9mRnhuZXpuRTM3VlRHNjRaQk5sc2dPcGpUZTY1VlpualVRUjNLaU0?oc=5",
-      "source": "Phys.org",
-      "pubDate": "Sat, 28 Feb 2026 22:00:02 GMT"
     },
     {
       "title": "Tech companies gain ground in fight against WA data center regulations - The Seattle Times",
@@ -299,22 +293,34 @@
       "pubDate": "Sat, 28 Feb 2026 14:00:00 GMT"
     },
     {
+      "title": "A major climate hope in Antarctica just melted away - ScienceDaily",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FQk9ENkVZY1lEdzVpaEFVVzBkVWtPZ2dSUDBNSk1YVURYbzQ0Y2p5b3BWS2Z6a1kyLWlRdmFQbWpfcDBoMnF3Wm1rZWFnQTltVFZ2OXZ6ODdZTTVib3ZjNVBPd2xVTEIzdFlxeE9Rdw?oc=5",
+      "source": "ScienceDaily",
+      "pubDate": "Sat, 28 Feb 2026 15:12:31 GMT"
+    },
+    {
+      "title": "The climate cost of staying cool: How AC could impact global warming by 2050 - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PNDIxb0J2UG43UW1ZdW5jWmV5aGcxMHUwZVgtUnJjOEFnSXFJNnpjWC10aUp0Wm9VV1lXZEhndXBpSWlpc1BaOFdiZm9mRnhuZXpuRTM3VlRHNjRaQk5sc2dPcGpUZTY1VlpualVRUjNLaU0?oc=5",
+      "source": "Phys.org",
+      "pubDate": "Sat, 28 Feb 2026 22:00:02 GMT"
+    },
+    {
       "title": "How Cape Cod conservationists hope to rescue 50,000 acres of land from development - Cape Cod Times",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlBJNHppNVVtb2JzZ1o4eTZ6WldzTXlhd2ZSYXJsNUtPcjlqeER2d0txTzJJWm5DUVZYZEpMY25feGw4U0lRRTBpQkQ0X01qaFJLZmZOUHRTRGtmU1JiMWdNNThtNHh5N0tiS0dTYlAwQTBTdXlPdmtrNHRyZjg3NFlVNGVmVmY3VldDZFRfcThhdTJhbzVVdTlYZ3NCS1pfQnA4X3JSRDBmOExDeDFYTy15ZWs?oc=5",
       "source": "Cape Cod Times",
       "pubDate": "Sun, 01 Mar 2026 10:03:00 GMT"
     },
     {
-      "title": "0226_deforestationfire_1600 - Yale Climate Connections",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVjVnMmltNEVRZGNPZDF0a3I4cDFqNXpJNkhiVVFWYlV1QldLQ2VkVXNscmFDZDdwYzliWFB2SHdLVXJQSzllUzVYamRIbWJ5UzhqZDNRQk9lUTM5Y2U0ejhZdkZkMUxkWnpqV0ZVNlFGcFZPLUFpT1dTZnAxV0V1ejJHNGk1Tk0xWDlaNnloRXp0ZHlJc09BVmNVNXlYZWZfN1Nua3JoZHl6NkpQeHJZUVk1ZlpzOU5XMTFJQ1R5cFlLWHhmX1ZacjJxRGlqd00zOEpKTVZkYmtWQQ?oc=5",
-      "source": "Yale Climate Connections",
-      "pubDate": "Sun, 01 Mar 2026 01:46:08 GMT"
-    },
-    {
       "title": "Sunday PA Environment & Energy Articles - NewsClips: 3.1.26 - PA Environment Digest Blog",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVXljQkQxb0pWUG9NeFl6UjBaSVhlYmtBOW9KcEdFclZXd0lUUlowZ3VxeEdmc2dkSFg2a2JxTHZ5UFZhZnluLTlsb00xTTRmalNhM0VCSEktWUp3X2hsUnBsLXhhY2VzSnlrTjRxTEhQSDBQYmxNd2c5TEhMdjRDdVFDVnZic1A2YkV3YXdLLVRVZjg?oc=5",
       "source": "PA Environment Digest Blog",
       "pubDate": "Sun, 01 Mar 2026 14:40:32 GMT"
+    },
+    {
+      "title": "0226_deforestationfire_1600 - Yale Climate Connections",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVjVnMmltNEVRZGNPZDF0a3I4cDFqNXpJNkhiVVFWYlV1QldLQ2VkVXNscmFDZDdwYzliWFB2SHdLVXJQSzllUzVYamRIbWJ5UzhqZDNRQk9lUTM5Y2U0ejhZdkZkMUxkWnpqV0ZVNlFGcFZPLUFpT1dTZnAxV0V1ejJHNGk1Tk0xWDlaNnloRXp0ZHlJc09BVmNVNXlYZWZfN1Nua3JoZHl6NkpQeHJZUVk1ZlpzOU5XMTFJQ1R5cFlLWHhmX1ZacjJxRGlqd00zOEpKTVZkYmtWQQ?oc=5",
+      "source": "Yale Climate Connections",
+      "pubDate": "Sun, 01 Mar 2026 01:46:08 GMT"
     },
     {
       "title": "DOE climate report 'demonstrably incorrect', say scientists in new analysis - Phys.org",
@@ -335,9 +341,9 @@
       "pubDate": "Fri, 27 Feb 2026 23:28:17 GMT"
     },
     {
-      "title": "Hochul's budget director on climate law changes: 'We'll get there' - spectrumlocalnews.com",
+      "title": "Hochul's budget director on climate law changes: 'We'll get there' - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWhwZHEzUmV5aTJuYTJDZ21tdk5ySGFjRm5mY2xXQ0pJbmx6M3NDOFRBOWpZdUlKcGNUMGo4TzF6ZkpuY0ZVb2lnMzJhLUhHNnY1dGN5dDNLanRuZG9DQkRQNDB4bU5vZ3dCWDl3Y3lTU3N5eEZWeEdIQkFuLXpib2s1VjMwU0loUWEwN1RPY3M2cXo5MThNSTh0M1Ricm9DTEE?oc=5",
-      "source": "spectrumlocalnews.com",
+      "source": "Spectrum News",
       "pubDate": "Sat, 28 Feb 2026 02:50:00 GMT"
     },
     {
@@ -353,34 +359,16 @@
       "pubDate": "Sat, 28 Feb 2026 02:59:32 GMT"
     },
     {
-      "title": "104 New Stories - REAL Environmental & Conservation Leadership In PA - PA Environment Digest Blog",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzBxYUNRMDgyajZhNnZNbFZwSnh1YWJQUTFSQ2JRcXB5Um5IWEtVVGtoalFHY3RWaHJ4NHlfVi1LV192OXR4dGVUMjJJTDJNbTlheElsR1dKdkFQWEtiaDYwc2J1SFhIUWdJWTZvM2Z2QUpYZHBiOGFnWEZQVU1rM1c0R3RrVWlFaWNlandhNA?oc=5",
-      "source": "PA Environment Digest Blog",
-      "pubDate": "Sun, 01 Mar 2026 14:20:18 GMT"
-    },
-    {
-      "title": "Climate change disrupted academic year - The Express Tribune",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMFlQT2VDMVRlWlJHcEpjclJoOUl0aUdlbWQ2Q2FnM1BETG9nWjlkNGlCWEpFa1FlZ1JoVlNMY0RFcHlyeW1feU9zaXVBUXlxXzdaa1g3WTFiNTVUX0t5aHJQNXpJa1J0ellXdjN3V3dlelBxWEI1UW0zZ3dMcXFGRdIBiAFBVV95cUxQTEFsdmFWNXBucFJjUk1vY0lWN3pjVUU1MUZBY3dNYXdBLWl5WVlaTUZjcWFrVXM1TXlPejdPdXozS1YyWVROZXJJQ21fdjQtQVVQaS1RUGthRWJPTkJyV2NDOE85dTM4MjRJWDIyTmM1RWIySUZWMWhCczJKR1FZZnZFeFN5VE1O?oc=5",
-      "source": "The Express Tribune",
-      "pubDate": "Sun, 01 Mar 2026 16:05:11 GMT"
-    },
-    {
       "title": "Roberts: Whatever EPA protecting it’s not environment or us - HeraldNet.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd1lTN1RWZlN5UEJaSlZQc0hHd2VFeUduUDkxWHBKVHppME0wd3Y2ZXpyYzBvQXpiUDRBUG4tb21hcDNCR0hROFlRM3VPQUlxSGdqWkFrLVRmODNXYkVUTExtenpKeEJNYXhDT08wSHJxeDB3N1M0c3NZMXFfcjV2WlZ5bk5zdk9iUmhaSHpCQTB0THhtdHpFSU9vOA?oc=5",
       "source": "HeraldNet.com",
       "pubDate": "Sat, 28 Feb 2026 09:53:45 GMT"
     },
     {
-      "title": "The Fossil Fuel Industry Created the Climate Crisis: Here's What You Can Do - The Teen Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYTk1YmZ5NER4T0x6S2ZvTFlFSmNhaVpxXzl0U2pQWTBVdnBkTUw4eDBsdi10dEpGNl9fZXdkN3NBRndIYjdsUEJPa2QyTDdaTzNtZGJ3WFAwZE1jdGo0bVFwdzJ5N2R6LTBrRl9WZmpkMkY4NUhqZ2tvSEYwR21tNFZiUmRSWWpEVmxKaENJUjgzd1JTWndxeWowTl9GSmRDSDlRbVZUUk00dw?oc=5",
-      "source": "The Teen Magazine",
-      "pubDate": "Sun, 01 Mar 2026 03:09:36 GMT"
-    },
-    {
-      "title": "Line 5 oil pipeline in Wisconsin about rights, climate | Mike Shriberg - Wisconsin State Journal",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUkdmeDZkaTU1Z3BKWFZVLVNrQmkwYkNzRWdzQ0lIVHdwNkVwb0pudk1DOEpJejkzMzNmYXdwVWR6TE92a0NRMWFjajRrQkduRHBpYkFKT19tdmhxU2pmcG5oRjFqbzhYTjJSY0kxN3pYU281ZzhtdGJxMmJER3hXYlR3SEZqLVN4Q1BKTg?oc=5",
-      "source": "Wisconsin State Journal",
-      "pubDate": "Sun, 01 Mar 2026 14:30:00 GMT"
+      "title": "104 New Stories - REAL Environmental & Conservation Leadership In PA - PA Environment Digest Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzBxYUNRMDgyajZhNnZNbFZwSnh1YWJQUTFSQ2JRcXB5Um5IWEtVVGtoalFHY3RWaHJ4NHlfVi1LV192OXR4dGVUMjJJTDJNbTlheElsR1dKdkFQWEtiaDYwc2J1SFhIUWdJWTZvM2Z2QUpYZHBiOGFnWEZQVU1rM1c0R3RrVWlFaWNlandhNA?oc=5",
+      "source": "PA Environment Digest Blog",
+      "pubDate": "Sun, 01 Mar 2026 14:20:18 GMT"
     },
     {
       "title": "Digital tools and traditional storytelling combine to show stark impact of climate change in Greenland - ap.org",
@@ -389,10 +377,34 @@
       "pubDate": "Fri, 27 Feb 2026 13:34:51 GMT"
     },
     {
+      "title": "Line 5 oil pipeline in Wisconsin about rights, climate | Mike Shriberg - Wisconsin State Journal",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUkdmeDZkaTU1Z3BKWFZVLVNrQmkwYkNzRWdzQ0lIVHdwNkVwb0pudk1DOEpJejkzMzNmYXdwVWR6TE92a0NRMWFjajRrQkduRHBpYkFKT19tdmhxU2pmcG5oRjFqbzhYTjJSY0kxN3pYU281ZzhtdGJxMmJER3hXYlR3SEZqLVN4Q1BKTg?oc=5",
+      "source": "Wisconsin State Journal",
+      "pubDate": "Sun, 01 Mar 2026 14:30:00 GMT"
+    },
+    {
+      "title": "The Fossil Fuel Industry Created the Climate Crisis: Here's What You Can Do - The Teen Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYTk1YmZ5NER4T0x6S2ZvTFlFSmNhaVpxXzl0U2pQWTBVdnBkTUw4eDBsdi10dEpGNl9fZXdkN3NBRndIYjdsUEJPa2QyTDdaTzNtZGJ3WFAwZE1jdGo0bVFwdzJ5N2R6LTBrRl9WZmpkMkY4NUhqZ2tvSEYwR21tNFZiUmRSWWpEVmxKaENJUjgzd1JTWndxeWowTl9GSmRDSDlRbVZUUk00dw?oc=5",
+      "source": "The Teen Magazine",
+      "pubDate": "Sun, 01 Mar 2026 03:09:36 GMT"
+    },
+    {
       "title": "February 2026 Upper Mississippi River Climate Summary - National Weather Service (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80WlpUZk9PdUdNVE5zYnFIdDM5M3hwdENrWTNuM1VoX1UycEd5ZHJ1dEpZdW9XdUNiUU9sWDFtVDJSWGZORXRGSVkzZXdTU0xzZHBWYw?oc=5",
       "source": "National Weather Service (.gov)",
       "pubDate": "Sat, 28 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Climate change disrupted academic year - The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMFlQT2VDMVRlWlJHcEpjclJoOUl0aUdlbWQ2Q2FnM1BETG9nWjlkNGlCWEpFa1FlZ1JoVlNMY0RFcHlyeW1feU9zaXVBUXlxXzdaa1g3WTFiNTVUX0t5aHJQNXpJa1J0ellXdjN3V3dlelBxWEI1UW0zZ3dMcXFGRdIBiAFBVV95cUxQTEFsdmFWNXBucFJjUk1vY0lWN3pjVUU1MUZBY3dNYXdBLWl5WVlaTUZjcWFrVXM1TXlPejdPdXozS1YyWVROZXJJQ21fdjQtQVVQaS1RUGthRWJPTkJyV2NDOE85dTM4MjRJWDIyTmM1RWIySUZWMWhCczJKR1FZZnZFeFN5VE1O?oc=5",
+      "source": "The Express Tribune",
+      "pubDate": "Sun, 01 Mar 2026 16:05:11 GMT"
+    },
+    {
+      "title": "Climate change is slowing southern right whale birth rate, 33-year study finds - Mongabay",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEdFR2FwTkQyTEI2STZseDhPdWpaUjBKdG10allDVEktU0xDRWd1OVpQX0lGUmFHVEhQY0VwUUFWcDNtemtKTjlIN1hzd1VWbGtDYmFZWnpsTmpRYWpaaTdpQkgwYzNYMVoxZUQySTE1bW05bzlmQm5qaUNBMGRNYzhKUmlnTU5UazRWcGlmSnRNNEFSSXc0MmtvVTdnLWtwN0pFejJoSmVINkRHTWFRWFhR0gG3AUFVX3lxTFBOLXJlc3k5RUZsdUpqWlVMNHN3VklRdW1STmMwTm02U3VOeWd5QWdmZnB6REJTRndSaHZSQ1JueC01V0VVdjFOcmV2Q2xWRHBBWl9zRl9jOEUya1VsVEJISGl5Um9TcTQ2TERmdUpXT19rcXZCdEd3YXgtT1JabHN4X3JPSFBCWEN2eG9oNW9ORVdJNng4bjBiN0x0emt1WmZsa1o5ckctcDRTX1M1a1VUek5RY2dfdw?oc=5",
+      "source": "Mongabay",
+      "pubDate": "Fri, 27 Feb 2026 15:49:40 GMT"
     },
     {
       "title": "UN: Climate Change Affected 10 Million People in Afghanistan Last Year - Hasht-e Subh Daily",
@@ -407,22 +419,10 @@
       "pubDate": "Sun, 01 Mar 2026 00:50:37 GMT"
     },
     {
-      "title": "Climate change is slowing southern right whale birth rate, 33-year study finds - Mongabay",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEdFR2FwTkQyTEI2STZseDhPdWpaUjBKdG10allDVEktU0xDRWd1OVpQX0lGUmFHVEhQY0VwUUFWcDNtemtKTjlIN1hzd1VWbGtDYmFZWnpsTmpRYWpaaTdpQkgwYzNYMVoxZUQySTE1bW05bzlmQm5qaUNBMGRNYzhKUmlnTU5UazRWcGlmSnRNNEFSSXc0MmtvVTdnLWtwN0pFejJoSmVINkRHTWFRWFhR0gG3AUFVX3lxTFBOLXJlc3k5RUZsdUpqWlVMNHN3VklRdW1STmMwTm02U3VOeWd5QWdmZnB6REJTRndSaHZSQ1JueC01V0VVdjFOcmV2Q2xWRHBBWl9zRl9jOEUya1VsVEJISGl5Um9TcTQ2TERmdUpXT19rcXZCdEd3YXgtT1JabHN4X3JPSFBCWEN2eG9oNW9ORVdJNng4bjBiN0x0emt1WmZsa1o5ckctcDRTX1M1a1VUek5RY2dfdw?oc=5",
-      "source": "Mongabay",
-      "pubDate": "Fri, 27 Feb 2026 15:49:40 GMT"
-    },
-    {
-      "title": "N.Y. Climate Action coun­cilmember: High utility costs are caused by U.S. gas exports, not the energy tran­sition - spectrumlocalnews.com",
+      "title": "N.Y. Climate Action coun­cilmember: High utility costs are caused by U.S. gas exports, not the energy tran­sition - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQamFrazZFcTdqRkxYUTNRRTNKM2JVaTViLWt2UXlFY2Rtc2FrSERmS01nMlRvNkE2bkJOODZla2E4R2dhQ2N1T3haMXM2YnppU2ZFci1UaXlvNEpSU1ZiY3RtTDZIeG1BMTZTOG1mWHhmcUZkQnlodWhWUGtHX2Y1REU5Tm0wU2FOeU50VG1JUzFOS2VZdzdobWNNUzdDbTJZRV90NlJYMEVRRmNiOUtzeko3bEl5VkZ5Nk8tUg?oc=5",
-      "source": "spectrumlocalnews.com",
+      "source": "Spectrum News",
       "pubDate": "Sat, 28 Feb 2026 00:30:00 GMT"
-    },
-    {
-      "title": "Google launches $30 million AI initiative for climate science - Earth.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNblVyenltRWo2cjlwdEV4X1RFVVFiUVlnbmp4Zm95bllFeVdJaVZkTkRrQkVEU2dtVE9KNHVDb2VCaC1DRnJNWjlOY3ZnM3ZaZXJSWjNmZlpwQ1k5OUFVdjF0Wmk4Uk56c0dOMDhHOHJPaW5ONHpwenFFOWNPUVpkelBjRWViZXdyTjkyZnAxeWJ4dw?oc=5",
-      "source": "Earth.com",
-      "pubDate": "Sat, 28 Feb 2026 22:43:45 GMT"
     },
     {
       "title": "The Climate Wins We Want - Global Citizen",
@@ -437,22 +437,22 @@
       "pubDate": "Sat, 28 Feb 2026 05:58:46 GMT"
     },
     {
+      "title": "Ontario woman’s 1,300 bags of garbage tell a story of pollution, climate change and the Great Lakes - The Pointer",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdEVNMHduVXNrdzRhbEtzWFFFLTI4QkxhRUlNbjZpdTJfZk9qRFlua1dUekgyUlpQM3ZoaUJKZ1J6aUk0dUsxczBsMXVyMnAyME56X0ZsRGV5T2VDbkRTVlFTamg0WjVfUU1SbC1jQ09PQUhWUWFyVHB1SmZsdm5DYU5kdkwzbFlwYmRrSWhqZkRHRWR2aXk0UF81d3BwbzJGZFZhNXBRUF9XUlZhZ21STE1OZ2N5UXNPNWF2WERfUkNON0FMSFF3ZGo4SWtwdDRxamxlZXU2Zw?oc=5",
+      "source": "The Pointer",
+      "pubDate": "Sun, 01 Mar 2026 14:13:18 GMT"
+    },
+    {
       "title": "Trump’s Continued War on Climate Change: Repealing the Endangerment Finding - Fair Observer",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUEx0TURsS2o2NnRKRTZteEdIVjVoZ0NfbWFjWlc4ZlBPZW5zSHp0OGhjNTh0YXpjQzR0LWFSanRkNk43OHZhN2d1cDhOX0w3S01BdEV3VE5mTTJvSVRLeFB0RHhZUW16QzR4MjRaNWQyakFSMjNzeWFVVWM0ZVBlZUc1bWFOdGEwMXFpd2YtVmsydWxhbWNHeTFDYXNHRVdqdllsRm5XTDQ4dVdNbzVEektZYXRTcW9ZV3lONw?oc=5",
       "source": "Fair Observer",
       "pubDate": "Fri, 27 Feb 2026 11:27:00 GMT"
     },
     {
-      "title": "Climate change and wine: The red wines we will be drinking in the future - The Irish Times",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmR1UEVsU1ltWjJEaTljOGthQWEwbHkzN1dTQWhnVFVyWXBZUmxZOXZIVkZQX29Sa3QyeEt4c09iYzFiSVFnSDBqaTVXVmdHNHZqY1JVeWY4dkVleDRQV3ZvZkdHbldPdzlEd0ptY1J5bzVKeFpSVGNETEg0RUgxS0xhWWRGMXFEQ0kxdloxWXRkc3VQZnEzZGd5bW1OQXBEX0J6S1BEdExzcTZBNmFqWTEwVGdZNGFzODNIVg?oc=5",
-      "source": "The Irish Times",
-      "pubDate": "Sun, 01 Mar 2026 06:05:39 GMT"
-    },
-    {
-      "title": "PICASO 4.0: Clouds And Photochemistry In Climate Models Of Brown Dwarfs And Exoplanets - astrobiology.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc09uaGlBUFBLYk1IcjlhSTMxMnRQdmpOenZ3MlI1VTljUXlsR0hnbURfTktwV2FFaHUwOWxydERuTlhEYmpwWWZHUTNQZVJVOFp6V3ZEak9hOEF0S29HaV9wQWhVazBIVmxDVDF3WXhzQ0IyaFVSTDZfd1AtNzdEYWhnbjZ5Y0JjRFhsdXNOMnNQOHlCLW1VcWQ0aDd2cnBHZUxXWG0xVTFsakpocGstdUs1MGRzTnJOdmpTeHdJbGQ?oc=5",
-      "source": "astrobiology.com",
-      "pubDate": "Sat, 28 Feb 2026 18:28:35 GMT"
+      "title": "Google launches $30 million AI initiative for climate science - Earth.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNblVyenltRWo2cjlwdEV4X1RFVVFiUVlnbmp4Zm95bllFeVdJaVZkTkRrQkVEU2dtVE9KNHVDb2VCaC1DRnJNWjlOY3ZnM3ZaZXJSWjNmZlpwQ1k5OUFVdjF0Wmk4Uk56c0dOMDhHOHJPaW5ONHpwenFFOWNPUVpkelBjRWViZXdyTjkyZnAxeWJ4dw?oc=5",
+      "source": "Earth.com",
+      "pubDate": "Sat, 28 Feb 2026 22:43:45 GMT"
     },
     {
       "title": "From trash to climate tech: Rubber gloves find new life as carbon capturers - Phys.org",
@@ -461,16 +461,22 @@
       "pubDate": "Fri, 27 Feb 2026 22:00:01 GMT"
     },
     {
+      "title": "Climate change and wine: The red wines we will be drinking in the future - The Irish Times",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmR1UEVsU1ltWjJEaTljOGthQWEwbHkzN1dTQWhnVFVyWXBZUmxZOXZIVkZQX29Sa3QyeEt4c09iYzFiSVFnSDBqaTVXVmdHNHZqY1JVeWY4dkVleDRQV3ZvZkdHbldPdzlEd0ptY1J5bzVKeFpSVGNETEg0RUgxS0xhWWRGMXFEQ0kxdloxWXRkc3VQZnEzZGd5bW1OQXBEX0J6S1BEdExzcTZBNmFqWTEwVGdZNGFzODNIVg?oc=5",
+      "source": "The Irish Times",
+      "pubDate": "Sun, 01 Mar 2026 06:05:39 GMT"
+    },
+    {
       "title": "Sustainable Switch Climate Focus: UK Greens win by-election as anti-data centre protests mount - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTUlGZ3g0Nm5lbGh4SXJMd0FiNk1xd0RocFVaS0R4WHoycTIxRmJINk1wZ2NFVTg2dkdGSkJHcXdrZ0oyZDM2YlRmenVsQ3E2T0RoRFh1ZUhRUmdJTm9IZVBTbG0yX18wSVhCc2x4SklLQkhFdE1jNEp5Y0JCVHJGVVcxTlo5LWo2QnVmbm1xY2FNclUzcWlpa1MwaFpsamxNSjRoR29PTWw0emtjeWw0U3h0UEdwVi1QQzFHLUJPTWNlUDBR?oc=5",
       "source": "Reuters",
       "pubDate": "Sat, 28 Feb 2026 12:30:00 GMT"
     },
     {
-      "title": "Caribbean Climate Scientist and IPCC Author Michael A. Taylor on Planet Classroom - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOakdRWDg5d2xYYnlaamxYQWhFbjlzdDE3MVNjeEJUeU5MeG5OX0QtTVl5clZmRlFLMjBXTThNWngxZ29RcHVZcGhCVUp5NmxCZnNmMEkwUnd1aUZkY1hBeUltVEdNc19MZjBQUHMtXzZDT0FucUIyYVg1Qnp6RmhaWk9tbEl3UFd1dWJOMll2YWZmZk0zd2hoSXlXVkJCMWtIRUhjZWptTjlPUldTNVFpWElPckRjcHgxeTk2RmpOclpiakVndl8zRU5BOHNVS1hIeFE?oc=5",
-      "source": "PR Newswire",
-      "pubDate": "Sun, 01 Mar 2026 08:00:00 GMT"
+      "title": "PICASO 4.0: Clouds And Photochemistry In Climate Models Of Brown Dwarfs And Exoplanets - astrobiology.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc09uaGlBUFBLYk1IcjlhSTMxMnRQdmpOenZ3MlI1VTljUXlsR0hnbURfTktwV2FFaHUwOWxydERuTlhEYmpwWWZHUTNQZVJVOFp6V3ZEak9hOEF0S29HaV9wQWhVazBIVmxDVDF3WXhzQ0IyaFVSTDZfd1AtNzdEYWhnbjZ5Y0JjRFhsdXNOMnNQOHlCLW1VcWQ0aDd2cnBHZUxXWG0xVTFsakpocGstdUs1MGRzTnJOdmpTeHdJbGQ?oc=5",
+      "source": "astrobiology.com",
+      "pubDate": "Sat, 28 Feb 2026 18:28:35 GMT"
     },
     {
       "title": "Olympian-studded lineups headline sold-out Torrent game at Climate Pledge Arena - KING5.com",
@@ -479,22 +485,16 @@
       "pubDate": "Fri, 27 Feb 2026 21:12:00 GMT"
     },
     {
-      "title": "CT research shows climate change disconnect. What’s happening and why it matters. - Hartford Courant",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUtyS3NwZTcyQUUtenM2ZWN4NmhJU19CejRKRzcxUmhJamNLbGNlVTBVeGNjWXM1RlJ1QXZPMHVxa2Rsa2lpS2JFcVVGUS1Ka0VPMDFyWGkwdUViQkc5cE1NbFRDZy1xdDIzYmZ6V2hGRVg2NjZWMjJqTmV0bU9DY3o4cWQ4THgwNjNLZ1VBd0lRQnFQZzdxVndPNW12UkZGcWZ4dTVWRmRoWWxwOTIxcmxqR1I?oc=5",
-      "source": "Hartford Courant",
-      "pubDate": "Sat, 28 Feb 2026 10:18:59 GMT"
-    },
-    {
       "title": "Climate - European Environment Agency (EEA)",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11a2R1NnJxX1ZFRjcyOHJiT1JUTXFhQm1WYWR4cExPQUFsbFBvU1pkUDNJRmVZajlZZDF5bTFUMm9KaWhWcUMtTmxjc0gxRVNvdXN1OXVEcUtvZktzZkFJbnJqUThHdw?oc=5",
       "source": "European Environment Agency (EEA)",
       "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "Ontario woman’s 1,300 bags of garbage tell a story of pollution, climate change and the Great Lakes - The Pointer",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdEVNMHduVXNrdzRhbEtzWFFFLTI4QkxhRUlNbjZpdTJfZk9qRFlua1dUekgyUlpQM3ZoaUJKZ1J6aUk0dUsxczBsMXVyMnAyME56X0ZsRGV5T2VDbkRTVlFTamg0WjVfUU1SbC1jQ09PQUhWUWFyVHB1SmZsdm5DYU5kdkwzbFlwYmRrSWhqZkRHRWR2aXk0UF81d3BwbzJGZFZhNXBRUF9XUlZhZ21STE1OZ2N5UXNPNWF2WERfUkNON0FMSFF3ZGo4SWtwdDRxamxlZXU2Zw?oc=5",
-      "source": "The Pointer",
-      "pubDate": "Sun, 01 Mar 2026 14:13:18 GMT"
+      "title": "Caribbean Climate Scientist and IPCC Author Michael A. Taylor on Planet Classroom - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOakdRWDg5d2xYYnlaamxYQWhFbjlzdDE3MVNjeEJUeU5MeG5OX0QtTVl5clZmRlFLMjBXTThNWngxZ29RcHVZcGhCVUp5NmxCZnNmMEkwUnd1aUZkY1hBeUltVEdNc19MZjBQUHMtXzZDT0FucUIyYVg1Qnp6RmhaWk9tbEl3UFd1dWJOMll2YWZmZk0zd2hoSXlXVkJCMWtIRUhjZWptTjlPUldTNVFpWElPckRjcHgxeTk2RmpOclpiakVndl8zRU5BOHNVS1hIeFE?oc=5",
+      "source": "PR Newswire",
+      "pubDate": "Sun, 01 Mar 2026 08:00:00 GMT"
     },
     {
       "title": "Applying One Health Bioethical Principles to Climate Change: The Planetary Patient Paradigm - Cureus",
@@ -509,28 +509,16 @@
       "pubDate": "Sun, 01 Mar 2026 13:50:13 GMT"
     },
     {
-      "title": "A rebuilt Louisiana island is providing a home for the state bird. 'A win-win.' - NOLA.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR0xCdU8wRHdaVTlJSnJjR1ZTZDA0czRxZkFVWmdvNmdFNUU5WVA2ZDBKT1pIelhQOWE2T0Q1ektOX0lveDBZaDhtN3labUl1dHZVQjRLUWotM29ySURhWlgwT2lLVG9rSFl0X1dHT1NBdnctX2RVcExFSkMtZlA0ZTdTYkhkRnRrZDdaME9lOUY1b1ZuQ29xYXFXQldfM1c2dlZHdFRqYUFSWE1yRTJudHVSanBPM3hhREJscUhxYVZWVEVDakxYMWkyWG1MWktUWmF30gHYAUFVX3lxTE03VmZrYVlYemNtbGpJakF3ZlR1dTVGYWxBUlV1VDFaOWY5NUdOa0RieDFIc2RvSXR4Y0RwYmdhazNGZGlFWHlfOHlENlpnTTlBbEJKTlRnZ0RpbUVQcDc2V3dTYU1uQXEtVjRmTVFGNlh1M3BwV3YwOFRhR0wycy16X2l5YWZkeUZuUTM3bXdCWFp0bE10WXFRQjBCUlJkaDdVdThweEswRmkzLWJvS0FjbC13RDZYOUo1N2NsaUJaaVhLZEZ5U0xLNlV1S1lLT3R5cmNCcUwzQQ?oc=5",
-      "source": "NOLA.com",
-      "pubDate": "Sun, 01 Mar 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Hiram mayor closes fire department as chief retires amid 'toxic work environment' - Record-Courier",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkt1Zy14aVpfanBZSGROaDluMFN2STREVG9BMTdSekM4b3F5aTZsRTYyUTZwWGhJc0VQajd1Mm9pYzk4SkxmS0JvZElTTVo4MGpSeVZvS1g4ajZOX19aaHhDNHBQN25qQ3RnbUMzVl91Zm5vbVlvMGUtaE9iekp6UzVmaS1wZTl0V3FteTVDalk1ME9uMm1JSGpvQ2NuMFNPSU9YcU9NRFF3cTJLY1drdUY1OTF6aXBNcXZj?oc=5",
-      "source": "Record-Courier",
-      "pubDate": "Sun, 01 Mar 2026 13:42:00 GMT"
-    },
-    {
       "title": "Snowstorms aren’t sign of reversal of climate change [column] - LancasterOnline",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWnhsRHVPUDhUSW4tQUFxZ2lLQWprWUxEWTFZLUV0WDlhcDRvRy10ajBEeHpVZmRpa2p1MGpSNE9CWlJXNlB5OWswSm53UEFtZGpyWWV3VHhzdHAwUUwxUy1SOHRienNZTjRjR2lfRHBySzVnd0g2ZDdSSGV3WmQ0Q3B0OWViazluT3BiN2Z1NWVqRjQyY0NoOWtDQXY1VjNDU2N5UzRTaVJxeDBVbDlDVUtBT2VIMDBLZDdMNDR5WWRaZVNZZmpnbHh6MkszYjlvSmJON3pTLU55VUZwQkFYYXhvTU4ycWtrc1dYWA?oc=5",
       "source": "LancasterOnline",
       "pubDate": "Sat, 28 Feb 2026 09:55:00 GMT"
     },
     {
-      "title": "Resisting in the age of lithium: the right to a healthy environment in Indigenous territories in Chile - ohchr",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbEo3TzdFSE5uOTZySTUwWElod3djb0lpVGkwdG5WalRfN2NibGpwaDZIelJJNl9qRktlLWN1dnBsQkNtbzJwdTZUQ0VnUVU3Y21aQzkzNHNsYXd3aXVkYzFaZUR3VFpqa3A0R2ZwMEFBVnJuWGtKU1Qtai03aGk1R2VhSnBlN0ZvZjJhcGU4VU94bTctUWIzVjJRcUZKcnpGa25maDB5ek9Pa2t4ay0tcGNPdk5DZzMt?oc=5",
-      "source": "ohchr",
-      "pubDate": "Fri, 27 Feb 2026 11:03:41 GMT"
+      "title": "Hiram mayor closes fire department as chief retires amid 'toxic work environment' - Record-Courier",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkt1Zy14aVpfanBZSGROaDluMFN2STREVG9BMTdSekM4b3F5aTZsRTYyUTZwWGhJc0VQajd1Mm9pYzk4SkxmS0JvZElTTVo4MGpSeVZvS1g4ajZOX19aaHhDNHBQN25qQ3RnbUMzVl91Zm5vbVlvMGUtaE9iekp6UzVmaS1wZTl0V3FteTVDalk1ME9uMm1JSGpvQ2NuMFNPSU9YcU9NRFF3cTJLY1drdUY1OTF6aXBNcXZj?oc=5",
+      "source": "Record-Courier",
+      "pubDate": "Sun, 01 Mar 2026 13:42:00 GMT"
     },
     {
       "title": "E&E News: Climate change supercharged Iberian Peninsula’s destructive storms - POLITICO Pro",
@@ -549,6 +537,12 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHdXcTIyUFQxa1Z1c0ZOQ3M4V0Fxb1U2N0JySi1mT1pGb3p3YlRDUEhBSk1QMTZDLWRSZndmaE1GSzd0bTUtNC04X21IV1hQT2wxOUdyOUZkQ01sUm1NZG03QUcwN2dWZmFsM2V1bVFQUHlkUzJ1ZjRTXy1JTGxHRWo3M1lhTVdtLUpQZDkxRUV5YVlwNlNBODBlcGJMcW8tdVVPYkJjM3U5QnRtamI4NlRUZnZiekpmajY4NnBvVQ?oc=5",
       "source": "POLITICO Pro",
       "pubDate": "Fri, 27 Feb 2026 11:17:19 GMT"
+    },
+    {
+      "title": "A rebuilt Louisiana island is providing a home for the state bird. 'A win-win.' - NOLA.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR0xCdU8wRHdaVTlJSnJjR1ZTZDA0czRxZkFVWmdvNmdFNUU5WVA2ZDBKT1pIelhQOWE2T0Q1ektOX0lveDBZaDhtN3labUl1dHZVQjRLUWotM29ySURhWlgwT2lLVG9rSFl0X1dHT1NBdnctX2RVcExFSkMtZlA0ZTdTYkhkRnRrZDdaME9lOUY1b1ZuQ29xYXFXQldfM1c2dlZHdFRqYUFSWE1yRTJudHVSanBPM3hhREJscUhxYVZWVEVDakxYMWkyWG1MWktUWmF30gHYAUFVX3lxTE03VmZrYVlYemNtbGpJakF3ZlR1dTVGYWxBUlV1VDFaOWY5NUdOa0RieDFIc2RvSXR4Y0RwYmdhazNGZGlFWHlfOHlENlpnTTlBbEJKTlRnZ0RpbUVQcDc2V3dTYU1uQXEtVjRmTVFGNlh1M3BwV3YwOFRhR0wycy16X2l5YWZkeUZuUTM3bXdCWFp0bE10WXFRQjBCUlJkaDdVdThweEswRmkzLWJvS0FjbC13RDZYOUo1N2NsaUJaaVhLZEZ5U0xLNlV1S1lLT3R5cmNCcUwzQQ?oc=5",
+      "source": "NOLA.com",
+      "pubDate": "Sun, 01 Mar 2026 10:00:00 GMT"
     },
     {
       "title": "Ducking Climate Science Is a Danger to the U.S. Military. Congress Must Help. - cnas.org",
@@ -587,12 +581,6 @@
       "pubDate": "Sat, 28 Feb 2026 04:32:00 GMT"
     },
     {
-      "title": "Dust from mine waste settles over Cottonwood. Is it a health risk? - The Arizona Republic",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ29JdGtrbGFNRmhNbGRPWjNIZmxXQlhTNTVIN1dpa1BVeHhRZmlUNFFzUmVNVUN4R2pSNkdnRFhTMUQzcjg2MlIydVlDVEF4UVMyR1E0NFMtVG9Lam1VTWp5RkROS2tXeE5MZ0dXOFRtRnJib0lNT3Vwb1hpcWRqY205Sm1oMHRRNXNVeGdWTm5US3lKUTB0Vi1OX05NYWdxQTBSWVktc0lOWkZRSzNkSzV5TWx6SExfNGV0T25GY0hCNG42WUUwUDRhTlkyWDkxbFdIOE1zNFdVRUU?oc=5",
-      "source": "The Arizona Republic",
-      "pubDate": "Sun, 01 Mar 2026 12:01:00 GMT"
-    },
-    {
       "title": "Hochul’s climate law conundrum - Politico",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa19iN2t5dWE4WjBHaUEyVzlsX3RwODg2VnpUM0YwbnFlQXVicDYybzRJYWF6NnNUaDdPV0lXcWRSTV9MNmhJdDJrSGJZV2YzeEhTaGduRGdIcTFkWXByMkFvQXZOZXYwdWRvVXNIWS1PU3lJdm9kNGl4UmdkUzdhUTRtVGlXV2laNVFCUXVxb29GNGRxazZPWGU1TUVWWENwNWVRdk1mbVQ4Z1E?oc=5",
       "source": "Politico",
@@ -603,6 +591,18 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVXZ5N3VCcHBpNThoMlctajExclhMVnBCclpCcEduVE1KSmxqeFFWMDZLVmNZY1ZoSV9IbnNOb1hPcXFoTWRSU2NVd3V2WG13RTlSR0VuZlFYalIySzB2WnFvYzJGUHlZWlBVNmEzazYyRUVWaXNhSTVhYjBqYktvdVNLZ9IBiAFBVV95cUxNcV8tTzdYc0I4ZDBodG9xZTh4VHgweTNQZUFWSFRNeFgwcGxVeTV4LUYtOTkwT21FbG4xWFliRXI4UW5weTAzNExDNExZV3F6Mi1OdVYzWXpMV1hXeE1wa2s1MHE0ZE02NTJrS21SaDljeWY5OFp2djVfRmlDM1dDNGEwWU1ISDZ6?oc=5",
       "source": "NEWS10 ABC",
       "pubDate": "Fri, 27 Feb 2026 23:43:22 GMT"
+    },
+    {
+      "title": "Dust from mine waste settles over Cottonwood. Is it a health risk? - The Arizona Republic",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ29JdGtrbGFNRmhNbGRPWjNIZmxXQlhTNTVIN1dpa1BVeHhRZmlUNFFzUmVNVUN4R2pSNkdnRFhTMUQzcjg2MlIydVlDVEF4UVMyR1E0NFMtVG9Lam1VTWp5RkROS2tXeE5MZ0dXOFRtRnJib0lNT3Vwb1hpcWRqY205Sm1oMHRRNXNVeGdWTm5US3lKUTB0Vi1OX05NYWdxQTBSWVktc0lOWkZRSzNkSzV5TWx6SExfNGV0T25GY0hCNG42WUUwUDRhTlkyWDkxbFdIOE1zNFdVRUU?oc=5",
+      "source": "The Arizona Republic",
+      "pubDate": "Sun, 01 Mar 2026 12:01:00 GMT"
+    },
+    {
+      "title": "How Utah is reshaping water and land policy in 2026 - Deseret News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnFGLU9DZW1ZTnU3RWFDR2V2d0F0NU5BcUthQ3AzdjZoUFpXOUFHMHpBWDhpbW5mUEJkM0VJTFhWMUY5d3owbm01X0Y5QWVqaDVDSEhVc0ZSbGJIQnR1TFM0QTZnRkZmdlNjeFg3enBUYlQ0U1FwWE14RXdoQmdCSWN0TU5XMm1LU2ZiWnRwcEtoSlJXbUplcHFFWC03dw?oc=5",
+      "source": "Deseret News",
+      "pubDate": "Sat, 28 Feb 2026 04:00:00 GMT"
     }
   ]
 }
