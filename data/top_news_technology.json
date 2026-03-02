@@ -1,39 +1,9 @@
 {
-  "generated_at_utc": "2026-03-02T01:09:31.054749Z",
+  "generated_at_utc": "2026-03-02T03:40:35.275167Z",
   "category": "technology",
   "language": "en",
   "summary": "Top headlines pulled from Google News RSS (free, English). Category: technology.",
   "articles": [
-    {
-      "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety - WTOP",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWdPVF9xT3BxbFJCcUFyODUxTGwwN3hUSzJwc2N2akJJNDFpdy1qZnF6MDZjeVZKYW1fMnNJVFdnOC1CRGtfbUFCQVNVRy1PQnp2bnBOY1JKSHRrRWctQ3JVeC01Z01ueDNISW1LUldQWno4eHRiOTB3MWpuRTZEQ0lTb1Y5dTVkLWs5TElWWE5OUVlPTG84dGNNR09fbW9XYmFXcVNtYWdHaDFRR3c4d1FxTTNUQQ?oc=5",
-      "source": "WTOP",
-      "pubDate": "Sat, 28 Feb 2026 02:09:31 GMT"
-    },
-    {
-      "title": "Could a niche 80s technology be the key to better quantum computers? - New Scientist",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2lLbTk5MDQ1eXJRYnE1T0NLMi1jeUU4M0lFUmN1NENIcDBaWUd5QjFtbDZsWTZteXlGSVFDY0JaUDUxTmhVX05hcE8wbDVLLWNXajBMeDRNbWphX1Z6cXlJenVIcWV2RXhMUnczUlp5WG1BSEQtZEljYklnSHR1STNtdHd3dnlzXzZnazI2bWNjZ3l3X1ZKQURENjFIU1IzYXpMWXJ3dHB6cXFRM0NTYUR0SQ?oc=5",
-      "source": "New Scientist",
-      "pubDate": "Fri, 27 Feb 2026 09:01:41 GMT"
-    },
-    {
-      "title": "New Geothermal Technology Aims to Produce Clean Energy in Germany - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdW9YLWY4MnQ4bHdRNWI1M2FNZk5KdGFKcWlFZlV4bVJNWXJqb19JNi1vQUNpb1hLd2R2ZndSYWtjSEZLQTNkZHlUNTFFREpsUmh6Ym5RUkVxVV9HQVRncE1RY1VZLUd0YnNVeEtjQlc4aTJ2QUZXRGZCRVkxeTRoMThoLXJLRzQ0eHEwNw?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Sat, 28 Feb 2026 05:00:10 GMT"
-    },
-    {
-      "title": "Can 'friction-maxxing' fix your focus? - BBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVl9VRHdEVl9KSGNrT1pPVE5pRnZ3ZUF2NHhoWEVJc3lNN1JncEJ0Q0x0YTBmVzhKMFQ2eFBnY2IySTlvTG8xeGJhT2RIVld3NFBJUkRtUFpldk10dEZabTZXV0poZ0llVkR4eE5wNzV0X2VxM2F0OEFGSXllbDFObF9pNVc2UQ?oc=5",
-      "source": "BBC",
-      "pubDate": "Sun, 01 Mar 2026 02:00:00 GMT"
-    },
-    {
-      "title": "Apple’s Chip Homecoming - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNeG9vNFREZEFYOTdEQzJZZHZFWFdHQ1VXUHdKX19QQS1LMXNjT3dheTFZbkxXb1lKbnliTWtFQm9vNW4zVF9kcmhtcE5Zb2tSZzZDLUpqZkpzUGkybXhtUi1VeW1IcVlzM3hWS3dFQnlxUUtlSVZDaDVSNHA4UmNxR2FLU0J5eVVyMUtMT2lwbEdKWWhqeTVlc2F6YVRYZng3X2lRaWoxdFY1UFhxZUlkRUhqeUhkQk1LdThvTFBMTS1BektfU2Z4LTRtcmd5UUtvNnJDQkJtMVdES29iTEpGM0haTi1oQ1lJT29XOGZrTnJDeHZoLUY3U3VSZ3M1NlFSS3cwY0piZjFQT0dEc1MyVHNWY25YWFlqdGJsUXItM2VaT3RQdHRpTjEzQldMbmRDRTgyVm9vWU9PWGk2X2xTSTNvWWtjaHBtT29SbVlZc2RkR2R1UTBFU1Jzcm9IXy1LT2xQT29nUlFsZ2Rl?oc=5",
-      "source": "WSJ",
-      "pubDate": "Sun, 01 Mar 2026 14:33:00 GMT"
-    },
     {
       "title": "American schools weren’t broken until Silicon Valley used a lie to convince them they were—now reading and math scores are plummeting - Fortune",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFhCcTZWakRjSFE0RXFxUzZlRTFlNTFBTkhwUDdlLTdkalpUNG1HbmRnMWo1TFV4SVhXVXp2N3BnbHFUNlNhSTF6dERFNHNxcnFRRHhwblNqWlFnZ2NLOFFpV1V4YzdMLUtZMkpkMXJSNXBzekpwZWJUS3UyUXUxS0R5MmZsaFdWS3VaMk0xeVA4SVZyWU43Vm03RQ?oc=5",
@@ -41,16 +11,16 @@
       "pubDate": "Sun, 01 Mar 2026 20:01:00 GMT"
     },
     {
-      "title": "OTC Veterinary Technology students complete study abroad experience in Belize - Grice Connect",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUpEUFJlOGNfT3hfMUNZUUJMVHhVTU11UFM2WFVtWVpJRzJiOG5CWDVRYWpXSUdDcW54U0c2MEI5TTd6YWRQNDlxejlKeF8wQmkwQlJ1MHpaNktaUjFiX0hENVBiOWVhWnZlOURNb1AyMWloeEU1SEZ4YVo5Vmp0N19pZnRiT0FtQWxtM0k5eDZXMnphNHdJTGNVY0txU1B5cG84OUdZSzBjTmdqdDdESTF6R3hkUm5oOGZwZmc3OEJRLUXSAcgBQVVfeXFMUFQzN2theEl1dHVqcHpmbEwxN1dZaXJvaDJnY29MSXAyb0U1d0ZwQnVYcGg0bFFFN2VmWDVEcjZxeHI5eHFiellwMTd2aHRreW5JcVhFSlVQU19Ud1N0cmU2dXdJLWl6VFhXdEJDU2JQanNJRXZPV29fSWFocERCODE4RGlvc3lnazdoU05ybEFMS3hoT1hJcEFpSHZVc0tIanB1S3FZX0NKb0JNdm5OcDJVQlZ0cERwTlFmSDh3ZDNjeHl6RFhKeGI?oc=5",
-      "source": "Grice Connect",
-      "pubDate": "Sun, 01 Mar 2026 00:14:00 GMT"
+      "title": "Trump orders federal agencies to stop using Anthropic's AI technology - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ySTcwN3FMUnN0ZzVaUi1lVjlBVWRHbnEzR1JZR2dHS3RQUHB2Nm1waDg4elpkY0FscEFXRDJnb3JfaGNfZERITnBYRF9ESl9kVlFVb0c0RmZXWFJLQ1hzb004aWZnSHdnZHI1a3VxdDBWUEpaNVdVU19JZ9IBgAFBVV95cUxONTdmclZiS0F2Y282a2tZZTl0R2tsczU5SjlEZG5OTWRRd3NuQmVRV29wWWQzdHVxV1JxMDB4SHFrdV9BYUFXNE5NbDlPYVhlN1lTV2lQWU8yLU9SU09HQlExWTJ0dmZxbmphWUc3dTQtTEdDVmZzNjBsY3JnLWE4eA?oc=5",
+      "source": "CBS News",
+      "pubDate": "Fri, 27 Feb 2026 21:05:00 GMT"
     },
     {
-      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6QzB1R3QzSUVpQkNaR0RjWDB4eS1Nc0xtWnFYR2pFd1VtWElsVDVrVnNTX3U3dndMTkkyMGlOMXQ0Y2RVX3N6UENRQXRTQktqaUpjMTM2ZmVZZXQyQjM0elpvVjVJSWJYRk1RNE84OFRWWWxP?oc=5",
-      "source": "blog.google",
-      "pubDate": "Thu, 26 Feb 2026 16:10:01 GMT"
+      "title": "'Silent failure at scale': The AI risk that can tip the business world into disorder - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeVBtV1JXSjBRa3hVNEZjRWZVc3M5Mnc5V2QwMC1rV29nZHpGNnJ5cERzeWc3U0pnTU5DZ0g2THlxQkJoUUV1dkgtdk1UQ3lFWl9jQlAxSDBzb1QtSlQ2V1hmc1pBT2o0S2M5WktrVUEwckRla0U3eklKWGt4OVJnRmE1WERwbVZDQ2VsaVAzc9IBlAFBVV95cUxPSlY3MmR0MHAtTEhXU1RNZl91SEhUWndGcmw1UnpoTm5lNFRXZ0NRUXMtV2hIMUtDdG5DYjg2RjNBaHNBdTRIMnhRbDNQSHNoRXU0Z3d2ZDVJa2NEUnpCa3JiVVV0dTExQllZVXZmQzR1NTZJUVZfemFOVWo1b3JlUktDWTJJWU9nVXhHaGVZNFZYd3FX?oc=5",
+      "source": "CNBC",
+      "pubDate": "Sun, 01 Mar 2026 14:00:01 GMT"
     },
     {
       "title": "Report reveals Virginia police misuse of license plate reader technology - WRIC ABC 8News",
@@ -59,16 +29,58 @@
       "pubDate": "Sun, 01 Mar 2026 23:37:18 GMT"
     },
     {
-      "title": "Where Will Micron Technology Stock Be in 3 Years? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjRKSG9RWTd3QTBKMzR2c19tUDJhWWhjYVItdzJnQXNrYzROM25CeW1lNGlGOHl5MkR4SzhyTlVsS3FCYW13MEtvS0ZLdFpKSzBiUkxGZFlLVGs1amRMT1VHZ19rV3piT01xQWhxZ0c0RFY1SlBoMzd5MjRma2ZyUDdORmhEaHdSd0lkOV80LVJDaFdpTVE?oc=5",
-      "source": "The Motley Fool",
-      "pubDate": "Sat, 28 Feb 2026 23:30:00 GMT"
+      "title": "Apple’s Chip Homecoming - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPRTMzRHBxTXlqR2x5SUhBeGVJVzgzbXlnLUk4OEVZOWwtRkVnako3aTlRaUUtRjJ0S1FUTVB3YUFKelVRVVdRa0ltX1djR2RCQzQ2WDJCS3U3ZlhxcHU1eGx5RC14aTlXUmItSmI1SjVRUlF0a3lSd0tyN0RoaklsTmQyNEduR2h0bG8yRERVdjlYZXZ5WDB6NHhBTzU3V3diSTQzZVVsamhfZGxQanhycm91ZHJWVHVMeElHcEtkcHFGZl9TZk40Q2ZRR01mNmlXZ2hyb09qWXpaX1dxZnJDS0QzQTcxQ2VwbVJmWWFTdDNoNGlkdVFJU19DZWk4LWtmbnNXS3AzYXk2Z1gwdFgzenVILVgwRVR3MER1UlYtTVdrMG5sRE93Z1Jwd2VGenB6ZjlwT2ZjaHh4Ujk2UWliMTljVndGa29qU1hRRmJXSTJKWGhzakNFTHRZOU45aW5DcWRmZmxKM2FQazZh?oc=5",
+      "source": "WSJ",
+      "pubDate": "Sun, 01 Mar 2026 14:33:00 GMT"
+    },
+    {
+      "title": "Can 'friction-maxxing' fix your focus? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVl9VRHdEVl9KSGNrT1pPVE5pRnZ3ZUF2NHhoWEVJc3lNN1JncEJ0Q0x0YTBmVzhKMFQ2eFBnY2IySTlvTG8xeGJhT2RIVld3NFBJUkRtUFpldk10dEZabTZXV0poZ0llVkR4eE5wNzV0X2VxM2F0OEFGSXllbDFObF9pNVc2UQ?oc=5",
+      "source": "BBC",
+      "pubDate": "Sun, 01 Mar 2026 02:00:00 GMT"
+    },
+    {
+      "title": "OTC Veterinary Technology students complete study abroad experience in Belize - Grice Connect",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUpEUFJlOGNfT3hfMUNZUUJMVHhVTU11UFM2WFVtWVpJRzJiOG5CWDVRYWpXSUdDcW54U0c2MEI5TTd6YWRQNDlxejlKeF8wQmkwQlJ1MHpaNktaUjFiX0hENVBiOWVhWnZlOURNb1AyMWloeEU1SEZ4YVo5Vmp0N19pZnRiT0FtQWxtM0k5eDZXMnphNHdJTGNVY0txU1B5cG84OUdZSzBjTmdqdDdESTF6R3hkUm5oOGZwZmc3OEJRLUXSAcgBQVVfeXFMUFQzN2theEl1dHVqcHpmbEwxN1dZaXJvaDJnY29MSXAyb0U1d0ZwQnVYcGg0bFFFN2VmWDVEcjZxeHI5eHFiellwMTd2aHRreW5JcVhFSlVQU19Ud1N0cmU2dXdJLWl6VFhXdEJDU2JQanNJRXZPV29fSWFocERCODE4RGlvc3lnazdoU05ybEFMS3hoT1hJcEFpSHZVc0tIanB1S3FZX0NKb0JNdm5OcDJVQlZ0cERwTlFmSDh3ZDNjeHl6RFhKeGI?oc=5",
+      "source": "Grice Connect",
+      "pubDate": "Sun, 01 Mar 2026 00:14:00 GMT"
+    },
+    {
+      "title": "Where Will Micron Technology Stock Be in 3 Years? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV1daUTZMYVdZN29ndHNjdDVHeHRxUHp2UE9IM0EweW5jOVFuLVdjaXJIYnRJQlN0Y091OHBwWHcxNnM3Znp3VDNfdU1TQzN1MHduNkxkMUhQSEo4cVlHc05hSU12eHBaZ1hpU2JtX191RWdmSjRrSmxfTFQwYUM4LVZjMA?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "Sat, 28 Feb 2026 23:50:00 GMT"
+    },
+    {
+      "title": "VBPD: ShotSpotter technology leads to arrest in Providence Road shooting - WAVY.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdXhaZkMxMTJNUnJiMjUtSk1EbFVEYm1uUVZBVlQ3d29SM3I0N1lPdzE3NkQtaUFhUC1MUDFXcy1PYXI4b3pSaTRvTmhDOGVYSC16SVFwQTVpeHpJUGxid2RqMnVNT0tVd254NWlBTy10ZjZYVm1DNTVXeGVpVkhIS3FaZDdRNmIyYVIzOHFvYkI3VTlHX2ZtWFpCY2ZhbW9nb1pyZGtKR3hXdlFVVG8wLXozbDlCWTRQQ0xaRHNsRVVrd9IBxwFBVV95cUxPbF9SMnVkVldVRjNzcmRDYXpSMUd0QzYxSFA2UGgwelhSMWRJWHVlMnY4OEtPUWNnSjRQWTJoMFpnemFIZFpuNHB3ejlMWVJKaE1ERTFNNGpjRFpiQXZOSlNza1ZHZW5YSkhmTjJFdU9tU0pmM045TE5sdWw4Y25YbG1Kd3g1a1RLcjVUOXJQY3hNdTNHSnY5dU5halRaN3JFOWF5VUtGNTBzdEFXZmJ1RnE3V0VfUVRTZ1p5N2NURlhtYUdKdVpj?oc=5",
+      "source": "WAVY.com",
+      "pubDate": "Sat, 28 Feb 2026 05:38:53 GMT"
+    },
+    {
+      "title": "Could a niche 80s technology be the key to better quantum computers? - New Scientist",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2lLbTk5MDQ1eXJRYnE1T0NLMi1jeUU4M0lFUmN1NENIcDBaWUd5QjFtbDZsWTZteXlGSVFDY0JaUDUxTmhVX05hcE8wbDVLLWNXajBMeDRNbWphX1Z6cXlJenVIcWV2RXhMUnczUlp5WG1BSEQtZEljYklnSHR1STNtdHd3dnlzXzZnazI2bWNjZ3l3X1ZKQURENjFIU1IzYXpMWXJ3dHB6cXFRM0NTYUR0SQ?oc=5",
+      "source": "New Scientist",
+      "pubDate": "Fri, 27 Feb 2026 09:01:41 GMT"
+    },
+    {
+      "title": "Women's Tennis loses 7-0 to Hamilton - Rochester Institute of Technology Athletics",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVk51QjNhR2tqOGpKSzdWelk2Vm4tOHMwY0NoRlJxVEp0WXVVUFE2NmZZM1VBMC1sWEFBZ0FfTEhTWUtmQzZXQXJCODh3TEVDTGpDV25aU1JFNmFrOVN1S2o3dDRHQy1vcnc1ZzlFQlhzR0RsejJsZ3Q4YXI1UllOSmQ2LUJHdw?oc=5",
+      "source": "Rochester Institute of Technology Athletics",
+      "pubDate": "Sun, 01 Mar 2026 21:30:19 GMT"
     },
     {
       "title": "Update: Milwaukee County Sheriff's Office decides against using facial recognition technology - Milwaukee Neighborhood News Service",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVhpOElBcjF4dnlmcUFEbmJiQ0NzeVlqVmVFYXdMVFdKVFdQRzdsVlh2eGRNNTR5dU9LWjN5VlhkaG0tbUN4YVR5SGY2MjRFUHVRTjZoZmMzNjVPWWU2NXhrTW9HMnQ5VWNzeGg5VEhmYThsQ0JlS2M5cWktRFJOVmZycTNQTElSbkhwWWZ4S0F4aC1rN2ltZUpHWWRKQzZTZm1wT3Fublcxc2NEUHdnbkNLU1FVeFlyRmtMbnp0TVNMQ2t6eExZ?oc=5",
       "source": "Milwaukee Neighborhood News Service",
       "pubDate": "Sun, 01 Mar 2026 17:51:12 GMT"
+    },
+    {
+      "title": "The Week In Technology, March 2-6, 2026 - Aviation Week",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUw4VXNCaUlhdDFhSHdyOTZOZkVlZXlfbXJ1eExQcVREdWk5TWZhMVhyTWc5ckgxYWNJQTRodFhEanFrNUUwb1FpMWlwb2JOOVlrbTQzYU9penREbDBsMnNoRTE1S3JJYWNtMzNhVUtCVTVaQkhfQ0szSk1ZOXozUS0yamswVHRKZW1aWWk4dVU?oc=5",
+      "source": "Aviation Week",
+      "pubDate": "Sun, 01 Mar 2026 21:03:31 GMT"
     },
     {
       "title": "ArcGIS Monitor at Esri 2026 Developer & Technology Summit - Esri",
@@ -86,13 +98,25 @@
       "title": "An Ohio newspaper has a new star writer. It isn’t human. - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkdULTBIamVJVTlMZWc5VXBRNlJ3YWd0WkhQQmxuZnlMVFdLdkdNNDAyRTRTd0FqS1dQVGZYM29OVlV5d0RZUUJLMkhBX1hZOWpSRFlBSi1BVTRoYWNNcm1nRm1MblBoeEtxMVBWckEtMGZnUGNwVnNfMkVuRzVBWW91VmxzQVItX3RxRXNkZ2VMdWZnQVlIekJFQmhxYTg?oc=5",
       "source": "The Washington Post",
-      "pubDate": "Mon, 02 Mar 2026 01:01:56 GMT"
+      "pubDate": "Mon, 02 Mar 2026 02:31:56 GMT"
     },
     {
-      "title": "Women's Tennis loses 7-0 to Hamilton - Rochester Institute of Technology Athletics",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVk51QjNhR2tqOGpKSzdWelk2Vm4tOHMwY0NoRlJxVEp0WXVVUFE2NmZZM1VBMC1sWEFBZ0FfTEhTWUtmQzZXQXJCODh3TEVDTGpDV25aU1JFNmFrOVN1S2o3dDRHQy1vcnc1ZzlFQlhzR0RsejJsZ3Q4YXI1UllOSmQ2LUJHdw?oc=5",
-      "source": "Rochester Institute of Technology Athletics",
-      "pubDate": "Sun, 01 Mar 2026 21:30:19 GMT"
+      "title": "GSMA and Wing announce Nova Future Summit, a new event for trailblazing technology and connectivity leaders - Gasgoo",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNHFWY1FISVV2R0t6TVg5WHpHV2FaV1VLZ1hQZEtuRjNKZVlPQVp1aFN1d3h2YU5qY3M2UkJXcXhMUTVzcnBBZnE2Uld1aVdSMi1DcGtPT0FmMEJDaGJUckxHRHp4ZTdMTS0zc3JWRDhYWmFFbHpqaWg2MnlNdG5XR0NsaW5qU0YyUFdCTlRvcnNlWDlfSUZWRUg1ZjcxVEJ2Ymd5SXIwTl8zclpVbnlUT1hFbEJRUWFqdnA1WFNReTVUMkpGSTBhaVM4bUVKSmJmaGtaV0FSMG5nZGtDaEVpUURnTDl2YmlfNUlLVFQtV3QycDVvSXJjeFNib2w?oc=5",
+      "source": "Gasgoo",
+      "pubDate": "Mon, 02 Mar 2026 01:50:40 GMT"
+    },
+    {
+      "title": "Canon: \"New Technology\" Compact Model is Coming - Canon Rumors",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pNHFyMlgxblRYYzZEeEV6QVc1UHU5VktWTDVTQ3lSQk9TakRlVjdwTTFKaVQybGJSdVU5UEFwWnFfcEZ0WFIxQWF5WVlRNlltanlhZ3Rmc2lJUGZ3aFlfSjNUOWdhVERVOWJJWXB5ckI2ejQxWUF0UVBpSEFsdw?oc=5",
+      "source": "Canon Rumors",
+      "pubDate": "Mon, 02 Mar 2026 01:04:15 GMT"
+    },
+    {
+      "title": "McLean County sheriff seeks $4.9M for single firm to provide all technology needs - WEEK | 25 News Now",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3Q2VXFTd3pYWi1UZXJBVVJEOFpwelQ5cHZzYm5rOVY4Mms3TTlKV3Zzcm43U3JlYWcxNWhlRjI5bDJHYXdaWHN3TU9vNURaWl95NS1kalFPUWNPN1hxbUhWUVFJT2lqRThIWjVJZ2Y5UmYxMjR1akZCV0VUdnlvcG83cWZaOHJiY2xMM29WVDFHTWRNNWZreFhNOWNTbm0xNVFwazlnMGZMc2ZsOTBR0gHDAUFVX3lxTE9acGhzNWpwcW1hNTJfZy1YUDc4WGNxSEdTWXpfNWpnN3J0WjJzOXZoNldRTkFnNWJ4eW1tRkN6MDd5cFdwZHlEZ2hEQ1JuVVJ1WjVTcjRaLVoyM1l1aGluNFVlcXotYzQ2Q3Z1MFMyeEN0RlpWSEZxVVY4aUVZSHBlZF9pRm1rSlRNSjhmdUIxM0o4NC1rby1aWk5pSjVBTXRoQzhVZXZVcDg0OHpuem82TzM1dkQ2ZW1zOE5QSjhrY1ZlVQ?oc=5",
+      "source": "WEEK | 25 News Now",
+      "pubDate": "Mon, 02 Mar 2026 00:12:00 GMT"
     },
     {
       "title": "VAAFM: New technology now available for pesticide application in Vermont - Vermont Business Magazine",
@@ -101,58 +125,34 @@
       "pubDate": "Sun, 01 Mar 2026 22:10:18 GMT"
     },
     {
+      "title": "Digital Turbine Appoints Ben John As Chief Technology Officer - Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVTRaMDVLVWRYX0phSWw5b0trUEVmSjFaSElaTVlZXzFGM3FxZmtaeENpUDBZbjFoSjczSlJNSFNlUVdiOXkxbUJVT214NXEwWFRqNm94RDBpcGlwOHVpMWE5eUdfRlRCR29UVDEzNWwyVTNTUkVReU0zcU9qQU1qNGlWMERDUEZS0gGOAUFVX3lxTE5HNkFUY0hhWkd2Q01kNkFrRlpxRWN2M0tGV1A1bDVveVRONmZhb0s2VFNwdjdVZEs1bU1sR3hhVVhoYUkydjZUNHN6N1poT1M0ZGZETVdzVlEtNHJnQ3NuUWZQVFFvY2xkMDJ3NmRQMEdNd21VY3EyU0tuVmRvU0kwdlJPdVJxRGQyWmFnbVE?oc=5",
+      "source": "Pulse 2.0",
+      "pubDate": "Mon, 02 Mar 2026 03:33:45 GMT"
+    },
+    {
       "title": "Gibran Jones discusses technology’s role in the future of work - The Killeen Daily Herald",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWGFNSVhMY2JONzYxd0MzVjNxZDdVVTgtUmIzdzJHeC1nNFZicmtYM1ZSRFhlOElTenhaaVd2cVhaXzZOaXZ1a3NQQjNOZ2dVbmp3ZDExTkVxdUxIR25zaVFJczFVS25UWXZTUTZrVVZRbURfMWxZaHNTenF6SjAtSDIxUElnZHVsY3FCRTRZcXFZYUIxTGl6WEVtZm02UC00UVJpUWFNbW1rNl9JVXV0VDlCdlVUMk41MXA0QUdrQ09wSExsQ01KYkNsM0N6NkxNSzJMdS1LR00?oc=5",
       "source": "The Killeen Daily Herald",
       "pubDate": "Sun, 01 Mar 2026 17:00:00 GMT"
     },
     {
+      "title": "Artificial intelligence (AI) | Definition, Examples, Types, Applications, Companies, & Facts - Britannica",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91d3p4QUEyLUdkaGwtSVItNUZLNmlxQWRMeC11aXpDaFl4UEl3QmZockRzN2NidmlJN2RnZGhHSzBNbU1zcDRCMEtIbVEtYWk4QXh3UkRabmVOMjJ1UmJxM2N6U3d6cUJ5c1dydmZR?oc=5",
+      "source": "Britannica",
+      "pubDate": "Sat, 28 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "A Look At GigaCloud Technology (GCT) Valuation After Record Results And New Buyback Program - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDdjd2Yza1p2OUJZMlZVbEtXcFg5c2luOHo0aVdBaUxidFNnbENNSWJEUjF3ajBvSnZnSWRGazRHOU9RTTIyY0NYd2pNdHJfaGM3Q3hHcUpDV2QyN1JnYVdTY2liazJLS3VNV0V4ajBtX3VRMVZ0QmNoX0xtWlFWS05mS3lHek52RDF4UlZ5WEloeHdObExGOWVqVkJvOTNCNlpzZWlDT0lyRWlfUDdBZV9YRER4MU5hTWN0TUdldGxDcU5PNzVZNFEyUGhYVG5IMkHSAdcBQVVfeXFMTVR0QXBUZEJIQlZEMDFTS1dUWW1PcGxmT0lnaVltRU82dFpfU0ZvbE81ZUtBZnEwb19rUVBTSlhYUGJlS3AyU0dNVWFib1NiVzFCbHVjOWhyWVdfYV96S1Q5bW1YWm9KX2VUenRhY25RQUVYenRpQUowZ1lVZW1YYUhNN2xWNnNaUlphQXpJMmh2YkVTNjZrUnpnQXFDYjNaWU5WajZnTnkwWnN2eXp2d1lUbHQzYXpHdDRWdkpOay0wbTVGdHlicG0zQzVlZG9aRmpVZXF2QnM?oc=5",
+      "source": "simplywall.st",
+      "pubDate": "Mon, 02 Mar 2026 01:28:10 GMT"
+    },
+    {
       "title": "Men's Fencing Places Fourth at MACFA Championships - Stevens Institute of Technology Athletics",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUpubjF1NXh2SkhOZjFRQ185bUMzUExkeTVUd3FmSEowMEx1QVE4dXBrQmR5aTc2RmYtLWZHOTNacTE5Qmt4a2xqQ1V0LVc5cERKb2lqWnE3elRVVmJsWTdZbF9qTTVJZ1B5MFZoR0c0ZkgtWW0yc2xFVWRfbmJ0b3dTalRmaXU1TnotU01KdFZSOWUydHYyOQ?oc=5",
       "source": "Stevens Institute of Technology Athletics",
       "pubDate": "Sun, 01 Mar 2026 22:13:10 GMT"
-    },
-    {
-      "title": "Trump orders federal agencies to stop using Anthropic's AI technology - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ySTcwN3FMUnN0ZzVaUi1lVjlBVWRHbnEzR1JZR2dHS3RQUHB2Nm1waDg4elpkY0FscEFXRDJnb3JfaGNfZERITnBYRF9ESl9kVlFVb0c0RmZXWFJLQ1hzb004aWZnSHdnZHI1a3VxdDBWUEpaNVdVU19JZ9IBgAFBVV95cUxONTdmclZiS0F2Y282a2tZZTl0R2tsczU5SjlEZG5OTWRRd3NuQmVRV29wWWQzdHVxV1JxMDB4SHFrdV9BYUFXNE5NbDlPYVhlN1lTV2lQWU8yLU9SU09HQlExWTJ0dmZxbmphWUc3dTQtTEdDVmZzNjBsY3JnLWE4eA?oc=5",
-      "source": "CBS News",
-      "pubDate": "Fri, 27 Feb 2026 21:05:00 GMT"
-    },
-    {
-      "title": "Is Alkami Technology (ALKT) Pricing Look Attractive After A 46% One-Year Share Price Slide - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWWg0NXdfTzVBelVHTDU1YUVVNWE5aGpuRmpRSFB3VDhRcXUyUG0tYTZ1dkpGZVNxM1htOUdnVWNWWGViTTVmVWNfdGJVbHhOUnRpc1JNTG1kdGh5V2M3VlN2U3I4U3BveUNfVzFKYlpNcVdSdVJ6OXF6UWxTanN2OW8yLUNkVVU5MnF6djNsU2M0RU4wY01JdVFmak1RMHEzdzdRcTNaVWNfTkFLWGo3ZXg4Q2NnZlBBcUE3LUxJSDJ1dTg5Z3hmWkpEZ09PTUZhNXfSAdcBQVVfeXFMUHRNOWE0OGQ4ZWp0Y01NeXdVc3YxMTByWGJ4Mkp2OEFZWmNsbk9zVlFTeENVNk94RHRpWTJ1V2V4aUh6aktndTNHR0dvQmNoSWxqQTFpZXM5eHR3NF85Nmk5SUFkYW1EVTRRN1NFVkhEOUdsRWZoRTM3R2Jta1pic3U1bGY4LVNHMmdZTjdjZUJHbU9XcWUzckxWM2xnMHVVZkY1VnkxSUZKVlJRVzJYaXpCNUVkMjJHY016SXFpUDU0bFVWY1g0MjUtVlJiSWp6SHhqZExLTzA?oc=5",
-      "source": "simplywall.st",
-      "pubDate": "Mon, 02 Mar 2026 01:00:00 GMT"
-    },
-    {
-      "title": "Modern technology is changing what is possible in Montana - Daily Inter Lake",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0lOSjF1endZYWZRSi12R3lSYXM1OWx3V1g5cVI1ZlRPTmtCdjFsUTkwcE1HcG13c2hDUWZCVDhVZnJCWm5xQmhoaE82aFpBNERYLWxpal9RNmotQnlTbGtmb1doeWtiMlJkemNsTUt6a1VwVVBFWGtMZVdtQWRSMXhZcWNwYnQ5dEE3cElTc3EzT1dqTVVqNERwSGZ4NzQ1TWVMNw?oc=5",
-      "source": "Daily Inter Lake",
-      "pubDate": "Sun, 01 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "OpenAI, creator of ChatGPT, makes its technology available to the Pentagon - KGW",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVTJ0N0Z5Z2xMVnl4b2dmRHVHRlpPa0VhdTBvM3c2NDFfV1o3LUxqV0sxSldtZlg1YXQ4eHBZSTJBYlFnSGlmWHlJN0puTVJQam9Gb2ZFRTlpd2tLd05na2pNQ2RNazJiQjFydWNOd01KaVZ1OVlBMHcxbklQYVUyYWlJUHR1bWF6OHBVU21heVY1Xzlxa0YybzI0X3FYM3dHTldieE9VNkdPamVw?oc=5",
-      "source": "KGW",
-      "pubDate": "Sun, 01 Mar 2026 15:41:00 GMT"
-    },
-    {
-      "title": "Why Not Ask Why: Neuroscientist Urges Educators to Reconsider Technology’s Reach - EdSurge",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmpRLUhLUkg3aVRuX3JEd2hvRlVlZ1Z6ZjlpTTlaWmdrQURkNFJjNFFLdjdYQnlaMlhseng5ejZQUTd4UkJXRmlLOFlvUEFIT01Ea2FaRFk3Ni0zX0NXQkF2RWZTZGNQRzFKWjJ5U2xKTHUzZmZDYTZ0VXN0UkdCa1ljNVgzZ2VPb3FTd2RVY3d6UVlGQ0lEVVRzU1VkRmRfRmZ3aVVHMmNnX0xhX0dNTTVaVmxwVy1nd0I4?oc=5",
-      "source": "EdSurge",
-      "pubDate": "Fri, 27 Feb 2026 09:09:42 GMT"
-    },
-    {
-      "title": "US strikes Iran as Trump limits AI use: Technology transforming conflict - France 24",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ080ZzNqNEgxX1VxWFdCdUxyaG1tTnJIc3RJY2JRaXRXX05sNEhrU3AyTElOc294dnA1QVM2OEI3OHREbkFaV3FjeE55dF8xazNPR1ZMNGxONHVGUkhtYWFsLXlqcVNwUTI3aWRNcHRqNzRGcTVTbkN3MjFzUW5BRUVpVVQyUGlFdVM0eUxxcmhPVlZlSUEwMGxkSld0VVpk?oc=5",
-      "source": "France 24",
-      "pubDate": "Sun, 01 Mar 2026 16:26:24 GMT"
-    },
-    {
-      "title": "Trump directs US agencies to toss Anthropic's AI as Pentagon calls startup a supply risk - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeHZZSEowZUhXcXIyRE9RRUcwNkhaaWtWYjMyWFdzZ2t1cGRNeUVRd3ZsZ2xnRHRjYVJfVEdYN2RBbFRPZVplSGt0WVpTd3hrVVNlaGlldE1VMWxkUUpUYVRYUE9NelVFc09aUV9RRGE5NWZhRVNXNFNoTEpKWklUaE80ZlFFcjVYZF9pNS1Cb2poRXE1VExtd3hjRndjWGU4eHZZSk4zRkd4ZXdadHY0ai0yVEtBNUVGTUZv?oc=5",
-      "source": "Reuters",
-      "pubDate": "Fri, 27 Feb 2026 20:56:03 GMT"
     },
     {
       "title": "Seagate Technology CFO Sees Nearline Demand Above Supply, Sticks With Steady Price Hikes - Yahoo Finance",
@@ -167,10 +167,64 @@
       "pubDate": "Sat, 28 Feb 2026 12:53:11 GMT"
     },
     {
-      "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety - Butler Eagle",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHdiVC1aTDBuc2ZtWnhkU0pJb0I2aC1UcjhRd295U3FVRWRqZHVwOE1TVDhUT0JKZUx3UUdfVGNIYWJ4WENDY29DU19lc2xGNWU5OEtBM3lFNG5heHFBOXlMRlQ2R09HNncxNWthbUw3eTBuV0pCYm5YNURwdW9nY0FvQVpIVzd5dkozRkFMR2p4TUtlMGlkZWpPZGlLM3o4NkZFTTJmUTF1MFQwcEt1UGtUZGdVQms0bndRUjZn?oc=5",
-      "source": "Butler Eagle",
-      "pubDate": "Sun, 01 Mar 2026 19:32:54 GMT"
+      "title": "Trump directs US agencies to toss Anthropic's AI as Pentagon calls startup a supply risk - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeHZZSEowZUhXcXIyRE9RRUcwNkhaaWtWYjMyWFdzZ2t1cGRNeUVRd3ZsZ2xnRHRjYVJfVEdYN2RBbFRPZVplSGt0WVpTd3hrVVNlaGlldE1VMWxkUUpUYVRYUE9NelVFc09aUV9RRGE5NWZhRVNXNFNoTEpKWklUaE80ZlFFcjVYZF9pNS1Cb2poRXE1VExtd3hjRndjWGU4eHZZSk4zRkd4ZXdadHY0ai0yVEtBNUVGTUZv?oc=5",
+      "source": "Reuters",
+      "pubDate": "Sat, 28 Feb 2026 03:52:35 GMT"
+    },
+    {
+      "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety - Federal News Network",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY25ZYURNbzZhd1dPUFg5T2hEOS1wQmduTjlYZjhYbzdYa2xmMVJMek1xdk8wQ1NNSm8wXy15RVVlb0VVTmxuRGVpWF84ZVdBZkN3aHp5NmRxWHhqX3ptbG5UR29TZjUxNGxhQTNFYUMzcHZ2Q0E1TUh2VEdoMml5MF9Ba3hrbl9VMVRuVDc3aGNObExxc1J1MVN0QVZoa2E2UGNiVkVqeVQ2b09OQnRub3JyaV9ibG1MR0VPQmhzcVBXd0lOR1ZkdlpuczJUcHYtRnY5bmJkekprSklL?oc=5",
+      "source": "Federal News Network",
+      "pubDate": "Sat, 28 Feb 2026 07:53:23 GMT"
+    },
+    {
+      "title": "Why Not Ask Why: Neuroscientist Urges Educators to Reconsider Technology’s Reach - EdSurge",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmpRLUhLUkg3aVRuX3JEd2hvRlVlZ1Z6ZjlpTTlaWmdrQURkNFJjNFFLdjdYQnlaMlhseng5ejZQUTd4UkJXRmlLOFlvUEFIT01Ea2FaRFk3Ni0zX0NXQkF2RWZTZGNQRzFKWjJ5U2xKTHUzZmZDYTZ0VXN0UkdCa1ljNVgzZ2VPb3FTd2RVY3d6UVlGQ0lEVVRzU1VkRmRfRmZ3aVVHMmNnX0xhX0dNTTVaVmxwVy1nd0I4?oc=5",
+      "source": "EdSurge",
+      "pubDate": "Fri, 27 Feb 2026 09:09:42 GMT"
+    },
+    {
+      "title": "Is Alkami Technology (ALKT) Pricing Look Attractive After A 46% One-Year Share Price Slide - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWWg0NXdfTzVBelVHTDU1YUVVNWE5aGpuRmpRSFB3VDhRcXUyUG0tYTZ1dkpGZVNxM1htOUdnVWNWWGViTTVmVWNfdGJVbHhOUnRpc1JNTG1kdGh5V2M3VlN2U3I4U3BveUNfVzFKYlpNcVdSdVJ6OXF6UWxTanN2OW8yLUNkVVU5MnF6djNsU2M0RU4wY01JdVFmak1RMHEzdzdRcTNaVWNfTkFLWGo3ZXg4Q2NnZlBBcUE3LUxJSDJ1dTg5Z3hmWkpEZ09PTUZhNXfSAdcBQVVfeXFMUHRNOWE0OGQ4ZWp0Y01NeXdVc3YxMTByWGJ4Mkp2OEFZWmNsbk9zVlFTeENVNk94RHRpWTJ1V2V4aUh6aktndTNHR0dvQmNoSWxqQTFpZXM5eHR3NF85Nmk5SUFkYW1EVTRRN1NFVkhEOUdsRWZoRTM3R2Jta1pic3U1bGY4LVNHMmdZTjdjZUJHbU9XcWUzckxWM2xnMHVVZkY1VnkxSUZKVlJRVzJYaXpCNUVkMjJHY016SXFpUDU0bFVWY1g0MjUtVlJiSWp6SHhqZExLTzA?oc=5",
+      "source": "simplywall.st",
+      "pubDate": "Mon, 02 Mar 2026 01:00:00 GMT"
+    },
+    {
+      "title": "OpenAI, creator of ChatGPT, makes its technology available to the Pentagon - KGW",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVTJ0N0Z5Z2xMVnl4b2dmRHVHRlpPa0VhdTBvM3c2NDFfV1o3LUxqV0sxSldtZlg1YXQ4eHBZSTJBYlFnSGlmWHlJN0puTVJQam9Gb2ZFRTlpd2tLd05na2pNQ2RNazJiQjFydWNOd01KaVZ1OVlBMHcxbklQYVUyYWlJUHR1bWF6OHBVU21heVY1Xzlxa0YybzI0X3FYM3dHTldieE9VNkdPamVw?oc=5",
+      "source": "KGW",
+      "pubDate": "Sun, 01 Mar 2026 15:41:00 GMT"
+    },
+    {
+      "title": "KDDI Intros Multi-AI Technology for Autonomous Base Station Optimization - The Fast Mode",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQUFuYmZHQk1tUmU1Y2NuRnN2elRMQmVTMTZ0MVhMVGdIQjQtTElDbUJ3emxBb2k0ZWY2OFlKNDJMVVBqOGxRSXNpaHZ4SXZSWTBTVTZPRngzTkRxYWlWeHFjYUljZjcxZDFockVWT21yRjBCWUgzcGRSeHZ4WXlGLVJKQTR0WjltaDY3ZVptcmpvX2l2ejBfNWp4VmpSaEM5aF9QUWdEb00zUldFWTB4UmZ6UGZqRkg0UWQtTUdwVWFJbHF3V3c?oc=5",
+      "source": "The Fast Mode",
+      "pubDate": "Mon, 02 Mar 2026 00:36:45 GMT"
+    },
+    {
+      "title": "Technology 1:1 Assistance - Columbus Jewish News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGpuUVdIaHk1amVTVW1rekVHcWhFOXdZaTVfOGYyZXlQR2Zmb1RTZHVKaERQUTRZRWNVNjVMeHR4djBFS0N3MXpIYW1IV2ZCMHdvMkFtRzJydVNsaHRtbWlmVzN5OFllUV9fMG92S2FxZUFtOGJnOEQ5RTVPOGttNU9FYzh0cEZka2NPX2hoUFEtM1lfMmRvVjBNSG1ONl8xTzRtN0J1UHA?oc=5",
+      "source": "Columbus Jewish News",
+      "pubDate": "Mon, 02 Mar 2026 02:25:48 GMT"
+    },
+    {
+      "title": "US strikes Iran as Trump limits AI use: Technology transforming conflict - France 24",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ080ZzNqNEgxX1VxWFdCdUxyaG1tTnJIc3RJY2JRaXRXX05sNEhrU3AyTElOc294dnA1QVM2OEI3OHREbkFaV3FjeE55dF8xazNPR1ZMNGxONHVGUkhtYWFsLXlqcVNwUTI3aWRNcHRqNzRGcTVTbkN3MjFzUW5BRUVpVVQyUGlFdVM0eUxxcmhPVlZlSUEwMGxkSld0VVpk?oc=5",
+      "source": "France 24",
+      "pubDate": "Sun, 01 Mar 2026 16:26:24 GMT"
+    },
+    {
+      "title": "Modern technology is changing what is possible in Montana - Daily Inter Lake",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0lOSjF1endZYWZRSi12R3lSYXM1OWx3V1g5cVI1ZlRPTmtCdjFsUTkwcE1HcG13c2hDUWZCVDhVZnJCWm5xQmhoaE82aFpBNERYLWxpal9RNmotQnlTbGtmb1doeWtiMlJkemNsTUt6a1VwVVBFWGtMZVdtQWRSMXhZcWNwYnQ5dEE3cElTc3EzT1dqTVVqNERwSGZ4NzQ1TWVMNw?oc=5",
+      "source": "Daily Inter Lake",
+      "pubDate": "Sun, 01 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Trump directs government to ‘immediately cease’ using Anthropic technology - Defense One",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3luTDhDcDBmb2laMmVjU1NXcGFUWURxQ3kwWlJrTGpjX3ZpaHY2Ym1qZGE2T1NScHI2VXVOSl92MHF3eFRTODBMSFBfVTFuQmRTVHFKb3NVTzRRRF81MjVRQlAyWE5ueWpiLUVlRURMWnczQVlybHRlelo4UXduWi1HRmVNUUNhcmtNS0ltaGcxWFZOYnVENTB3TlliTWphZk9jQmtVTFBUVDlwemVZYzlPYldtOUFyLUpYRg?oc=5",
+      "source": "Defense One",
+      "pubDate": "Fri, 27 Feb 2026 23:20:46 GMT"
     },
     {
       "title": "Earnings call transcript: Betmakers Technology sees strong Q1 2026 growth, stock dips - Investing.com",
@@ -185,64 +239,10 @@
       "pubDate": "Sun, 01 Mar 2026 11:30:40 GMT"
     },
     {
-      "title": "Digital Transformation Academy LIVE I Quantum Technology in Law & Transaction - www.hoganlovells.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWFTOUQ0U3ZZZWN1ckZ6YllRSVd2Z1pmUkZYUlZzS2NlSlBBMnFZT1pvYlZ2b21ydWsta3lWeUJHSzlYc3AyVFZ3R2xmWEpzQmZlazJUempoTlZ5RF9JY2tNZi1DNlNMTVV5RVhUeFFJSnF6Sl9reWNJdnVYWG9WOVgtWVFtNXI0anRhY01qQQ?oc=5",
-      "source": "www.hoganlovells.com",
-      "pubDate": "Sun, 01 Mar 2026 18:23:44 GMT"
-    },
-    {
-      "title": "Nomad merges with security technology company - Daily Inter Lake",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0VkbXpaSFRzWk92cUt6RHlhSFJtM2w4Y24tSHR0RDFqOWphVHdSaTRBV0Rxc24wbTVzYXItRWk4b2xxWUFJc00xNmlLc3c0Ri1nNjRXSU5jdzkyQXZ5TktUbmRYdk1jbmg4VVNVVWY5WklSY2lBOEhKZzBtNkx3VG95VmFTSzUzcllvckk1eGFSbE9n?oc=5",
-      "source": "Daily Inter Lake",
-      "pubDate": "Sun, 01 Mar 2026 07:05:35 GMT"
-    },
-    {
-      "title": "Trump directs government to ‘immediately cease’ using Anthropic technology - Defense One",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3luTDhDcDBmb2laMmVjU1NXcGFUWURxQ3kwWlJrTGpjX3ZpaHY2Ym1qZGE2T1NScHI2VXVOSl92MHF3eFRTODBMSFBfVTFuQmRTVHFKb3NVTzRRRF81MjVRQlAyWE5ueWpiLUVlRURMWnczQVlybHRlelo4UXduWi1HRmVNUUNhcmtNS0ltaGcxWFZOYnVENTB3TlliTWphZk9jQmtVTFBUVDlwemVZYzlPYldtOUFyLUpYRg?oc=5",
-      "source": "Defense One",
-      "pubDate": "Fri, 27 Feb 2026 23:20:46 GMT"
-    },
-    {
-      "title": "Artificial intelligence (AI) | Definition, Examples, Types, Applications, Companies, & Facts - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91d3p4QUEyLUdkaGwtSVItNUZLNmlxQWRMeC11aXpDaFl4UEl3QmZockRzN2NidmlJN2RnZGhHSzBNbU1zcDRCMEtIbVEtYWk4QXh3UkRabmVOMjJ1UmJxM2N6U3d6cUJ5c1dydmZR?oc=5",
-      "source": "Britannica",
-      "pubDate": "Sat, 28 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "The Real Sources of Bias in Low-Input WGS – Rethinking Fragmentation, GC Content and Input Variability - Technology Networks",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZm1BWEYtYnlWcFkzQkpXSDliUmxlX3Bja0FRcGZvV05pakRwckd6NHlSRU95czBIWnd6Z0JGaFZjb3IxRmtmc1FzQVBYNUlhUFVQeG5wak1FZGZ4RFBJMHlaXy01YWtfQ0J3MXd6T1dkdTJac0dIVHpoUTFUOUswa3Roc2N6cHhfVkxJNXlKdG5qSDhTSWd4Tk9vWnI0djczcjlrWFZhNEh0S2JQS0tkSTFublkwcDUxUjVhemFTZURBN1lta0ZOMDdtcU9NUWxMVWdtcFE1NXJyVGVrSXkyUUVqYkg4Zw?oc=5",
-      "source": "Technology Networks",
-      "pubDate": "Mon, 02 Mar 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Technology 1:1 Assistance - Columbus Jewish News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGpuUVdIaHk1amVTVW1rekVHcWhFOXdZaTVfOGYyZXlQR2Zmb1RTZHVKaERQUTRZRWNVNjVMeHR4djBFS0N3MXpIYW1IV2ZCMHdvMkFtRzJydVNsaHRtbWlmVzN5OFllUV9fMG92S2FxZUFtOGJnOEQ5RTVPOGttNU9FYzh0cEZka2NPX2hoUFEtM1lfMmRvVjBNSG1ONl8xTzRtN0J1UHA?oc=5",
-      "source": "Columbus Jewish News",
-      "pubDate": "Sun, 01 Mar 2026 20:25:48 GMT"
-    },
-    {
-      "title": "North Webster Community Public Library – Beginner Technology Classes Offered - InkFreeNews.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORThuVkZHdm1hRjN1WlV3QVVyR1NfWFJtRVR4N0Y5c280dVNDd2VyREZLaDJQSkN0c2g4dER2cTU2ZWFQcFQxQTdkRERzWUZoOE1lck1nRmhqNXl5X3ozWWNpV1Z0NzhiSml5cDlaSk5iVV9vRzA5VEVxTkYwOTB1V1l5REpkR0VHOERjSnJKbFEwWjNVa1lsU0xVaVNqWGlZR1F3cllyYlJyVURHeHlYZGxEa0Q?oc=5",
-      "source": "InkFreeNews.com",
-      "pubDate": "Sun, 01 Mar 2026 23:01:47 GMT"
-    },
-    {
-      "title": "'A tremendous leader': Solanco high principal to head career and technology center with student focus - LancasterOnline",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYTgyUUZaQnM3UjNjZ0gtMFI3SmJSSWZjUHR0S3RwLUFkcEhRNW5sRFF3VVFlSUVHM0JzZ3M4VWVQUWl0Unp3Q1BmY0ljUWZlYWI5bzl3S3JndDhzeEZjWDB2Uy1Qcm5pem1mSEwwdFdxdzVrdEVsanVzbDZvUGpsRXp4TG45X3B4Q2tYVHFLVlVsWTYtX1g5VzQ5bjJ1YThJNkZkOVhvNGx5MEtXeXI0NmZhdEo2ZXV2OHp3TkhYRjRCX3ZnTmNxVlBpYzRCZDJabW1mV09VYk1US3RucjM2WnlNQ1dfU1FWZHZuT2RqalBJRkNTanMyZzFvcTdOQ2JxNEVjM2dTQQ?oc=5",
-      "source": "LancasterOnline",
-      "pubDate": "Sun, 01 Mar 2026 10:00:00 GMT"
-    },
-    {
-      "title": "New technology to provide emergency alerts in Sherburne County via phone, text, email - St. Cloud Live",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLTZnM1VodTB2QnZxOG9icU1BbzlNTWFTYWszbVh0TzcyQ3RFaTFqcjQtMFZmS1pkb2tyaDdpVVNfYXFxbzdfMHdFWUs5bTZNZzdWcU9mVENBRFZxWG9YZzEtaWlISjhGZ3hLS1g3WWg0c3pZVGdqV2NYSXJpZjBtYmRBZmwxY09BeGg4TWRlaVNDSFVTbHU1MWVvVDNORy03OC1ZNVdSWWRLbzhoNk95MzBLNzFnellYT0RvMmZINA?oc=5",
-      "source": "St. Cloud Live",
-      "pubDate": "Sun, 01 Mar 2026 12:03:31 GMT"
-    },
-    {
-      "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWJ2QmVudEFJN1dOLVpBdXYwSEZtYzBzSmJwUERObVRENWlyOUhfTkNndHE5YjFBY0FCd0MxZWp4NXA2YlhOSGs2c2J6VHFSem9tT2p5Z2hNeFZNT1IxLUJwenZSMTJObmdhd3EzSWJPZWtyOVd0ZXBzdWdKMFNrVnRSblQ5MGdab2I3azRxYw?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Sun, 01 Mar 2026 20:47:22 GMT"
+      "title": "Inside Anthropic’s Killer-Robot Dispute With the Pentagon - The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQlBXUU5lanRvdnljcFRSeXNEVFU4TFJJckt1bGVRbTQzLVY2M3JDaEthekwwNFM3N2JxNWU3Q0RWSmJaaHlXX0ZwR3d6cS16eTUxSjBKbi0zZFFWZE9aZzRWV2paa01MZHpCR29vZVNja01fWk9zNkY4NVFzV0N5VFVMLXVKbkNrcDVQTHVEcWpnY2VNWU91cklTc1pMYXFyNmpuRzRjazd2SUEwYWh1SA?oc=5",
+      "source": "The Atlantic",
+      "pubDate": "Sun, 01 Mar 2026 15:19:43 GMT"
     },
     {
       "title": "Baseball falls to Mount Union, 10-7 - Rochester Institute of Technology Athletics",
@@ -251,22 +251,40 @@
       "pubDate": "Sat, 28 Feb 2026 20:33:30 GMT"
     },
     {
-      "title": "Clarkesville council to consider court technology fee, alcohol license - Now Georgia",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQmVlOXlHaTgzWmM0VTR4THh5Qmx1T1dnMTN6aHFhOERmbjN6aUxnb0trWUFDRjI1ZmNINTBWcDAwTXFDWWNmRnJJOFVhMlhScnNXOE1Fd2hBZTZqTUF3Y0pYaXZURHBNYnNWMG15NDhucjBkeDZwNXhGbWxHcmFTdG4xNEI2VjB4OXBCMWJsVktjQ202cTBOVQ?oc=5",
-      "source": "Now Georgia",
-      "pubDate": "Sun, 01 Mar 2026 12:54:23 GMT"
+      "title": "The Real Sources of Bias in Low-Input WGS – Rethinking Fragmentation, GC Content and Input Variability - Technology Networks",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZm1BWEYtYnlWcFkzQkpXSDliUmxlX3Bja0FRcGZvV05pakRwckd6NHlSRU95czBIWnd6Z0JGaFZjb3IxRmtmc1FzQVBYNUlhUFVQeG5wak1FZGZ4RFBJMHlaXy01YWtfQ0J3MXd6T1dkdTJac0dIVHpoUTFUOUswa3Roc2N6cHhfVkxJNXlKdG5qSDhTSWd4Tk9vWnI0djczcjlrWFZhNEh0S2JQS0tkSTFublkwcDUxUjVhemFTZURBN1lta0ZOMDdtcU9NUWxMVWdtcFE1NXJyVGVrSXkyUUVqYkg4Zw?oc=5",
+      "source": "Technology Networks",
+      "pubDate": "Mon, 02 Mar 2026 00:00:00 GMT"
     },
     {
-      "title": "Technology and democracy cannot coexist without privacy | Opinion - The Portland Press Herald",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHJ4ekZEcjZjMWs0TXJxbGRySE80MGoxN2hHTUhrOENmWGNnTnk2TUxGeW1tbmItaGU5TVRzQlZNSWVRWWZINU0tZ3pMb0J3b1M5cHBTcFVQbTVYLWxrTFgtaUF5SXowbEw5UWtjYW5XOUlidnpNbGpfVnp5VXR4THdVdXdPU2I3b1d1eWowWHB4aktfazdMdFVUV3I2cktVX29IV3BB?oc=5",
-      "source": "The Portland Press Herald",
-      "pubDate": "Sun, 01 Mar 2026 09:14:00 GMT"
+      "title": "Digital Transformation Academy LIVE I Quantum Technology in Law & Transaction - www.hoganlovells.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWFTOUQ0U3ZZZWN1ckZ6YllRSVd2Z1pmUkZYUlZzS2NlSlBBMnFZT1pvYlZ2b21ydWsta3lWeUJHSzlYc3AyVFZ3R2xmWEpzQmZlazJUempoTlZ5RF9JY2tNZi1DNlNMTVV5RVhUeFFJSnF6Sl9reWNJdnVYWG9WOVgtWVFtNXI0anRhY01qQQ?oc=5",
+      "source": "www.hoganlovells.com",
+      "pubDate": "Sun, 01 Mar 2026 18:23:44 GMT"
     },
     {
-      "title": "Top Technology Stocks Worth Watching - March 1st - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQVM0R0o4S3JYYjNnU3BWU1VTR1ZwYjA3ZVZ3aWx4MklhYVNVMEcyTUFhdmgzRUd0QUFaWkUyaEVFX1ctT3ltVmxtQi1kb0FWWEFvMWFfLWc3MTVQRHBYSGl1cUtNZ3dJSUxPUjhnTTh6WmUwOUtPOGgxQnZGdGxFQ2Vqb3FMSlI4UVF3WjJFY1NkaFkwYVI5TEpWb2FrbGZmYWc?oc=5",
-      "source": "MarketBeat",
-      "pubDate": "Sun, 01 Mar 2026 19:47:06 GMT"
+      "title": "North Webster Community Public Library – Beginner Technology Classes Offered - InkFreeNews.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORThuVkZHdm1hRjN1WlV3QVVyR1NfWFJtRVR4N0Y5c280dVNDd2VyREZLaDJQSkN0c2g4dER2cTU2ZWFQcFQxQTdkRERzWUZoOE1lck1nRmhqNXl5X3ozWWNpV1Z0NzhiSml5cDlaSk5iVV9vRzA5VEVxTkYwOTB1V1l5REpkR0VHOERjSnJKbFEwWjNVa1lsU0xVaVNqWGlZR1F3cllyYlJyVURHeHlYZGxEa0Q?oc=5",
+      "source": "InkFreeNews.com",
+      "pubDate": "Sun, 01 Mar 2026 23:01:47 GMT"
+    },
+    {
+      "title": "New Geothermal Technology Aims to Produce Clean Energy in Germany - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdW9YLWY4MnQ4bHdRNWI1M2FNZk5KdGFKcWlFZlV4bVJNWXJqb19JNi1vQUNpb1hLd2R2ZndSYWtjSEZLQTNkZHlUNTFFREpsUmh6Ym5RUkVxVV9HQVRncE1RY1VZLUd0YnNVeEtjQlc4aTJ2QUZXRGZCRVkxeTRoMThoLXJLRzQ0eHEwNw?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Sat, 28 Feb 2026 05:00:10 GMT"
+    },
+    {
+      "title": "Nomad merges with security technology company - Daily Inter Lake",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0VkbXpaSFRzWk92cUt6RHlhSFJtM2w4Y24tSHR0RDFqOWphVHdSaTRBV0Rxc24wbTVzYXItRWk4b2xxWUFJc00xNmlLc3c0Ri1nNjRXSU5jdzkyQXZ5TktUbmRYdk1jbmg4VVNVVWY5WklSY2lBOEhKZzBtNkx3VG95VmFTSzUzcllvckk1eGFSbE9n?oc=5",
+      "source": "Daily Inter Lake",
+      "pubDate": "Sun, 01 Mar 2026 07:05:35 GMT"
+    },
+    {
+      "title": "New technology to provide emergency alerts in Sherburne County via phone, text, email - St. Cloud Live",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLTZnM1VodTB2QnZxOG9icU1BbzlNTWFTYWszbVh0TzcyQ3RFaTFqcjQtMFZmS1pkb2tyaDdpVVNfYXFxbzdfMHdFWUs5bTZNZzdWcU9mVENBRFZxWG9YZzEtaWlISjhGZ3hLS1g3WWg0c3pZVGdqV2NYSXJpZjBtYmRBZmwxY09BeGg4TWRlaVNDSFVTbHU1MWVvVDNORy03OC1ZNVdSWWRLbzhoNk95MzBLNzFnellYT0RvMmZINA?oc=5",
+      "source": "St. Cloud Live",
+      "pubDate": "Sun, 01 Mar 2026 12:03:31 GMT"
     },
     {
       "title": "Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI - The Guardian",
@@ -275,52 +293,34 @@
       "pubDate": "Fri, 27 Feb 2026 21:47:00 GMT"
     },
     {
-      "title": "Baseball Edged by Montclair State, 6-5 - Stevens Institute of Technology Athletics - Stevens Institute of Technology Athletics",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTGpRTV91RTBCY0xITURNMDhrOEoyaEtmOUZkYnFaMm10VnJpbUZPWmpQNFNCZUZYMEdrdmVONlROaFdrNWpreUFYWjYySm1ZNk44SWlaYkRCT1FTRWVNc3o2aE42emZkaTR3UF9HMTdXNEMyOUJRQmdUVE9KZlFaWkdKNkVVN3VlcHc?oc=5",
-      "source": "Stevens Institute of Technology Athletics",
-      "pubDate": "Sun, 01 Mar 2026 03:35:34 GMT"
+      "title": "'A tremendous leader': Solanco high principal to head career and technology center with student focus - LancasterOnline",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYTgyUUZaQnM3UjNjZ0gtMFI3SmJSSWZjUHR0S3RwLUFkcEhRNW5sRFF3VVFlSUVHM0JzZ3M4VWVQUWl0Unp3Q1BmY0ljUWZlYWI5bzl3S3JndDhzeEZjWDB2Uy1Qcm5pem1mSEwwdFdxdzVrdEVsanVzbDZvUGpsRXp4TG45X3B4Q2tYVHFLVlVsWTYtX1g5VzQ5bjJ1YThJNkZkOVhvNGx5MEtXeXI0NmZhdEo2ZXV2OHp3TkhYRjRCX3ZnTmNxVlBpYzRCZDJabW1mV09VYk1US3RucjM2WnlNQ1dfU1FWZHZuT2RqalBJRkNTanMyZzFvcTdOQ2JxNEVjM2dTQQ?oc=5",
+      "source": "LancasterOnline",
+      "pubDate": "Sun, 01 Mar 2026 10:00:00 GMT"
     },
     {
-      "title": "The Limits and Risks of Sino-Russian Military-Technological Cooperation - The National Interest",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlNMNHhhWEJ4SzdsSEQ2SGJ3VHdSc2VMMTBnQ1BVMkFfejdtZW9wRUZCSnhLSnhpd2VoU3VsUklOWG16QnlGOTlzaTRaLUdJQzQxcWQwNC1VUGxSN2l6enRIbEZoaUJSVTd2bXpiM0NEM0puUmZ0V0p1bFVNOVhSalVZQlp0TTJ2VDdaVkpLUGVza2dhbWNITFJSNHcyRmFFaTA2M1hEek9ic0s4?oc=5",
-      "source": "The National Interest",
-      "pubDate": "Sun, 01 Mar 2026 19:05:31 GMT"
+      "title": "Clarkesville council to consider court technology fee, alcohol license - Now Georgia",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQmVlOXlHaTgzWmM0VTR4THh5Qmx1T1dnMTN6aHFhOERmbjN6aUxnb0trWUFDRjI1ZmNINTBWcDAwTXFDWWNmRnJJOFVhMlhScnNXOE1Fd2hBZTZqTUF3Y0pYaXZURHBNYnNWMG15NDhucjBkeDZwNXhGbWxHcmFTdG4xNEI2VjB4OXBCMWJsVktjQ202cTBOVQ?oc=5",
+      "source": "Now Georgia",
+      "pubDate": "Sun, 01 Mar 2026 12:54:23 GMT"
     },
     {
-      "title": "Delaware Poultry Industry Faces Critical Worker Shortage as Technology Demands Grow - Fine Day 102.3",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPalQ2aFpXdFpYSGZobUgwdkQ5cnJMN1h3UEVFTkJaaHpCZWlBVWtfajk0MVpwa1c2aE9udFNMR1JCczAyZHNERFQ0N3AzRGRKM1pQMlB5c2drdm1aN0MxMzFOSnFCalBHRmFaRVhRUWszTG5lNGduaGlYMU1fTVlVMmdIaFFLYnpxUG1ZWTdHRmxoYXNyeUxvVFJGcHpqOUlxZmx3b2ptcmctY2pjNHlxY0ZXTVdnWF9kbkFQenhJMTRFVXdULWtyUE9mZFA0SmJuSDNRU3kxeGo?oc=5",
-      "source": "Fine Day 102.3",
-      "pubDate": "Sun, 01 Mar 2026 17:08:19 GMT"
+      "title": "Drone light shows: Where technology, art and new careers take flight - news.cgtn.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXpYS25VdE0tMm5DbDJGb210R3BZekRwNHZ3YkZJYjU5cWYzMGZTSUUxc2NNOHQ0a1dSTkxsMldsbkNQTVAyWXJXTGVPY0ZESXZ3b1RPdlFoVTRkQXhuMHQwcEUzOTJQMC1PMUMxbE9xcGh1cEFMdHJta2Q5TzN3WG91dUVFclh0cmhNVW1FLVkxM2QybnVPb2xnUWFfcjI4SjRzZVVPVXIweE1MdG12aWJGcVRCVzg0aEJnc05KVFk?oc=5",
+      "source": "news.cgtn.com",
+      "pubDate": "Mon, 02 Mar 2026 03:20:21 GMT"
     },
     {
-      "title": "Ruixin Technology Plans to Acquire 51% Stake in Deheng Equipment; Integration Breakout of SME Parts Makers Accelerates - Gasgoo",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUGNHSnRjZW4xMlYtc1BHazhhNHZqOXVVM0Q2dlF3S2MtWUZ2UDRFNVhqNWdlVHBBM3NxRjJWUnpqdEpYRjFFaEJNNVZVUm5WZGgwU2xpSTd2azNiQXNkV3ZfX2d6Wk5TOHloQi1XWlloVU5IVzl1Zkd2RVM4dmtWdXE0VFN6RDJjZjZKTzBwRTVBZWVlSlJCQlc5MlpZZ2JHXzRLLUtIUkVvTnBUZWFiQURERmhnUE5rcmNQQ0o0NlFMRnNzSUhEaV9fR1FSZGdPUDVRUmRqbS1CRzdJQ2lwX3BjZW1vQk9HanNla0RXNjVLT3NtZWhuOWtRMHR6VTlfZ2JicjJtNngzdw?oc=5",
-      "source": "Gasgoo",
-      "pubDate": "Sun, 01 Mar 2026 05:54:13 GMT"
+      "title": "Technology and democracy cannot coexist without privacy | Opinion - The Portland Press Herald",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHJ4ekZEcjZjMWs0TXJxbGRySE80MGoxN2hHTUhrOENmWGNnTnk2TUxGeW1tbmItaGU5TVRzQlZNSWVRWWZINU0tZ3pMb0J3b1M5cHBTcFVQbTVYLWxrTFgtaUF5SXowbEw5UWtjYW5XOUlidnpNbGpfVnp5VXR4THdVdXdPU2I3b1d1eWowWHB4aktfazdMdFVUV3I2cktVX29IV3BB?oc=5",
+      "source": "The Portland Press Herald",
+      "pubDate": "Sun, 01 Mar 2026 09:14:00 GMT"
     },
     {
-      "title": "Library Happenings: Learn about financial security, gardening, technology - Superior Telegram",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYVRNbzUwMF91aXQ5R3ZNTmdUOE85WXdtelRpV09KVnRzb3YwYWZubXNYTk40TU1XYmx6STNIN2xjd1lhcHdfOEVfYVdsSzhOVmt2Y1RuZXJFSFEtZF9PTmJTV1hKdzNTMXkyVjJEYkdLTUxybEpZRVpiZ0VhSzhaS3BxazU1VFdLWWI1Wk9qc2ZMMV9PYlR3OVRsaHp5aGxaVE13dENRRmVxM09Ya0lpUFBXU2xVd002X3h3?oc=5",
-      "source": "Superior Telegram",
-      "pubDate": "Sun, 01 Mar 2026 16:22:11 GMT"
-    },
-    {
-      "title": "Technology: Huawei unveils new supercomputer - Table.Briefings",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2UyYU1uZXk2Z0Z5Zy1pemFHMkxnLUUzcndQQnUyN0pjVXdvcEZJcjFpa0tHRzRidUZhSTdSRGhkblowVHB6QmZPdWVKWEpKeGdzZ1NIQWVaTHZrMU04Nk1GWGhwb21xWGRfQVhwWVZWZFl5UUlnekhDSEFaWWJXbmUyOGtoZTA?oc=5",
-      "source": "Table.Briefings",
-      "pubDate": "Sun, 01 Mar 2026 21:36:28 GMT"
-    },
-    {
-      "title": "Tackling food waste and embraching RFID: presenting last week’s biggest technology plays at a glance - Retail Technology Innovation Hub",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRHczQnVBYVJrYjlSNGN2b1FlSDA1RTJmYVJfdzJfbENzZVc1b1dSSS1DOVBPVkZ3YU5TR19xTjhpd0dtUnFkcFl6RHN4a0hpT1lHRkhXc2dWVlhyRFlqMjhSS2Mta1JubDd6ZUNvTHlrNDRnQVF0SnBEcVZLblJTV2pJVWFsWTdXTWJybjN2THFCVGFBeUdmTUQ2TUxZZW5Ed042NXVjb2R1eDJuckFMQjZLejRzYkZ2MGh2aW9Nc25xUW5SRGlWam1GT0RHWmg0aFo4?oc=5",
-      "source": "Retail Technology Innovation Hub",
-      "pubDate": "Sun, 01 Mar 2026 15:17:54 GMT"
-    },
-    {
-      "title": "Ruixin Technology Plans to Acquire 51% Stake in Auto Parts Manufacturer Deheng Equipment - Gasgoo",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWnQ4NWRrMUpGNFlUcnBadmx3TXNWd2dMX2lVMUlXdGZ1bWVtYk91a05SWUM4RWNmYWtwaWtWYUJCRHEzYU1wRkRmLUpsQnkwcGMtS0RCeENtMllZWHVKZ2xXSFRHYXUxU2hhT2ZPaDFmUTRBVm5ocS12OUh4TGZHQXMzWG1VNk5NNXhYXzlXOFdwUlhJTE5TaktuYjJhX1R5bFNRcnNzQ0Jpcmhuc21MUzZoS0pwd2RsaGNGOWNvbFd0TXpjNUxkUk9HMmZ3X1FTZDdnWmF3N3B6dllRd3dYNjhiWQ?oc=5",
-      "source": "Gasgoo",
-      "pubDate": "Sun, 01 Mar 2026 05:03:17 GMT"
+      "title": "AI executive Dario Amodei on the red lines Anthropic would not cross - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3FFZ3hYMWJzcnRkc2xnNmM2SktMZkxjcW9PV1NUbEJoRzRLSURSVkV2MUVJWnVwdldkWHp1bW1oRG9hT0cxWkFxVU00VUtZbzdtS20tUENHX1pmWG5LQ1NzZDlvZ0UwaklWbjNpRWFnRkI4LUJtNmNUdWlYejVaaFVqdVh6cW5XdTRtUzV3U3picktFakNIZjJ3MEhsbkHSAaQBQVVfeXFMTUkxWmgtMEFwY0hxSWJ0UEpfcHRjd0w3UjFMQmd4a0o1QV9mVHNPWVRnSUFKcHRkWHlNUmMyZml3VG5EcWFfcmVXSkdRY3pMYUM3aVZlRVFILXM0Q0loZDc0X1BNYjQzc2wyaW1za200a09CQWhaNzBXcGp1ZjlDc0N5NWlPaDRyZ0xkMlM0QXlzWENCTXp1SkpDSUVjVk1EYjhTQ1E?oc=5",
+      "source": "CBS News",
+      "pubDate": "Sun, 01 Mar 2026 15:23:00 GMT"
     },
     {
       "title": "Women's Lacrosse downs Brockport, 11-3 - Rochester Institute of Technology Athletics",
@@ -329,10 +329,28 @@
       "pubDate": "Sat, 28 Feb 2026 19:18:30 GMT"
     },
     {
+      "title": "LEGO and Target bring immersive \"SMART Play\" Star Wars experience to Atlanta shoppers - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHkzT0tCc09SMjlpeUtjbldIS04xOElFUzFwWklLN2NMaDF1ekNIN1lRbnREN2Fnbnp2czNvdnFfTVdjZ0hvRXFJa3F5OE92RUJ5YVR4aFZ3NjVqV3hxMGVvbHhmeWRIQWpLS2pnLW1DMENUdkJuYk1MSmFPUDBhRWRobUdfdlhManB6Y3hCMjYzRzlLNGFKMUloLVNaNGZ0WTU2NFZ4Z3NwMFVYSHpydGlnUXVRWThRMDBMNnhR?oc=5",
+      "source": "CBS News",
+      "pubDate": "Sun, 01 Mar 2026 23:20:00 GMT"
+    },
+    {
+      "title": "Top Technology Stocks Worth Watching - March 1st - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQVM0R0o4S3JYYjNnU3BWU1VTR1ZwYjA3ZVZ3aWx4MklhYVNVMEcyTUFhdmgzRUd0QUFaWkUyaEVFX1ctT3ltVmxtQi1kb0FWWEFvMWFfLWc3MTVQRHBYSGl1cUtNZ3dJSUxPUjhnTTh6WmUwOUtPOGgxQnZGdGxFQ2Vqb3FMSlI4UVF3WjJFY1NkaFkwYVI5TEpWb2FrbGZmYWc?oc=5",
+      "source": "MarketBeat",
+      "pubDate": "Sun, 01 Mar 2026 19:47:06 GMT"
+    },
+    {
       "title": "Women's Tennis loses 7-0 at St. Lawrence - Rochester Institute of Technology Athletics",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaW8tNTZ5aF9KbmFkaHpEZnVKVmlSR2VpMUxZd0VQNE9Cay1KNGNuUUdIdTVzUXdpRFQxOVU1bFdnT3JVYW0xdENOMkZBY1NGTGk0Skl3VGJwaUVPNHBKbWRzaml6c3V1TUJfOXRsU3R1QW02RU8ySlJselM4blVzREFpTEdVSzlMMDMw?oc=5",
       "source": "Rochester Institute of Technology Athletics",
       "pubDate": "Sat, 28 Feb 2026 23:28:39 GMT"
+    },
+    {
+      "title": "Where Will Micron Technology Stock Be in 3 Years? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjRKSG9RWTd3QTBKMzR2c19tUDJhWWhjYVItdzJnQXNrYzROM25CeW1lNGlGOHl5MkR4SzhyTlVsS3FCYW13MEtvS0ZLdFpKSzBiUkxGZFlLVGs1amRMT1VHZ19rV3piT01xQWhxZ0c0RFY1SlBoMzd5MjRma2ZyUDdORmhEaHdSd0lkOV80LVJDaFdpTVE?oc=5",
+      "source": "The Motley Fool",
+      "pubDate": "Sat, 28 Feb 2026 23:30:00 GMT"
     },
     {
       "title": "Trump orders federal agencies to stop using Anthropic technology in dispute over AI safety - Military Times",
@@ -353,46 +371,46 @@
       "pubDate": "Fri, 27 Feb 2026 21:41:31 GMT"
     },
     {
-      "title": "Smart Multistage Technology Enhances Completion, Acid-Fracturing Stimulation - SPE",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXpTUURmVW9vNGlHUnRxTHl3Mk15RnRyNEJIRHlTRFh5NnFsTHo5ZnN2bGFqQUJaX0tmM3A4cnJIc2VSZDZzenlJeU50eHlib3pPY0FKYWxRMU9OTXFkUUZfMXRPTzFNaHBndDR1NDZpVmMxTk9abHNfbjZqS0lkYjZSV2JhOVB3WUZIYUxUdG56Y29nbUJHT1ZYN3NlczhfNWJMeHFQTW1Ddw?oc=5",
-      "source": "SPE",
-      "pubDate": "Sun, 01 Mar 2026 06:08:34 GMT"
+      "title": "Japan is betting big on AI. Few workers have used it. - The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZW0wbTQ0OEVrOFptZWRYSXhFcExZTjdBWmJzTW0xSk0zTFJXLVJLTkZJclJUdTY1OTZpdHpWbGEwajVxOVJYc3RHX1lScWhNczBxdHFjN0xlWHczYjVjNW9jV2pldmkzVjdZa3BPWmNCOUNwWFFiX0FfRmJ3RVJMSXFYdFBGbnlPamw4?oc=5",
+      "source": "The Japan Times",
+      "pubDate": "Mon, 02 Mar 2026 00:30:00 GMT"
     },
     {
-      "title": "Trump has ordered government agencies to stop using Anthropic AI tools - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11LURybnpFUDFzeDZTSV9BclBSTmVfTXZrYjgzZTcyNmpLMXcxS0Z1dU91S0VtRTJWaXptcjdTMlJvZTJFeU9aMXlJcmpPSmFmV1BLOWdMODdZQQ?oc=5",
-      "source": "BBC",
-      "pubDate": "Sat, 28 Feb 2026 03:50:05 GMT"
+      "title": "Library Happenings: Learn about financial security, gardening, technology - Superior Telegram",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYVRNbzUwMF91aXQ5R3ZNTmdUOE85WXdtelRpV09KVnRzb3YwYWZubXNYTk40TU1XYmx6STNIN2xjd1lhcHdfOEVfYVdsSzhOVmt2Y1RuZXJFSFEtZF9PTmJTV1hKdzNTMXkyVjJEYkdLTUxybEpZRVpiZ0VhSzhaS3BxazU1VFdLWWI1Wk9qc2ZMMV9PYlR3OVRsaHp5aGxaVE13dENRRmVxM09Ya0lpUFBXU2xVd002X3h3?oc=5",
+      "source": "Superior Telegram",
+      "pubDate": "Sun, 01 Mar 2026 16:22:11 GMT"
     },
     {
-      "title": "TV Tech’s Guide to Audio is Now Available - TV Tech",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQXB6LXZ6MnFXcHEtVndwUUU0UUtib0FFR0hXYVJ3d0VHSHo4LUhKSG9VUVFBcHZSbFhsdjZxSVBxbkJzaWZYZFhOQ0sxTGJOZnRaQy1XVlhibnJIbURBRVdjQU1VanRPU083YWhOVmhqZUxNVHlJRFJUREQ0WWl3TTQzREgwRVU?oc=5",
-      "source": "TV Tech",
-      "pubDate": "Sun, 01 Mar 2026 18:04:05 GMT"
+      "title": "Delaware Poultry Industry Faces Critical Worker Shortage as Technology Demands Grow - Fine Day 102.3",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPalQ2aFpXdFpYSGZobUgwdkQ5cnJMN1h3UEVFTkJaaHpCZWlBVWtfajk0MVpwa1c2aE9udFNMR1JCczAyZHNERFQ0N3AzRGRKM1pQMlB5c2drdm1aN0MxMzFOSnFCalBHRmFaRVhRUWszTG5lNGduaGlYMU1fTVlVMmdIaFFLYnpxUG1ZWTdHRmxoYXNyeUxvVFJGcHpqOUlxZmx3b2ptcmctY2pjNHlxY0ZXTVdnWF9kbkFQenhJMTRFVXdULWtyUE9mZFA0SmJuSDNRU3kxeGo?oc=5",
+      "source": "Fine Day 102.3",
+      "pubDate": "Sun, 01 Mar 2026 17:08:19 GMT"
     },
     {
-      "title": "Gibran Jones discusses technology’s role in the future of work - Temple Daily Telegram",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXhTTDhFZmwtUk5uQlhoZzhBNmdQTkNwRFgxVzRSNjIxMVY0LWhYY2FaZzgyd1FVY0tWd3R1YTBzOXhnVWdIRkw4REwwNFVmdHczQWNhc0RtV3h5U2JwSlFkaC1obGlCb1BHbEg3WERWUE9GVWF5RWpoQUVncmp0TlVJTFVnUGpFX2NCalVR?oc=5",
-      "source": "Temple Daily Telegram",
-      "pubDate": "Sun, 01 Mar 2026 17:00:00 GMT"
+      "title": "ASX Midday Sector Update: Energy Minerals Soar, Technology Services Struggle - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUJkWGNvSDNxNW9PbnFWZ3VUSTRJeER4blNfUHdpVlNTcjZMTzhHUWpPMWNxd3pvUDRYNkY1Tld5dzV3alJ3MXJZemsxUl9rcW1KVHZjd2JxN0J3d0xmamZrQUViWFdJWlZlNWV0NHozSVFKYVNLWXktSlNKYWZvZHE1RVBTcWVtaGc?oc=5",
+      "source": "Yahoo Finance Australia",
+      "pubDate": "Mon, 02 Mar 2026 01:52:00 GMT"
     },
     {
-      "title": "Contel Technology Faces Winding-Up Petitions Against Two Hong Kong Subsidiaries - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNckZ4LWxtMUYyU2pEZ2dNbXRicXZpaVpJelNrRGJ0UTJCZzJwaVZzR19yMWp5dlFhTzMyUHBsTHpnUmpncmFWY1ppVVFrUTg1czRiNmpBZGxDaXdwSjFEQzE4Njk5TnhGSjgxcGFCT25EbmVJd1Yta2lJbE1Hcmxxc05JVzJ4WUhjaC1zX0Y3TW1felo4UkVfMG5Pc0VwZlRmS3ZZNzcwZDVSenpWWHJnc3JwZGl4TkVUZXBFcDhwWjRFYXZYeTNrdFVCcw?oc=5",
-      "source": "TipRanks",
-      "pubDate": "Mon, 02 Mar 2026 00:39:26 GMT"
+      "title": "Tackling food waste and embraching RFID: presenting last week’s biggest technology plays at a glance - Retail Technology Innovation Hub",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRHczQnVBYVJrYjlSNGN2b1FlSDA1RTJmYVJfdzJfbENzZVc1b1dSSS1DOVBPVkZ3YU5TR19xTjhpd0dtUnFkcFl6RHN4a0hpT1lHRkhXc2dWVlhyRFlqMjhSS2Mta1JubDd6ZUNvTHlrNDRnQVF0SnBEcVZLblJTV2pJVWFsWTdXTWJybjN2THFCVGFBeUdmTUQ2TUxZZW5Ed042NXVjb2R1eDJuckFMQjZLejRzYkZ2MGh2aW9Nc25xUW5SRGlWam1GT0RHWmg0aFo4?oc=5",
+      "source": "Retail Technology Innovation Hub",
+      "pubDate": "Sun, 01 Mar 2026 15:17:54 GMT"
     },
     {
-      "title": "Driving technology closer to the craft: An everything-InOne approach - BIC Magazine",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVVHRElqXzhqU2NraWNGQzBQdk5zQ0dRSF9SSXRTdTFiY1NQYzR6SW1Nc1dXUEdQNEYwWm5uS2o4cFdoUDBSTXZTNDdFZlpzOUlteG9IVUpfSUhBcl9QS3VOUDE1alZRanNLRHNncmJBc01IaUI4TmJyanhtUldwVGNsLTBJaWZGeW5sOExydndyN3I3aE03aUhFa1FJOEIza1VmX3pCNWVoSW9KYU43clVLUmRZM0ZoamREWnZQb9IBygFBVV95cUxQSjF3Y1huUi03OFlsc2kwQ0VfRlZnX2pwLThtN2trXzdfTmlOVy05MFFOOVJ4WHcwejZFeFE0MUR3cmNtQk5DbHpjZUFXVDZWNUVpc2JwQ2JpcFFnQnFRdVl5aVNzRGVBOFpWOWdtR21oOGdvRjJ3eG1jcTJxUl9tOTRyMExlcHpJc3ZNVkJ5ZjJER21fckdSWDdwWDRQdTZWbmdCVVI4bE03ZEw4SVc5SnV4ZGF3MVhDZzRtZm9BcUZKZ0twUENJZmtB?oc=5",
-      "source": "BIC Magazine",
-      "pubDate": "Sun, 01 Mar 2026 06:29:02 GMT"
+      "title": "The Limits and Risks of Sino-Russian Military-Technological Cooperation - The National Interest",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlNMNHhhWEJ4SzdsSEQ2SGJ3VHdSc2VMMTBnQ1BVMkFfejdtZW9wRUZCSnhLSnhpd2VoU3VsUklOWG16QnlGOTlzaTRaLUdJQzQxcWQwNC1VUGxSN2l6enRIbEZoaUJSVTd2bXpiM0NEM0puUmZ0V0p1bFVNOVhSalVZQlp0TTJ2VDdaVkpLUGVza2dhbWNITFJSNHcyRmFFaTA2M1hEek9ic0s4?oc=5",
+      "source": "The National Interest",
+      "pubDate": "Sun, 01 Mar 2026 19:05:31 GMT"
     },
     {
-      "title": "Cal Fire using robot technology to better prevent wildfires - NBC 7 San Diego",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGFla0NUa21BcEZ4S3FBX3Q5eUZoOVFtVkhESVhvWFNHMVhrUi1LYnpHZjZEM0t6dVpIdlVqNUl0SnNmd3NlZzJndVdZUzdxQXVUYTk5Qm1TU3VFUlY2b285aTVMTnh1VTBFY1JCcFd2NEQ0SldxdTdqdXRjTVB3ZUdjVTZ5Mm5ON3dfVWtJemlBbXFBeTh0dFZCVlIxLUF20gGoAUFVX3lxTE5QMG16dUFmWEdHOTFVdU5SY0ZqY253enhnWkQtY1ljbWhmN0Y1VXpQT0VWM3BPU1AtRUhkUkRDcDc2YWUzZGNnOWlKWENQTFpLRC1ZcDlTMXQ2RWpoNUFOQ3E3YUNzT3V0bWxzcGM1SzZ5YTIxVGNFU3BuVi1jYW85NnF6OTU1NmwzY2ZVQ0RTSzJLTUM3b1haTlFWZW1RNjFGYkFRYkdJYg?oc=5",
-      "source": "NBC 7 San Diego",
-      "pubDate": "Sun, 01 Mar 2026 01:34:05 GMT"
+      "title": "Technology: Huawei unveils new supercomputer - Table.Briefings",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2UyYU1uZXk2Z0Z5Zy1pemFHMkxnLUUzcndQQnUyN0pjVXdvcEZJcjFpa0tHRzRidUZhSTdSRGhkblowVHB6QmZPdWVKWEpKeGdzZ1NIQWVaTHZrMU04Nk1GWGhwb21xWGRfQVhwWVZWZFl5UUlnekhDSEFaWWJXbmUyOGtoZTA?oc=5",
+      "source": "Table.Briefings",
+      "pubDate": "Sun, 01 Mar 2026 21:36:28 GMT"
     },
     {
       "title": "SECO 2026 highlights AI and technology advancements - Eyes On Eyecare",
@@ -401,22 +419,52 @@
       "pubDate": "Sat, 28 Feb 2026 20:28:19 GMT"
     },
     {
+      "title": "Trump Media & Technology Group in talks to spin off Truth Social - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RNGpPSENvYnJ0STFKdG5CdUJkanp1a2sxTmlSbGhvUmJTTGs4QUF2RVB3bEFlZ1pCdDhvaEpHOG5sVWdBTGJwYlVpd1hBMnBFZG9xb0ZDN0tQU28ybjNieTU4Q1Y?oc=5",
+      "source": "Axios",
+      "pubDate": "Fri, 27 Feb 2026 20:19:48 GMT"
+    },
+    {
+      "title": "Shengyi Technology 2025 Profit Up 92%, Revenue Rises 39% - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVDlEbERNc0VXeHgtWGI2c0pLWjNVMkxVMnZzYjQ5d3Z1VEtvRG02a1pUR2tKS0hMcXY0c0lJLXo2THlyUmUwazhlYVVEcDV5VTN3WklPaHZGMDVUMDJETnFQN0tEMDZsQjlPMUtfcnRXeFlncVNxS00wbVhCeklLWHNONzdNaTRtSE02NjdHcXBzcXFZWTJvek5WNHBiejd1c25aRTU2aHpFQQ?oc=5",
+      "source": "marketscreener.com",
+      "pubDate": "Mon, 02 Mar 2026 02:48:14 GMT"
+    },
+    {
+      "title": "Contel Technology Faces Winding-Up Petitions Against Two Hong Kong Subsidiaries - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNckZ4LWxtMUYyU2pEZ2dNbXRicXZpaVpJelNrRGJ0UTJCZzJwaVZzR19yMWp5dlFhTzMyUHBsTHpnUmpncmFWY1ppVVFrUTg1czRiNmpBZGxDaXdwSjFEQzE4Njk5TnhGSjgxcGFCT25EbmVJd1Yta2lJbE1Hcmxxc05JVzJ4WUhjaC1zX0Y3TW1felo4UkVfMG5Pc0VwZlRmS3ZZNzcwZDVSenpWWHJnc3JwZGl4TkVUZXBFcDhwWjRFYXZYeTNrdFVCcw?oc=5",
+      "source": "TipRanks",
+      "pubDate": "Mon, 02 Mar 2026 00:39:26 GMT"
+    },
+    {
+      "title": "Ruixin Technology Plans to Acquire 51% Stake in Deheng Equipment; Integration Breakout of SME Parts Makers Accelerates - Gasgoo",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUGNHSnRjZW4xMlYtc1BHazhhNHZqOXVVM0Q2dlF3S2MtWUZ2UDRFNVhqNWdlVHBBM3NxRjJWUnpqdEpYRjFFaEJNNVZVUm5WZGgwU2xpSTd2azNiQXNkV3ZfX2d6Wk5TOHloQi1XWlloVU5IVzl1Zkd2RVM4dmtWdXE0VFN6RDJjZjZKTzBwRTVBZWVlSlJCQlc5MlpZZ2JHXzRLLUtIUkVvTnBUZWFiQURERmhnUE5rcmNQQ0o0NlFMRnNzSUhEaV9fR1FSZGdPUDVRUmRqbS1CRzdJQ2lwX3BjZW1vQk9HanNla0RXNjVLT3NtZWhuOWtRMHR6VTlfZ2JicjJtNngzdw?oc=5",
+      "source": "Gasgoo",
+      "pubDate": "Sun, 01 Mar 2026 05:54:13 GMT"
+    },
+    {
+      "title": "Cal Fire using robot technology to better prevent wildfires - nbcsandiego.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGFla0NUa21BcEZ4S3FBX3Q5eUZoOVFtVkhESVhvWFNHMVhrUi1LYnpHZjZEM0t6dVpIdlVqNUl0SnNmd3NlZzJndVdZUzdxQXVUYTk5Qm1TU3VFUlY2b285aTVMTnh1VTBFY1JCcFd2NEQ0SldxdTdqdXRjTVB3ZUdjVTZ5Mm5ON3dfVWtJemlBbXFBeTh0dFZCVlIxLUF20gGoAUFVX3lxTE5QMG16dUFmWEdHOTFVdU5SY0ZqY253enhnWkQtY1ljbWhmN0Y1VXpQT0VWM3BPU1AtRUhkUkRDcDc2YWUzZGNnOWlKWENQTFpLRC1ZcDlTMXQ2RWpoNUFOQ3E3YUNzT3V0bWxzcGM1SzZ5YTIxVGNFU3BuVi1jYW85NnF6OTU1NmwzY2ZVQ0RTSzJLTUM3b1haTlFWZW1RNjFGYkFRYkdJYg?oc=5",
+      "source": "nbcsandiego.com",
+      "pubDate": "Sun, 01 Mar 2026 01:34:05 GMT"
+    },
+    {
+      "title": "Pentagon getting hands on Anthropic’s technology posed many risks - CSET | Center for Security and Emerging Technology",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2l1MlhOeU1GNnA1QkRuOThsaThRODIyN0t5TjJ2RmhGVU5aa3RVb1NBVFVNcm1tTHhqZnJ6Z3VpYUpMcUdUQVdMTTY2NkFmd01vN1Iwc19SNEhqTTNjUTNNQlRkQTZ0VGR1UjRPTnRZVFBPRHFBdTV4d3VXY1VVc0k2RVo4VmhtQjk3bmRmUVR3b1hsOEdYaWlkSll6ZS1rN1hJ?oc=5",
+      "source": "CSET | Center for Security and Emerging Technology",
+      "pubDate": "Sat, 28 Feb 2026 08:00:00 GMT"
+    },
+    {
       "title": "Is Technology Diluting QB Skills in Modern Football? - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2l1NkxTQnZBYmEtT0VkbjlsQmpwNDZMczd0N3M0a0YtTmp0VklHQ0ZQbHZCSWZYM0ZXaURaSnpJSG01NWlycXdpYTdRMU1jVVNYMGpPUjNOMTVCRVVfSnloNHBsM014SWlYRFhLTWZ4QlU1S2N6OXltZDZIdUZ5Zm5QbmhNSGZvbzVr?oc=5",
       "source": "Yahoo Sports",
       "pubDate": "Sun, 01 Mar 2026 14:08:35 GMT"
     },
     {
-      "title": "AI native stores reshape shopping experiences: our most read retail technology articles from last week - Retail Technology Innovation Hub",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbm9oY1ZpMVR5dTVmWmVKeWdqSEZXTjJDTnBCZ3FVNWJSM3JhRW1ObHFZc25NbnJXaDVJTjBtZko3aEFHc0V6clhDU09LRE81amxDa2p0dVRoZElPN2w2QldmRzlOU0dWSTUyNk5JVlh1aC10bFdVNkdSMlFXOTZmeFo1S0s2ZVA1Z2Vtb1doNlEzakNpU09MakFXNU9MbnEwYUJoWHRNeWZ2U1lxU1JZOUJWQW5VUTlTU19uaG9QM0VMVVQzRERFaTIydTNYTnlxMThnU3dpMGxFTVZXeldhdkl0N3FnQQ?oc=5",
-      "source": "Retail Technology Innovation Hub",
-      "pubDate": "Sun, 01 Mar 2026 14:57:54 GMT"
-    },
-    {
-      "title": "Trump Media & Technology Group in talks to spin off Truth Social - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RNGpPSENvYnJ0STFKdG5CdUJkanp1a2sxTmlSbGhvUmJTTGs4QUF2RVB3bEFlZ1pCdDhvaEpHOG5sVWdBTGJwYlVpd1hBMnBFZG9xb0ZDN0tQU28ybjNieTU4Q1Y?oc=5",
-      "source": "Axios",
-      "pubDate": "Fri, 27 Feb 2026 20:19:48 GMT"
+      "title": "Gibran Jones discusses technology’s role in the future of work - Temple Daily Telegram",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXhTTDhFZmwtUk5uQlhoZzhBNmdQTkNwRFgxVzRSNjIxMVY0LWhYY2FaZzgyd1FVY0tWd3R1YTBzOXhnVWdIRkw4REwwNFVmdHczQWNhc0RtV3h5U2JwSlFkaC1obGlCb1BHbEg3WERWUE9GVWF5RWpoQUVncmp0TlVJTFVnUGpFX2NCalVR?oc=5",
+      "source": "Temple Daily Telegram",
+      "pubDate": "Sun, 01 Mar 2026 17:00:00 GMT"
     },
     {
       "title": "Foil Leads Women's Fencing at NIFWA Championships - Stevens Institute of Technology Athletics",
@@ -425,16 +473,28 @@
       "pubDate": "Sun, 01 Mar 2026 01:30:20 GMT"
     },
     {
-      "title": "$12.2M Cal Poly Technology Park project completes second expansion phase - Mustang News",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtUUlpV25kSWNhRDdaSHFrTEtDeGwzWE1rajhsZ1ZIZUVJYzVQTW1ScjJNZHRYZDQxaWxnZW1yNmswanRGaGo4N0tOMTZYaUN4TG5xaEI0VGFiemVfUHpEalYwbw?oc=5",
-      "source": "Mustang News",
-      "pubDate": "Sat, 28 Feb 2026 16:00:00 GMT"
+      "title": "AI native stores reshape shopping experiences: our most read retail technology articles from last week - Retail Technology Innovation Hub",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbm9oY1ZpMVR5dTVmWmVKeWdqSEZXTjJDTnBCZ3FVNWJSM3JhRW1ObHFZc25NbnJXaDVJTjBtZko3aEFHc0V6clhDU09LRE81amxDa2p0dVRoZElPN2w2QldmRzlOU0dWSTUyNk5JVlh1aC10bFdVNkdSMlFXOTZmeFo1S0s2ZVA1Z2Vtb1doNlEzakNpU09MakFXNU9MbnEwYUJoWHRNeWZ2U1lxU1JZOUJWQW5VUTlTU19uaG9QM0VMVVQzRERFaTIydTNYTnlxMThnU3dpMGxFTVZXeldhdkl0N3FnQQ?oc=5",
+      "source": "Retail Technology Innovation Hub",
+      "pubDate": "Sun, 01 Mar 2026 14:57:54 GMT"
     },
     {
-      "title": "Homeowner shares honest opinions after ditching electric stove for next-gen technology: 'I low-key kind of hated it' - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnQ5RTZDRUpsZk5xOVFkRC1KOGl1bFBsZnpoVlVBWkhVN085TjBlQktGbXVKNTRMaGNCdHVCbEZYbm1rTVFVYUczZFc2VUN1YlZzWEZMN1dTdXcxVG1YV1FyRGJkSE1meHh1ZmhiWk1QUmhEY0dHekxfRnExVnI0U0dlMy1xRkF3WHgwQVJPaGFpZnZDZXgwcC0wTjZCbnVITm9NWmhia21TTV85dGhQcFFn?oc=5",
-      "source": "Yahoo",
-      "pubDate": "Sun, 01 Mar 2026 07:30:00 GMT"
+      "title": "Ruixin Technology Plans to Acquire 51% Stake in Auto Parts Manufacturer Deheng Equipment - Gasgoo",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWnQ4NWRrMUpGNFlUcnBadmx3TXNWd2dMX2lVMUlXdGZ1bWVtYk91a05SWUM4RWNmYWtwaWtWYUJCRHEzYU1wRkRmLUpsQnkwcGMtS0RCeENtMllZWHVKZ2xXSFRHYXUxU2hhT2ZPaDFmUTRBVm5ocS12OUh4TGZHQXMzWG1VNk5NNXhYXzlXOFdwUlhJTE5TaktuYjJhX1R5bFNRcnNzQ0Jpcmhuc21MUzZoS0pwd2RsaGNGOWNvbFd0TXpjNUxkUk9HMmZ3X1FTZDdnWmF3N3B6dllRd3dYNjhiWQ?oc=5",
+      "source": "Gasgoo",
+      "pubDate": "Sun, 01 Mar 2026 05:03:17 GMT"
+    },
+    {
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6QzB1R3QzSUVpQkNaR0RjWDB4eS1Nc0xtWnFYR2pFd1VtWElsVDVrVnNTX3U3dndMTkkyMGlOMXQ0Y2RVX3N6UENRQXRTQktqaUpjMTM2ZmVZZXQyQjM0elpvVjVJSWJYRk1RNE84OFRWWWxP?oc=5",
+      "source": "blog.google",
+      "pubDate": "Thu, 26 Feb 2026 16:10:01 GMT"
+    },
+    {
+      "title": "Baseball Edged by Montclair State, 6-5 - Stevens Institute of Technology Athletics - Stevens Institute of Technology Athletics",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTGpRTV91RTBCY0xITURNMDhrOEoyaEtmOUZkYnFaMm10VnJpbUZPWmpQNFNCZUZYMEdrdmVONlROaFdrNWpreUFYWjYySm1ZNk44SWlaYkRCT1FTRWVNc3o2aE42emZkaTR3UF9HMTdXNEMyOUJRQmdUVE9KZlFaWkdKNkVVN3VlcHc?oc=5",
+      "source": "Stevens Institute of Technology Athletics",
+      "pubDate": "Sun, 01 Mar 2026 03:35:34 GMT"
     },
     {
       "title": "TD Asset Management Inc Buys 26,944 Shares of Cognizant Technology Solutions Corporation $CTSH - MarketBeat",
@@ -443,10 +503,16 @@
       "pubDate": "Sun, 01 Mar 2026 12:56:40 GMT"
     },
     {
-      "title": "NFL and YouTube Bring Global Flag Football to 14 Million - Content + Technology",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0JhUkdIOWpNeFJ5eGRwNHZUdG93bkF6VGxVTFgwMjJveWZyQVVEcnRhYXM0UzhoNkRhVUw0RlU2a3BGWHJSRVNFWFpVb01PN1JEY0JFVV9PZUt4OUNHbDhxQ1V3dVZ6dC1IZ3doYURsU1lRQjE2SzdlUkdlX1JjXzBoUXpNbFZDRTNNbVpxSXZOYlhOQkZFYnpBNEdhMi1DalJ0czYwMHg?oc=5",
-      "source": "Content + Technology",
-      "pubDate": "Sun, 01 Mar 2026 21:20:24 GMT"
+      "title": "Smart Multistage Technology Enhances Completion, Acid-Fracturing Stimulation - SPE",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXpTUURmVW9vNGlHUnRxTHl3Mk15RnRyNEJIRHlTRFh5NnFsTHo5ZnN2bGFqQUJaX0tmM3A4cnJIc2VSZDZzenlJeU50eHlib3pPY0FKYWxRMU9OTXFkUUZfMXRPTzFNaHBndDR1NDZpVmMxTk9abHNfbjZqS0lkYjZSV2JhOVB3WUZIYUxUdG56Y29nbUJHT1ZYN3NlczhfNWJMeHFQTW1Ddw?oc=5",
+      "source": "SPE",
+      "pubDate": "Sun, 01 Mar 2026 06:08:34 GMT"
+    },
+    {
+      "title": "Driving technology closer to the craft: An everything-InOne approach - BIC Magazine",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVVHRElqXzhqU2NraWNGQzBQdk5zQ0dRSF9SSXRTdTFiY1NQYzR6SW1Nc1dXUEdQNEYwWm5uS2o4cFdoUDBSTXZTNDdFZlpzOUlteG9IVUpfSUhBcl9QS3VOUDE1alZRanNLRHNncmJBc01IaUI4TmJyanhtUldwVGNsLTBJaWZGeW5sOExydndyN3I3aE03aUhFa1FJOEIza1VmX3pCNWVoSW9KYU43clVLUmRZM0ZoamREWnZQb9IBygFBVV95cUxQSjF3Y1huUi03OFlsc2kwQ0VfRlZnX2pwLThtN2trXzdfTmlOVy05MFFOOVJ4WHcwejZFeFE0MUR3cmNtQk5DbHpjZUFXVDZWNUVpc2JwQ2JpcFFnQnFRdVl5aVNzRGVBOFpWOWdtR21oOGdvRjJ3eG1jcTJxUl9tOTRyMExlcHpJc3ZNVkJ5ZjJER21fckdSWDdwWDRQdTZWbmdCVVI4bE03ZEw4SVc5SnV4ZGF3MVhDZzRtZm9BcUZKZ0twUENJZmtB?oc=5",
+      "source": "BIC Magazine",
+      "pubDate": "Sun, 01 Mar 2026 06:29:02 GMT"
     },
     {
       "title": "William Blair Investment Management LLC Sells 89,462 Shares of Spotify Technology $SPOT - MarketBeat",
@@ -455,10 +521,22 @@
       "pubDate": "Sun, 01 Mar 2026 13:34:55 GMT"
     },
     {
-      "title": "2026 Acura MDX SH-AWD w/Technology Package Specs and Features - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOREZDcTRRdloxUE84TUNrRmw0RTNLOFhuMGo2dnNaTXg2SGlwMC1LblY3Zi1UaDMwWmxkODF1RHlsY3p2elNPeVdmZEN1RlE0UXNxazhTX2wtb29XYXdwSmNDelFxZmlCSnVfWG0zNlhFUzZDQ04zRDFySWIzUEJ3aThNVzdjcUF3WDZKakNsUnZJaGU0THNwR0tR?oc=5",
-      "source": "U.S. News & World Report",
-      "pubDate": "Sun, 01 Mar 2026 07:15:02 GMT"
+      "title": "Auto dealers invest $1M in MCC’s new Advanced Technology Center - WHEC.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzVCd1hrREhSckRlNTVMRlVXaUlyWUthRmlCQ0hIalg5ODEydTFxTUhIYlhVd0dyazZ5aHFabFplam1KbG9uSGV2LVBOWUlsQ09NVWwxOEZrMFNDSUVWcTB6cEhSUmdpeGFXUEIzQmtGSGVISGcwNFM2WmhQMURpMkZQYkp2RXRJQ081R2JrSy11Qms?oc=5",
+      "source": "WHEC.com",
+      "pubDate": "Sat, 28 Feb 2026 17:54:24 GMT"
+    },
+    {
+      "title": "NFL and YouTube Bring Global Flag Football to 14 Million - Content + Technology",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0JhUkdIOWpNeFJ5eGRwNHZUdG93bkF6VGxVTFgwMjJveWZyQVVEcnRhYXM0UzhoNkRhVUw0RlU2a3BGWHJSRVNFWFpVb01PN1JEY0JFVV9PZUt4OUNHbDhxQ1V3dVZ6dC1IZ3doYURsU1lRQjE2SzdlUkdlX1JjXzBoUXpNbFZDRTNNbVpxSXZOYlhOQkZFYnpBNEdhMi1DalJ0czYwMHg?oc=5",
+      "source": "Content + Technology",
+      "pubDate": "Sun, 01 Mar 2026 21:20:24 GMT"
+    },
+    {
+      "title": "Homeowner shares honest opinions after ditching electric stove for next-gen technology: 'I low-key kind of hated it' - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnQ5RTZDRUpsZk5xOVFkRC1KOGl1bFBsZnpoVlVBWkhVN085TjBlQktGbXVKNTRMaGNCdHVCbEZYbm1rTVFVYUczZFc2VUN1YlZzWEZMN1dTdXcxVG1YV1FyRGJkSE1meHh1ZmhiWk1QUmhEY0dHekxfRnExVnI0U0dlMy1xRkF3WHgwQVJPaGFpZnZDZXgwcC0wTjZCbnVITm9NWmhia21TTV85dGhQcFFn?oc=5",
+      "source": "Yahoo",
+      "pubDate": "Sun, 01 Mar 2026 07:30:00 GMT"
     },
     {
       "title": "Fortior Technology Sees Revenue Surge and Stronger Balance Sheet on HK Listing - TipRanks",
@@ -467,70 +545,10 @@
       "pubDate": "Mon, 02 Mar 2026 00:09:20 GMT"
     },
     {
-      "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVdxeGpTY3hXa2wwUTB6S2VyalRWc09hQjMxMUJaN3JpbDliMmFUR0dWenhYWmxmbzF3Ry1FekFJaU1RTGJURHdiZ2lUZE9QZHZfTEMyWVV3V19oT2ZDQnNJNXNQM3lBV1JKWWJrNHljQXk1eW9PUmJNdVRyMFRSX0VFZURJeVFJR2NmLVhtcm11RFQ3WGg3ZjJkOEZZUDQ0SkZWUw?oc=5",
-      "source": "AP News",
-      "pubDate": "Sat, 28 Feb 2026 04:13:00 GMT"
-    },
-    {
-      "title": "Big Tech ‘Leave Poor Farmers Sidelined’ In AI Revolution - Eurasia Review",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTFXX0R6SjVabFM1WnRiNG90dXBkNG5kQlVmbHhIdk1nU0lOc0xXeTdnN1Rfc09FZEJMaEZMX0x1aTR5NmtsSHNnTFl3MF9fOG4tVUZMdHY0VGRLTWVXNFEyQVlWVUE3ODh6S2FibVZBMGsyNjRPU0JhREQzUG9PTkJ5OHVTQUdpd2tWYVJUWXVuT2dvSnpkZ1ZB?oc=5",
-      "source": "Eurasia Review",
-      "pubDate": "Sun, 01 Mar 2026 23:13:14 GMT"
-    },
-    {
-      "title": "The Crime issue - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGZXpMZTJ5SGpvdFB1N1FISEpRakVqUEZGYUE1dXNySVg5a0gyeDNoUU9vSmNsVU9reEZwVVFOWVFvUHU0dFJrQ0I2UVRucjVrVGlwY051aDJZcjdJYXB0dFp3UHdJS3ZNY3NN?oc=5",
-      "source": "MIT Technology Review",
-      "pubDate": "Wed, 25 Feb 2026 11:02:01 GMT"
-    },
-    {
-      "title": "Sierra Summit Advisors LLC Has $2.10 Million Position in Microchip Technology Incorporated $MCHP - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdTZMNG0yUUNhdTg4VHFHdFBYZWEtWVJZaklTaktFcGdubkdGTjNIVUI3aTFHdHB3Y2Z0RS12R19xNVh6eno3ckJNeWFZb3JqSmV5ZGV5QXVINUxlV3BKRnNtR3lxZFozQnJFdEVSR0dSdDRRc3VSVnF1WGMyNzJKNG0zMUticGQyVXJuSnd5VlBULWZRVzR2VU5QYXhEbzBObFpFUjJrX2t3WklrWTMzaDBtYWFpMWZwTGpuREZ0Um5hblI4OTlfakVSNzdlQ19GNzAtUVRQR0JNZmN4VWdGWHJ3RXE3aXM0SWc?oc=5",
-      "source": "MarketBeat",
-      "pubDate": "Sun, 01 Mar 2026 13:39:00 GMT"
-    },
-    {
-      "title": "Auto dealers invest $1M in MCC’s new Advanced Technology Center - WHEC.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzVCd1hrREhSckRlNTVMRlVXaUlyWUthRmlCQ0hIalg5ODEydTFxTUhIYlhVd0dyazZ5aHFabFplam1KbG9uSGV2LVBOWUlsQ09NVWwxOEZrMFNDSUVWcTB6cEhSUmdpeGFXUEIzQmtGSGVISGcwNFM2WmhQMURpMkZQYkp2RXRJQ081R2JrSy11Qms?oc=5",
-      "source": "WHEC.com",
-      "pubDate": "Sat, 28 Feb 2026 17:54:24 GMT"
-    },
-    {
-      "title": "Trump orders federal agencies to stop using Anthropic’s AI technology - News 9",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPektORldscEM5aEplZzNvaTFOZXFGT0RYNDlERVVUQzhIb2RrTjNPY25CVmRpNUVZbHlCbDVTeG9UeGNoWGVrSE8xZl9TUnFnRUZwbi1pNU1sQUV5dXAwTzB5MzlYYzh3ZTRJRkpscW4tRGtqM2V2RmJaRGpUd0VjV0NBbGJ4NXNYTVdDdERhVWtKZWxJcWp1dGY3bnlhamVLT3NRbkJXdFpleTgzZnA3MUNFZnBoblRF?oc=5",
-      "source": "News 9",
-      "pubDate": "Sat, 28 Feb 2026 02:25:00 GMT"
-    },
-    {
-      "title": "Local man helps develop new mattress technology - KELOLAND.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQm1kOVVkX0FTUjlfZE92RkVDMVpKcWFhTUFCMUVpaTdLQ1hrVjdYZ0ptbjZLaTNqNTloYVNQNXFaRndYN0ZMTmJHbXB5TUNrRmFpb0tHcWI0Ynp2eDJOV1VLWUJ2RmFCYkNEc0owc0lkeWVDclhFQ0Y0QzdUTmppNXl1bXTSAYoBQVVfeXFMTnJ1bjJtM05NeU80SnZXWnBiSVBTNEFzQkRzT0huVjV6RHFLZENoMElIa0FwQ25rekIwRW93dUVOVnhmVGd5OGlabkVXQXhKX2EwNVlhNHVFR1lGd0t5ZUdCR3BkZHo4WmtuS0JOUW9zOVRrb0IyVzAwb3FSQXBrSHlRYU0tUlNHZTFn?oc=5",
-      "source": "KELOLAND.com",
-      "pubDate": "Fri, 27 Feb 2026 02:45:02 GMT"
-    },
-    {
-      "title": "XTPL, Manz Partner for Ultra-Precise Dispensing Tech in Asia - digitimes",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NZzB3d255VHZIWExSdlBXeU0wTlhJRm1NLUc1TWRiVVcxaE1IZzhKSTl4TzNaZEc1amFFLVB6U1BsQS1WUDhfM2lTUVJoNXJnZTc1VzRxMjdlVUpqb3AwMUNfS0FXMVNicmJVZ195TFQ5QkNIQzRXTVFRWQ?oc=5",
-      "source": "digitimes",
-      "pubDate": "Mon, 02 Mar 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Trenton Library’s Digital Navigator program bridges tech gap - thenewsherald.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXNTUzRyN1FwZVNDMk5xWjVWMVhla1JKVWhvODY2cVI3Q1JHNkZzNGhJN0c2b1hWa3hOR0hDZGsxN0NUZ1g1WHZhZzd6QTZMb3QtWGxXZ1JJZTRJM3BKckp4T3FKd2p6TUwzQVlsU3d4X3ZMaTAxWnM2Y09Yb3ZTQUlSX0liVHhSa1UtamRVcXM4RFRadEg4aFJXbVlSV1hiS3lz?oc=5",
-      "source": "thenewsherald.com",
-      "pubDate": "Sun, 01 Mar 2026 11:01:01 GMT"
-    },
-    {
       "title": "Rocket League 1v1 Esports Tournament (In-Person) - University of Arkansas at Little Rock",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aOTBzaXhDSFRWMUZrZHhncTI5V1ZlSG1wc1EyLUl1akhYWXpfR045M2UxS21ZdkZGVUQyeFppNExjU1FFdUtvVVFTVXFxcUd2S2M4Vk1rU0pWOWZoN1dQa1c0NXJtNS13allQTzlZUFJ6ajB3?oc=5",
       "source": "University of Arkansas at Little Rock",
       "pubDate": "Fri, 27 Feb 2026 12:09:33 GMT"
-    },
-    {
-      "title": "Nvidia AI Inference Processor with Groq Technology Improves OpenAI Response Times and System Performance - Technetbook",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalVSVk5tSlcwb0cyUzhUcHRyVzlSdW5ld2N3WHN1Y0xCUUgtaUJPRFdibmtQRnRQeUs1VHlOUmRUQ2h2ZkVIalRJZWoxaWlPcWFXcTRrb2pJcXNrRzBRalptUHkwZjBzWXlpN2hnczJ2amRwYXhWdHIyQlVOMlpHY0Z4Z3FCTnM4?oc=5",
-      "source": "Technetbook",
-      "pubDate": "Sun, 01 Mar 2026 13:51:00 GMT"
     },
     {
       "title": "Where Will Micron Technology Stock Be in 3 Years? - Nasdaq",
@@ -539,22 +557,28 @@
       "pubDate": "Sat, 28 Feb 2026 23:50:00 GMT"
     },
     {
-      "title": "Enlist E3 Expance Soybeans Introduced by Syngenta and M.S. Technologies, L.L.C. at Commodity Classic 2026 - American Ag Network",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONU54NlZrX0hmTHI0R2hEZ2xSYlZNTGFPVWU4eEhOcV95REVYM3JWenBPamxBemtVSmFxOTdrWmxaTXc4ZVFOTXp0VlhxbGMxYnNRRUswVjNfdUlBdUd1S2t1ZFQ5ZzBkczd4ZGM0c0xzNHYxOERHNno0MWJYZUxLbHN5WGlHSl9jVVVoZFRfMFdZaFdSZnJlZzM0YzVMeFd4ZEN3ZWMtZWJxdy1USW4zZWZfUzBvRTNTNVFIaUs4cTMzbmY3TldxckJLejNCakhoUXFvMFpNb3FPMkRlS1JkclZB?oc=5",
-      "source": "American Ag Network",
-      "pubDate": "Sun, 01 Mar 2026 22:08:07 GMT"
+      "title": "Big Tech ‘Leave Poor Farmers Sidelined’ In AI Revolution - Eurasia Review",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTFXX0R6SjVabFM1WnRiNG90dXBkNG5kQlVmbHhIdk1nU0lOc0xXeTdnN1Rfc09FZEJMaEZMX0x1aTR5NmtsSHNnTFl3MF9fOG4tVUZMdHY0VGRLTWVXNFEyQVlWVUE3ODh6S2FibVZBMGsyNjRPU0JhREQzUG9PTkJ5OHVTQUdpd2tWYVJUWXVuT2dvSnpkZ1ZB?oc=5",
+      "source": "Eurasia Review",
+      "pubDate": "Sun, 01 Mar 2026 23:13:14 GMT"
     },
     {
-      "title": "Align Technology, Inc. $ALGN Stake Increased by TD Asset Management Inc - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc3ZnaHhJNVluUWZkTGQ3cnlnR1IxMVd6d0hoY0xfUVZ3b1h0cV9jUjI2dHpFLVI4LWl1LTlWU2xJeG5KbXZIZTFnX2dyNnBUUGNkTUFCb2tYYm5OTEtxcmZaNzZCWFlSaE5LbUZCT2NCbzBiR2NpTWhVdThqWVh5Sjg3NGcwejdoUjJZZERQaXdVUE9jc0F0amhwVEloQ3UzR2s1MHZOQ05FQXhNYm5UVGpmNno5bkZ3V1ZQaDlaZkRTb0pXN3lIZA?oc=5",
+      "title": "Sierra Summit Advisors LLC Has $2.10 Million Position in Microchip Technology Incorporated $MCHP - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdTZMNG0yUUNhdTg4VHFHdFBYZWEtWVJZaklTaktFcGdubkdGTjNIVUI3aTFHdHB3Y2Z0RS12R19xNVh6eno3ckJNeWFZb3JqSmV5ZGV5QXVINUxlV3BKRnNtR3lxZFozQnJFdEVSR0dSdDRRc3VSVnF1WGMyNzJKNG0zMUticGQyVXJuSnd5VlBULWZRVzR2VU5QYXhEbzBObFpFUjJrX2t3WklrWTMzaDBtYWFpMWZwTGpuREZ0Um5hblI4OTlfakVSNzdlQ19GNzAtUVRQR0JNZmN4VWdGWHJ3RXE3aXM0SWc?oc=5",
       "source": "MarketBeat",
-      "pubDate": "Sun, 01 Mar 2026 12:56:44 GMT"
+      "pubDate": "Sun, 01 Mar 2026 13:39:00 GMT"
     },
     {
-      "title": "Donut Lab Battery Technology Reaches 80% Charge in 4.5 Minutes according to Finnish VTT Technical Results - Technetbook",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU1E3cElQS0JWQzNNZE8yMC0teW42ZTJlMUlEN201aGtxbVA1YkFRR3dudXVqZ3hzclpFZHhuNFFaSjVDR1hoTVd1N045WXk3UFlxSEdUZDVvOFpXbk1DUmhacGIxOUNqcjZmTGFLSUhBT3dtQzlNY01ISEdfWm1seHFYZGM0Nm43?oc=5",
-      "source": "Technetbook",
-      "pubDate": "Sun, 01 Mar 2026 14:08:00 GMT"
+      "title": "Trump orders all federal agencies to stop using Anthropic technology - Anchorage Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWk4YTJnYnJQMVdROXBRVWJ5MzB5Um52UWdXMVVxX0pnNXV0TXg4dFFrcGZBTFpMQ1BnY2E0OERzTzBDUEIwOTVHdWIyLXVrTDFud1RWdW9QaUxCOGptZ3lCZFFlZ1NZZXNtR043NDVpTGttT3ZITGZjMEZZM1d3b3R2V3VQbC1JaHhmWVFuRzdFc1Y1bkJBUXBsd1pmNGpVOC1veW1OOFN4UUNYejRnZzJlWQ?oc=5",
+      "source": "Anchorage Daily News",
+      "pubDate": "Fri, 27 Feb 2026 22:34:28 GMT"
+    },
+    {
+      "title": "2026 Acura MDX SH-AWD w/Technology Package Specs and Features - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOREZDcTRRdloxUE84TUNrRmw0RTNLOFhuMGo2dnNaTXg2SGlwMC1LblY3Zi1UaDMwWmxkODF1RHlsY3p2elNPeVdmZEN1RlE0UXNxazhTX2wtb29XYXdwSmNDelFxZmlCSnVfWG0zNlhFUzZDQ04zRDFySWIzUEJ3aThNVzdjcUF3WDZKakNsUnZJaGU0THNwR0tR?oc=5",
+      "source": "U.S. News & World Report",
+      "pubDate": "Sun, 01 Mar 2026 07:15:02 GMT"
     },
     {
       "title": "AI is rewiring how the world’s best Go players think - MIT Technology Review",
@@ -563,46 +587,22 @@
       "pubDate": "Fri, 27 Feb 2026 10:00:00 GMT"
     },
     {
-      "title": "Burger King Tests AI Headsets to Support Restaurant Operations and Training | - Restaurant Technology News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG9FOXNvd1VDaFI0MGFObVJJS2dLVUlhTWZwRzZhWlY0eG1QMjlwTERqR1JoOW5YeHRkbEpYV3h6WThoOEZhRVoyLW1lU3d6cFZMb0I3N2pjT0c4NzBoRDVQdDlMRHdtNUVhYkZsVVVBX1luNU9wRDZVTXVyMF9pUzhsVkwxaV9qQlpuME5TU0FLVnhrNmRZSEVCYjc4cFI1akQ3VkRjQ0Y0YTBTOE1NcENCalF5cERSc2pOQ3ln?oc=5",
-      "source": "Restaurant Technology News",
-      "pubDate": "Sun, 01 Mar 2026 18:47:07 GMT"
+      "title": "Beyond the console: Why women shaping gaming cultures are shaping the future of technology - IT Brief Australia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUVhRcVFBOGxSS0hiYm1CU0hzdERHb2gtSHpOcHVCRmozYkI0RWxSeUhkRzNUdURlNnFFV0g0TFhjRWJ2MGVfRmxFaFRLTnZlX29EZkswdTh3OF9PMTI2ck01UUNhVWlMWUlydXlaTnNoaFMxcWR3VWt3TVc0dHhWaGNFdjk3c0dMakNPeW1KSUktck5ldDFjaVhhUmVTRkFMTFBmY0NRWHN3bTA2R2lVXzZyYWNxLXZheHc?oc=5",
+      "source": "IT Brief Australia",
+      "pubDate": "Mon, 02 Mar 2026 01:35:00 GMT"
     },
     {
-      "title": "APG Asset Management N.V. Buys 11,700 Shares of Micron Technology, Inc. $MU - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUNQU0pTc3J6RVNIRnNrbGlFR3c2MXVUY29vV3JoQ200d1l0SDZlM0otTjRJSWR0c2RGVFpxY3RnZ3k1MkpEVldfYkdqbElSS0JRZi1JTjlNWUh0NXhRM0xPc3BUX2NGQzlscE0xVDh2SmdES2hwZGhjaDFWaE1LNW9Bck95WFMySDBoY1NTcUVpcHRncFhkemE1NFdHZ3FCMjlKX25HME9JS21LRmllbEdIa2hyaVJzSW44Q3FxXzhTZ2wtZWdGRjl3?oc=5",
-      "source": "MarketBeat",
-      "pubDate": "Sun, 01 Mar 2026 08:50:38 GMT"
-    },
-    {
-      "title": "Granicus Standardizes Government Infrastructure With Wowza - Content + Technology",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTW5sT3VHWnh6cVJmZlVVT0pSejhoOGxqeUp1YlBUUzYwSU9DWHdqZ1FDb3JpQmhTdmpCOC1qcEZIbXpkQ2h2UUVJVFJiNUJ2LUEzM0J1ZWVYaVNxRTk5Uzk2c21CQ3NFaEtTUzdhclEzTzVocDJ4ZHFSRXJsYy10TlpLb3N0WExxNW04Z2FDN0JmRjRvZ3FSc3FOY1RwV1BFcGxNNFB3bnBVVnkwUXlhTlhITng?oc=5",
-      "source": "Content + Technology",
-      "pubDate": "Sun, 01 Mar 2026 21:03:12 GMT"
-    },
-    {
-      "title": "Monashee Investment Management LLC Acquires Shares of 200,000 Figure Technology Solutions, Inc. $FIGR - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQczVLTzA1SHZGdzEyN3g2VmdfM2J0b0ZLOEZjeVk0UWFJeXpRcUpyM3I1Und4RGVEWk55QWEzd2plcUJWMVZJaW5YVkhQeDJTVU1WZkZ6MkpjRFVUazVpWlpRYVA2dVBkNTR0dGVJdkJ1Z1c1Y09ic3g2MUc2aVhvVDRvb1ZacThkdC04MVFmNXRCRnZxMlQxQmppeXpqZi1sYzZZVXBsZG5zZVpMTjRMaERVMkIzMXFDQlotOExZN25FMF8zWUJ4b0VCck5mdUtlUFRFWjg5d1VZM2luUFYtbTJ0ZTBHMFk5Q2ZwQ2JPZw?oc=5",
-      "source": "MarketBeat",
-      "pubDate": "Sun, 01 Mar 2026 12:30:49 GMT"
-    },
-    {
-      "title": "DNB Asset Management AS Has $10.85 Million Position in Seagate Technology Holdings PLC $STX - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWXRqZV9BTmhJRkR6WGc1SnFMYzZwSmZjaExBcng5b2p5ZENNNlBreWJKeEJpZ2N4RU9BMWFtN0RCaXVWcGd2amc4R0lnN3otMmJQODZqZHN0ekNGNmRLNC1NWjBZamRPSlhsOWJTenhlSjZxVXJiS21UYUh4bFcyT3lhYk1tMWJxbkM4T0xnVGdCbzlGYTBoMzRBTThIcmFpbDRRTW9zcTY1MGdBUVdIT0xkQTRoQzZNdVRvaHdOTHRsRVhsUEktMmlLZnR4c3Ftc1VXSVNXcnZ2Tm1VYTF1NFFSdw?oc=5",
-      "source": "MarketBeat",
-      "pubDate": "Sun, 01 Mar 2026 11:07:55 GMT"
+      "title": "XTPL, Manz Partner for Ultra-Precise Dispensing Tech in Asia - digitimes",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NZzB3d255VHZIWExSdlBXeU0wTlhJRm1NLUc1TWRiVVcxaE1IZzhKSTl4TzNaZEc1amFFLVB6U1BsQS1WUDhfM2lTUVJoNXJnZTc1VzRxMjdlVUpqb3AwMUNfS0FXMVNicmJVZ195TFQ5QkNIQzRXTVFRWQ?oc=5",
+      "source": "digitimes",
+      "pubDate": "Mon, 02 Mar 2026 00:00:00 GMT"
     },
     {
       "title": "Trump Orders Federal Agencies to Phase Out Anthropic Technology. Here’s Why. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNUkl6UXBaNW1VeDhNTjVlcXlDY1REQmpTbkNOY3NjdFVIMlpfcGdsdHdWU1B4ZDhsYmRZM240N0huMWJPNVlaZ2pXV3U2RnFtUkFBSXJCdmlQeXFlb2lHWnJWV0k1NFd0RXJoWHZTOEZseU5IQnZ4Tm1RZFhqVkhZeWZMNzh3YlVabFZaZmpoWExpMzA5NzJkak5RYV9MWWhEZm1hUk50OW8tMWZVQVhMWU52QkRSYWNPQTFsSG9lMXJvZzBsbjNod3k5MkpFQWk3RVczcVZ2S0dLWkx3Z1NVeFZuTWxPOHltbUlydkVBRkljV0pxVkZQVUdvWTYwTzUxdVRRNHBpNk02SFp5TE55bm5yMmlpVXRLa2Y3a3VRM2ROS1J5aWVPLW5XVV9zM3pYQzdxOXFyWWFYRi1pbE9vdGdTby1wNXJGWmt5el9zUUQ3eFo2TGlOYUU0c3BJSnFvV042V25mTEp0c21SN2s2b3VTdXNUMGgtR1FtVzZ6alduS2lSWk81WGpRVWkxZGVWUXpPRHZOYU5WSFh4b1htRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOVUNBamFxaGZiNGQ3azFidE1GekNrZDJqWTZPQk9uQVNybG5zaC1ralRVdlVScE9aemo5eFBUMlNYYXl6Sl9kZkZfVU9tbHZYU0JsZ3JXTEhnaHVHYW1lY3E4Z3laMU14N2FhVnFRMktRY0hMZk1odkp1RTVmX2tMM1BEUjg0dlhvV3Rrd2VUZHVHM0pHMmF0M1FjNU5RZGRzYldpRlZ4VmlxYS1peml2UEVuZjBaNG1oUnlSWmtDV2gwdFZ5akNFclFrUlI4NjhMcTA1Wkw1TktrRHozWW1iMWpqMjlZd2tXX09mWDI3d0FTUGRyYU5Hbno3WkxpaENXcm1KTzRmVWpDWmtHeGJKX01fZnJ4U2YwdEM1VmtUdXdSbkw5bkFxcU1CZTJQR3lYSG4yN21WeXFfS0xVTnR0eGxEU013SEl4QzZHbjZ0ekdWSk1UTG12T1kwR01EVFRSMXkyWEtQclJUZEw5U2NPQlZGaXp3RmdTRjk2U2ZyTHBtU21Gd1BodTZVNG0ySGlndHJmUzFybzlLUnV3MGJSZA?oc=5",
       "source": "Barron's",
       "pubDate": "Sat, 28 Feb 2026 17:51:00 GMT"
-    },
-    {
-      "title": "Transforming procurement through intelligent technology - KPMG",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDVxN2NUcW5nSEVWRXRybEVSeFFuWEZZNjRFbVNwX2MwNGttMkxGMjBUSUtERXdNQTIxS0NaT2Nud2hBQVhMc3NTem5JcXl6NWMtWDdfYXdQdU1hWlB2dUpiM1FaaTBjOFpEVVU2NWlrRWJrX1VNUkp5S0F1LTVnVGZYTDVSVlBvWUtfMGVTNk94bHNjNGhFNjVDNTBOVXd5VzZ3NA?oc=5",
-      "source": "KPMG",
-      "pubDate": "Sat, 28 Feb 2026 21:21:17 GMT"
     }
   ]
 }
