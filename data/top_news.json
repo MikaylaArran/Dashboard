@@ -1,608 +1,128 @@
 {
-  "generated_at_utc": "2026-03-02T21:54:40.323469Z",
+  "generated_at_utc": "2026-03-02T22:16:26.710323Z",
   "category": "all",
-  "language": "en",
-  "summary": "Top headlines pulled from Google News RSS (free, English). Category: all.",
+  "language": "mixed",
+  "summary": "Top global headlines pulled from GDELT (free).",
   "articles": [
     {
-      "title": "With Iran's World Cup place in U.S. put in doubt by war, FIFA has Iraq next in line - PBS",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZElKcFpjQ1dYdk9VUGpHaW81NGJkTDdSd25BbHZiamxybEdWOXBhN0xSaEF4UVBYWmpwNHpQMk1DQjVPV28xTHRwUEpKbG13Zk1fdXBTUnUzbkZoR01EZ29UVFNXaHRsYXNtNkRfQUFMM2FZM0dTZ0puMEV1SGZEUURVSG1jR00taDY5aU4yczE3cVRpNGZRVDI3VWRrS1ZfMkpDajBoTmM4SXlmeVk3UlFVVWNyQdIBuwFBVV95cUxPZ1pvRFRZQ0NZMUpRWmlCMkxzQ0NZa0xreDNkZkhHMDlMaE9zWkVMV1k5U3J2SFV5N1VSTnd1MkViQ2F6Q1pFZU0wTGFPTDA3cXRjQzQ4MVBlQUl1RDFIYmxBUFdrMFlrUmg3WlVHZFM5V1prY0pWX0h1cGsxTU1waW9MNDFOa09YbFBBX1lPb1U3Mmstc09fRWtlZWQwWkgwMUhSV0sydTZUQl9UR3FSTV93VWZOZnBaSFNJ?oc=5",
-      "source": "PBS",
-      "pubDate": "Mon, 02 Mar 2026 21:31:56 GMT"
+      "title": "Напад на Європу - латвійський банкір пояснив , як можна уникнути прямого конфлікту з Росією",
+      "link": "https://www.unian.ua/world/napad-na-yevropu-latviyskiy-bankir-poyasniv-yak-mozhna-uniknuti-pryamogo-konfliktu-z-rosiyeyu-13258710.html",
+      "source": "unian.ua",
+      "pubDate": "20260118T091500Z"
     },
     {
-      "title": "Iran's soccer federation says World Cup participation in U.S. is in doubt - PBS",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGVfMTBvdWVZYi1XUjVMcFFUNHYxaGFSREktWENfUkdabmp6M2ZDaVJWOF9IaloyaWlBZE5ZaXZRcVpmT3ctcU5hYU9tdmtjLVo1UVJDMC1xdmJUT2dCaVF4eXB3UGYtZEw3MkJwbFVVM3BaR3F6MkFuOEZTQzlrZ2NoampzcWVxSmtRYndTVklzRVI4WnJobXJzN05FaGpabGFSbW1KWmVVUdIBrwFBVV95cUxPdm5CSG9OcDNEQ1NDTXZKNzVDX29LZmZNb0sxY242YVkyeENodExCYW8xZ2lnTUdwVUhmbW5uNUlQUkNLcVV6ZlNsWGs1SUlfRmFvS2ZZQnZsZWQwY3h2ZmJPemJzZWJIU3JqbXhUMzQ3aEN4TTZzcGRsT3YtczdEX0JDMjhJam5PNmxwWDA4MVd2bUxTS1NaZzFMY2xPRjlIOXRqck5kcC1xcGZtS21B?oc=5",
-      "source": "PBS",
-      "pubDate": "Mon, 02 Mar 2026 19:44:54 GMT"
+      "title": "Глава ЦБ Латвии : Европа находится в состоянии войны с Россией",
+      "link": "https://www.vedomosti.ru/politics/news/2026/01/18/1170035-glava-tsb-latvii",
+      "source": "vedomosti.ru",
+      "pubDate": "20260118T161500Z"
     },
     {
-      "title": "Live updates: Trump warns Iran about larger strikes as war spirals in Middle East - CNN",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOTBRcE5PSkxwWlR6RElwUlBoX2dpMzVsYUpDbWtiTWlxOFg2NmNoWmRmOGpEbldkTnI2LXlnTXp5Y0ExWHVxMEFsRFVmbFJjYWdVSU9JNk93QXdfZjJrWGNmMk02Nm4xa0J1cFcwM0NkLUo0RTgzMWpQQUpjcHNhaw?oc=5",
-      "source": "CNN",
-      "pubDate": "Mon, 02 Mar 2026 21:47:00 GMT"
+      "title": "泰国央行 ： 泰国经济正失去竞争力",
+      "link": "https://www.zaobao.com.sg/news/sea/story20260107-8065646",
+      "source": "zaobao.com.sg",
+      "pubDate": "20260107T134500Z"
     },
     {
-      "title": "Iran Is Shooting at Some of the World’s Busiest Airports - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOcGpXTGhtN0pTYTN2RGFFbWcwaW5YWW5fZS05SGZOWm4weWdCdmZsSktzVzlFRFRxU0Q5cUNZNTJGOUk1VFRRZmpZSzBKcHZMMllQYjFFNkV4b1VwbW5XMU9KREt1OC1Jc0NKRC1GaTJqd05XcUVWVTJWeFNzV1ZZS25EMFJJZDl4R0tDVF9ZRUVXMEFnd3JRWTJUaGVYR2pCUGstcG1sMWk5Q3JGQXhJbWtPYUJVaklpTkhhV2NZODlSa1g0NEFxaE5oVUJXSU5Pc29mdExyLVk5WHR0clpaaWhFZUlBdjJPcEVfc0NiZ25QbTdkX0JsVm9BamczUWQtUk9HMFFCNjZKR3A5Zjlid0xmQ0EzTW5iZGFYOTB1eXN3ZDlTbVU4OXZGb29YZF9GNnF3YTFkVDhVQTVsVXhlbVVDUDdLUkl6MXNYOFRqNFNBc3hIeFBEWl9YV1NpWmpsSUR5TTg2YlVvS2FtaEtSS1ViNlBRZWduNTFZMTIybHdKdjJ3NW5aODljTFBnblNpbV8xVHBtNVNlRDJmMkpDMGQ2YVoxVG44cUE?oc=5",
-      "source": "WSJ",
-      "pubDate": "Sun, 01 Mar 2026 19:33:00 GMT"
+      "title": "  لباب  تناقش في عددها الـ29 : تحولات القوة في نظام دولي آخذ في التشكل",
+      "link": "https://www.aljazeera.net/news/2026/2/2/%D9%84%D8%A8%D8%A7%D8%A8-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D9%81%D9%8A-%D8%B9%D8%AF%D8%AF%D9%87%D8%A7-%D8%A7%D9%84%D9%8029-%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA",
+      "source": "aljazeera.net",
+      "pubDate": "20260202T211500Z"
     },
     {
-      "title": "As Trump Bombs Iran, America’s Allies Watch Fitfully From Sidelines - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FOEJ0VXR4Zm1pY0M1OHM4R1pMT3NwMS1oa0xyTHJySmlPaWFhRTNCbUROc0lXbEp5VU9LTVJBeTVsT1JIRzFsWDdHaEY4aE5XeG11YXJ5M215X0xZQzdVMGpBS0Q2dUtEUDI0WHlGR3U1WHBzSVlzVjFB?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Mon, 02 Mar 2026 12:07:45 GMT"
+      "title": "高市  萨娜经济学  与植田货币政策的三重对决",
+      "link": "http://www.ftchinese.com/story/001108967",
+      "source": "ftchinese.com",
+      "pubDate": "20260210T233000Z"
     },
     {
-      "title": "Middle East crisis live: Israel launches new attacks on Tehran and Beirut as Iran closes critical Strait of Hormuz - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMy1KV3hqcnpjeXZSaGN0cWM2WU1SUWxBdHJRRUdQSDQ4TmFvR2QtTUhwNkhsc0VGcEE5OFFraVVvcVN6Y0VmQnJIVUplWG9xME9nMjhFSVRBdm80Q3h1eWJrQXpSWTVkSlBrYkwwaGVvUnhxY1pONTRFWEFfdS03aHFLZnpvNTk0OGxpeHB0MkdmYVJ6NUlVS21ReGhKbUNuUmdES1NwMXF2NGZnSm5kN0tRYWQ4RU9ZVHFCdFVfVTRsR1pseEZkcEZYMzh4NEdIRV9SSXFhMjBzZHJpN24tMTVR?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Mon, 02 Mar 2026 21:26:00 GMT"
+      "title": "Evropská centrální banka navrhuje připravit finanční systém na válku s Ruskem | 28 . 1 . 2026",
+      "link": "https://www.blisty.cz/art/131321-evropska-centralni-banka-navrhuje-pripravit-financni-system-na-valku-s-ruskem.html",
+      "source": "blisty.cz",
+      "pubDate": "20260128T021500Z"
     },
     {
-      "title": "Gas prices soar as QatarEnergy halts LNG production after Iran attacks - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeHFjMUtYX0FSS1BZcWpsSlQ3LWxwaWd2T3BxLV80cDc1dGJhb1U1ZDczTENRTzQ0aVpiUXdjVlc5OTRQa0RUU1RVZFdhUzNtRWZHUzNueGNpTDZLbmZ3VU1LOEFZVXhSZVNJcWtVeEU5dUtrR0ViUjVKSkhBYkdkVHA5dXdxRGhtSEUyMmlxaUNCdmZfNFZwR3FLd2pDYlEwdGxkRXUySEJ5eHhGRnBFedIBtgFBVV95cUxQQmp0TFVsUHE1ZlNUVEJPaGx4eVZMcUtnWlVxM2tnbTduX0diWUkzdFd3LWNqZnJOVU1LMXJhVzdWeXBoODhwdjFxRTlIdkVNOFg5LTNwWjhKM2t0MlFLajl5Ri1LM042RVItZ21vQXNoTHQ4WktBcTV5SkpSQ1V3N2hmLWxuOVYxM2JSWHVTYWJTeThvcTFtSVFsenNfVDFKb29hdk1HdmF4OFlCWmtmdVFrSHJVZw?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Mon, 02 Mar 2026 16:05:09 GMT"
+      "title": "Harga Emas Dunia Hari Ini 26 Januari 2026 Tembus Rekor USD 5 . 000 : Ini Pemicu Kenaikannya",
+      "link": "https://www.liputan6.com/bisnis/read/6264896/harga-emas-dunia-hari-ini-26-januari-2026-tembus-rekor-usd-5000-ini-pemicu-kenaikannya",
+      "source": "liputan6.com",
+      "pubDate": "20260126T040000Z"
     },
     {
-      "title": "US-Israeli strikes kill Khamenei and Iranian retaliation shakes Gulf - As it happened - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVWxaNlFTdWM3MHF2S3hmalFYY25BTlBQOG50aDF5RXBDSDJVb1lXbnhGLURBVldTNmlPZDduMTBKcEd2M1h2YkJRRmM4a0NsOW5mUFdSclgwX1R4cmk2U01PZEphSzdEb3E4cDV0NmJNeWxMRWFzNnEwSFdZa1AzLXd2ejFrcDJ2OVoyblpLNkhveVp2cnhXM281aW92MTdQUkE?oc=5",
-      "source": "Reuters",
-      "pubDate": "Sat, 28 Feb 2026 07:06:29 GMT"
+      "title": "美以密谋对伊新战略 ， 伊朗恐报复美军基地 ， 避险黄金再探5000 _ 汇市观察 _ 外汇 _ 中金在线",
+      "link": "http://forex.cnfol.com/jingjiyaowen/20260209/32006904.shtml",
+      "source": "forex.cnfol.com",
+      "pubDate": "20260209T070000Z"
     },
     {
-      "title": "People are 'mermaiding' all over the world - BBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWVTdmVibHRxcEVKbnhLZE5UNllFa0xmS1dkMlJDMHdqOTF2T3BHaUhnOE9tdGs3ZE9nLVBJdUxJUnIzVmdRckhZNmYtZzh0NGZwdVB3Vk9OeDFUUF92X0s3clNld3RiUWcwMDg3Nkd6THdFYU1xWHd6T1hWOTRLZ1dhelAxRjU5TWlYZg?oc=5",
-      "source": "BBC",
-      "pubDate": "Sun, 01 Mar 2026 14:00:00 GMT"
+      "title": "Глава Банка Латвии заявил , что Европа уже находится в состоянии войны с Россией",
+      "link": "https://www.tatar-inform.ru/news/glava-banka-latvii-zayavil-cto-evropa-uze-naxoditsya-v-sostoyanii-voiny-s-rossiei-6013713",
+      "source": "tatar-inform.ru",
+      "pubDate": "20260118T114500Z"
     },
     {
-      "title": "Brewers organization has 14 players in World Baseball Classic - Milwaukee Journal Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdG95Sl9mNC1VSmdtNkhOSmg2a3ctdWhmZk94ZVBkbHJqWnhoV1pFUDV3WkJKOWEtYi0yeXdFdUJ2MXY0WkpJR3VGbkR5b29UVXE3bDVaQ3RZNFh6cjBHOGNhWF9xLTd6TDMzR1dkWmRGUDRsR0NnR3F1cmFkV014a0Vsb2dQSlpfQi1KOWE5dFhYTkM0VVFoSXhOS25vNlZ4TEdIUzFBYw?oc=5",
-      "source": "Milwaukee Journal Sentinel",
-      "pubDate": "Mon, 02 Mar 2026 19:19:00 GMT"
+      "title": "Russian central bank cuts key rate by 50 basis points to 15 . 5 % ",
+      "link": "https://www.marketscreener.com/news/russian-central-bank-cuts-key-rate-by-50-basis-points-to-15-5-ce7e5ddada8bf425",
+      "source": "marketscreener.com",
+      "pubDate": "20260213T110000Z"
     },
     {
-      "title": "World reacts as U.S.-Israeli attacks on Iran sprawl into regional war - PBS",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnBwQWxuM2FETDBTaV9XeThWRS1HZ2NuY1hzVlpFSmhjWFdZVmNtd2g4OC1lT29DQ0FlVzlEWGJzZHY3RTliNDRFVlBzTkJ1ZVRxQTBGOW9QdXYyRF9ZU0hMZEctRTRfQnU1MElTSmR1TGE1cHFXUHBXVUlSUUxkQThJYWd1R0FHaXZyekZfZ05RTDRVWTMtOEJCZExTSWVOM0QyTlhn0gGrAUFVX3lxTFBEMDZZQnJRNkJ1T3UtcUNrdFdwTE5Td29DNExZUTVZTU1vcmpTOC1lTU5ycGlULVlrN2JoUWlVRFJwd2pHWkR2T0JmSGhmTG8zRDRmZzkyMDl5UWRNNkhpdkp5dGMxcVNtaGxfTm1hY3VCX3R3UFVhOEdrU2VIZjJhSk1VSXdjLUFSQ3dmYzJPbTN5OVhtSGY3b2o4WGdmR2RFWWUtZUNKQXY2Yw?oc=5",
-      "source": "PBS",
-      "pubDate": "Mon, 02 Mar 2026 16:42:56 GMT"
+      "title": " 《 金融 》 利率連七凍 ！ 央行大幅上修今年GDP至7 . 31 % - 財經",
+      "link": "https://www.chinatimes.com/realtimenews/20251218004121-260410",
+      "source": "chinatimes.com",
+      "pubDate": "20251218T094500Z"
     },
     {
-      "title": "Iran's soccer federation says World Cup participation in doubt - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbGhDcHFDdERSR00zRHJGOEh5UFRuQS1yOG8tN1gxaHJCRjBoV3dmajVJdF9iemgzLVFyZlJPeTh1aF83VDBSdG9uaEV6bUZTbGM4LWhrV3pCY3prYlgySnA5U1pOS2tMWENQcDJ6S01HWk5va01fejAxQjctOU9RTHBWdUpTUlptNFRiNXo2ZUQwQXBZeG8yMlh0cHVFRGhlblE?oc=5",
-      "source": "ESPN",
-      "pubDate": "Mon, 02 Mar 2026 15:34:00 GMT"
+      "title": "伊朗突然出现大问题 ！ 货币崩盘 、 通胀失控 ， 发生了什么 ？ ",
+      "link": "https://finance.ifeng.com/c/8pWc7iFgppw",
+      "source": "finance.ifeng.com",
+      "pubDate": "20251231T010000Z"
     },
     {
-      "title": "Dodgers sending multiple greats -- past and present -- to World Baseball Classic - MLB.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VdktIQ1RiRDl0S1FZb2lzdndieE1YWmhJbXNKSUo5ZU80QTNSS2g3YkZFTGxURGZJQ1ZEWnJtS3g5TjI3TmVHbEFTOG1YQ1VsRWhIZ2ZSVXhxRjdaMTJXcnFRbnYyaTIwQ29ENUFtQ2tmRmgtajZGQ1QzUdIBhwFBVV95cUxQS2ZtbmhKRFB5Zmd5eGZNNVk1Mmc5TERpaDB3OWRBeG53Yzh5T2h0bHRFYTg5eURibEdEUFpib3pmczdFODQ2OFYzUnB1c1RBeDcwMm52UlZ1b1ZwN1JvOU9ZVGZqbDhxMTd2bkJXTFlBOEgzR0NYczVkVnl0NXdCQjJiUFVjcW8?oc=5",
-      "source": "MLB.com",
-      "pubDate": "Mon, 02 Mar 2026 15:44:16 GMT"
+      "title": "AS pertimbangkan berbagai cara tekan Iran selain serangan udara",
+      "link": "https://www.antaranews.com/berita/5349097/as-pertimbangkan-berbagai-cara-tekan-iran-selain-serangan-udara",
+      "source": "antaranews.com",
+      "pubDate": "20260113T091500Z"
     },
     {
-      "title": "The truth about World Cup ticket demand and why USA’s opener has struggled to sell out - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3FuVzNWWEdkZEJBTTNHemQ5U3F3MTNlYTRELTVRWUV0RWpPNGdBM1lRVENLRl9CaXNLVEVvVlBhNllVM3RZOWNZV192a2tSUTN2RFFLenRnamFrSjM4R19BYlp6MFlmYmlsbnlvMGNjVkNJWGJDSXpYZ3Y2Y0tKaDVTS21LYU55dVJwTVptdEpydDFkaWtZa0FBd0ItdzF3QURzZ1B3?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Mon, 02 Mar 2026 13:44:29 GMT"
+      "title": "伊朗貨幣瘋狂貶值 「 1美元換140萬 」！ 民怨炸鍋示威 遭武力鎮壓逾6死 | 國際 | 三立新聞網 SETN . COM",
+      "link": "https://www.setn.com/News.aspx?NewsID=1775237",
+      "source": "setn.com",
+      "pubDate": "20260102T054500Z"
     },
     {
-      "title": "These Phillies are playing in 2026 World Baseball Classic. See WBC list - Delawareonline.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMjM5b0RiTDJQdGtjeDJKXzJ2bW9EOUNneEMzZkphbEJzTU4wMEFmSk5EdEd2YWhfb2ppekRIUHh5WUY2TE5rMFVxWVZ1c1YtOTQ3RXhPOHl3ZjlsdTV6eFFGVlJlQWFZZEMza3lvX0steklXcVcxRE0xRWxuM3YyU1pQNzdXXzJmOGw3NnowR1RDRkRvUkYwUkdGNi1TYlhKZjNhbGFHbHpKZWpZSEdqWG8yLW1idUhjbW91QXd3Rkp6STFiSHc3cXktVnYybmpfMjVOUUJYYkw?oc=5",
-      "source": "Delawareonline.com",
-      "pubDate": "Mon, 02 Mar 2026 18:25:00 GMT"
+      "title": "Why Trump new pick for Fed chair hit gold and silver markets – for good reasons",
+      "link": "https://theconversation.com/why-trumps-new-pick-for-fed-chair-hit-gold-and-silver-markets-for-good-reasons-273233",
+      "source": "theconversation.com",
+      "pubDate": "20260201T043000Z"
     },
     {
-      "title": "President of Iran’s soccer federation says World Cup participation in US is in doubt - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa0xnWllfc2VqX01hZklveXBLYldnY2NEY1dpMGxkZVRHLVRKRWRVM25vMkxybTNqNTBYdzBsb1NudnBmQmwxYzV2RnpvY2VvanI0eXdZX19haUx5b0xyd1NUYmljbk5KMmcxYXVTTFdqdzlGV25CVExNck5GLUJvRFlQd0V4M2JjM1Ayd0RodFVpQm04YUhiZTd4LVQtdUxvVE1uSg?oc=5",
-      "source": "AP News",
-      "pubDate": "Mon, 02 Mar 2026 14:11:00 GMT"
+      "title": "伊朗突发 ！ 崩盘 、 失控 ！ 发生了什么 ？ _ 东方财富网",
+      "link": "https://finance.eastmoney.com/a/202512313606338253.html",
+      "source": "finance.eastmoney.com",
+      "pubDate": "20251231T021500Z"
     },
     {
-      "title": "Full World Baseball Classic schedule and when every game will be played - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmtYeWZnSUNBUEtTcE1zWkpYbDExd3g2WFFHcmZlb3ktODRtMUlfSE9SV0h2QUh6c3JGTjYxdmdtcUpBZk9zMFJ3NmExSnFWS0luOFppcDlhNFRmSlRUOC1wQWl2YTlfQnN2bnNxOWlZcE1tZE85cmlWWGdGeDk4SDdSbGlNMkVxUGljdEhGWlhJSDBON1UtdkFVbDZlVE9EVG1GdTNPT0xJUDRKVWpSZkZZbw?oc=5",
-      "source": "USA Today",
-      "pubDate": "Mon, 02 Mar 2026 16:54:37 GMT"
+      "title": "金价银价暴涨原因 全球央行购金潮推动 _ 新闻频道 _ 中华网",
+      "link": "https://news.china.com/socialgd/10000169/20260129/49207061.html",
+      "source": "news.china.com",
+      "pubDate": "20260129T033000Z"
     },
     {
-      "title": "2026 World Baseball Classic: Preview, full schedule and how to watch live - Milano Cortina 2026",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQno5MW1iZzZmRjg1MUF3UXY1dXVpdE5DWXI0ZWdoc3psZkxReU1lUEZCbFVabHloTWprMFN0d192RkxON0picm9UYjloUTk0eEtZYzhVdzNvd2Y4bzlTZ0dsUEVjdHNIV2p2TzRLbW8wRGh3NFkxWnNzSzJOUWJHc1EzOWh2QkpqWkNjak5VRXUySkdtTEVTLQ?oc=5",
-      "source": "Milano Cortina 2026",
-      "pubDate": "Mon, 02 Mar 2026 10:14:00 GMT"
+      "title": "Why Trump new pick for Fed chair hit gold and silver markets – for good reasons",
+      "link": "http://www.econotimes.com/Why-Trumps-new-pick-for-Fed-chair-hit-gold-and-silver-markets--for-good-reasons-1732422",
+      "source": "econotimes.com",
+      "pubDate": "20260201T024500Z"
     },
     {
-      "title": "How to watch the 2026 World Baseball Classic: Full schedule, where to stream games free and more - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVM1Y2J0U1p1TmF6YWx2ak5BZkVKcHZwVmdGRDBDenUxb2xZX05qd2g3eC10YXBwdjBBdklqNGZZVm9hZUxLS0pFU0hJajVqenp4Rl9fYWdFZkh2WDBLeFo4Y3BqNDZZM0lTcGFSTy1hbXEzUUlkd3Z6VkNNTVlWalZ0ckxTMXNqMHBkeGlfRV83czFlQ2g4MllnVS1hYUxaLXJDR25hVFdxbEVhc0hvRTROUFFYVXl6aWlOZ2ZZaVc4QlcwclRWT09fVkd2akVRc1RkdzV1dDU5Wl9VLVd3?oc=5",
-      "source": "Yahoo Sports",
-      "pubDate": "Mon, 02 Mar 2026 13:05:22 GMT"
+      "title": "Kevin Warsh and the Fed : Impact on gold & silver",
+      "link": "https://www.businesstimes.com.sg/opinion-features/why-trumps-new-pick-fed-chair-hit-gold-and-silver-markets",
+      "source": "businesstimes.com.sg",
+      "pubDate": "20260202T100000Z"
     },
     {
-      "title": "Explainer: Iran and the 2026 World Cup in the US, Mexico and Canada - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZGpKaUlqSEtjdng3UklMV3U3b2tXVVhFWTdXcV9ld3EwU19MUzJ0ejlySGlCNXdhMHBucURzNTVNWXFrblU0WlRFMkFWYTNnQnJOTW83NFJpRW02MFFqbmdHU1Q3VUJhYlpCMHVTSk9tdTBnRVJoaEQtWHU4TlIzZ0RicW5MaVVuUEZ3OEdTYw?oc=5",
-      "source": "Reuters",
-      "pubDate": "Mon, 02 Mar 2026 12:07:13 GMT"
-    },
-    {
-      "title": "Ondas Announces $10 Million Strategic Investment in World View and Signs Partnership Agreement to Accelerate Multi-Domain ISR Solutions - Ondas Holdings",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlRhVFlRQ0tQN1dVVDY1MFpiOThuX04xQlN3cWVkRzZRcFRINGlCUXJULWVubHU2ZUFwNFpXSjJyRE55eGhYYmV3RVFiZnpfYzVWOExUdUE4S0Z0Q0Z6ZmdQRWxlTWFwVVc5bl80UW4yWkRmVEx1WFV2UFlFbWhoaXgxQ2h3VFlEV0pJVmR2MlV4QmlldUswVG5UdGR3Zi1sUFVYQ2pUeHl6X3BXaW1pZGRQeFlNNjFBMHk1eEI4TjJ5bFlL?oc=5",
-      "source": "Ondas Holdings",
-      "pubDate": "Mon, 02 Mar 2026 17:34:43 GMT"
-    },
-    {
-      "title": "Iraq or UAE could take Iran’s World Cup finals spot due to Middle East crisis - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbEdBN3lPUHlFdkJsNDJHeFB0RTl1SmNWMl9HeXVFU3M1dV9ueXpXOFJPemhlaVlqTU9FeW1vc2dlcmhxS2ZXQnNkb3ZuVGFaMHJPVE1qU25SNUcyWFRpOE11ei1TZjJuM3V0TnRWY3VBakh6Y3M0Ul9mRExjMks0TnA1OHFOaGxaZEpud0J4a25aQ0hUTDhXYVpIeFc5dHh6UFJiS0pDdjBVSHhQdllQSmJPeVZTRGsxU1hjZDdqcHE0c1d3?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Mon, 02 Mar 2026 20:35:00 GMT"
-    },
-    {
-      "title": "Iran's situation at the 2026 World Cup: Will they play? What happens if they don't? - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOHVZTF9WdVF0UkdueDlzem9nZlZ2N29vdGZxSW1TMlB2VXJPRU54c2szUUJfSml4VTJ4NGN4dXFaWUhfU2dqeHpjWWFtNUs3ZmV1OTNfUFJwbHJNNDlBVHFCTmlFQlNvaXl5SUNJYlFpZ1Rya3lpVEhlbk9zcG5zSkpaMUwwMVU?oc=5",
-      "source": "ESPN",
-      "pubDate": "Mon, 02 Mar 2026 14:19:00 GMT"
-    },
-    {
-      "title": "Opinion | Don’t Let Trump Ruin the World Cup - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DcXlzWDJ1WldGRDY0NW12Qlh4SGs1aXNkX1IxODFvYkJtaWJ5b1ZxV2VYeHhrWGRmc01MWGNfMFF4NmpyTXBhTGVBc09hSm5DZGZtejZCNkRjUkJZWVNsZHZyYUVKMlRLNHJ5MVpPTTF3XzI1UkE?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Mon, 02 Mar 2026 10:00:56 GMT"
-    },
-    {
-      "title": "Here are the World Baseball Classic Power Rankings - MLB.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10aE9PeFFXWmdmaHA3UUdCS2dsSldIb3h0MnlZTjV6VG1FX1JoaEplZXR4aEs1cFdKc0JVWUViWVpXeUpnU3puV3ZSWVNhQXNJNGZzaTd3MTBFUGlTa3FVVTZfeThGc0FianMtM1U2MnZmYllBVlHSAYIBQVVfeXFMTllVU2ZNdXBsR05HRE5tQjY5SEY3bHkxMzJkd1dNN2xrNnllWTNfSlZERS1XZXo0N2ZadlRXbFU1NFpPWXhzQ0EzVGtIUWhKVlRaNHZHZXBnd0NtZVFMOGNWY1Q3Y0hWY20tcHcwMkg3TWR0cVNHQnB2MTRFb1I1Tks5Zw?oc=5",
-      "source": "MLB.com",
-      "pubDate": "Mon, 02 Mar 2026 02:16:22 GMT"
-    },
-    {
-      "title": "Will Iran play at the World Cup? What we know after US attacks - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlR2elVaZTZWaGM5a1hWMUFpSWUxV2t3N3A3dElIb0dUVmZfczZ2dC03MGtvSFlZc0RPcV9LQXgtZnB6TFZsRmEwb21Wa2ZEOXZXQTZzaktqVUZLNHFfaEdTeEhlYTkzQm1IcWktMVhWN3hZZEV2V1ZJQ01pTlNFOENpRzlwNVpzVDBKYU04SnFCbWxVM0RSR1ROUzFtS0otZGhEZzVyVFJ6RW9JRGpuUm9xcDE?oc=5",
-      "source": "USA Today",
-      "pubDate": "Mon, 02 Mar 2026 17:35:00 GMT"
-    },
-    {
-      "title": "What happens if Iran do not play at the World Cup? - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVEVfWnR5QlJlNUNOUmtSdldVZDdhWVRDSHlBQ1hCRG9HNDBUZWZ5SnpSNDhnQVprNHM5RFNlUkZFUHZJa2d2NkJWb1RDUWx0VExkYTdXQXhIQ3o2WVZDbC1GczFnS2tkSmtIbXlHUFIydjB2WF9XZnY3djdRWmVYWW80WlJkLW4zNzZB?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Mon, 02 Mar 2026 07:13:44 GMT"
-    },
-    {
-      "title": "MLB fans look ahead to 2026 World Series winners, potential expansion cities and more - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQTlYeVQ5WWJxVnRsTm83Skd0a21GME94RTVuMEpENkhZY2dYSDhyYzlWVVFkeFY4eEx2c2szZXplc2VmQlp4NElDVFZOdWZkVFFhVEJyaDBSM0hYcV9tTWJlcXFWTHpXS0QydUVIWG9RTmdNYkpXRHBid3JkWXg1WFZNc2lfR2ROSTRsVkhaMFFoeTAxNnRQeG93aEV5QQ?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Mon, 02 Mar 2026 14:27:52 GMT"
-    },
-    {
-      "title": "Arcángel Unveils La 8va Maravilla World Tour 20 Aniversario Dates - Billboard",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQXNKT0tmRmoxWkZTdktmeEZ6eG1rR3Y5ejJLY09aRExkdkhzNmg3elBhOXBzSk1paDQtYVFHRlhOd2Z2aFlHaTljeFM1TkxXd0huUmhTVl9LUzgtTThJMFNOcmpjSkxod1dBOXNkSWRDWU5CQnBmX1U1Z1lOZThKSWg1SHhFNXJ4YkFQM2MwMjMxUWRxdHdxS21rS3JHbFl6aUwwVkdmRklNV00?oc=5",
-      "source": "Billboard",
-      "pubDate": "Mon, 02 Mar 2026 14:01:08 GMT"
-    },
-    {
-      "title": "U.S. Figure Skating Sends 14 of Nation’s Rising Stars to World Junior Championships - U.S. Figure Skating",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOX1lJaE5mSFM4R1M2dHFIU2pZZG1odW5yR1VqU1EydDZQZkpQZWM5T1NJNk9RNEhjM2lXaEgybXAwd3dYZHd3cFJjYTZpZy1pMkMzOWotUmlYOHhQVzU0czk4N0FlRUhiSnNROHFrTnhmRnBYRG10Y0RnRFhJcTRmclh4U2h3dGV4blJfXzNUYlNiVkxnUFhuM3Q3eWxTQTZqU01jby1fTllCZk1PWk1mbEludVl4cUpjOWp1UVZOTGRKSmVHa0tlNzZWc2ZCbXZ6QlE0d2VhTDR6Y3pubjMtNmdsdk95ZEFHbkNSTw?oc=5",
-      "source": "U.S. Figure Skating",
-      "pubDate": "Mon, 02 Mar 2026 17:01:54 GMT"
-    },
-    {
-      "title": "Gaza's ceasefire had momentum. Now, some fear a new war in Iran will distract the world - PBS",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOVRleG9SVU9DNHp6ckxxMmhndjN5dFdDREV1Q0RpR2U2Q25KMkloR3VMb1JiaUVTWHhLSWFDRml2Zl9ZNkZkUmo1SnN1OXUzekpvbXU4R1Eta2l2eVpCRVdyVUY3WGN6TXpYVHhTaWh3U2ZQSzBSZ1FsT2poSnI5REhfRnZIOTc2YlIxLXlMRWpOYTM2TG0wZF9md1ZNMllJeThrRGtzZFctNmk2TG1reUgxbnhqSDNnMUVJ0gHAAUFVX3lxTE5jN3V5MzFHVkNMRWJ1Ul9OR3pKVXFhcktBM2lYWTF3cU1ueUZRYzVfdXF1c3I4U1A3M2VLRV9UNS05aGVpSkRmUWpqMHFDTG14QXVhUUQ5UkZxR3UzTXpfbmlEa1VWTDEtb3ZaNlh4ZWRBUFdITUVEQ0RUS2VRTktHVU1XN2pjN2djaXFTaGMzazhEcXdwX05JeFhfVW5Xc2RlRDlXVXJaa0NSZHNZVjBCVEIxQ3dSMzVKVEJfXzh1Qg?oc=5",
-      "source": "PBS",
-      "pubDate": "Mon, 02 Mar 2026 15:30:05 GMT"
-    },
-    {
-      "title": "Passionate Tatis 'built for' World Baseball Classic stage - MLB.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkNmc0FWREk0cVRQY0RyM2VTak5wQnFxa1JLa1B6dm1uSjZuZWZfWmloOHBraDVGc2dGUnpEVS12ZnN4NWJDekhoRmhfRUFRWHNPcU1QUGctQ3hSOUN6RzNvOEtQNmw2NGk2T3N1djhvZzdBVGlzaGNEWU5QQlRudnVHTERhTnpU0gGUAUFVX3lxTE9yNlc3SllrdVdYeUVJQ0Zjemx0ZGdoeU95V3NOX3g2OE5fT3RhR090eVpUMEdXU0pTd3lqTjVTbFVtR1hxM2ZoNXpldVBtVGdMeG5CaGFmNDNHLUF4cnQyazVrV05kWm1BSFR0bFdCbFFXeU5UWEpWWWhBZ085ZE1NeGdEUWFCdkNUblREVTNzWTNIY1U?oc=5",
-      "source": "MLB.com",
-      "pubDate": "Mon, 02 Mar 2026 15:46:03 GMT"
-    },
-    {
-      "title": "Medical and Pharmacy Students Showcase Research with Real-World Impact - UC San Diego Today",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNU9jZng5amh5Z0hsaFRRd3kzdW1rR0w2ZnVMdE1ja05NN2liREd2dHJDSUdLLUlSLXZzcGZtZWdoYmkzaTkyOW1XVmxPU3lfQlpXUnc2OGNMRnVfNnZaZWRFUUtvb3ZSY1diM01RUjB0cjBtNUI0NEJQYTNXYnFtR1FWbHEzVHAyYkpFV1ZNSnJmNjN2Q1pBQ2EzckY1QkZO?oc=5",
-      "source": "UC San Diego Today",
-      "pubDate": "Mon, 02 Mar 2026 16:22:17 GMT"
-    },
-    {
-      "title": "World Baseball Classic: List of winners and MVPs throughout tournament's history - NBC 6 South Florida",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUU9JZGZHcWV4WnBGS0JGMXp4UzhJaWt0eGppRlNsOWZiOUpta21OVk1NRDR4Z1lqYVFaRW9DS19Lb1dtU0xBVmU0VDBMcVlDdS1rM2t0aFVsOGRJOHdQRmRMR1NUdGg1ZVY3TnJvT3FndnBpTjBGTjVfV245N0RLQWJrS2NTX1NRTklOZXdTakdwRUVGbG5yStIBoAFBVV95cUxPckg2dWs5VnB1Qkh3b1kybDNTQVAxRnFOUVZocWpyWFBKaTgwRGU5WFlHRTBhLVNkOHYxRUxLN0l3WEdXZUVjN3gtRmtvc05KOEtveXVJZWxGajRsZzJLQWZOQjdTX0p0VExOYXpqaHlSUTBxS2dlcEZjWjFLdlNkMC1FZEdfdlY4aGE5TVdCTzh6QnozeG5OczRJTlpfMXVt?oc=5",
-      "source": "NBC 6 South Florida",
-      "pubDate": "Mon, 02 Mar 2026 14:11:58 GMT"
-    },
-    {
-      "title": "World Teen Mental Wellness Day highlights struggle teens experience in mental health - Upper Michigan's Source",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRWRtR2RjbzQtR3pfZGhMeTJlNk82RzZJRkNoX2FvVC1pTm02UUhnU2N4ZWNWTkZnSTB5VFRnNnFFTENsQW43cnJfWEhpZUNfWDFqYVVvV1owV29YQVV3Z3BrVjljekQyb3lTTkkybFVzdzltN0hvdWhZNUlBR0lOSVVCZkkzVnA2R2tvdDFzWXB6SjZrR0p4VURMWVNTcHVVVTBPRmd3Mi1FVXhmakx6ZEFSeHBRd1habE1BcFlhajVJbkJyODVaRVp3?oc=5",
-      "source": "Upper Michigan's Source",
-      "pubDate": "Mon, 02 Mar 2026 21:30:00 GMT"
-    },
-    {
-      "title": "Wisconsin antique business donates World War II-era Camp McCoy pennant to Fort McCoy History Center - DVIDS",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY0NUOE1xamFYYVVLZmtrTWZSTExLdWNISXNLQ29IWEhlY3VGem9nekxKZGNsOFI3MFF1NnB4ZWtsN2o5V1BLbVRITzVNUE9oOC1HdGFRTnhnQ0g0R3lQejZLNmNZcXNheno4RDRSMGw3OGtZZXRUVmR1UF9qVnBlN2VRSkJXdkNVeVhCSExIS2Rodldzb2RqNWViZThYQkZycFZiYURzbzVXYnNBdDBERG5wejh6YlROUlJwWmE3Y1dNUG9MX3FxaVpNdE53Zw?oc=5",
-      "source": "DVIDS",
-      "pubDate": "Mon, 02 Mar 2026 20:47:00 GMT"
-    },
-    {
-      "title": "‘Writing Begins With Obsession’: Q&A With Jung Yun, Author of ‘All The World Can Hold’ - Baltimore Fishbowl",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV09ZSHg4b2E2aUVOT0hSMjVtMlN4QmQ2VU43Q2VyeF9XdDU0ZjhCQzR3U210SEx2T0N2dEUzN2RKNFVoYmRjMTduTEVkRHB5blk0NnVmdmduWGJraWxzRjhDa0xXVjdRZEVzVEd5ZTZoSGUyWHFxZUdRcHB5bVIxM2xwYXNUNHFNVXYzdVJNMjVZbDg4ekhaNWdCZ3N5RnNYZG5TNFNwN3FkbXZaT3R0WHJiOUpPWVd5Snc?oc=5",
-      "source": "Baltimore Fishbowl",
-      "pubDate": "Mon, 02 Mar 2026 15:00:00 GMT"
-    },
-    {
-      "title": "Researchers create world's largest dog and cat tumor database - Phys.org",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05S1JhQTZHVjVFQ2x2dGI2NDJZMkI3a29fOEhWWk1BYkZwN2hyTmNic2xzMW5rWVpzOFRlZ1JPMF9lLWk5TUx2SjdoUWFQYWsyYjU2VkQtQ3E3bmZjVnduZnpsamF4V0trcktLLXZzNA?oc=5",
-      "source": "Phys.org",
-      "pubDate": "Mon, 02 Mar 2026 14:20:01 GMT"
-    },
-    {
-      "title": "Iran’s 2026 World Cup spot at risk amid escalating conflict - WWLP",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjdKQkpmdGFBMk5TdjVNTlMwR3JTeHRsVGM5ZlJoNGdzVHJPMlJDVV81Uk5YLUZuQmZTbGw3SXZheEw5VHRmRElCLWRkWUtfeHpyRFNXVXM0dzR5Vk5PenZWbU1qV1NOUjYza05RX3lCbWhXMlVxRkx1LUFOcXFWWGYxNkdBUHh0d0Y0SG5kNjhDZ0dKenlNbnpnWkvSAaIBQVVfeXFMTnBKY0dNYXJxTnBMWFJNYldWZFhFZFc0V2xwRHhXZjVXR2d4a01URWlzekZRT3dsMUNXV0RRczRPQ3c4dXJNWUQwOVVncDJhU2lJT292Sk1ka1lIaVVDby1WdEN3NVliUFNIUE0wS1p5NEpPUHQ5QW5XQXBVOGxSNlIxeVdNTHYxVDg2WU5ELVUtbkdIVGRjbDZ5VGlQWkNHM1dn?oc=5",
-      "source": "WWLP",
-      "pubDate": "Mon, 02 Mar 2026 20:42:43 GMT"
-    },
-    {
-      "title": "ICYMI: 2026 HSBC Women’s World Championship - LPGA",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ENFhTejRFV1pNQlM4MUVya2NKZ1JmRDZKQ1R0Q0ZtTVM4UU1JRC1OUEtZaVhYNkJYN25WSTFJeDVDTm55Q1NPdkRHVjIwaFQ1bXRjMXIxbXM1bzFxM19nSXFIMVpqRHZjT29FeGxlNHFOMHM5QjhIUWgyMHg?oc=5",
-      "source": "LPGA",
-      "pubDate": "Mon, 02 Mar 2026 14:48:54 GMT"
-    },
-    {
-      "title": "Is this farewell to MFN, the non-discrimination principle of the world trading system? - Peterson Institute for International Economics",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWnVqY0MzSlVMeXBWaTh1SUJkak5QcURsNW1mU1dFVGtaeTk3eHRYWjVMc0ZReUhhVzBTV0xfY0J0WDRoeC1MeDh3LTRaS1NCbjg4aXRIQm16RzFOV0RlQjBsWmdpMVEwaUM4UEM4OGlFU0FfTkszdnBXMU1qVm9ORl9vNVpkanJoVXQyQndTN3ZnU05JR3JUV3N5SndSaE5mUTRFUGlYekNvd1dsQ2JhNmlYRQ?oc=5",
-      "source": "Peterson Institute for International Economics",
-      "pubDate": "Mon, 02 Mar 2026 14:00:00 GMT"
-    },
-    {
-      "title": "Federal funds for World Cup security are late. What does this mean for LA? - KPBS",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1hHYnlaU0FwQy13WVpJTFBuU21VWFd5czA2UFZCazdEMUdnRVhvamgyc25NNmtwYTcyWTRLSWxiNGh4SkFILXFxcEtoMHdjVmR4c0RTc0twVUhoem9SeUR2WmxQdG9vOUJVa24tRlJmS3VFQmRVcHBwVDNDVnE4STg5aFV3bXlNcFlseEdFWXRwZ29OUlpLUk5qWFUtT0pmNjVFM0Z1Wk9wYU0wc3lPd0pTRzA2ZjY1cXc?oc=5",
-      "source": "KPBS",
-      "pubDate": "Mon, 02 Mar 2026 20:17:00 GMT"
-    },
-    {
-      "title": "ISU World Junior Figure Skating Championships 2026 in Tallinn: Preview, schedule, and how to watch live - Milano Cortina 2026",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVVhqd0FSQ1NxRGdNSVA0M1Iwck1vWmN0MVlJY21NVDdOcUhjZFhZbGV0M3JjblpKdWFTTWtrcE1ZNDJLd0xiVkt1XzJHVVZSUkVBb1pWd05sWnZxRHV5ZzNyQnFnWlBTTVBUV2JEejduNU11NktacC0zT0NjM2xQY1JEWks3ZVlKN3lfdHoyWGhDUlNpdldLUmxkNmR0Q0xOZXUxZWp5TVVXcDdPZXVjZmJjMjd2MXc?oc=5",
-      "source": "Milano Cortina 2026",
-      "pubDate": "Mon, 02 Mar 2026 16:20:00 GMT"
-    },
-    {
-      "title": "Explore the rarely seen world of freshwater plants - Michigan State University",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM2poUVhMV3RxR0hLZ0llU0JuN2FjVW9EODVoQWZGbUxrNEF3OFl1V0dScHJ4VGpQSWRrOXNCNkd0MmZXS2hXQUZSTnRfVTJmR09pOVlLVThVd1RsOXhYb2hCUmZzc1NEc0ZQTGNlOVJzMnFmaDd2MXpYdFhTRmtVLWxvNWxRZmR4QWxWN3BIcWd4MFhCZ1E?oc=5",
-      "source": "Michigan State University",
-      "pubDate": "Mon, 02 Mar 2026 20:27:26 GMT"
-    },
-    {
-      "title": "Q&A: Environmental Economist Phoebe Spencer Shares her Experience at the World Bank - University of Vermont",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmNuU25vcGpIX0JzMHJvbm45Z3VMd1g1Rl9sS29wcnEyaGo3NHBhYUdwYUIwd2puSHpfUlQzTEI0b25Bc2FoUzBKT0pvZTVrVHY5T0dYRjVSczAtNFh0NTlYU2ZyZkVEcXpaQ0c0NERPZHpJYU1kWjZxdXZieGVLcFNLdUM4djc3WWdtbWNCOHozYUNJc2tXRUZac0RhVFB0d0lUSURxZw?oc=5",
-      "source": "University of Vermont",
-      "pubDate": "Mon, 02 Mar 2026 16:45:21 GMT"
-    },
-    {
-      "title": "New Year, New Look: World Wide Technology Raceway App is Live - World Wide Technology Raceway",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQREtQUlE5MU5tVEtCYUVCRnZESk1VLVpPYWJQdTBWOW5NMUhqSUdmcTJaMktEU1g3cWdzTDhfa2tzdzlJQlhzVENRd2pZVF9jVFFIcUxHU3EzV3JUUk9KMlBwWGNUeFF3VTRiMDJ3eWdVSS1KZVFpc0czeDhEamZhYktodUJRckNDakhB?oc=5",
-      "source": "World Wide Technology Raceway",
-      "pubDate": "Mon, 02 Mar 2026 17:04:52 GMT"
-    },
-    {
-      "title": "Opinion | With Iran, Trump and Netanyahu are Doing the Free World a Favor - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnJxeDFiTERlYzRQVVUySHM2Q2ZBcG9yZnNDUUJ0MTRJajJCSHI5X1FVOS1ZTnRCbGJ3YWJLVWdNbDdxNXZHX29HOFVNSEczVmtjVHBCWG45WTlYQXk4YnY0NktKdmU0UjNicUV0YUxYcGRIQ2I4dExUTVEybVlscDlFekZ5dw?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Sun, 01 Mar 2026 19:00:18 GMT"
-    },
-    {
-      "title": "MEDIA ALERT: Border Closure Forces World Central Kitchen to Pause Gaza Meal Operations - World Central Kitchen",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU2FLcExxcjY1Q3pQMWVvQ25wUEgyZTJmZDRxVmRMZjNXWWZwUHVtTl8tckdvZFpXbkRQb0dGRnBqOEw3OWlXV2VOanlTa2MzSkdnZkU3cHpQel83T3licWZLb05ZaExIeXd5RzIwYndLRkRIcGh4LW5TanlMdWR4Nmd0N3F0aFYyVFl3d3Iwc0dvMWdKQ1NTZnpPVWFUNG5sTFBzYlk1Y3NjOEk?oc=5",
-      "source": "World Central Kitchen",
-      "pubDate": "Sun, 01 Mar 2026 21:31:11 GMT"
-    },
-    {
-      "title": "PCB fines Pakistan players for underwhelming T20 World Cup campaign - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEtLS0pUb3ppREdoQUVzcjJUamwzRGZ1YXY0bVh2S01SckY5bmJ1VW82TDV4bkdfSjBBenU1anhzX3FOaXp3YUZfNVlFdC1KMldTakpCYWZGVllQM0NobVF6ajlFRlQ4TTA4N1FwblVaenk4b3VPUUVZeC1NLURkam5LWHBuRHdpeXkzYk1BR1hfSW5laXhzUm1fZjVqYTUxZjNYTk9TUlp3UUZiMG52S1d3?oc=5",
-      "source": "ESPN",
-      "pubDate": "Mon, 02 Mar 2026 14:27:00 GMT"
-    },
-    {
-      "title": "MBTA General Manager Phil Eng says transit agency is ‘ready for the World Cup’ - WGBH",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZFBFQlB1X2JUNXhkclZmRzZ2QmtKMks3aVM0VklfSU91U2NxSi1ZSVM4UUhWV0xqNlhNNFBUdDYwUEtWRkZkWWtkekFXems4bkh1eWVESDFnUDE1alpndUVQa3JpU3VIS2pxaHlyV2JrYVRuU2N1MVlKOUV4d3pkTmZmT1J3SFR4XzhrcW9tQmt1YVlzUFU0cmJNZzd1ODFGQjNBY3ZsM3hhVjNldE9LZVVNSG9xd2txUzZj?oc=5",
-      "source": "WGBH",
-      "pubDate": "Mon, 02 Mar 2026 17:53:34 GMT"
-    },
-    {
-      "title": "Generate Arrives on Nasdaq Ready To Finally Show the World AI-Powered Medicines - BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbUp1OWFCR19qZHNDQldrTUdQZ2lnY1hWa2FwclowWGRZRTYwUk0wZmJOQlQwc1F3RmdFNnYyTlJWTGE1RjluS1psZjR2MS0tbXUxcEpZQVhPSmxfcGJWUEpuT25QaU5CcGpvR0REMzJNUno5V3Z1alR6R04yT1MtRTA1Qm1IcmtQYzRLamdudklreWpDbnUtUzByOE9xNnJNLWg4bF9mdXZRcWJ0OHZsb3ZBNA?oc=5",
-      "source": "BioSpace",
-      "pubDate": "Mon, 02 Mar 2026 14:01:43 GMT"
-    },
-    {
-      "title": "Rugby World Cup 2027 Round 3: Tonga vs Zimbabwe Fixture - Eagles Rugby",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OSTYxLVNudkk0SUY3T0RnV2xVS2RvbG1aU1FTLW5lUXhyblNMY3cxam1FRDY0NTh3Z0l2NlhyTWxDakhmSWRpSVhBTm1qTTEzLUE5T09iNjlmVEx3NGc?oc=5",
-      "source": "Eagles Rugby",
-      "pubDate": "Mon, 02 Mar 2026 12:21:27 GMT"
-    },
-    {
-      "title": "How conflict in Iran could impact World Cup training in Tucson - KOLD",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbV9JWVYyTzNhSUE5U1lKSGljQUF4V2pMT0pnRi1qMURFdTJYN1VwUEItQTkyblc5ZG5HXzBHMUcxR05wOVlydEJNYnN6Mk1oU29UdU9nWmRvN0RoT2s2NXFEaW1fR0FTNy0zMnR6MGwwT2hDZ1ZYM1lzVmVZeFJSbWJBZjA0bF9EeV9sMUI0ak9KSkHSAacBQVVfeXFMUHRZN0NUeWJNaUZlZ1Zrb29BT0hRUzJISHJlUXdiamYza0owRjEwV1RBYjF3X1NGUmF2WnFQMU12TExrVW83NFVhQUlLeC04Ullta0sxcEtpT3kzVnNXODVjc21EQWZHeU02LXVxRDl6YzBsbFpxaU5EbzVnTlZEMk52TVRaNVhieEswU0k0VjkzSVlnMEd3c0Y4MnBUYnBqbFhSbzZBQ2s?oc=5",
-      "source": "KOLD",
-      "pubDate": "Mon, 02 Mar 2026 14:47:00 GMT"
-    },
-    {
-      "title": "Grand Tamasha Live: Exploring 'The Complex' World of Post-Independence India - Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWU1ENlRLMTl4dzhMcnBFb09KM3pyd2d5cGJVd1BIeU5sOXVlTWw1SGg2NkhVcFVnQmszR2laNTlaVXNYVkZUSjF0QnhDSDJUTXJibmZGZ2UxUlJjdUxxTDlLLVlKU1B0ZlZxQy1LNHFwRzJGd3ZXYVNVUDBVMkx0R09uYTF0aE4wYnVPc05aMEluNk9BUWwzcWRsYjhoSm81c21hb2wtQVRTUmh4TjRxY3l6YUJyX0hHX1E?oc=5",
-      "source": "Carnegie Endowment for International Peace",
-      "pubDate": "Mon, 02 Mar 2026 21:00:30 GMT"
-    },
-    {
-      "title": "HHS OCR Settles HIPAA Security Rule Investigation with Top of the World Ranch Treatment Center for $103,000 - Hunton Andrews Kurth LLP",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSFlGMEhZLWtNSTZpd2pjR01ucGktUDNNSi1zaTNOSl8yMDZraDM4UmUyeU1RYzJiOVdKT0NmaHc0d0xuWXNFcXdtd04zTXU1SUh2aHJ6QmlMN3pNeXBYblZoQTFTUVZ4a1VTNFhLNFNsTXIxQjdWM00zUGRNY3hjMXBQek5tbTZmdHhWai1ZdjJuVEhFd1UxMG84V0RZa0JWMTcwOGhITVBtMmgzS25xdzBpSHp3RGg0aWJZU2hrWW45WGxVNG9SbS00TlJQYlBrc1E3bGtaeHR1TmI5dFVxeVJpaG5oWVZibWN6LVpjNXA2SWQwN2ZJ?oc=5",
-      "source": "Hunton Andrews Kurth LLP",
-      "pubDate": "Mon, 02 Mar 2026 20:41:22 GMT"
-    },
-    {
-      "title": "World Jewish Congress Condemns Islamic Republic of Iran at the UN Human Rights Council - World Jewish Congress",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlZfXzVXQTVkZndYbmFhSnhTNGEwZjJLQkowX20yREx5d1JQYkRkbmdKX2tOTGZIRG9QeVhqdWkySmlkaGN1QW1RRkQ2dG80WlRXUllYVW9VXzJBclNuc0xOejVrWEJ4RnhUeUl5VV9RQWVRMnFYOHVIRFIxdlFoOVpzYjlRMFdsVlB0WXNVQTBWUVUwV0cwSDViZmxwT2w4YTdQdjUtLW1HbzlKekhNcko2dW9VRXVsdFltaENTUngtNUFhM3YwaDJR?oc=5",
-      "source": "World Jewish Congress",
-      "pubDate": "Mon, 02 Mar 2026 15:21:21 GMT"
-    },
-    {
-      "title": "134 Animals Spayed and Neutered on World Spay Day - The Santa Barbara Independent",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2tadE9RYTlYQ1g1cGoxWGFjUWk2NlBxa1FObWZpQ1ljNW4zZ1N0NU50b0lpaUFCVGlTRVIzVVNnRkZJcHZvVGxfR3U4ZXBZbGZrLUVoY2liZ1RTcUt2UHR6aDFNRW5Id3k4ZGRXbHdRdUlFejFfRnMtQXNNS0lCMFB4WF9QUTItdEFPYk0tRWZUSGc?oc=5",
-      "source": "The Santa Barbara Independent",
-      "pubDate": "Mon, 02 Mar 2026 17:21:03 GMT"
-    },
-    {
-      "title": "Detroit’s little-known role in the world of comics and tabletop gaming - Michigan Public",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmVpN2dmUmpPcld3eTkxUk9BSENwWXZLWHN0Z1UxeXRwUDJGUEI3MmNIZkZRTEJFcmY0YWxVWmN2Wk9NYXJDandkbjNTUzZHaUdQdkpWWjVjWWJJX0xQcG1WYk02b1BxbjNidW1jNzBNY01mUDNYRWFUUzVvS09nU0p2NUJicUZZbFRNM1hOVTM3MFZGY2paakdSM0x0RXF3ZzJabWM1Z2xFcm5pTTFPLXNJQW9tSDhzeVBIQjdR?oc=5",
-      "source": "Michigan Public",
-      "pubDate": "Mon, 02 Mar 2026 17:54:00 GMT"
-    },
-    {
-      "title": "World Birth Defects Day: “Behind every diagnosis is a story that deserves to be supported through strong public policies and strengthened health systems” - Pan American Health Organization (PAHO)",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMU5mVmRULXVaZ0ZEOFhqU2FDc090U0ZaMFRoT1lfSDc0QmZsTDdCdVN5SVVnYU9iU2VPS2Z5eVhPMTRSeU1OeGpoTFM2N0lmT1RINURHZG1yVnVsVE5DNXdoMnBwVTBoUHd6dGJPbnROSzh1R2ZQS2JBRDNUTkF0NFM0bDhwR0tTU0otNi1LME5Sa3Bka1ZrSk9iZ2ZlY0JiRHlLYnBUOHBmR1BXYkdKbjY3QXFxaFBkRy1JWA?oc=5",
-      "source": "Pan American Health Organization (PAHO)",
-      "pubDate": "Mon, 02 Mar 2026 21:09:07 GMT"
-    },
-    {
-      "title": "Suspect in Chabad World Headquarters car ramming in Crown Heights, Brooklyn facing federal charges - ABC7 New York",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDV0NmFmaDBkYWFYMy1melQ3TU1fMFZ3Zm15d0xDam44TGIzMTZqZzc4Vml5Q0d3RVJBNVRITXlrT0Mzcm11UXdGclNzNEk1RkU0c0FWbkhzS0w0bl9Ya0Rrb0I1aGRUczBnWEJET1lfNFlqd1dMNzNIWUxESDUzeDJ6Y3pxOFJUZzRsYUFCRGlQMjhDU2trQndiNDluZExDN3lFMzdMU2hIX1N1REFWUk9lSVJxV3h0MG5qLW1TUWp0UHPSAcgBQVVfeXFMTUVYVFNTUU54QXhXdHIzcXZaMnRZa2huVU11d054TFZFNjNnTGZyUGNhWlZPOElnS3NQUmhKQUtSSFA3d3J2dXJ3TjJtU2hELTU5X0dTd3B3d1RWNW1CYXRqSzc1VmdFakY0NlVfUkVzaUJpOUREUTF3RUZVZGFHYWcxeTloT010WHAyUVdQZF83QUtOaDVhR3R4X2NaS0VMXzVUbHZIaEl6Z3B5RjBFdUgxeS1UTjFUem9QczIyUGVrZFVnVHhwWFY?oc=5",
-      "source": "ABC7 New York",
-      "pubDate": "Mon, 02 Mar 2026 19:25:26 GMT"
-    },
-    {
-      "title": "World Cup funds delayed - LAist",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMWhlXzQyQjRzQmt5Q3dlU3BKNHpKbHpDbzN2VXMycVE4LThhYWxJbVZzdmI0Y3pNZ0xXTm9va2NIMkd2bjNfV2Q0RVY1eGlaUWpaZ0Q1THdXZzlZblpKMHoxdHpneV9rdGhjRjF5eGU0YWtDcE9VanRsWWVGRzh2T2JHbmpaY0V3SHpNaVhRbHhfb2RYRE01LW5DLS1rdUROQzVN?oc=5",
-      "source": "LAist",
-      "pubDate": "Mon, 02 Mar 2026 18:56:15 GMT"
-    },
-    {
-      "title": "Can the 2026 FIFA World Cup still be a force for global unity? - The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWHRlZkpBSEVOZmRObFdGUUNIWjcwM3pGUUF5SEwzcy04XzhZV2dZTlpwZTF5VVpfYlhLSmpPOGtPaXV3azFTVXhSWG9lbGhZZHdTZThKS2JsdTV6aTBfZ3I5akdlNXdTeEE1ZXg3U1l5dmsteFQtbTZwWDJBeGdLN3l5cGc0VXN6d24xbGZrb0tGY2QxNnkwUnlBU24?oc=5",
-      "source": "The Conversation",
-      "pubDate": "Mon, 02 Mar 2026 19:05:56 GMT"
-    },
-    {
-      "title": "Iran’s soccer president casts doubt on World Cup participation following strikes - Politico",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMllKNTY5VmZvSXRnNDZuTDFaMHlvRVFKZ2VmNW4tampfM0FHUFpyaXF2YTVyN3JTX21hVEZVc1U5cFpPaERWTEFFZjBwa1F2WEFMR2pPdTB2OXAtZlhyeFBJZG1BblA0QTBsRWhLbHF0QnhkRlMwYjNTTjFVZ2o1SEJkbk1VSXFkNC1ueTFB?oc=5",
-      "source": "Politico",
-      "pubDate": "Sun, 01 Mar 2026 22:31:44 GMT"
-    },
-    {
-      "title": "Coming Home – World of Warcraft: Midnight's New Housing Feature Adds a Cozy Paradise Within Azeroth - Xbox Wire",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEg1Y3NnZHpjbUhtVlhtaEdvNHZMYXUwc0V2cEx4a01LNGVlUjZyLTl5eFJmYTZncXRaNkpvS0xmak9xZGR3SzNMSWc0TE1DZmpJN3AtbXJuc0RlVU44NFg4VkZUN2l3YTBFSnRFS3pHNmNDOXhiSmt3QUowRHlCaUZ2Wl9fVWZ6NUJ3cDVuUFVOTzdZbU1kMkxKbi0tTXNrMmNEbF9OSk9acDVFUEhndy12MlBLLUFielk0OW56WGZYX0k?oc=5",
-      "source": "Xbox Wire",
-      "pubDate": "Mon, 02 Mar 2026 18:01:20 GMT"
-    },
-    {
-      "title": "Left Foot Of God: Roberto Carlos On Brazil And The Next World Cup - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUmNJaVExeWpPajE5YkJJX0d5c2JJVFhxMm1WRDFycDRyZFJrc3I3TU5raE5ua0JGYk45S2c5UVBMY2VZTWRwd09jSFNHeXUxbXBUZ2ZUT2gwUWJGX1doVEJoVE9zX0k1elE1VnpGY2I0d3dKTFROTTdyTnl2Q3g2WTNNX25qQzc2ZDZCNnNEUjRCcTlGanNwXzNLZGl0Sjkwdkl0cXpaUFRoQWt2ZDFXREVlR1Y?oc=5",
-      "source": "Forbes",
-      "pubDate": "Mon, 02 Mar 2026 14:15:00 GMT"
-    },
-    {
-      "title": "The hidden language of fashion: How what you wear reflects the world around you - Western Mass News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbzhvcWNCcERHRzFxd0RQRkpRYjdCUGRsa2xDSG1WT2sxZlkxeURKMG1wLTVPN3F4MC1SNGo3OVZ2bDVnSWlKUUN3bUl6Uk5CVURvUWJmcmd1YjA3c3lHMzkybVhRT1BmSVNxMDNSVm1zcGpDQzBlU3lrOGF0R1dVbFVQM2RNbFFCTGtIMHgySEoyUnJfV1E3MVE5RGxiUmhxNXB1NG9EcDZIY002bG9sUdIBxAFBVV95cUxNY3dGOEF2WkkzVXhKYWdlY0ZYWU5tQXRlc2VqY3BLVUtyVnR0T1JBNU1XdkdQM0JUWDZQVU9uWEMzMm4yM1QtbmlnZExyVkJFQmtJUEVqNkZhRjVzSDBUUlFIUG5MYVgxMDVjNjU3R21oZGdIUmstckp2aDczbEtETXBoQ0FvbUJkd3ozZjY5dlNWUy0tdGdFM2JZdzc3ODZYLXFSRkxxUi1ibkFzdjZEUW1ocWlsTlE2ajY1RlBxcHBFZGVV?oc=5",
-      "source": "Western Mass News",
-      "pubDate": "Mon, 02 Mar 2026 17:27:00 GMT"
-    },
-    {
-      "title": "After Khamenei: What Iran, and the World, Face Next - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zcWlEWVZUMWhTbjlwTGtBSjFJSFJfM0F6RWY2ajgxWGZYdEMyejdwQXR6YUhrNXY1Nk5SUW9vYzRRR1hOdk9BcHhLZndndldNVUJ4THRRLXloRlRPekJlaWxRNVlKOXE0WjlYY1RfNA?oc=5",
-      "source": "Time Magazine",
-      "pubDate": "Mon, 02 Mar 2026 13:20:21 GMT"
-    },
-    {
-      "title": "Will the US-Israeli attacks impact Iran’s participation in World Cup 2026? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3JRdUluZGozX3M2d2Vlckx4UTZJX2h2QnVoSE1ybzF2WktrM005S2RVVkVfblBIeU1ndHBCZzdmU25iWU9GRWlLLWN5Rm1mUllOQmlyOUc2SVhCODRmNlpXX2pUdEZCNm02OVh5aTVVTUZBSWdScEdmSnhCaDliYlRLdTVCSW5DMXh4T0VxUktDVkdpNmxaZmVUVWJwU2poU1BjVW5SaXVjeHV2WUdXdU9BMFfSAboBQVVfeXFMUHdBUW5rN2VZRi1iRGEzNVV0WnpSMk0zeVlXTUt2b25nVERNcXR6T1FEN0RZOUUyYmtTTmtFSWxwQjVJRnEtRl9XMFVNX2Y5RHJIU0RBLUN4RzF3LTBOcmJIZ2pvMzZHT19pREhLbHVUX1BWMFNObTFidzR3MExWRnJxS29INEZQWVNVb1hsRTlGV3RvMlVwQXgxNzVod3p2NE15MlVWOWRhM3lnbkcyM0F6dTFWTVpxTEt3?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Mon, 02 Mar 2026 14:19:23 GMT"
-    },
-    {
-      "title": "Artistic Gymnastics World Cup 2026 in Baku: Olympic gold medallist Rhys McClenaghan ready to start “new chapter” - Milano Cortina 2026",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzhxdWtLdHhmRXl0aERLZ1JjWGE3bHdhWnFyNmtQcWZlQ2RvWWxOSkNhTVdUV0ltdnBKWnlsbXA3UU9SOS1SbEY4Rlh1VXJONTNoYzdTV24xUElTM0ZXdGt5aS1fcnhvaFBkNzRkY3RYSTNqdkVaUGFzZWhUV1NORVI5TE9MU1E3WlQwSWtjWW4wS0lvNnZn?oc=5",
-      "source": "Milano Cortina 2026",
-      "pubDate": "Mon, 02 Mar 2026 17:48:00 GMT"
-    },
-    {
-      "title": "Registration is now open for the 2026 Molokaʻi Channel World Championships - Maui Now",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWEdFUFQ5MW5ZQ2dmU1o2VThKNUFub2JTVmJOaWNPSU9uU2FaVUZhQ2xRZlVoaGJ2QjFoZ3hvT3RudjVfbXhZc0QyNkJrcWowV1JPdlZ2SXZRSXdFMzdBOHNWMWVYNzUxMnowYW93SkRMUFJ0VFdObjFoNWJZYmttbWlCZzJuYlZJVUwyU3B0ZElucFlhU0MxcnhCY1cxQW1nM1Axazlzamdwd2tJZTg4Yg?oc=5",
-      "source": "Maui Now",
-      "pubDate": "Mon, 02 Mar 2026 18:00:00 GMT"
-    },
-    {
-      "title": "When the World Shifts: Navigating Geopolitical Risk, Energy Transition, and Climate Disputes in Arbitration - Foley Hoag",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeDgtOGVwNE02cnhzYXJZODlqV1c1bTRlYnFmbUltQ2NTeXdyUmZsWkFtYm8zakgwSkZUVkQydDZnbEl2dFA3OWxzYURKOWhVS3FxV1dpZ2Z2QXc0UXpZeFBaV21tYWJoYzZUTklEMXZicmgxN2lYVTRadk5wWmpPb0pBZEI4N0hPcXlDNkl3bGpwU21kMnNJbFRONENVaS1jQkxwMkl2czFoTEdXVGpmYzdndHZtR3NtQXV4WDJvOUNJWUNBZHBFcnl6bmhjSm5ibnBEcWlJV3lHUmpjZDhHU2NR?oc=5",
-      "source": "Foley Hoag",
-      "pubDate": "Mon, 02 Mar 2026 20:19:35 GMT"
-    },
-    {
-      "title": "Photos: U.S.-Israeli strikes in Iran and reactions from around the world - Oregon Public Broadcasting - OPB",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRW9pTy1vRWhwRXo2ampuNVVGbXpvR3JEWnlkdEF6TTNWMWJEa1pBa3FRbW9YOHFNZHBzSW40ZlVjclQzZENwUkdjelVTYU95V1ZiU2d3bS0tSlMzYmMzNTk4RmVPeGluSDQxeVM4UklrMjcxd2NKUmh4UG9fWWFycGgwbGdEOWtvb3BSd1J6SmlsN3l5VWZjUVVEUQ?oc=5",
-      "source": "Oregon Public Broadcasting - OPB",
-      "pubDate": "Mon, 02 Mar 2026 14:47:10 GMT"
-    },
-    {
-      "title": "It's an OPS world in today's major leagues with batting average in the background - Times Union",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDVPalhMMHExVU5MWjhWSjQzMmo1VlB4U0l4cEJkSGxRdWY3Zmw5OXd3T05Vc1BqaWVjNXpiQjAtWHBNN2g4SHdvNnZJaTFDcE5Ld1FJUFJScWduY0k4MUUyVlFzT3lieFRDbkVHTmFuVE9GZjZ6RFBjQVpOR1VnenJlcUIwNmhTSml0RmVKMS1uOWpCbWhCbzZaUWwtNGduUVpsQg?oc=5",
-      "source": "Times Union",
-      "pubDate": "Mon, 02 Mar 2026 15:43:44 GMT"
-    },
-    {
-      "title": "A City Ready for the World — Rooted at Home - SaportaReport",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNczlvUDRBbzloTzJoWDlETzR5bVFGWUNyR1hQSEM5T1V2U0plNEF6bXFjT1Rrb3I4ejBsUkZrMVJybU53UDJ3VkJ6b0dnV2ZsbjJNM2lVUnBPeUtOSnlwQkx6M3lWb1E3Nm1VbkRIN0liQ2w5ZDczTFFoVTg3S0M5Z0F6NEVHa1VOeU15SlZmSEtETmZJOGNhcjJGWXN0QzZSei1ROHlxZm50MVV0MGlOVGlBWFRmeEE?oc=5",
-      "source": "SaportaReport",
-      "pubDate": "Mon, 02 Mar 2026 15:59:45 GMT"
-    },
-    {
-      "title": "Kemp, Dickens ring Opening Bell at NYSE as Atlanta prepares to host 2026 World Cup matches - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa0RnZUJhaDZzbkJNWW5GU0JYZlhKVHoyakJTdWZ1eXd6N1hUdjlMcnBET0Y3UDhpMnBEZlZRNGREOHhIbGNpRHRUa0tYMFEwSnJOc1BQOVA4WDZwMF81NWpUcW1GNm4zMk5zSEszdGh5c3RQcVZFRUNDYUxiaS1ha0o4YXBtM3JDcFh4TFZsSW9wbWVsNWFaN0V4SXRTZW5BVW5naUFzOFRJa0h3U2FnQWhFRDVFQjk1c25wTnJTczJDOVJxM0E?oc=5",
-      "source": "CBS News",
-      "pubDate": "Mon, 02 Mar 2026 16:18:18 GMT"
-    },
-    {
-      "title": "Attend the World Wildlife Day 2026 Virtual Celebration on 3 March, 13:30-15:30 CET - CITES",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTW9UZ19wUDZKN1o1NTZ1ZTQ3Z3c3ZmVaYzZBZGZ6MHhqZDNtVy15MHREanFwWDlqVzl5QU5IVk1zSWhtbWpSaUdfUU5yZ19CLXVfcG9CSzJCSzV4Z2lGV0Y3bWtUMVRVbEh5Sy1uOGhoWnRXQ09zeXJpeS1nYV9uREpRWlhibEZ2WUJCWUhaMGNnRzg?oc=5",
-      "source": "CITES",
-      "pubDate": "Mon, 02 Mar 2026 13:08:47 GMT"
-    },
-    {
-      "title": "Iran’s participation in Seattle FIFA World Cup match uncertain after U.S. strikes - KIRO 7 News Seattle",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMEllVjdSWkpNa3ZERzVMVzJhSl9SM1l6ZDVoWG5BbGhSd1JLeHl4RDdkckdxVGVxSWxtNktDajROMzZMTWI5a0pmVk5NOWJnN0FKNDk1U2hwdzIyZjFYbjI2OUlyX0ZGUDdYeEVwZ3dUOFdKUlRQS2hIcHh3UlQ1YXNMcXJha3lSSF9yZ3JhLTczc0N1Vm5mQ0lUY1pSUWJyU25qQVlVTGhlS01PVTF2R2xZdENvSlZNS3c5amMxQ01KOGVrbTRweWxSUUpzMzY5VVHSAeYBQVVfeXFMTUpSenVZTW5DMWh1YUJ2QmJLMEdrc3ZlT0RGN0tlcC1yNjltTzdCaWpHUVJ2czJ0ZU5qaGhXdTRPWk5XQXM0U0U3ZTBOTV8xSExKUEZpOWV4NjZaN2t5RTlpejlwaWJycmJORkc4Yk45LVp6d0lpSUdrWG9NZWs0VXBuczd3bHFSMVhwcDJNUHhBNi1rbENDNnI1TURfWW5IaEE5Z3BYTnVnSkE2YTZCZEkzVXZiV3dtZVY0emc5cVJFYXVoTUFKeEFXMmRic2NaTlM0Z0tNTmc4bDZyTy1oQ3NzYzZQamc?oc=5",
-      "source": "KIRO 7 News Seattle",
-      "pubDate": "Mon, 02 Mar 2026 15:06:25 GMT"
-    },
-    {
-      "title": "Middle East crisis: Will Iran play at World Cup co-hosted by USA? How conflict affects sport - Sky Sports",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNazZlNDRGYUNqZDZROW9pdHRKR1JsZ0dhcmhHMm40bm53RTh4QndRTnJXZEJYSjNoUmtGcm5ubEVBOElaUDg1VmMxVmpJS19JTWFnTVdZQjlvUlFKOUNPVUdLUUlreUg0bV9HaDU0eGk0S1M4ci1Zc3lDbjZQR0FGR1lVY1hNR3hNLWZ3ZGs2eV9yRmdzOGpXdk03cTF1cExPanloX0dRZHhGVUFlT0VwOFdhaUUzZE9wVTVaMFlXQUVIOVVIYm51dmV6c2kwSFpJMXZ1MVdXWWh2cnZSQUE?oc=5",
-      "source": "Sky Sports",
-      "pubDate": "Mon, 02 Mar 2026 19:17:22 GMT"
-    },
-    {
-      "title": "A men's Rugby World Cup in South Africa not viable any time soon, SA Rugby chief says - Times Union",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTnZUTmdxNTg4SFhkRFM2YktRMl9aSjZrRTVnalk5aUEtRFMwY2llSzJncmZCT01nZEEyWm1zcldXS0Ntb0VuVmV3X08zMWxaa2EzZlFzZWo1V3htVktCQXJScVp4RVEyNl9nd2M0VzR3cWF3dEFhbU0zcWVXQXQwc3hPdWloYTNGQWxHZUJMMm8xeW9PSEt1WXp0ck5ycFU?oc=5",
-      "source": "Times Union",
-      "pubDate": "Mon, 02 Mar 2026 20:08:08 GMT"
-    },
-    {
-      "title": "World reacts to strikes on Iran - WSAW",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiUURHRHgxZDlTUnN1MjlheVJld2FfZl8wRVc0TVR5dWxpN2hXUlBNWVhfT1RuVGdmN2o3WnBoWTE2dEhMQ2xlcGRhdm5ZMEdqTGp1OG4tRWxLbnB2bFAxOFV6SGMzM3ZMQk40R1kyRHljUQ?oc=5",
-      "source": "WSAW",
-      "pubDate": "Mon, 02 Mar 2026 20:02:00 GMT"
-    },
-    {
-      "title": "Old Dominion University’s Online Programs Ranked Among the Nation’s and State’s Best by U.S. News & World Report - Old Dominion University",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcnd6UWg2R3FrMlE0aU1PSFctVGJFQnZSS2UtV1RxbHIyZm9PTjUtM2NVR2tZYXd3b2hqUlRjSnptSk1mdWhfYmh3a2xmQ19qZ1VzQ1ExUTFFeUlzYXpPYnlYOS1ZY3VEeHBsMTZGQ093dXNwelBHakwzTlNXa3doSk9kajVQQW5rb1Z3Q0dhNkFmRlFxdzVfWFN1eHdaUWo1aF9OMDlESjBycE9nYm1vRU1hdEc5SS02?oc=5",
-      "source": "Old Dominion University",
-      "pubDate": "Mon, 02 Mar 2026 18:32:40 GMT"
-    },
-    {
-      "title": "Healthy brains in a screen-filled world - KTVU",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14TzVaVC16X1FFSTN4THNCS1pKQ01EdnpDYUItZ0VPdjdSdXh3MG1PaF9SS1EzcDlzY09BM1hRWmp0bHVEc3hxMFIydVFrSG5BNmtBRjE0NGczY1nSAWBBVV95cUxQQ0ZlVVpDUGdrX19LV2NWVTNxY0JRZHdoaW9yalZSNGlTN0lUS2VWcDlyaFZ2S19IeU13WVgybWdrdE5kMm56S3JaNEZKNHFTNjhwT2Ezc0lFOEx3VG9UbUg?oc=5",
-      "source": "KTVU",
-      "pubDate": "Mon, 02 Mar 2026 19:09:00 GMT"
-    },
-    {
-      "title": "World Health Organization Releases First Global Guidelines for Diabetes Management in Pregnancy - Pharmacy Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTEhRSHkzbXJNckc4WFZ4RFV5XzJaUXhLNHRQLVdJbHNLQlFIQTZ0MWh0dVpfcG5ZQ0tLRFlVY25Bc1h2SkZGNENBRm1wRmJfc1c3dXJuQ0wycFVmVUM0aTdic1dXZ2FsbE12aWxQTXlaalhZUk10LTdMZ3MtOFc5QzlHTjB1X0RXNTdkOTdTaGFOdHlmOWhSMzdpRHdsLTZPd1Z1MjF5MmJNOXVVUTNyQmRNWF9EZ2MtZC1WdURDQnF2REJnMGZZWlF3?oc=5",
-      "source": "Pharmacy Times",
-      "pubDate": "Mon, 02 Mar 2026 17:09:21 GMT"
-    },
-    {
-      "title": "Scared of spiders? The real horror story is a world without them - EurekAlert!",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rV05VeFFtU0xibXZfSUtVUE9QRFJ3NW5fSG0wdTU5SnVITFBEdFgxY3RMM2M5MExXUFdqczBQZmZPM0RmVUlGNzZRTjJOZ3htMVdoWEdSMFE1MFY5?oc=5",
-      "source": "EurekAlert!",
-      "pubDate": "Mon, 02 Mar 2026 20:10:58 GMT"
-    },
-    {
-      "title": "WA gets 9 official World Cup ‘fan zones.’ When, where are watch parties? - Tacoma News Tribune",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FX1Q4MjJpcDZFSzVvcm5vRFFFY2RhRWhtbTNTMkctdTlNQ2l0MGJad0tjbkRFVUs1cGlEUnlTREVQMnE4a1pOM20xbEJvMzlKNEJqQjVMVl9EZ3VPSWFfV25yNmNtMGtCVHk1dnBueTnSAXBBVV95cUxOR0NfZWpwQ1FiYTE2U3dWQ0pxcm5GR1ZnekNOUXZnR3pFLVVpZm5VcWlRY2llb19BaDhfVTItelAxTFFjX1V5UlpKa1VYd21helVYY3NMbEVSeTNpWk5oTXNZdEIxUHZVUUhoVVdjeXJ1?oc=5",
-      "source": "Tacoma News Tribune",
-      "pubDate": "Mon, 02 Mar 2026 13:00:00 GMT"
-    },
-    {
-      "title": "Texas Drives American Energy Security in a Volatile World - Texas Border Business",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFFERlJCOWxHalZheVRfVTZxY3dNY09ZVkNmUElHc2RkMHVwVWdMbmdKT2RvVUNRY1pDYm5RM0oyTGhJN3BXcXNPdy11c01EVkIzNGVNNG1aRHZVeVZDWTNmWEhxaXUyMi1MV2JYVUtrVkM4Q0JGanNGa2NyNFdiejFrTGhsY0JYdWN6dldXVkxkQUoy?oc=5",
-      "source": "Texas Border Business",
-      "pubDate": "Mon, 02 Mar 2026 19:36:38 GMT"
-    },
-    {
-      "title": "World reacts to strikes on Iran - Alaska's News Source",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOGRGcE9jR3RLQzlKY3lhV29MLU0xenc2MU9qLU5oTUVtT3BDSEo4SW1XcTBNa005U19nV1dfRVFFajlsMW0yY2hSRW9rTXJrVDRjekxaR2J2SmV6NnZHV2l2QWt4a2UzSWRSS0xsOGdWMG93TlgwNE1Odmdja2tXcjBHMA?oc=5",
-      "source": "Alaska's News Source",
-      "pubDate": "Mon, 02 Mar 2026 20:02:00 GMT"
-    },
-    {
-      "title": "World Baseball Classic starts Wednesday. Here are the Red Sox who are playing. - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc1dicVFYWmZ1QkR1cFhxeVBBVEhrSXZ4LUlDZjhrZEdiT0dEbDhMMmxwREJabHBGUnByaDBmd3hjQjY4c1JHdWRwQnQ5SkZZeTg4SEFPRlJsd2x4c1FQVkZXYjB3YTUzM2IzbldOUTg4SVBFNEZjTU1FNHVnVnpEdA?oc=5",
-      "source": "CBS News",
-      "pubDate": "Mon, 02 Mar 2026 18:43:00 GMT"
-    },
-    {
-      "title": "World reacts to strikes on Iran - WFSB",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yNTNTSUhSRnN6bTFjRXI4RGpRQWt6Vk4xbVdSUGt4MktuOFVLeUs4cGJHY3NHUmFPc29UdDhfVFd0ZnRyMGxad194T3lKVUZFNmRrZU9wdGJ3bkdKaDdFQjZVZ2N3UnFZcENKRzZqZFMtUQ?oc=5",
-      "source": "WFSB",
-      "pubDate": "Mon, 02 Mar 2026 20:02:00 GMT"
-    },
-    {
-      "title": "World reacts to strikes on Iran - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HbFlfd3RwWWFsVnVQcHFVLThrUEloOTlzdEh2enJieHY3eG9ONXJKZlNLWmk0Nll2TzNzWXBkV0o4b2FjNmNQZHlodUJyMkFuWjVtNGdiQnN2VURYWGMwcnlTczBMRXpNSW81cmc1OTFDbW4yMXc?oc=5",
-      "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "pubDate": "Mon, 02 Mar 2026 20:02:00 GMT"
-    },
-    {
-      "title": "The world is upside down, but our choices, our voices, our votes determine what comes next - ohchr",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3BCMC1DNWp4T0NFQUhqbXZvaHo1MEdWOVhBaHZEdXFrRlF2WjRpZ2ZNUWhsOF9Xb1RKeGlfVDN2bnBuTFd1a1dDdWhETVg1SW9GUTRhNGd2azE3ODdVR3plRTRsSTZJTzRUdGVLQVlkQWduQ2hIZ3hqRXphWW9RWlhUa2RHR2Nhd0VCLWltV1JuUlZXU0tHd09KVXFrX2NlTHRJNDk2RDV3ZTlSQ1Jab1FCb0NLT0FR?oc=5",
-      "source": "ohchr",
-      "pubDate": "Mon, 02 Mar 2026 10:30:52 GMT"
-    },
-    {
-      "title": "How the war in Iran could ‘guarantee’ a global recession - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0hpd2ZCRGMwTEJiVEVCMThvMU42dTFLdjZxZkIxTUFCNERGOElrNXpEalhiRk5PenZQQ1p2WkNGbmNISmFoZTJndmc2bHoxdHRjdURtU213X0pONDZfbTlFcFhuNTYwWVpreGZQdGd3R2xuYUVuZWVqUlBMalJXT2FUdnc2Qk5WOWxwYnNmblhBekNE?oc=5",
-      "source": "Fortune",
-      "pubDate": "Mon, 02 Mar 2026 18:32:00 GMT"
-    },
-    {
-      "title": "AI actor Tilly Norwood’s world is expanding with the ‘Tillyverse’ - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFpBT19HMW5ySUFkWGh3ZFVFN2NFZEFnTkFCQm1ZcHRHbURmSTJacHZYWVJOMDZjWWNrbzlBd2hGVTRaY01HaWVPSEdFU3o1X3ZqRTVaZmliQk9rV3dnMW9leEFLck5UdjQ5ZnBwTUJ3cVBfRFY1TE8xVTJTeXJBLUtRY0xfTXNSOVNyUUxhTUs5alhSRXVhajZMam1GWXZncnJF?oc=5",
-      "source": "Los Angeles Times",
-      "pubDate": "Mon, 02 Mar 2026 19:25:14 GMT"
-    },
-    {
-      "title": "The World Cup is supposed to inspire hope and unity. This one feels different - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcGEwZG1RdkFvVlMyOGc4S3BmRDJnRGs4VER4VG1DNVZDaDlCdkdmZ01pOGxXaGtYTUVpX1FlOE1SdjBJSE1sZDRscXhMNTdETzhHM0ZFY2N3MkN2eU1NaXloWkwzbEEtbWFWSlZDcjhYZUZQbXVDa1VOMFNsMFNhbEdnZXROWnc?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Mon, 02 Mar 2026 09:34:43 GMT"
-    },
-    {
-      "title": "Kemp, Dickens ring opening bell at New York Stock Exchange ahead of World Cup - Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeUFfMlV3LW43eTE3MExiYVB0YXg1OVRRSjg4c3RwZ1V4TnRZWVFpRUNROFlQTkliLXlwTEhBVDdBUVh0dE05UkJPeWpOVVpwMUVDMEszcVlSZ21ubzFFN0txN05TUzhRazNqOElhNFZYd19aT0ZsVFZMS0kwVG1nSU9sRUx2Z0JNV09FWVhkajNKZlRmRG5rcjlGc29lWnhtQ3htYlBacGVzQVpoTFBJemlmOUVmQdIBygFBVV95cUxQOTJrd3VqNzlGZDE0T3BwNHpUcENySUlSV2JqQ1ZOVmhBdlptYWZGRDNodDlaLXo0REl6N2tGY3owczZKSzhnb0V3QzVCNHd3dGFZZllwblVfLUQ5VmNfdElsR0VJSlhzRjN5aHk5c214Q2JoWnloS3RsRTM1WkVvMzJjWlJrcHlZRG1taTlBU3ctQWVIN3BfMVFZMFdXNWp5bndMNFZGTjFXeFVmZHN3clJOa0dXRXVSUkhaOXdvSkJrcWowcHUtUkR3?oc=5",
-      "source": "Atlanta News First",
-      "pubDate": "Mon, 02 Mar 2026 17:06:00 GMT"
-    },
-    {
-      "title": "Bucher proves Olympic pedigree to become youth sprint world champion - FIS",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeG5xcnBEb3MzdTRVVkN6NDg0dnBMVkdFZU5Bc3hhZlhPNTZHQVF0VmNUWWo4MHlPRWhOdWhlaUIzdnAtQTQwZ0JHNW9lTC1pNzdzcmNDZEluZ0dGcG5WT1JabGhERHJZWVNyb21sTjRGUjBYM2VrcUo1aE5GMGJIRzVwMklBdlRxSVJxY0ppWVl2SC15bklSRWxYVnFqUDdzTFV5REEtTm5sQXhBZnk2YkZYM0VhcWtCVlg0?oc=5",
-      "source": "FIS",
-      "pubDate": "Mon, 02 Mar 2026 19:12:12 GMT"
-    },
-    {
-      "title": "World’s largest shipping line suspends all cargo to Middle East - FreightWaves",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMDhLX2FNNGMtU0I5RjJkU00tbDg1UzZZX3NyMmpjdXJzbzdrX19DMmhSUFFoQnppM0t0ZFdfSkpLRDZUNHdhVU4tNENaNlkzR0tXcmJCbWpnNXlrdVp5RzB0SHEyazAtVDg4ZXhsWVd6OEN0YlUyYVdyT2tMdEM0OGZETWpxa0hsOTFWTjJIQ1VUVG9aSTZIMVNNWk4?oc=5",
-      "source": "FreightWaves",
-      "pubDate": "Mon, 02 Mar 2026 17:22:08 GMT"
-    },
-    {
-      "title": "Where to watch the Orioles in the World Baseball Classic 2026 - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUE1MNXpSRFNkc0kzT3U5eUF2T2xPUExrRmFFWHNBeU4xYkxkRk9vWDlPeHVkUHZXemFPZm9GNVc2N3Q2eXpoWlRYNnNLYTBjUGwzcWhmVGlUbi15YjZTUWNNcHZvcUNVZkF4WjFKVEFiQXF2SjhLOS1XVEFXbnhhQy14Wk5NYlphcl9F?oc=5",
-      "source": "Yahoo Sports",
-      "pubDate": "Mon, 02 Mar 2026 15:55:32 GMT"
-    },
-    {
-      "title": "World reacts to strikes on Iran - KPTV",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlRll1X2hka2pDN09wM245Qzk2S2dyNnNBUnBiVlNOOU1VU2hMaHlhbmMtallRTmhjdjhTYXhvZ3FFV3dadTcxWGVncjhkUUtybnRUeWFmQzZfUnFLTlluQkU3V3cyUUQzcjVaWkNxM0dWZw?oc=5",
-      "source": "KPTV",
-      "pubDate": "Mon, 02 Mar 2026 20:02:00 GMT"
-    },
-    {
-      "title": "World reacts to strikes on Iran - WBRC",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14WW5MckZNaTA1aTl5QWE1T0dpQzd0RTBSd05qaWltX0JZUFM3QjgtczQ4dnpONllIWWxGQ2VFOWFERnlodGNfREdKdkVaNlNBTjFPeHg5a2FIZWVoM19DUDVIQ2pDNXFRdU83dXpJMko3QQ?oc=5",
-      "source": "WBRC",
-      "pubDate": "Mon, 02 Mar 2026 20:02:00 GMT"
+      "title": "伊朗 ， 突发 ！ 崩盘 、 失控 ！ 发生了什么 ？ ",
+      "link": "https://www.stcn.com/article/detail/3565229.html",
+      "source": "stcn.com",
+      "pubDate": "20251231T001500Z"
     }
   ]
 }
