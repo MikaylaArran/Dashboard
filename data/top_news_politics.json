@@ -1,15 +1,9 @@
 {
-  "generated_at_utc": "2026-03-06T14:29:27.564699Z",
+  "generated_at_utc": "2026-03-06T15:04:33.618878Z",
   "category": "politics",
   "language": "en",
   "summary": "Top headlines pulled from Google News RSS (free, English). Category: politics.",
   "articles": [
-    {
-      "title": "Exclusive: GOP lawmakers push for charges against former White House aide for Jan. 6 testimony - CNN",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmEzQnU4Z2ZROEYwYXBJRUNrRFhnellmaXNIV2tnMUhQZW1EbG1qbG9nWEJkN0lBZlNGWnNuQlZ1Q0xLaFlEY2FOLUlaUG5xYWJfdzUzazZlNjlkYWhUSUZnU2poODdPX0dtZ2NES01WX1dSVlJ5d3o3T0JETG11VG5OZEQwZlhSaDhsUTkyYlpyZDhEOXFWTjlXeFIzaEFnZnhxVVZiVQ?oc=5",
-      "source": "CNN",
-      "pubDate": "Fri, 06 Mar 2026 10:00:34 GMT"
-    },
     {
       "title": "How Kristi Noem finally lost Trump — and her job - CNN",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmJsMVFoVjZ3ODJaWU54UVhHS21EVHVZUmhSdWg5cy1abFlENnJrYUI2QmFsRGxfMGVxbXdiYVNmNVVvOHFncXR0N0wxbWFTNWctVFk4alZtMkMzZ2JVRnJTWHhjTlhfNkhGM3pRclVDZjh4WS16OFBsbXk0U3BiQXFpbWRvUQ?oc=5",
@@ -17,10 +11,16 @@
       "pubDate": "Fri, 06 Mar 2026 08:00:33 GMT"
     },
     {
-      "title": "Iran’s network of influence in the UK - The Week",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Gek9DcWZPMmR1S3dMbkxMUXp6X2pzQ25ScGthb3k1VWNCR0xuc25zODR6THhWcTJ0Z2lCVHNSVFZrc0dFMldlTkgwbDlIQ2ZMTzB3SlRQV2pSOGRpS1h4b21jQzNiQ3BPZk1HZ2lJZ2dGV0k?oc=5",
-      "source": "The Week",
-      "pubDate": "Fri, 06 Mar 2026 13:40:02 GMT"
+      "title": "How each House member voted on Trump’s Iran war powers - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XWlVWWW5HaWdUNHdzTTBsTlBhWklFNjNvdW01eHpfN1RSN0c4NFd0aHl2SDVzQThfd3g1VnNvb09VRmkxeWhwOGZKS0haR3lYSHlOTUdJenhPT2Ixb182Vkh1M1dlRWxxSS10TXFGTDVuWVZWMGM5Q1Rn?oc=5",
+      "source": "CNN",
+      "pubDate": "Thu, 05 Mar 2026 22:58:47 GMT"
+    },
+    {
+      "title": "WATCH LIVE: Rev. Jesse Jackson celebrated in memorial service with Obama, Biden and Clinton - PBS",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRENjbFZqYXg0YTJOR052dXlvQzlIU1liM3BVMHdzamdXZkplQVE2VW9ncVFWVzdBeVd0SDJjeWVMemlCNzRlT2tEMXFzOXFEQXloQjYyR0sxcTBFWUIyYXRFQXpUUlFET2R4WW9GTkNGWmtmZnNBeGU2aDNYdkpWdG83NGhvbk5LMEJqbDJMU3A5T0RSTnh1aG9peGFKby15VEx2eVdzMUl1TzlKb0lMMUxRQlFZa1EwZmxkOEphbmp2c1Vi0gHKAUFVX3lxTFBJQzU4LV9zV3Nxd3o5bGFlS2l6OW80TzhxR3NUdkZLcE9YTG5IWEpvSG1rOEk3MXI2NnVlLUZwMnJpWjhDVmRKNnZwaTdMTnYySlB4a05LLVh6bTE2QnhrZk9LdDE2MUxXTEtkYkJBTGhBOXJRbWh6RS1ES3RtbVByWWhBN2VEM1NJV3VLXzVyUF9vZEJWWXVpdlhzS0ZBSHV3U0xVcWdIVXJZSDE4QW5TSTZ2MlJTV0dQQlp2aVNPWHFrZ25zSDF1OUE?oc=5",
+      "source": "PBS",
+      "pubDate": "Fri, 06 Mar 2026 14:51:11 GMT"
     },
     {
       "title": "Whole Hog Politics: Reality bites Noem - The Hill",
@@ -29,10 +29,10 @@
       "pubDate": "Fri, 06 Mar 2026 13:00:00 GMT"
     },
     {
-      "title": "Texas politics: GOP Rep. Tony Gonzales will not seek re-election after calls to withdraw following extra-marital affair with aide - ABC13 Houston",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTTJVVHAyUVpGREZZVWVrQ0F0U19VLVpwVnc3Q1h2eDRHRUVtZzFTaEdjdDFDV0NLbVQ4THhGcnBzR0ZnM18yWmVCUjRLbmdrZ01HZi1yeE1MTWY4M2xxRkdXVm5tclE3Q2hwWTBIYUJGeEZuQ0UybGU5eXhWbjRoNnpnOVcwb19SWG1iaV93UktNZVBWaDNGS3NvY3ZoWGpoOWY3QkZuMEJaUjUxZVVpZHJ6RkdRdUZCaGNjVlRoWmNrdE13SEVDY3RmZTJiRTlUZGFqQXhsbEZTQVHSAeABQVVfeXFMTTdqd1lpdlozTEdoUGpRa1VVMF9rTzZYZFhxMTJXcnI2RUw5bXFzS3VqMXI4c1lxa1NCTTBSc1JnN01hWDhlQ1lrdDg1X3pJREhyVnRNVFY3dzFuejlzUmpmWGNDbzFqYXBRREtnVEhTLTNodXkwbWhOWkg1Z3VFOWdkN09yelc3TzR3V2FDakRrTEtFLWhUUG92UjhSNjdWbXpmZHJIb0dDT2hTc3h3eWtVd04wWlBvZURtMVQ3d0l5c2VpSm9nV3FlNXJldG9rcWt0dldoRUx2cFlXbmlnazY?oc=5",
-      "source": "ABC13 Houston",
-      "pubDate": "Fri, 06 Mar 2026 14:13:47 GMT"
+      "title": "Marjorie Taylor Greene says Tucker Carlson 'would beat Trump' in 2028 - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa2VnYWNZVUROOUFIaE8tanBJbmJwOHUzYU9wcVR3MklfRkpXWTRzNVZSeTYxd05iWTlpXzVqNGJlS1duU25TcG8wZGN5NFUxZ24tNGxjWGFSdEF2bnlhLUFHd29YdV9iQ29NWGdiU1FfMm1iVlA1N0hubFFyWjRKZXFxMjdZaFhMdUdfVlc5Z0xTeUUwVHlOTmVfSUEzTWJrU0dpUnU5dWREVlZDQWJPUzJjSkJnRmxXcVQtMEJ4QmIwcEc0LWc?oc=5",
+      "source": "USA Today",
+      "pubDate": "Fri, 06 Mar 2026 13:54:00 GMT"
     },
     {
       "title": "A Sly Political Switcheroo Stuns Montana and Starts a New Senate Fight - The New York Times",
@@ -53,16 +53,16 @@
       "pubDate": "Thu, 05 Mar 2026 18:44:26 GMT"
     },
     {
+      "title": "White House seeks to put a Trump-style stamp on college sports - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nMkZ4dUN1OUh0QmljNFNHTVJVR1FJSzlLbDdFV0oxY004aHRJQ1plN0kwem43Uy1ZdXo4cmlZT3hFZTB1c2dPYWV1a2dRQ3AxOTJ5YUdMWWRqZXdLcnBWQUxiTnFISHdOQm93ODFad2hzVFNJbTdJT3Z5RmI?oc=5",
+      "source": "The Washington Post",
+      "pubDate": "Fri, 06 Mar 2026 14:02:37 GMT"
+    },
+    {
       "title": "Trump says he wants Iran's leadership structure gone and has preferences for a 'good leader' - NBC News",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMmRRdTY1dG5DRU5aSGdHSGNWSEktLUtZRW1OelczTG5NWDJsTjdhYXk0bnNKMGhBUjFuN3hXX2xfU1FVRHdHOTFfcUsxZ0RmZWNYTm50RjFqZG5UbnJKbG1WUmNOLWlXUW5oN0xyNFkwUnhWV2lsY0xIdThJLUdrQV9sVVNWWllUOHZPQ0FQMnJaTWlFVkc4a0dvZWtqWEMxY3VxQVczb0dpQ2hiallmZUo1ZV8zREU?oc=5",
       "source": "NBC News",
       "pubDate": "Fri, 06 Mar 2026 03:10:00 GMT"
-    },
-    {
-      "title": "Trump Ousts Kristi Noem From DHS - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPQzBYZGxiTHZjUXQzYmFOcGFKWXMzQW9peUxnQzlGSmNjT1VWaW1uY2xSS0YyOC1MNVc1NHJtal9UbVJUQWQ2QjRyVktUYUtPZ3l5UGh5UVdtaC1iV1BGV0o4ZWdaTk1kNGtkeThYQ3laRG9raEh4WGVDZTBZZjgwYjlGYTVGa1U5bmRkYW8wQ1JSNUtwS0tQTlBHVGV0THFuZTFGZktNV1F5Z1oyWXVxX0NLZHFKTFg1OXY3bGtFbmNvSnRXMnlxQjEyTlVLN1p6dWVEYkZGQ2ZzdXA1QUN2MldLSE56ZFpfVEZLdWRtOW1qeFVoc1NlUVpsREZzcWVDcXU3V0t2Mm1VdGJjSGFJMU4wX1JyZE1TVlpOOURqN2FNdnZxcU5OQ0N2QllSR0ZFeEIyOUY0TnJBbU5ndl9UUURLbFZBQ2R3aE1qWWwyaC1rbFV3V1MxNzZyRlFHZUc4TzNfc2g2OUlVRDJQa3E3NWtFMTRlX2ZZcmVoMHNadWtsSVlkWmpSMzlPSzZncy1y?oc=5",
-      "source": "WSJ",
-      "pubDate": "Fri, 06 Mar 2026 00:01:00 GMT"
     },
     {
       "title": "The nation’s cartoonists on the week in politics - Politico",
@@ -101,6 +101,12 @@
       "pubDate": "Thu, 05 Mar 2026 23:11:00 GMT"
     },
     {
+      "title": "Politics, Pubs, Parades, + the Parish: Tom Barrett - Insider NJ",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxMnRhR3NCMlgwUllQVXFOU3JkZXZxTGNQN0R6ZG54YnpFU2lBTjhjeUU5TjFvYVliTzc4LVJ2Y2dXaEdaeDVTZGJ5X2Z5X1M0NHJMM19QTTY0aGEyc29ROWFLdHBGeTFBVUpUcm9GMm5mUi1TOF9Cd0lDOA?oc=5",
+      "source": "Insider NJ",
+      "pubDate": "Fri, 06 Mar 2026 14:36:00 GMT"
+    },
+    {
       "title": "Markwayne Mullin tapped as new Homeland Security chief - CNN",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY0hWdnZhbGtCLURIaVBiLWpwc2hiRVJza1RKOU8yQm9hUzBvUFFiQk5IT2VodkN5cGgtaWJMRGdBSi0yZFdoSDhkUmtDY0JHY253VnNuUjlJUXBpbS1Nc1FfLWRsaDVKVUk3Tmktc0FwY2NjMjk2MG9zVDhNd2g5TFVIZUtFRDBmdVRyWlBObW5GWmkxaThyQVZjLU9CLS1CMzl5Qzd2ZzFoVFE?oc=5",
       "source": "CNN",
@@ -119,16 +125,10 @@
       "pubDate": "Fri, 06 Mar 2026 10:59:00 GMT"
     },
     {
-      "title": "Former Sen. Ben Sasse talks about the state of US politics and his fight with cancer - KUOW",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT21nbTREWXpocUh0TVoxc0dpbExhTndZNTV4eGVnMVJTdmdMTFppNUNWMURRa0FZaHhmTkZIenV2enNqbHFDV1JMZUVhMGFrZ2diTkhaZ1ROQlVRREdDMGVFVllKYUtsMzN0UWpOQ3ItMTVCMklHaEoyeFNoNHFKa1hUZ0dZNVRqWklKaEVkWXJwazBHR0paSklqOG5wVEc4NVRORjM3VDNmVC1RYV9UdUpR?oc=5",
-      "source": "KUOW",
-      "pubDate": "Fri, 06 Mar 2026 12:06:31 GMT"
-    },
-    {
-      "title": "San Antonio archbishop: Profit, politics play roles in inhumane migrant treatment - OSV News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYmdlcnlreTVrLWFQbU5mR3VQLXV3dXZwSHg3Qmk4b3JDU2dfcFFtMUpNbVkxVWV4LUotZEZtMVprcVZyWHVEZUVGMV9Tb2xRck1vY1JNQWozajlXUHNnRFdGZlpER3NTWDhGQ1BrcFZjQlRNTVNWVXJxci1XQk9COVNDa2p6a1NfX0tkcTZUendUMXBqeC1ZNU1wTDBfOHFidzF2QVZVbw?oc=5",
-      "source": "OSV News",
-      "pubDate": "Thu, 05 Mar 2026 23:44:05 GMT"
+      "title": "Whistleblower Brittany Kaiser on how politics, tech and ethics collided in her early career - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUHd6NFdqVUZRNE45amtsR1AzOUkwQ3NYdDNid2FpLW54S0o2VllyNEVlU3M3ZWpKYzhvb2NuX2hWakxGeW1KSW9kQzctWlBuSVV4VS11V3pfaE44UXQwZkszNHdpalZ3elpuaTJjNnlaM3M1NTRIeHNhcWY4ZFZrYTBGNzRwc3RhUmFHUTFJMkU0RjIzbmZPX2ZzNGRCUzN2NUNxNUU5WVpuR3RCSXE3M1psWk0xSkxzeWo3aW9JcGVfZ0pubmh5bFUtVWVnLVRJRDJF?oc=5",
+      "source": "Reuters",
+      "pubDate": "Fri, 06 Mar 2026 14:11:17 GMT"
     },
     {
       "title": "Civility, Federalism, and the Future of American Politics - National Governors Association",
@@ -137,28 +137,28 @@
       "pubDate": "Wed, 04 Mar 2026 17:13:41 GMT"
     },
     {
+      "title": "Former Sen. Ben Sasse talks about the state of US politics and his fight with cancer - KUOW",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT21nbTREWXpocUh0TVoxc0dpbExhTndZNTV4eGVnMVJTdmdMTFppNUNWMURRa0FZaHhmTkZIenV2enNqbHFDV1JMZUVhMGFrZ2diTkhaZ1ROQlVRREdDMGVFVllKYUtsMzN0UWpOQ3ItMTVCMklHaEoyeFNoNHFKa1hUZ0dZNVRqWklKaEVkWXJwazBHR0paSklqOG5wVEc4NVRORjM3VDNmVC1RYV9UdUpR?oc=5",
+      "source": "KUOW",
+      "pubDate": "Fri, 06 Mar 2026 12:06:31 GMT"
+    },
+    {
+      "title": "Michael Smolens: The politics of offshore drilling just got murky - San Diego Union-Tribune",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdTFpUW9JcW9SMHlvTHNlTnlzXzRDTnR0SnMwcnZucVJUYTU1XzB4eTM4SjFOcWlOWndlbXo2X096V0FxZVZwT21EdGRmYkkwbUJlc2stak9aVG1KeEFIZkpqVy1JYmU4aUtUZ3U2Ymc1TDNMdVRzQUZDN0Q0Q0hKYURNLV9ySHdXalY5M0dBNm1sOGJ2cms5Q1pwMnBoZw?oc=5",
+      "source": "San Diego Union-Tribune",
+      "pubDate": "Fri, 06 Mar 2026 13:00:43 GMT"
+    },
+    {
+      "title": "San Antonio archbishop: Profit, politics play roles in inhumane migrant treatment - OSV News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYmdlcnlreTVrLWFQbU5mR3VQLXV3dXZwSHg3Qmk4b3JDU2dfcFFtMUpNbVkxVWV4LUotZEZtMVprcVZyWHVEZUVGMV9Tb2xRck1vY1JNQWozajlXUHNnRFdGZlpER3NTWDhGQ1BrcFZjQlRNTVNWVXJxci1XQk9COVNDa2p6a1NfX0tkcTZUendUMXBqeC1ZNU1wTDBfOHFidzF2QVZVbw?oc=5",
+      "source": "OSV News",
+      "pubDate": "Thu, 05 Mar 2026 23:44:05 GMT"
+    },
+    {
       "title": "DeLauro Statement on Republican Political Theater - House.gov",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQkR4SzFlRlZnWWZRdUhEMGNrOVgzQWRYVGxEUGllcnI0dG5fekIzbWJSUmZNc3YwLU9QNDBQbzRLSkYyZmJ0T0NOSWNYNVBGclNhLU1oSjRNZ1pNQTd4T3Q2SW5ncjdjZ3NTN0hwdEMzT0l3VU5zaFZXTlFCbXQ2b3pzS1JrSDJUSlZ6U0dTMnRkazhnMHFESmliMnFncjZOMFhVVlFRYnh0UHlhWXc?oc=5",
       "source": "House.gov",
       "pubDate": "Thu, 05 Mar 2026 22:03:18 GMT"
-    },
-    {
-      "title": "Whistleblower Brittany Kaiser on how politics, tech and ethics collided in her early career - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUHd6NFdqVUZRNE45amtsR1AzOUkwQ3NYdDNid2FpLW54S0o2VllyNEVlU3M3ZWpKYzhvb2NuX2hWakxGeW1KSW9kQzctWlBuSVV4VS11V3pfaE44UXQwZkszNHdpalZ3elpuaTJjNnlaM3M1NTRIeHNhcWY4ZFZrYTBGNzRwc3RhUmFHUTFJMkU0RjIzbmZPX2ZzNGRCUzN2NUNxNUU5WVpuR3RCSXE3M1psWk0xSkxzeWo3aW9JcGVfZ0pubmh5bFUtVWVnLVRJRDJF?oc=5",
-      "source": "Reuters",
-      "pubDate": "Fri, 06 Mar 2026 14:11:17 GMT"
-    },
-    {
-      "title": "Legislation would undermine educational opportunity | OPINION - Colorado Politics",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNG1aR1B2NF84SXpZVWQ1SkZWc0lCSEgtamd1LWpHQjRPVkxjRkpEa21RRGZ5Q2tvdWJwVGlwV0ZMdlc1ZFpkMjl1Z002M1BGYmw5Q241OUhzT0J1c2RQZjlqeVJHWm1QaHRZMkhybElUcFY3T3N6aUVJcFBtTnB3X0FRc0V3QnNoTEp2dlpuaFg4ZjJoVTRpZXMtOUp6d2htVkdLOXNDMA?oc=5",
-      "source": "Colorado Politics",
-      "pubDate": "Fri, 06 Mar 2026 07:45:11 GMT"
-    },
-    {
-      "title": "Introducing unbiased politics for youth with Matt Bruner - Lookout Santa Cruz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWV9ZVnVMR3ZSd1hnZnMzWHlMWjJfM2lhLW9ReENUODQwNTFzNlZCWU01MXJPczZrX3F3eXdBakJjNkJKQUdZR2ZicDFjYTVqWGhTS1hZUEZGLXVaQjdMWHgtLXBjSXhMZ2Nqa19mLVNmajJxV3ZvZm9GMDZWaVBQNnJyVUZ1ajBy?oc=5",
-      "source": "Lookout Santa Cruz",
-      "pubDate": "Fri, 06 Mar 2026 00:08:28 GMT"
     },
     {
       "title": "Texas GOP Rep. Tony Gonzales drops reelection bid amid scandal - CNN",
@@ -185,10 +185,28 @@
       "pubDate": "Fri, 06 Mar 2026 11:00:35 GMT"
     },
     {
+      "title": "Introducing unbiased politics for youth with Matt Bruner - Lookout Santa Cruz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWV9ZVnVMR3ZSd1hnZnMzWHlMWjJfM2lhLW9ReENUODQwNTFzNlZCWU01MXJPczZrX3F3eXdBakJjNkJKQUdZR2ZicDFjYTVqWGhTS1hZUEZGLXVaQjdMWHgtLXBjSXhMZ2Nqa19mLVNmajJxV3ZvZm9GMDZWaVBQNnJyVUZ1ajBy?oc=5",
+      "source": "Lookout Santa Cruz",
+      "pubDate": "Fri, 06 Mar 2026 00:08:28 GMT"
+    },
+    {
+      "title": "Legislation would undermine educational opportunity | OPINION - Colorado Politics",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNG1aR1B2NF84SXpZVWQ1SkZWc0lCSEgtamd1LWpHQjRPVkxjRkpEa21RRGZ5Q2tvdWJwVGlwV0ZMdlc1ZFpkMjl1Z002M1BGYmw5Q241OUhzT0J1c2RQZjlqeVJHWm1QaHRZMkhybElUcFY3T3N6aUVJcFBtTnB3X0FRc0V3QnNoTEp2dlpuaFg4ZjJoVTRpZXMtOUp6d2htVkdLOXNDMA?oc=5",
+      "source": "Colorado Politics",
+      "pubDate": "Fri, 06 Mar 2026 07:45:11 GMT"
+    },
+    {
       "title": "‘OPB Politics Now’: Oregon education report card - grading the 2026 session - Oregon Public Broadcasting - OPB",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGprcXJfOGY5QUJ6ZkdISmZ4MXNFZGdnd1hjUml2RVRzSHp4RC0zdzFrd3dZaGhzdWtqY01KaFpxRmV6Y202NVE5bE9OUGVoNUVlRGFkUGxzclBJOFU5bGR6emRQdV85ZFNxNFA3QUlvNU0xc2k4TVN3MV9QN001SXV1Q1ZjVWx1WnF0N2Nn?oc=5",
       "source": "Oregon Public Broadcasting - OPB",
       "pubDate": "Thu, 05 Mar 2026 20:32:22 GMT"
+    },
+    {
+      "title": "Exclusive: GOP lawmakers push for charges against former White House aide for Jan. 6 testimony - CNN",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmEzQnU4Z2ZROEYwYXBJRUNrRFhnellmaXNIV2tnMUhQZW1EbG1qbG9nWEJkN0lBZlNGWnNuQlZ1Q0xLaFlEY2FOLUlaUG5xYWJfdzUzazZlNjlkYWhUSUZnU2poODdPX0dtZ2NES01WX1dSVlJ5d3o3T0JETG11VG5OZEQwZlhSaDhsUTkyYlpyZDhEOXFWTjlXeFIzaEFnZnhxVVZiVQ?oc=5",
+      "source": "CNN",
+      "pubDate": "Fri, 06 Mar 2026 10:00:34 GMT"
     },
     {
       "title": "Montana Republican U.S. Sen. Steve Daines drops reelection bid minutes before filing deadline - PBS",
@@ -203,16 +221,28 @@
       "pubDate": "Fri, 06 Mar 2026 11:05:31 GMT"
     },
     {
-      "title": "Service & Solidarity Spotlight: Politics and Prose Workers Ratify New Contract That Includes Wage Increases - AFL-CIO",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0VMcG81d2NzUnVsNmpqUUJCTXFDQkVWMTF1OGZYUHM5R095VEY3OUVuNVRLVDAyVGNFYTJvYi1td09tSnlBN3RhejlLdzJQQ1pBcVdEV0pJVUhvb1FqMzRzQ0Y5bmJrZUV3NG1fU19MZm9fdkNxYW1mLUlBV3kyZXhUdHExNnRHcWkyNlB0TXJYaWh5ZDZYay1oanJTQ0p5MVZFdTRKRjFuN0h4Zlh6SEdNa3FISmdO?oc=5",
-      "source": "AFL-CIO",
-      "pubDate": "Thu, 05 Mar 2026 15:08:55 GMT"
+      "title": "Texas politics: GOP Rep. Tony Gonzales will not seek re-election after calls to withdraw following extra-marital affair with aide - ABC13 Houston",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTTJVVHAyUVpGREZZVWVrQ0F0U19VLVpwVnc3Q1h2eDRHRUVtZzFTaEdjdDFDV0NLbVQ4THhGcnBzR0ZnM18yWmVCUjRLbmdrZ01HZi1yeE1MTWY4M2xxRkdXVm5tclE3Q2hwWTBIYUJGeEZuQ0UybGU5eXhWbjRoNnpnOVcwb19SWG1iaV93UktNZVBWaDNGS3NvY3ZoWGpoOWY3QkZuMEJaUjUxZVVpZHJ6RkdRdUZCaGNjVlRoWmNrdE13SEVDY3RmZTJiRTlUZGFqQXhsbEZTQVHSAeABQVVfeXFMTTdqd1lpdlozTEdoUGpRa1VVMF9rTzZYZFhxMTJXcnI2RUw5bXFzS3VqMXI4c1lxa1NCTTBSc1JnN01hWDhlQ1lrdDg1X3pJREhyVnRNVFY3dzFuejlzUmpmWGNDbzFqYXBRREtnVEhTLTNodXkwbWhOWkg1Z3VFOWdkN09yelc3TzR3V2FDakRrTEtFLWhUUG92UjhSNjdWbXpmZHJIb0dDT2hTc3h3eWtVd04wWlBvZURtMVQ3d0l5c2VpSm9nV3FlNXJldG9rcWt0dldoRUx2cFlXbmlnazY?oc=5",
+      "source": "ABC13 Houston",
+      "pubDate": "Fri, 06 Mar 2026 14:13:47 GMT"
     },
     {
-      "title": "Michael Smolens: The politics of offshore drilling just got murky - San Diego Union-Tribune",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdTFpUW9JcW9SMHlvTHNlTnlzXzRDTnR0SnMwcnZucVJUYTU1XzB4eTM4SjFOcWlOWndlbXo2X096V0FxZVZwT21EdGRmYkkwbUJlc2stak9aVG1KeEFIZkpqVy1JYmU4aUtUZ3U2Ymc1TDNMdVRzQUZDN0Q0Q0hKYURNLV9ySHdXalY5M0dBNm1sOGJ2cms5Q1pwMnBoZw?oc=5",
-      "source": "San Diego Union-Tribune",
-      "pubDate": "Fri, 06 Mar 2026 13:00:43 GMT"
+      "title": "The Odds: Kristi Noem fired as DHS Secretary - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVV9Cb2c1enREeWhaWmFNd3BQTGtPMWJZb0xBVUpoTGRXNjdhXy1QRGMtT2FOa1B6bGRLcVlqd2FySk84MUZBdUp3QXRKc3M3RjR5M3o4d1JoWnhxdFFaVlROcmk0MlhyWlJaQkVYUVFmS1hLbmV0S3BXRjdCVmFXZ0NaMEtPNE1hRndNbENvMFFpM1BidTg4RVJkeUV3YjhaLUE?oc=5",
+      "source": "CNN",
+      "pubDate": "Fri, 06 Mar 2026 12:26:36 GMT"
+    },
+    {
+      "title": "Why is the U.S. at war with Iran? - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZzBmZkFWQTlFSDdkQ1VrSHM3U1pUNndibkhNX2c3LTNfQmllUU5BQTNNVndLeE02RFpSbVJqTjUxV3ktNEw3RElmc1NrWWU0MG15OWFkLTEtWjBfQzExUy1sdEdNdmgzWnFaYXdoalp3SDFjd0t3V0ViY2NQeExvYndB?oc=5",
+      "source": "NPR",
+      "pubDate": "Thu, 05 Mar 2026 21:16:12 GMT"
+    },
+    {
+      "title": "Iran’s network of influence in the UK - The Week",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Gek9DcWZPMmR1S3dMbkxMUXp6X2pzQ25ScGthb3k1VWNCR0xuc25zODR6THhWcTJ0Z2lCVHNSVFZrc0dFMldlTkgwbDlIQ2ZMTzB3SlRQV2pSOGRpS1h4b21jQzNiQ3BPZk1HZ2lJZ2dGV0k?oc=5",
+      "source": "The Week",
+      "pubDate": "Fri, 06 Mar 2026 13:40:02 GMT"
     },
     {
       "title": "Democrat who sparred with Noem reacts to her firing - CNN",
@@ -221,10 +251,10 @@
       "pubDate": "Thu, 05 Mar 2026 23:54:11 GMT"
     },
     {
-      "title": "SIU’s Paul Simon Institute discussion focuses on importance of ‘charisma’ in politics - Southern Illinois University",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjgzdWljc3A3Mm12dnJYbjJyLUxrU1hDQjRuWmdpSGo2aVl0ajlyb3c5eEY3LXpUS1M1RFVOY2VIWGFHT25Ob3ZmSzlibENyZ2JuRklPS2tDLUQ2cGJPdjY2SU5BSzczX191SGVDZ3NnbGZFcDZscUJLUDlyYnBSQXRMNzlHV3poa0l6ZmRrYTN2c2ZaQmIyMHV3M3RDeFV6dWE4MWE2TnNJa1hPeVRPejNVYlJIVkxKOHdHRmllYw?oc=5",
-      "source": "Southern Illinois University",
-      "pubDate": "Thu, 05 Mar 2026 16:41:16 GMT"
+      "title": "Service & Solidarity Spotlight: Politics and Prose Workers Ratify New Contract That Includes Wage Increases - AFL-CIO",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0VMcG81d2NzUnVsNmpqUUJCTXFDQkVWMTF1OGZYUHM5R095VEY3OUVuNVRLVDAyVGNFYTJvYi1td09tSnlBN3RhejlLdzJQQ1pBcVdEV0pJVUhvb1FqMzRzQ0Y5bmJrZUV3NG1fU19MZm9fdkNxYW1mLUlBV3kyZXhUdHExNnRHcWkyNlB0TXJYaWh5ZDZYay1oanJTQ0p5MVZFdTRKRjFuN0h4Zlh6SEdNa3FISmdO?oc=5",
+      "source": "AFL-CIO",
+      "pubDate": "Thu, 05 Mar 2026 15:08:55 GMT"
     },
     {
       "title": "After Years of Waiting, She Wanted to Start Gender-Affirming Care. Politics Interfered. - Nonprofit Quarterly",
@@ -245,6 +275,18 @@
       "pubDate": "Fri, 06 Mar 2026 13:53:25 GMT"
     },
     {
+      "title": "SIU’s Paul Simon Institute discussion focuses on importance of ‘charisma’ in politics - Southern Illinois University",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjgzdWljc3A3Mm12dnJYbjJyLUxrU1hDQjRuWmdpSGo2aVl0ajlyb3c5eEY3LXpUS1M1RFVOY2VIWGFHT25Ob3ZmSzlibENyZ2JuRklPS2tDLUQ2cGJPdjY2SU5BSzczX191SGVDZ3NnbGZFcDZscUJLUDlyYnBSQXRMNzlHV3poa0l6ZmRrYTN2c2ZaQmIyMHV3M3RDeFV6dWE4MWE2TnNJa1hPeVRPejNVYlJIVkxKOHdHRmllYw?oc=5",
+      "source": "Southern Illinois University",
+      "pubDate": "Thu, 05 Mar 2026 16:41:16 GMT"
+    },
+    {
+      "title": "Dana Bash interviews President Trump about the war with Iran - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRzVmNG1yMXFMLW93QVItNlM5NG9CUWRFbWstd3JCa2pfa3JHMy1sTGNsOUZSVERGaVN5UTNtdnpBTS16UFRTcFo0QjlueGdGZ2JCSndPOUNWLTdXc0R0LWtjaUFST1BWYjE0MXF4WXl6VUxtcVNmY2tvNXYybWs5WXBjRzBaVXV3bG96WUxMaFo?oc=5",
+      "source": "CNN",
+      "pubDate": "Fri, 06 Mar 2026 14:20:02 GMT"
+    },
+    {
       "title": "Medicaid cuts for critical care hurts providers, reduces access to the best care for patients | OPINION - Colorado Politics",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcDlIZ1UwYVhhQVdKR2lfSEFQYmNrUnoya0I5OUs2dGhEVjZpSUdoa3ZMbkZqekhMLTZ0N05IWUFJeHBXSXBqNG1rOHRoM1hxY1VidHQ2U2pMTVhQNWFzejIzNzNsX2dvV0lkTEItVWlkaDVjcTVQdXh1NUZ5dE1ySHgzeWR1MVZBSHV1OEd2TldCS0RBajU3OFp0RmluUTNoamhYSmRxRVlJc3FCTDU5bnduX2tjQU5hSk05eUlKUnNoT25abS1hakRhdGt0WnE3QWVtbnV5SG9ocXNUQ0E?oc=5",
       "source": "Colorado Politics",
@@ -257,16 +299,22 @@
       "pubDate": "Fri, 06 Mar 2026 03:32:22 GMT"
     },
     {
+      "title": "Mamdani and Hochul tout universal child care program despite dif­fer­ences over tax hikes - Spectrum News NY1",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc1hIcm55U0VUUG1lMV80UTU2SGhyZ24tY2tlRTFaR3g0TTBuMDRWMzROY01pRGNoVmFzQmVBNEJvdU9DOGFWWnBsWGxpbl93OGF4OVBtZ20zYnMzOHZMWVI2SG8zTDgtaXdVaG5PY1lsLUxFMXlQWk55WE9ZUDFTYV9ZWmF0QVRURTRFU3NwM3lUeVJHSkV2dmZPeFRSVDVkQ0J5X2JDaEU?oc=5",
+      "source": "Spectrum News NY1",
+      "pubDate": "Fri, 06 Mar 2026 02:27:00 GMT"
+    },
+    {
       "title": "Red Dragon diplomacy: Students learn from European politics - Cortland.edu",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV0t3Rng5SUd5dmh6OFFJQk1Ya0k4QXd2alQzU0hfZGRxMmJWUnFMc2FpR2w0ZVJ3Rno1TEFSb180dDI0eDlYb3BDRl95MzExdGdIQlJxeFg4RVdrQXltcDhmZ1ptam9Vc3QtLTJZYlJZd3BlNlYybUZIaDF1RmFSTXZnYzNhU005M0xwT0FIQnlyRmc?oc=5",
       "source": "Cortland.edu",
       "pubDate": "Thu, 05 Mar 2026 14:48:49 GMT"
     },
     {
-      "title": "Troy council votes 7-0 to approve good cause eviction law - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYUk5U2lTZ3ZIUmdzRWp3aVQxU0c1bXVQT280TEtNQzFIdTFnWmI5RUFKdXhNaFlvd3g0OEFkaXdlM3BhMnNxajhaYzRwYWN1RV94MVZMRG9udENUTDR0c2toeDVhb3RRSmZhQkVYOTgteWVuaU96b296LXREby1zcFdpNjFKRzdTTWRZYXVPaGRBdHFBeE1jUEZaMjZuT1U?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Thu, 05 Mar 2026 15:28:00 GMT"
+      "title": "Ronnie Eldridge, NY Politician and Aide to RFK and Lindsay, Dies at 95 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qZDRGd0VIRy1JT3pqaG5NSThsbFJfbG5CcjQ0R3d2MUtNOXlBLXliRGg1elFIa3RCcHRMa0V2VkF1NjNXd1hTbTY5OU5jeS16blFTMXduZWhjVy1FODEzN3UwdXJ2QTY3aDR3N3R6bzNZdnpvcjZJY2kzOA?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Thu, 05 Mar 2026 22:17:25 GMT"
     },
     {
       "title": "Golden bucks party line as House narrowly rejects Iran war powers resolution - Spectrum News",
@@ -281,10 +329,10 @@
       "pubDate": "Fri, 06 Mar 2026 00:09:00 GMT"
     },
     {
-      "title": "Mamdani and Hochul tout universal child care program despite dif­fer­ences over tax hikes - Spectrum News NY1",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc1hIcm55U0VUUG1lMV80UTU2SGhyZ24tY2tlRTFaR3g0TTBuMDRWMzROY01pRGNoVmFzQmVBNEJvdU9DOGFWWnBsWGxpbl93OGF4OVBtZ20zYnMzOHZMWVI2SG8zTDgtaXdVaG5PY1lsLUxFMXlQWk55WE9ZUDFTYV9ZWmF0QVRURTRFU3NwM3lUeVJHSkV2dmZPeFRSVDVkQ0J5X2JDaEU?oc=5",
+      "title": "Hudson Valley lawmakers split on War Powers vote over Iran strikes - Spectrum News NY1",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVFVlS1lqOWpuejItVUhPLUpON2tTWXdDeEEyWFhHSjlYUTRYNTJNTWQtLVJrV0s3MnJxMzhja3VJNmktaUU1M3B1NFFGZmcyMFdrbUUwTUJfVHZmeVYxNFR6dzVtNElwaWZLUlB0b091bzliR3BRdXNuYUFKeTNFRTRNbGZFRnRqeF85VFZDUVBCUERDalNkQl80c3ZnNmRsS2NzQi1WS2FiRFlnYmhMQXhYV0Zlbk00MzRIYw?oc=5",
       "source": "Spectrum News NY1",
-      "pubDate": "Fri, 06 Mar 2026 02:27:00 GMT"
+      "pubDate": "Thu, 05 Mar 2026 13:02:00 GMT"
     },
     {
       "title": "How should HR handle politics in the workplace? - K-12 Dive",
@@ -293,28 +341,28 @@
       "pubDate": "Thu, 05 Mar 2026 21:06:45 GMT"
     },
     {
-      "title": "Iranian warship sunk by U.S. was heading home after India-hosted exhibition - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORDlqb3VKNzhPeDJ6S0pWdUNNY2pYSml6RG12SHB1R0pETnFDZVg4RlNHNEpPMGo4MXhRdGZzZzdYUm4zUUE3M0kyWC1oejc2NjdtaXhrSGZhWndtRjdoYTRKQ2NGUXRCMmxXTU1FV0ZidGZzWDh0Z2lHRlJXc3I0VldfX05oamFQLUlWLTRsek13QjRVSXY0LU92a0lHR2NLbUhpYmJhRQ?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Thu, 05 Mar 2026 16:35:00 GMT"
-    },
-    {
       "title": "Opinion | Technology with a badge, politics without a manual in today’s policing debate - The Durango Herald",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQW5RVW5oZU45QUdpalZtWmwzOGphaEpTejRoMjYyVUJ4N1pZSVZmVWpkLTdmaXE4bnNZN2JYd0t3TmtPR2g3bEhDUzVDdHNQZG5Ha2tZRkpLREpiSXY4dndfSWJLY3VNUUVpa05jeVF5UFRaby1YY3FDUjVZYldsclhaRjJHaHRKLXcwZ3c1a0dHbEEyWDJZUzlWb1ZQeUs1em5GenY4bjR0QWw5M3BsSzc5UzdhQQ?oc=5",
       "source": "The Durango Herald",
       "pubDate": "Fri, 06 Mar 2026 12:00:23 GMT"
     },
     {
-      "title": "Trump fires Homeland Security Secretary Noem after mounting criticism over her lead­ership - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdS1aZzU2b25uX21senRIV0pIcjdHcVFDSGNMcTROZHViQkZ6alEyNGhnMjdoLWJvczBRZWlJa0xvc0oyTEJmUFdYeXo1SUhFNzdtNXV4eUtBX20yNzNfVk5KcUpwR2E5YnBJdGMtOThoOE5TWm1vSEVfUzNNNW5JNmowbFVqbWMxN2tqTDBNMHZ6M05xSWZiZ2E1TENvN3dLZUpieS1qTDZPak5WM2tDQTBmazJ4R1F6V3BCVFEtcWFUMEVYd0tEX1d1bm5QVm1UYnNVdlktekRISGM?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Thu, 05 Mar 2026 18:53:00 GMT"
+      "title": "Sittenfeld and the fuzzy line that crosses into corruption | From the editor - Cincinnati Enquirer",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeV9hQ3hTUklrcFZOZm9Rclo3c2xpVTR2WDBNcTFRR3RvTWJzU2F0YU5fMWFsNHNnRkJlVTREWkpDVEM5bkNjNWxlR18zYzhQMjRXSU5MZzRhZ1Q5NFpYN0dBWkdRTmdwZ2taeGFxV2pvQWVwaUFHa1BEeFRYWGRkLXowbmE4ajJwVWhnSDFhSDVFWFZnN3FmMXhmS3E2bXRhOVMwRURQanZ1T1pReEFYSUdYV3gxNHlpQzlsblFac25rS3J6enZDaWFXS1R2eWNNUVk0?oc=5",
+      "source": "Cincinnati Enquirer",
+      "pubDate": "Fri, 06 Mar 2026 14:47:00 GMT"
     },
     {
-      "title": "Hudson Valley lawmakers split on War Powers vote over Iran strikes - Spectrum News NY1",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVFVlS1lqOWpuejItVUhPLUpON2tTWXdDeEEyWFhHSjlYUTRYNTJNTWQtLVJrV0s3MnJxMzhja3VJNmktaUU1M3B1NFFGZmcyMFdrbUUwTUJfVHZmeVYxNFR6dzVtNElwaWZLUlB0b091bzliR3BRdXNuYUFKeTNFRTRNbGZFRnRqeF85VFZDUVBCUERDalNkQl80c3ZnNmRsS2NzQi1WS2FiRFlnYmhMQXhYV0Zlbk00MzRIYw?oc=5",
-      "source": "Spectrum News NY1",
-      "pubDate": "Thu, 05 Mar 2026 13:02:00 GMT"
+      "title": "Troy council votes 7-0 to approve good cause eviction law - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYUk5U2lTZ3ZIUmdzRWp3aVQxU0c1bXVQT280TEtNQzFIdTFnWmI5RUFKdXhNaFlvd3g0OEFkaXdlM3BhMnNxajhaYzRwYWN1RV94MVZMRG9udENUTDR0c2toeDVhb3RRSmZhQkVYOTgteWVuaU96b296LXREby1zcFdpNjFKRzdTTWRZYXVPaGRBdHFBeE1jUEZaMjZuT1U?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Thu, 05 Mar 2026 15:28:00 GMT"
+    },
+    {
+      "title": "James Talarico Says ‘New Politics Is Being Born’ After Texas Primary Win - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wM2pCWUc2T2g1Z2FvXzEycFdqZ2hjclNKN29iUkMxUVFndUJvYXdkQWhoeTJzcHdnNlBhaTFjWTB6TFAwX002dk8xNUNMcWZQVVJPelpQR3JBV1REWWFSVHBZQmhuTVBnMlF3V0lEVWVJOF9KdTdRWDhsVWhaNFE?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Thu, 05 Mar 2026 03:51:38 GMT"
     },
     {
       "title": "Proposed bill aims to ease eastern Kentucky energy costs - Spectrum News",
@@ -329,16 +377,16 @@
       "pubDate": "Fri, 06 Mar 2026 10:01:28 GMT"
     },
     {
-      "title": "Ronnie Eldridge, NY Politician and Aide to RFK and Lindsay, Dies at 95 - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qZDRGd0VIRy1JT3pqaG5NSThsbFJfbG5CcjQ0R3d2MUtNOXlBLXliRGg1elFIa3RCcHRMa0V2VkF1NjNXd1hTbTY5OU5jeS16blFTMXduZWhjVy1FODEzN3UwdXJ2QTY3aDR3N3R6bzNZdnpvcjZJY2kzOA?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Thu, 05 Mar 2026 22:52:35 GMT"
+      "title": "Iranian warship sunk by U.S. was heading home after India-hosted exhibition - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORDlqb3VKNzhPeDJ6S0pWdUNNY2pYSml6RG12SHB1R0pETnFDZVg4RlNHNEpPMGo4MXhRdGZzZzdYUm4zUUE3M0kyWC1oejc2NjdtaXhrSGZhWndtRjdoYTRKQ2NGUXRCMmxXTU1FV0ZidGZzWDh0Z2lHRlJXc3I0VldfX05oamFQLUlWLTRsek13QjRVSXY0LU92a0lHR2NLbUhpYmJhRQ?oc=5",
+      "source": "Spectrum News",
+      "pubDate": "Thu, 05 Mar 2026 16:35:00 GMT"
     },
     {
-      "title": "James Talarico Says ‘New Politics Is Being Born’ After Texas Primary Win - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wM2pCWUc2T2g1Z2FvXzEycFdqZ2hjclNKN29iUkMxUVFndUJvYXdkQWhoeTJzcHdnNlBhaTFjWTB6TFAwX002dk8xNUNMcWZQVVJPelpQR3JBV1REWWFSVHBZQmhuTVBnMlF3V0lEVWVJOF9KdTdRWDhsVWhaNFE?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Thu, 05 Mar 2026 03:51:38 GMT"
+      "title": "Trump tells CNN Cuba is soon going to fall: ‘We’re really focused on this one right now’ - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNT01xbWlMa29wZnFjVmhhTld3MFhsZDB1aWdVX0tEODlqdkEwaG1CVXZQLWhtZHBMcXhQVlFwVUxSUGE0RFVxQ2lzTUdEaW1WdGVobVhfTHA2Wl96SDVWaF9xbGNiRFVEX1FlMWE3UmdUVDVxalE?oc=5",
+      "source": "CNN",
+      "pubDate": "Fri, 06 Mar 2026 14:11:30 GMT"
     },
     {
       "title": "Iran War Intensifies, Spreads - Inside Politics with Dana Bash and Manu Raju - Podcast on CNN Podcasts - CNN",
@@ -377,22 +425,22 @@
       "pubDate": "Fri, 06 Mar 2026 12:03:00 GMT"
     },
     {
-      "title": "Why is the U.S. at war with Iran? - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02SG1TbWg1eGFUcXFUOUtkSnBJLWRQNlRyYlg1ZjJ1ZndKNzk2dEZFdTZOcVNzQ2xhOHBjYXBIMTM1cFFMYVh6VllUeENjTVlLUEJVLTRUQjA?oc=5",
-      "source": "NPR",
-      "pubDate": "Thu, 05 Mar 2026 21:16:12 GMT"
-    },
-    {
-      "title": "Billionaire Ron Burkle accuses his political power-broker protégé of multimillion-dollar fraud - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY01jT0RxVEVkY2VfRVI2UkZQR0lBbXdiNzM3aHpYMGRialdJNmIwWFNyWFB6NHNaeGoyQlZ6dXBIMy1lU0ZYT3ExaTg1YlIwYjNkdmlWdXY0aTU4Zm5IMU1nMC1QSy1RM0NIMnVPZWk3YkRja3JON1FFeEpISklVQ0h3SXl1YUNJNEJBM043a2RJMFZLUG9aNFk2eUdCZ2dRMmdiT0dmQnFOck5kM0YzSk4zaWgyR1d5Y2hGUzhJY0ZERmFp?oc=5",
-      "source": "Los Angeles Times",
-      "pubDate": "Fri, 06 Mar 2026 11:00:00 GMT"
+      "title": "Friday briefing: Can the politics of cruelty around asylum help Labour in the polls? - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY3B2eXFJdEtTSUJkQWpKZEdrdlE3U213eTFpMXJkdHVpanlaelEtemd2LUJqZWZkb0NUcEtNNXVMRmlraXNQUlBCSEo1WEtwZEREc0tkM2xOTWljUVFBNDdBTm4tVXFPZUlnaU1hMktwLVZHQjV2d0V6akZtUFh0UGEwRkJZYzZUYlcwY2hrNU40cEszOFVwNV9JQ0xTYlp6bU1aS3NIZm1IZHN1YXVfYUdZT1NGVWpHdkJ3azk2OExkRnJOd1Fv?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Fri, 06 Mar 2026 06:45:51 GMT"
     },
     {
       "title": "Trump fires Kristi Noem as homeland security secretary - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM0gyZkx4ZHladHVWdzhSWW5yQVBuMnU1TGlPTnduOFBuWTJKaU9NTkU5RkJfZF9xTlV3TkVsRGlUYWlobko3V1Rqa3JUZ2FNYzVJd2lQSGdsM2JiMEUtYkNKMlVRT1E4Z3FoVGpTaUJ2UVpyaV8wX2NNSU9Vb2UySDhKZVhnTFF5cUFEMmlGVGF1MmQ0d2s3TDY2b1BiTVpZX1lpdjhZLUIwRWVyOFZpMUh1Yk10bmRVSFNWSzVnRVowUQ?oc=5",
       "source": "NBC News",
       "pubDate": "Thu, 05 Mar 2026 22:21:19 GMT"
+    },
+    {
+      "title": "Billionaire Ron Burkle accuses his political power-broker protégé of multimillion-dollar fraud - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY01jT0RxVEVkY2VfRVI2UkZQR0lBbXdiNzM3aHpYMGRialdJNmIwWFNyWFB6NHNaeGoyQlZ6dXBIMy1lU0ZYT3ExaTg1YlIwYjNkdmlWdXY0aTU4Zm5IMU1nMC1QSy1RM0NIMnVPZWk3YkRja3JON1FFeEpISklVQ0h3SXl1YUNJNEJBM043a2RJMFZLUG9aNFk2eUdCZ2dRMmdiT0dmQnFOck5kM0YzSk4zaWgyR1d5Y2hGUzhJY0ZERmFp?oc=5",
+      "source": "Los Angeles Times",
+      "pubDate": "Fri, 06 Mar 2026 11:00:00 GMT"
     },
     {
       "title": "Who Carried Out Deadly Strike on Iranian girls’ School? - Politics Today",
@@ -449,16 +497,16 @@
       "pubDate": "Thu, 05 Mar 2026 23:08:25 GMT"
     },
     {
-      "title": "War Always Comes Home: Iran and the New Politics of Fear - Epicenter NYC",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10VkRoX3d0NndaQWxWTjY2eE1WY0JSajhmTkEzYXl4eU03WVRIQVpVbU9ra0VwSXlKTldYMnZUV1dFOXNObVlhb1o4Q0xPLUpRcU84RUhyN2xuQ1ZUeUZsQ2NWZ3VaVzloUVMzSzRtNjJsaFdoeUE?oc=5",
-      "source": "Epicenter NYC",
-      "pubDate": "Thu, 05 Mar 2026 19:37:13 GMT"
-    },
-    {
       "title": "New political group exemption in data privacy proposal narrows support - Maine Morning Star",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcnEwckFiUy1TZzV5VDAycFBEWUxrTUV3YzAtM0tBQWVZMUlwaXRkWE51dEJEVnRudV9qbWhYVFl3cTFiWnczV3VfaFBOck83SXp4ZEJyNkVtZWY5UWlQSGYwOUtQbHkwWGI0b21NS0pGZG9HZk9EcFM0ZGVHemFMYWl6djhtNFhNQTNUaEpiUFF5MEJSWHFXcjJUYl9uSkwxVWg2R1pqUkJFSUJoMlkwRA?oc=5",
       "source": "Maine Morning Star",
       "pubDate": "Thu, 05 Mar 2026 21:58:13 GMT"
+    },
+    {
+      "title": "War Always Comes Home: Iran and the New Politics of Fear - Epicenter NYC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10VkRoX3d0NndaQWxWTjY2eE1WY0JSajhmTkEzYXl4eU03WVRIQVpVbU9ra0VwSXlKTldYMnZUV1dFOXNObVlhb1o4Q0xPLUpRcU84RUhyN2xuQ1ZUeUZsQ2NWZ3VaVzloUVMzSzRtNjJsaFdoeUE?oc=5",
+      "source": "Epicenter NYC",
+      "pubDate": "Thu, 05 Mar 2026 19:37:13 GMT"
     },
     {
       "title": "Venezuelan players put politics aside to play exhibition game in U.S. ahead of World Baseball Classic - NBC News",
@@ -473,52 +521,16 @@
       "pubDate": "Fri, 06 Mar 2026 06:54:22 GMT"
     },
     {
-      "title": "Republicans are using custom electric Cybertrucks to get political - The Arizona Republic",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUFZVDM4cWQyNnhZbHMtQlZvaS1qVFNzOHlnTWRVQ1ozTVh1VXJFeGVRUHNXdHNqTk1ZdTh0cTlKRExMRWZ4dGowd2haOVVZVE9iQWNKRGtYcm1ZblFqMGJZNUFNcVdGdzlVckV6cU1mMi1SN1BTWjB5dktoalJHRUdsWHg5RG8zNlFXRnU5VUdaSklsOC1EbHdFcXN5Qzk2cXhhMkpGSTg1cVdyV0xWRWpsd0lxLUNVNGE0cVNlcWg?oc=5",
-      "source": "The Arizona Republic",
-      "pubDate": "Fri, 06 Mar 2026 12:04:00 GMT"
-    },
-    {
-      "title": "Justice Department posts FBI interview memos related to Trump sex abuse allegation - CNN",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSzQ1dXRYUFNCUE1lcFhWNDc0eEFyTHJra2VobHBhazlLQmpTczJOOU9Lb3d0ZVdnWlhQd193M0RhYWs0emM2cTVUWW9yRVV1SnhtWkNvS2tRaWdCTFNaZk5TUFVadlFkN01fOVJqdnkxLWJ2X3dfUzNPVEkzZDRkTEZ5RUhUMzdocDJya01zNTNNcDBFeGxjTWlib0QyYTZacGpCck8tMVYtMDgyNnE5ZExnVXYyYzVoRWhORm9ERXFmX0V3bTk1cjBBcmhHeGc4?oc=5",
-      "source": "CNN",
-      "pubDate": "Thu, 05 Mar 2026 22:26:48 GMT"
-    },
-    {
-      "title": "How each House member voted on Trump’s Iran war powers - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XWlVWWW5HaWdUNHdzTTBsTlBhWklFNjNvdW01eHpfN1RSN0c4NFd0aHl2SDVzQThfd3g1VnNvb09VRmkxeWhwOGZKS0haR3lYSHlOTUdJenhPT2Ixb182Vkh1M1dlRWxxSS10TXFGTDVuWVZWMGM5Q1Rn?oc=5",
-      "source": "CNN",
-      "pubDate": "Thu, 05 Mar 2026 22:58:47 GMT"
-    },
-    {
-      "title": "Arts Politics graduate students went to the Lincoln Center - NYU Tisch School of the Arts",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHhKRU53dFBhdUxacktKT0MyQjQ3R0tTWVNfcDd3dU9Zc0RZR0NOUFF1cW9WUm5qYTFSZlFGbzZVMHJuUFZzLUROMUZoeU80V2pBQUIzNnYzNXpfWDJvbVo2YTAzT0pKSGxTNFY1QnVRVWx2aGFMc2p2dDhqdkRxdy0zVnp1QmtLczY5UnlKa19iQWU3M29rTDZnQ2RPcm1tU09DN1lB?oc=5",
-      "source": "NYU Tisch School of the Arts",
-      "pubDate": "Thu, 05 Mar 2026 16:56:34 GMT"
-    },
-    {
       "title": "Politics experts discuss U.S.-Israel war on Iran - Iowa Public Radio",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUElpZDg0ekRNMTdfVDBDY0tmbDYyLUR0NzFpTkkxS3EzMGJkUkR3dzh3OGlTZUVtcVBJLVYyT3N1aDI2S2xIOHZRZW5naVBSRUFVYUZHa0pBMkRYSHpmc0QxREtGYmYwVWE0QldIMTBrOF9CeFNRM0pjWnY3ajR1bTNOcDNnbjdSU0J1UWgtQl9aXzhjMVB3bUMwMkJXMEtxcEJ4VEU5WTVvNzRrb1JnUlY2OA?oc=5",
       "source": "Iowa Public Radio",
       "pubDate": "Thu, 05 Mar 2026 13:07:20 GMT"
     },
     {
-      "title": "How We Got Here: Presidential Politics and the Iran War - Insider NJ",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGJVbDNWNThaMTRXUXpMa2VidTA2VTZwc2Z5dzlOWDRmRDRMR3Z1M2M0Rl9mbjREejcxVUtraWdqeFM0YnJyVWRjdmhXS0FWZjNmOTBpS0xaekdkd3QxVzFuZDYyazNUbHE3c1dCYlR6YnlIZmNLYkJRVElYSXFMWUpXWQ?oc=5",
-      "source": "Insider NJ",
-      "pubDate": "Thu, 05 Mar 2026 17:07:00 GMT"
-    },
-    {
-      "title": "Friday briefing: Can the politics of cruelty around asylum help Labour in the polls? - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY3B2eXFJdEtTSUJkQWpKZEdrdlE3U213eTFpMXJkdHVpanlaelEtemd2LUJqZWZkb0NUcEtNNXVMRmlraXNQUlBCSEo1WEtwZEREc0tkM2xOTWljUVFBNDdBTm4tVXFPZUlnaU1hMktwLVZHQjV2d0V6akZtUFh0UGEwRkJZYzZUYlcwY2hrNU40cEszOFVwNV9JQ0xTYlp6bU1aS3NIZm1IZHN1YXVfYUdZT1NGVWpHdkJ3azk2OExkRnJOd1Fv?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Fri, 06 Mar 2026 06:45:51 GMT"
-    },
-    {
-      "title": "Super PACs funding many political ads ahead of primary Election Day 2026 in Chicago, Illinois area - ABC7 Chicago",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcnNPZ2FaX2xad0xEcDc4aU9Ccnp3SFVWOTkycWJ3T3d1TUZqY2pjSk1VODNqbVB4TU9qYTJxVS0wTEhLUVVpQkV3SEI3RFpEUThvdl9jbF9LVHk5dlJvSDRPeGgzdDlTRWxxXy1LeUZfTWNoaWNmZE00N0ljV0IzcWRmbHhfVThoMFFYdDFDeWhCd0dtLTBJSklQeGlxZVdzQ2VNb3lsLS1Zd0V5b21nMmhqc0hUdzdFTG1lVzgtMDJhRDk3Nk5nRGRR0gHPAUFVX3lxTE4wcG9MNzRwVTJBdkUyU3Q1VWxXSHJuWEN6MVg3RU9pV09rN3BEWlk5VVA4Wm9HYnowaGdNcUJ6SlZjQk8zZUVsU2p6blh5S29WWDB1Z2V2SDRSdDkyMmxRcmd2a3hrbmd4S2FWT2N6V3M3WG96Q0Q1WXlJcFFHWWdIenNMaGFwMkFSV2xZOGlHTmNXYWZFY2VidGg5eGlHMmN2b0FEajFCLUJWNGt4S1hEUmZkX3N1R2VQVl96bERtaFYyUVBmYlpESTRiOU5Vcw?oc=5",
-      "source": "ABC7 Chicago",
-      "pubDate": "Fri, 06 Mar 2026 01:29:17 GMT"
+      "title": "Rep. Tony Gonzales drops reelection bid following scandal and ethics investigation - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUHYtbk9lQ3ZfR3dpSnIzM2hEcEpiNGlwVjhYZ2s0cXZZaHhsUlRNZnhXVVY5Wm5HODlvWFpiaUtJWWxfRTRlYmVHdUNfb2pNc1F6eno5eXA0TnBaWkRqMi1BZThmWThDcmRoT3R5bm1YdDdudW11Um1Ic1dQY0t4aWEwZmZobDgzYzY3SVdBNmpjVVk4SXlzcFN1UE5aRGdYb1F0Z25vYWdjRTZZNlJYZUdtcnljSXdDZzV2czluaGJFZU5aVlFIV3o2eEU0a0RnN083NWYwTnlMSGQ5VldJY0tIUkMzTGJDaDlv0gHzAUFVX3lxTE5nZjRmaTltaVFpLWdBX0xTazBFS250X0ExX29oYjJJQ1FzdmtLeHRKcTNGTXpPeE5rQjhkSnJ5Szd6NkEzMEQ5SDlScEQtM0FUSzVjLTdEVDJobndERDBvb00wMm11dkNrbDdmRGs3bmd4cExiOXZqT0tZdkhvaFFGNHV5MjhoU01BNnNVMkswXzRsOWFodzdiZzJYeG1IWU40NmtxYXhwSkhMYWhEUHNnVnYtVmd2UEhrWXJ2UzFRRjFfV3hPUDdkZUNIVUxaaElvLXZUU1BmeGlDbmF5bWd5SWRKMTlVMS1VUThrWmZSOUFZSQ?oc=5",
+      "source": "Houston Public Media",
+      "pubDate": "Fri, 06 Mar 2026 14:04:07 GMT"
     },
     {
       "title": "Politics - The Economist",
@@ -527,10 +539,40 @@
       "pubDate": "Thu, 05 Mar 2026 13:45:01 GMT"
     },
     {
+      "title": "Justice Department posts FBI interview memos related to Trump sex abuse allegation - CNN",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSzQ1dXRYUFNCUE1lcFhWNDc0eEFyTHJra2VobHBhazlLQmpTczJOOU9Lb3d0ZVdnWlhQd193M0RhYWs0emM2cTVUWW9yRVV1SnhtWkNvS2tRaWdCTFNaZk5TUFVadlFkN01fOVJqdnkxLWJ2X3dfUzNPVEkzZDRkTEZ5RUhUMzdocDJya01zNTNNcDBFeGxjTWlib0QyYTZacGpCck8tMVYtMDgyNnE5ZExnVXYyYzVoRWhORm9ERXFmX0V3bTk1cjBBcmhHeGc4?oc=5",
+      "source": "CNN",
+      "pubDate": "Thu, 05 Mar 2026 22:26:48 GMT"
+    },
+    {
+      "title": "Republicans are using custom electric Cybertrucks to get political - The Arizona Republic",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUFZVDM4cWQyNnhZbHMtQlZvaS1qVFNzOHlnTWRVQ1ozTVh1VXJFeGVRUHNXdHNqTk1ZdTh0cTlKRExMRWZ4dGowd2haOVVZVE9iQWNKRGtYcm1ZblFqMGJZNUFNcVdGdzlVckV6cU1mMi1SN1BTWjB5dktoalJHRUdsWHg5RG8zNlFXRnU5VUdaSklsOC1EbHdFcXN5Qzk2cXhhMkpGSTg1cVdyV0xWRWpsd0lxLUNVNGE0cVNlcWg?oc=5",
+      "source": "The Arizona Republic",
+      "pubDate": "Fri, 06 Mar 2026 12:04:00 GMT"
+    },
+    {
+      "title": "Super PACs funding many political ads ahead of primary Election Day 2026 in Chicago, Illinois area - ABC7 Chicago",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcnNPZ2FaX2xad0xEcDc4aU9Ccnp3SFVWOTkycWJ3T3d1TUZqY2pjSk1VODNqbVB4TU9qYTJxVS0wTEhLUVVpQkV3SEI3RFpEUThvdl9jbF9LVHk5dlJvSDRPeGgzdDlTRWxxXy1LeUZfTWNoaWNmZE00N0ljV0IzcWRmbHhfVThoMFFYdDFDeWhCd0dtLTBJSklQeGlxZVdzQ2VNb3lsLS1Zd0V5b21nMmhqc0hUdzdFTG1lVzgtMDJhRDk3Nk5nRGRR0gHPAUFVX3lxTE4wcG9MNzRwVTJBdkUyU3Q1VWxXSHJuWEN6MVg3RU9pV09rN3BEWlk5VVA4Wm9HYnowaGdNcUJ6SlZjQk8zZUVsU2p6blh5S29WWDB1Z2V2SDRSdDkyMmxRcmd2a3hrbmd4S2FWT2N6V3M3WG96Q0Q1WXlJcFFHWWdIenNMaGFwMkFSV2xZOGlHTmNXYWZFY2VidGg5eGlHMmN2b0FEajFCLUJWNGt4S1hEUmZkX3N1R2VQVl96bERtaFYyUVBmYlpESTRiOU5Vcw?oc=5",
+      "source": "ABC7 Chicago",
+      "pubDate": "Fri, 06 Mar 2026 01:29:17 GMT"
+    },
+    {
       "title": "Maine Senate advances amended data privacy bill that would exempt political groups - newscentermaine.com",
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOdzhrS2VGQ2k0T0xpb0RPcmxoVXJVU1hSQnJFQS1IelFjQVdscGhuUlJfc05YbzNpcjJXXzYwV0hRaEVTd0hzZjU3bDl3bUZPbnJYcFdKWlltbmtUUjYwM2wxQ2E4aDNnYXh5dDZLVkFXdXlvN3BZNmEzM0ROM0Rmd0lGcUN4OW9FaVNBTjVfcGo3M2djaXlqNXdSb1QtdVBHZnA0RW1aQldjWnZQTi1MNXV5ZXBzdkVaNDFhXzFZdDFGTWRZdEhCNENWQ0tDTEplV3I3UlZFMkV1OTdYMl94eVY4ZmVBclIxazA3a1FRdkdQMXVrWVV2YmVSRV9qUFA5cy12NzV6SUxCV3ZndVhCNk9vNTY4X1dnRXZKQWhmS3FRZw?oc=5",
       "source": "newscentermaine.com",
       "pubDate": "Fri, 06 Mar 2026 00:30:00 GMT"
+    },
+    {
+      "title": "Arts Politics graduate students went to the Lincoln Center - NYU Tisch School of the Arts",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHhKRU53dFBhdUxacktKT0MyQjQ3R0tTWVNfcDd3dU9Zc0RZR0NOUFF1cW9WUm5qYTFSZlFGbzZVMHJuUFZzLUROMUZoeU80V2pBQUIzNnYzNXpfWDJvbVo2YTAzT0pKSGxTNFY1QnVRVWx2aGFMc2p2dDhqdkRxdy0zVnp1QmtLczY5UnlKa19iQWU3M29rTDZnQ2RPcm1tU09DN1lB?oc=5",
+      "source": "NYU Tisch School of the Arts",
+      "pubDate": "Thu, 05 Mar 2026 16:56:34 GMT"
+    },
+    {
+      "title": "How We Got Here: Presidential Politics and the Iran War - Insider NJ",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGJVbDNWNThaMTRXUXpMa2VidTA2VTZwc2Z5dzlOWDRmRDRMR3Z1M2M0Rl9mbjREejcxVUtraWdqeFM0YnJyVWRjdmhXS0FWZjNmOTBpS0xaekdkd3QxVzFuZDYyazNUbHE3c1dCYlR6YnlIZmNLYkJRVElYSXFMWUpXWQ?oc=5",
+      "source": "Insider NJ",
+      "pubDate": "Thu, 05 Mar 2026 17:07:00 GMT"
     },
     {
       "title": "Colorado Gov. Polis considers releasing Tina Peters from prison amid Trump pressure - PBS",
@@ -551,58 +593,16 @@
       "pubDate": "Thu, 05 Mar 2026 13:01:00 GMT"
     },
     {
-      "title": "Oregon lawmakers approve controversial changes to campaign finance law; advocates pledge to bring issue to ballot - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNEdtbkZJemdhOEI5LV9PcF9oLWsyTVJVSEtiLXN5M1Z4alZVREZYbmlaUmVQTUtOT0FDWm9nQ1ctWVF2dEw1QnNTQ3FQdm91T3FkdEdUNlF2M3IzdXBDeU1CZkF2SldqT1V3QU9ZcFo0LTkwb3ZrYjdXSDN0bDFWeVZralVEaDNZVnFpUjRySU9vYnVNNVA1anNyZHBNeElfRGVwTkViNlZuTlVwSWsyd2hfdlk3SE5lR1kzX1E2YnBCREl1ckQzS2I5TUc3SHpfMmtkTHpiZkRnbHVxZEVTcFBLSFJnZGNGcWItMFllb1ptRHc?oc=5",
-      "source": "OregonLive.com",
-      "pubDate": "Fri, 06 Mar 2026 13:00:00 GMT"
+      "title": "A Political Risk Guru’s Biggest Worry About the Iran War - New York Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQalRBSVB6SzBUVndrVkQ0NFZUZTdYajlfdThuMy1sRWItUUFIS0tIam41YUJMWVM5UXh5Tk1xVXhaYzJocEJ4YzZLaGFOMVpVVzkzYlozN2J4YU9aZy00VTlqZm15T09CVEpyNWdhZmdRLVJDNFBaMmtqZzQxakY0OWxpZFFZMDd0UklfMERsZmtjRW9zd0pQRm1RWV9VbFNkTlE?oc=5",
+      "source": "New York Magazine",
+      "pubDate": "Fri, 06 Mar 2026 12:00:27 GMT"
     },
     {
       "title": "New research highlights how politics shapes success in complex government projects - Heriot-Watt University",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORF84dElmaTQ4OGtiQ1ZHanMzenN3MTNKSmRYWVdpUnM3NFhoRm85NmlGYk9QQ3dJcVZuM2Y4Y2h0LTBBWGpsZldoTEZ5NDBRMVQxZ3BxcnRjVkhuRFdUaDZQUmFZVTVqckUtZHlfMWlPQW1JZzczVHBXS2tlWjJqQjhNXzZuck5mVVV5clBXeXc1cE5jbzRGbmR1aklJV25leUhweThmaHpZMTdVbmxaQzFoaw?oc=5",
       "source": "Heriot-Watt University",
       "pubDate": "Fri, 06 Mar 2026 14:28:30 GMT"
-    },
-    {
-      "title": "New farm bill advances to full House vote - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tOWViQ0UwdWxYZEQ0WVRJaU9ZSWNGT2Y5VmJUVmtMcmpfN1lycFo3SXR5Vk1FZG5xeEtHR0pPYzl5SnY2UURreHFLbF9fdkFta01nRWhPM1ExVWNneHpTcEdOT3VMM1ZWSTZ2MHRFd05JTzlTQ1BF?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Thu, 05 Mar 2026 22:04:00 GMT"
-    },
-    {
-      "title": "Provisional voting’s power over the most powerful man in NC politics - NC Newsline",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbE11ZWNTNVRIVG1GMFYzVVNEU2M3TmxKcWlreWpsNUVhUzlMVkFGNlJXY0dTcGZxM2JEUzJITmpvZ2xPTjdnbldLeDZySEV6SFdkTEN1SFNiMkE5eHNMWVZ0WjZtUFA2M1JYb0ZLWnFNeHVSN0NhQUVIc254YkhPWG1mMFplb19HTXlwRy1aZFp6VFRfRnZuSmNndnBlNUMyVE4zbg?oc=5",
-      "source": "NC Newsline",
-      "pubDate": "Thu, 05 Mar 2026 19:05:32 GMT"
-    },
-    {
-      "title": "Key data on political appointees missing from ‘PLUM’ book - Federal News Network",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQm9XSkdhQ0tpRlF2RTJycS1JWTZmYWR5QzQ2X1hXTEtLa1dWTTdRYzRDaXNCSVZBT0dWbjEzOE9oQVg2S1JBWE02T2JDcUs5blZFOWhsWkRJWm5qVmFEOHdtaEIxb0drVDR1SlJpUHNPeHdwNnRsY1dkYnQ0T0IzN0poUkJUNE8waXJ1MUdIQ2g3V21oVFJ3SlNMSW0wclBRRmtiN3B0R0QxZw?oc=5",
-      "source": "Federal News Network",
-      "pubDate": "Thu, 05 Mar 2026 22:30:04 GMT"
-    },
-    {
-      "title": "Markwayne Mullin, Trump’s Homeland Security Pick, Is Ready to Rumble - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOQ3N1MXZ4TFppRkRoeVhmdXJlLUFZbXItd0lsNndoQVM2dk5iNVZpcGpiamZTS1psUWtweGZ0VjFDZVk0Y1hOYlcyUVV2YmpYM1ZKcUdLaEhDc2pmOXNJUmpOT29VTWVsR1VKZ1VaS21LMWtGZGhyQ0JNbk12cmF5SXlZeEZSb1c5WDJaaGJxWDhMM3BBX2w0QUlmV04tUUVOR1NVaUdyQzJQMk9MZWVwVmt4LXZXQ18yMTRlaXdzZy15NjBhWnpROWVReHJPMGxUeWRjUVpLZTF2YzNoUzgwZVhQXzBFRVJqSTkwUzF5TEpyN1dJeDZUVUZyMVBKZkc5WmtIWTFhamMzVlo0T0JWQ1d6WjB5cE9QQTVGbjBSTWg2blhXVEJtVGtrV0lMSXkxQU5XT3FJMGRSaWtUUDc2X3dHYTZ5V1lMd1VReVYtX3B1Smt1RzlmWU5tV0RaR2FZZ1RPaTZVVy1SNUhZWWtGVHB0emtydkltTWp4enJqbkZLMzI4SE5NM2Z3?oc=5",
-      "source": "WSJ",
-      "pubDate": "Fri, 06 Mar 2026 05:05:00 GMT"
-    },
-    {
-      "title": "Rep. Tony Gonzales drops reelection bid following scandal and ethics investigation - Texas Public Radio | TPR",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcWhkWHIzTFpXYUtlSUdSUjJlZzlHVVJ6WDBMSTBRclhMS280T2NPNUJ2bTZtMW0yOWZQQks2RF9KYlh4RjNtbDRtd3NESzRxQ1hjSGV0QjF1clFWX0RZS2JwSDRCdEpUMVRMeUJuNEwyczNfLWtRdUNHZi1Ob2xrQ0ZTbWZFT1N6WVZHZm9LLWNyVVJWZjl4Tkxhb1V3WE5VMzByQThkUG5lUUVxelJzUUJVcUhwajJ5b0p3ay1qSmVxY2dEbVZ4eHpzVmI?oc=5",
-      "source": "Texas Public Radio | TPR",
-      "pubDate": "Fri, 06 Mar 2026 05:44:50 GMT"
-    },
-    {
-      "title": "Political battle over Virginia redistricting heats up, attracting big names and big dollars - WVIR",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX09rNDd1RXBzTHZDVWJuOXBVZm1EYnRYVXBJSWFvcUpYdF8wcUUwTzZGdHd4RFluV3VNMXBjX3dnNEFFZzJvaVlJX2tiMnd1ZjJhbURJVXdjNE5YRG40Qjh6TXRfZkdwekdoSG4tTGI5dEJpMXJWQU9IN3dEcEpLaTdha3J4dFV1YU1LSGJDUjVUdnVvenVrSXpQaEY4bHlKYjVZYXBvMzM2VzRRcm43TU5wOHk0NkdzSjJBeEN30gHSAUFVX3lxTFBMSUZQdzU3LVZFcWtpMjgwRE9iT3hraUpsS1IyaGI2bTBQVHJkWHpySjd6WlNLSlhIZzlkdjZrNmdpVDcxUmFkTGVTbnRlTUUzV0U0WkNxNWpCTjVkRnZ2UHU2Mm02R0JxWFhlX3U3N1RGTEtLbUZaV2FORlBsNG9YZUJhREpLVlpTa0Qwd1VwcmhGRnlSSkkteE02bmVVUzZyaGdSXzc4elNtdEFReDlKdUxJdkFHaTVJUWM3YUFKYlg0Z0x3Rm9tSkRzMGZORWg5dw?oc=5",
-      "source": "WVIR",
-      "pubDate": "Fri, 06 Mar 2026 00:41:00 GMT"
-    },
-    {
-      "title": "Noem’s ouster comes as Trump’s Cabinet keeps causing him problems - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWkFBaEZmM1VhYVl3aDNqWnkxUTlXYVV3ZU5TaHZya3BKOVpkSVlGeGptV2NraVRtSkttYlAwRngtYWdva3dLcGZCdFhWZFkxY1N5WnV0c1gxdkJ5YXZnYTJxM1Ayb01SRVp3TzNCQjVYV1lsVy05T21UbzhmU0xJN3RhVGZUV3lt?oc=5",
-      "source": "CNN",
-      "pubDate": "Thu, 05 Mar 2026 20:37:55 GMT"
     }
   ]
 }
