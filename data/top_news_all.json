@@ -1,26 +1,20 @@
 {
-  "generated_at_utc": "2026-03-07T10:13:49.077617Z",
+  "generated_at_utc": "2026-03-07T10:45:43.234334Z",
   "category": "all",
   "language": "en",
   "summary": "Top headlines pulled from Google News RSS (free, English). Category: all.",
   "articles": [
     {
+      "title": "Why Tigers' Tarik Skubal joined Team USA for World Baseball Classic - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZTRnQVRUZnR2bkFpVDQ4ZUpfc0hqODVjamkwV2Y0RUxVOTA4WjJSbDRNc3Zhc0hJRDNWQlhnV3JyQ3JPd3ZEZ1drYUtaNTFNeC01aXNaZm1yWU5CVW96LXluejlrVl9wRnBqV09MM3dHWG8xTnA2SkV4UGp0NndaU0FoSG00Q192VXcyOTljOVNHOG5Eai03RmZ3OFctWVBRMVN4dk5qRy16elYyaTR3cEE0c3NaUkpqYmVDM3NldUNWdldqU2pVTw?oc=5",
+      "source": "Detroit Free Press",
+      "pubDate": "Sat, 07 Mar 2026 10:06:00 GMT"
+    },
+    {
       "title": "World Baseball Classic today: Every game happening on March 7 - USA Today",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjNQZFpSS3MtTXJCT1QwZXVHRjhxb05VWFVXeVdTWVJTdlhxWDNPQVFYalIwUUIzNGJVd193Z2lVeFdERmhmb1hyZTBXQUUxR2RUV1ZVNWsxVWZXYVJGUjZtOFltMW9wMHA1dmJqMVlQejVUUGNOYldLNFA1aDg1emlIX04wUHoxOFRyNHhaaWR6QkFJaEk2Z0dCSFkxMjZZVUVvVTdBM0JLMXdVOGtENlNUMk5MeXZjVnhKc1I1Z0FlVDAy?oc=5",
       "source": "USA Today",
       "pubDate": "Sat, 07 Mar 2026 10:07:00 GMT"
-    },
-    {
-      "title": "N.L. cheerleaders ready to defend world title at Florida competition - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcnc1T1o3cnBFWm9ZZ0RLdFFFdFJOc3VYdWxRWHRKamtqTWxHdTdSNXp4eEVRNHhxWmdVemxNNjZTTVI3Wm9hYmI0aUNFOEYtcmFVbUEwNmVELXpEQlNEMXhqUTlvR2R2ZVBzRnFCUDhoX1A5SWYtQXl2WGtTUFl5djVZNDliVUMtS3h5RlJlQTk?oc=5",
-      "source": "CBC",
-      "pubDate": "Sat, 07 Mar 2026 09:30:00 GMT"
-    },
-    {
-      "title": "Live updates: Iran’s president apologizes to neighbors, says country will halt strikes on them unless attacked - CNN",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPeXRfMU9na3g2QjFYNWtCZFNqZGFmeTVmZW9pUjVfMEo3bGFrOUxiMmk0UG1JVFQ3cmdsYUUzdVJYR3dQX3VSalZRTkhsQnlhV0ctLXJqVFFldldFQnR1dFlNUEpvSHEtVXlFbXAtcExVOFItSlMwUw?oc=5",
-      "source": "CNN",
-      "pubDate": "Sat, 07 Mar 2026 09:30:00 GMT"
     },
     {
       "title": "Former 100m world champion Kerley banned for two years - BBC",
@@ -29,16 +23,10 @@
       "pubDate": "Fri, 06 Mar 2026 21:13:02 GMT"
     },
     {
-      "title": "Team USA baseball dominates Brazil, wins 2026 World Baseball Classic opener - Times Union",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ25pTmFkbmw1Z3h0aFZDM1BRNWZveWNJT0xMMk9OY0Y4ZGVKS3g3SmdNUnpjeVNJYW4tTmU1Rml2MzZscGN2NDNQWS12bjRKeUNqUmE2RGNNUG9Ga2RDbDlCMUxlMHlDUDJpZlZ2N1k2ZHNYeEJFVWw1bXhmM0NlakhpRVFGMzNoSmo1VFg2VDNIWXNUM1poTmhnMFVKZ2hfQV9QSWdWVWU?oc=5",
-      "source": "Times Union",
-      "pubDate": "Sat, 07 Mar 2026 04:37:13 GMT"
-    },
-    {
-      "title": "Aaron Judge leads Team USA to World Baseball Classic opener win over Brazil - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM1ZnWWVpQV96bDZ2VmEwNlFISVlOZHM2NWRJNTVOc2dxeVRBS1dCVUNBRmdNQUJWb2g3QldrNHJvdTNreF9FVWdwYmxLazUyQUNjbHZXeURQUGhDdWpQcGNPb0w3eVE0WTkyYjNQdG9XWk9vVEhTUm5hVE4zNGVsY2Rwdy05Y1pMcVIyVG5BSTFSblBmLXBqR0I2UDRRdzliZEdTZG9B0gGrAUFVX3lxTFBheHNrMDlrclZQN28ySTRvb1AwYVVrd08yUWRBMHI2cVVEVUVwMWI2OUxhMjlwbWJ1UkxKbUMzR1U1WjU5OTFfRlRGTE1xYnlhOUZVdXdnY3dfc28wMTFuUWtlODEtSFM3bHNxdzJ3b04zWU05bG1yNW5kZ2xRZGdXR0ZVWW5sRVBtWWRFS0pseEJVNFU4STI4ZTZXckg4ZDBrSjZuZlY5cTlXaw?oc=5",
-      "source": "Fox News",
-      "pubDate": "Sat, 07 Mar 2026 06:47:51 GMT"
+      "title": "Former leader Ardern has left New Zealand. She’s not the only one - CNN",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWkpJOGF5ZzgwdUloNjJUTmM2X3ZMam9PZ3lBLWJCbHpjUWFjNFpZOXRhOTlzSFVLdm9BMEdhODZPYXFyR3k4SWdiV2NTclhUM01SUlhnUExDVEoySC1PQlZla2lSU2cwRXZUUGZzMWg1QjE4Y3MtMzJvbWxKdGswb25zWGxRSkt1LWpNaDloU3haSzRD?oc=5",
+      "source": "CNN",
+      "pubDate": "Sat, 07 Mar 2026 02:56:00 GMT"
     },
     {
       "title": "Judge, U.S. start World Baseball Classic with rout of Brazil - ESPN",
@@ -53,16 +41,16 @@
       "pubDate": "Fri, 06 Mar 2026 19:53:00 GMT"
     },
     {
-      "title": "World Baseball Classic news, live updates: Team USA cruises vs. Brazil in first full day of action - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQXd0dlBzSGhBZlFXMFhZTkxhVXBZdXpBYVFlZ1lvV1lkNnU3Nk1obUI2TGpoUmlMV0ZpZjJYVWN2RVRRV3ZuNzJZeUl1VHEzN21WMHNTNHhGcDNBd0t5QW13LWx2RmNSaGJWcUxpRDR4RU1yV0Y0R1QyUHRfdHpnQ3V2dTNqSGpZTXpkdHQwM1BZNmtZYXJNczJ2SGdTWUdBWGs3Ymg0bTRrMjBvT3IzWWVIT0E2WmtpVzl0cFZDT3ViNnpObHZ6dE5vMFpsVEpfeHBYTzlhbW5kNmJZ?oc=5",
-      "source": "Yahoo Sports",
-      "pubDate": "Sat, 07 Mar 2026 10:09:58 GMT"
-    },
-    {
       "title": "Here Is Mexico’s Plan to Keep the Country Safe During the World Cup - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNamlYMFZja25rMUpveW1xOG9RNEVEcmhKNEdTOElDb2k5NWkxa2d5WUFGOHBUcGdxMTFZTmx3ZnZZUnVpa0FNY0t0OW5uczJTb0l3NmxLd3d2aUYwM183YXZFNEdYVkVVVWFEaVEzUzNRY29EWTFxZ1FNSTdJRWVTRjF4MlFIUmtMTjZHYTd3?oc=5",
       "source": "The New York Times",
-      "pubDate": "Sat, 07 Mar 2026 00:21:30 GMT"
+      "pubDate": "Fri, 06 Mar 2026 22:28:37 GMT"
+    },
+    {
+      "title": "Team USA baseball dominates Brazil, wins 2026 World Baseball Classic opener - Times Union",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ25pTmFkbmw1Z3h0aFZDM1BRNWZveWNJT0xMMk9OY0Y4ZGVKS3g3SmdNUnpjeVNJYW4tTmU1Rml2MzZscGN2NDNQWS12bjRKeUNqUmE2RGNNUG9Ga2RDbDlCMUxlMHlDUDJpZlZ2N1k2ZHNYeEJFVWw1bXhmM0NlakhpRVFGMzNoSmo1VFg2VDNIWXNUM1poTmhnMFVKZ2hfQV9QSWdWVWU?oc=5",
+      "source": "Times Union",
+      "pubDate": "Sat, 07 Mar 2026 04:37:13 GMT"
     },
     {
       "title": "'Categorically false'; Foxborough officials say no World Cup deal reached - WCVB",
@@ -71,10 +59,10 @@
       "pubDate": "Fri, 06 Mar 2026 21:51:00 GMT"
     },
     {
-      "title": "Team USA World Baseball Classic roster: Lineup, rotation as Americans aim for 2026 WBC title - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVdlQkR0R0U1M1hXX2NpZ1lnVEFRemFfWFFrVEp1XzBXMDVHSjQ1RDhTLWt5QlVFWHBrYWdHWTdVMnVZS3d5aGJqTGRwSXJwLWtZeGhMNERWTy1mNktVRk8zUUdvTGtsYUZzdlZoNXF2SmRBaDVMaFpPRl9ZU1BMNk9YaGhMSHRCSTFORE1R?oc=5",
-      "source": "CBS Sports",
-      "pubDate": "Fri, 06 Mar 2026 21:58:51 GMT"
+      "title": "Iran President Says 'Sorry' To Neighbours For Attacks, But With A Condition - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYXR2dkx4T3RULXhhcTlJSXZqVDZzc0d5SzlBamdnU2EtdUNYNkl1ZDdSOUlnVHBDZUdfTHFxT3RRVkx5U0EwODNyOGJBWkxkYXg0NS1PUTBMd1VlbWNrSE5QWU5Vaktwc2lfUFFCZHJyWWxWOGNtZllyLUZMNXVjUlZ6dGJHSHpnWlQ0OHdzOGEyMHZoZFZQRkc5UVhBQ01fdFNjaGZYaUpEVGhPWERyMDc3WkFiRUxBblpnbTcwY2ZwamZMV3VDXzJVbkpqWXVzZkl6WFdOREdqLWlGS3BKRFFTeDBsZVV5enZIcWZ0emNXa29yNlkwNG9TN0TSAYQCQVVfeXFMTzdUUUNSRHczTEk5cjkxVkotUExBajNXOUVteUhkVGNsZWl1SEhUUzhLa1lNYmtWZkU0d0dBY2ZfdmxOMnpxWVBkaFJ6M09la3NpLXQ1V2ltUW5Talhnc3Z4YWZDMjh6QWg3VnZybjJGQzE4cFB3bUhkOE43Z0NXMXVaWS1OaHF1UzgyT0paQ1dBR3hNNjJ6OEhIQ25Ud3RQSUp6eUEwZ3A3QjhCS0xTcUNreF9fY0R5VER5QjZmZElmcXRSaDdSd1RXNUl6d3BWYjFpU0dnSzFBMy1IQWhqbktuZ19SYkRKYzdldVhUT2hMTlFlazlWNU9CVlBBa0J3QjZPRHA?oc=5",
+      "source": "NDTV",
+      "pubDate": "Sat, 07 Mar 2026 08:59:30 GMT"
     },
     {
       "title": "Judge's homer sets the tone in Team USA's blowout vs. Brazil - MLB.com",
@@ -95,6 +83,12 @@
       "pubDate": "Sat, 07 Mar 2026 04:47:21 GMT"
     },
     {
+      "title": "2026 World Baseball Classic schedule, latest game results and pool play standings - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNjRDQUJYMFFRNjR5c1E5bEQ0V0tqV0pRUXJoYXFndy1BbGRiM1pENmJldEp5WXNfV01yNkhONWptZ0pDUGtCWUNLUzdjT2ltd2txbjV6RHN4WnhBZTNfZU1BLTFxamNvckJzd1d4a2VWUDRmZUdnelV0cmROcWFZeDJobnE1VlJkcHdaTzZVX0RQMXRGREplbXlNSjFOLWhHZkdCUWg4Qklha2M?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Sat, 07 Mar 2026 06:13:00 GMT"
+    },
+    {
       "title": "Team USA routs Brazil in sloppy World Baseball Classic opener: Score, highlights - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0gzM1BFckVIcUpTRG9kTGFwNlVOTC1fRGR2TFJXVjJQQjNydWhoSTVpdktqbm9xSUJKMkhoOHFZbmhQV0hQZ0MtUXpRMElJX2lGdGZQZGh5YWQybkl1Rk1ObTBQaHpBRkd0U0txOWlCQVMtQTJwOWIwbHdOVmlzekJrX0Z4NmRHeFdIY2R4TzhVVTdmN3pvSlRHYmV3dnVPTllTdW0zdHQwNkFvQ2FLb0ZvOWtpZWQyQjRnUnZPak8?oc=5",
       "source": "USA Today",
@@ -113,12 +107,6 @@
       "pubDate": "Sat, 07 Mar 2026 05:50:06 GMT"
     },
     {
-      "title": "2026 World Baseball Classic schedule, latest game results and pool play standings - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNjRDQUJYMFFRNjR5c1E5bEQ0V0tqV0pRUXJoYXFndy1BbGRiM1pENmJldEp5WXNfV01yNkhONWptZ0pDUGtCWUNLUzdjT2ltd2txbjV6RHN4WnhBZTNfZU1BLTFxamNvckJzd1d4a2VWUDRmZUdnelV0cmROcWFZeDJobnE1VlJkcHdaTzZVX0RQMXRGREplbXlNSjFOLWhHZkdCUWg4Qklha2M?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Sat, 07 Mar 2026 06:13:00 GMT"
-    },
-    {
       "title": "Caminero jumpstarts late DR power surge in rout of Nicaragua - MLB.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWngzQUlZZEJ3Z0FmN2pGTGRwRDg2Q2JGV2VvUi1yZkRLdFlCWHFXOTdZWDdOU29ZdDNmaURSUHdUaTM0SXdVUjBZcm5oV3JFWjhiaEtCRVpWOUhtc0xqRkppWXdjUDNtNkN4SW1RZ2lmN3VRRS16ZGhkN1dOaE9Ya3dXNUdxNWZTeFB2a1hxVEbSAZwBQVVfeXFMTUtOTEphREZqVEV2RTB3NjdTSU5tamFCX3lCeUlxOElMX01QTXpucDJmUVJCamZsTzQxM2RZdnZrN0o3Nm5oYUN6WVlQeWljTzRucDJVcVdXR0pLOWdqV0FvRzBiRGJ1VHFuM3hEVE9OZ3N2MjBwX05DV0ZMd1oyTWVhTUZ0aWVsYW9HNVZpRmVRd2ZXdUZIZ24yNnRw?oc=5",
       "source": "MLB.com",
@@ -131,16 +119,16 @@
       "pubDate": "Sat, 07 Mar 2026 05:02:00 GMT"
     },
     {
-      "title": "Feeling vibes from home fans, Puerto Rico rides 5-run 5th to shutout of Colombia - MLB.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkgxc2FPal9weVVLdnkzWnFGOXBKdVVqaU5DOTNzZkxRa3dyYVZrYXgxMGtCMkVsV1J0ZGRQMDByUzBDOElGZVZQcGo5WmhFUHQ2cTlUaS0yTGd3SmlQOTlkNkpZalVsVl9CaWRoQkd6WkpiREV0anhMRlVjWFo3ZGNBSGlzZw?oc=5",
-      "source": "MLB.com",
-      "pubDate": "Sat, 07 Mar 2026 03:31:27 GMT"
-    },
-    {
       "title": "Chinese Taipei rolls past Czechia for 1st win at '26 Classic - MLB.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSVhGVWdWeC1BOXUxbWxnUTdkSTBhT1JQNXg1RWc3R2FBN0NweXBEWVhoelllUHFEdjduMTBmTHE0Yzd6MDV1YjV3WnQ4TzRkM0prbEFaOFY3b05iRmFsWDh2RG44LVJKcWxycWJ1NXJLNVQtc0hyMHBsS0I2ai1DdWpyMzhtT1JD?oc=5",
       "source": "MLB.com",
       "pubDate": "Sat, 07 Mar 2026 07:52:46 GMT"
+    },
+    {
+      "title": "Feeling vibes from home fans, Puerto Rico rides 5-run 5th to shutout of Colombia - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkgxc2FPal9weVVLdnkzWnFGOXBKdVVqaU5DOTNzZkxRa3dyYVZrYXgxMGtCMkVsV1J0ZGRQMDByUzBDOElGZVZQcGo5WmhFUHQ2cTlUaS0yTGd3SmlQOTlkNkpZalVsVl9CaWRoQkd6WkpiREV0anhMRlVjWFo3ZGNBSGlzZw?oc=5",
+      "source": "MLB.com",
+      "pubDate": "Sat, 07 Mar 2026 03:31:27 GMT"
     },
     {
       "title": "9 years later, Canada gets another crack at Colombia's Teheran (11 a.m. ET on FS2) - MLB.com",
@@ -173,16 +161,16 @@
       "pubDate": "Sat, 07 Mar 2026 02:19:24 GMT"
     },
     {
-      "title": "Iran’s Involvement in World Cup Appears Uncertain Amid Widening War - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Qd0g2M2NrUDlHTFU2S0U5cm5CWThUWEVuRkQzeXA2Mk1EUHpoWEhBX093SE05WGEwSG95M2ZRaEZ1TDU2dDJwdnN6elRESk5udXkwUlU5eVdBLUJNX1FiVnJrbjJNdnBjdm5Va0FjYkw?oc=5",
-      "source": "Time Magazine",
-      "pubDate": "Fri, 06 Mar 2026 15:50:57 GMT"
-    },
-    {
       "title": "Moncada helps Cuba make a statement in Classic opener vs. Panama - MLB.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lRDRKelVrU1NhSnpPNm0tcnUxbXRrdnZwUnh1RUxQMEpWanlmQ19ocE1Pa1E4TnAyQnlkZmt5blk1YkhlVmlfT1M5ZTlIRkpRZ0pUZU56OWdJbUNGekdKWk1ZM2gzSFY3cTRTR09FUlB1SERzaDM5V0N3?oc=5",
       "source": "MLB.com",
       "pubDate": "Fri, 06 Mar 2026 20:36:36 GMT"
+    },
+    {
+      "title": "Iran’s Involvement in World Cup Appears Uncertain Amid Widening War - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Qd0g2M2NrUDlHTFU2S0U5cm5CWThUWEVuRkQzeXA2Mk1EUHpoWEhBX093SE05WGEwSG95M2ZRaEZ1TDU2dDJwdnN6elRESk5udXkwUlU5eVdBLUJNX1FiVnJrbjJNdnBjdm5Va0FjYkw?oc=5",
+      "source": "Time Magazine",
+      "pubDate": "Fri, 06 Mar 2026 15:50:57 GMT"
     },
     {
       "title": "Star-studded Team USA is playing in Houston for the World Baseball Classic - Houston Public Media",
@@ -197,22 +185,10 @@
       "pubDate": "Sat, 07 Mar 2026 00:25:00 GMT"
     },
     {
-      "title": "World News - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iNjk1cWRDTGd2TVJ3N1NlaVE5OEs1LXd5bHhnclNvQ1BNUXF1NUdvY0dXdzI2SUt2aFl3bzFqOXZRT0ljWkhpWTJMX1pmQQ?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Thu, 05 Mar 2026 03:38:07 GMT"
-    },
-    {
       "title": "2026 FIFA World Cup city resource guide for residents & businesses - City of Renton (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWTNNVXF6SnlkZ05OdTVoYlQyblhIdWRybnE4dHdISC1WanZLVlUwZGZab1JocGpESjRsVGRHcmsyb3ZEX0tRTWg3X0o2UVBLTHBndEozZDFrQjNJUFlJMXNlYU1jWUhXRHFmb3FYOWRrb1FXdGp3OVptZkxIOWNoVFYyUV96LUpadmJZSHVmeExvYWRuZ0h5MXRVeHlCMjIwZkV1RUpQancwazdlbklaUUk0bGFSdVZ2Snpj?oc=5",
       "source": "City of Renton (.gov)",
       "pubDate": "Sat, 07 Mar 2026 07:21:23 GMT"
-    },
-    {
-      "title": "Foxborough official: No agreement on 2026 World Cup funding - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1JDekpVLTN2bXlVRzRWV2ZLTjdYOWZLSHZnU2h3eGwyWnNEQklCZzBSYjVIdUp3ZTkyZUV4ODFJcmhXT0txb2NJa2xFZ0JIU3JvLXBESlpMOUYzMmZiQ2EwOGEzakFDb3dwdjRGZEFwZkVRcWFHUWdJRU5mWTNsM2tzRDJSWFZEVG1lRmdRSXNJM1FodGctWnRZWmhjMWNOMmFyQXgyTGJ0em9tR09hMg?oc=5",
-      "source": "ESPN",
-      "pubDate": "Fri, 06 Mar 2026 17:46:00 GMT"
     },
     {
       "title": "Team USA vs. Brazil in World Baseball Classic: Prediction, odds, what to know about WBC opener - CBS Sports",
@@ -221,22 +197,40 @@
       "pubDate": "Sat, 07 Mar 2026 00:22:00 GMT"
     },
     {
-      "title": "Boston’s World Cup games still in doubt after funding shortfall proposal rejected - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQckZ5QnpzX3BESUtnWGRRT280MWJSbHpHa1F2cFVMYXVtejZmTHNvTm5XeHZYMU1fc3MwZkJXdFJzQkR5Sm00S3laRGNjaGQxLUlrekl1cjlVLTFBWVVYaGRRb0pMRVVvN0lXWlVZd3pxMk5QcG0yY05xQS1DTTVGSko2SFRZSzRKMUFPeVhFbjFERkNSdUE?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Fri, 06 Mar 2026 19:12:25 GMT"
-    },
-    {
       "title": "World Cup security update: Foxboro \"shocked and dismayed\" by Kraft Group's latest statement on funding - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVV8ybl91RlFkWF8tU3BIbXNkMDNYTE9KbTFoRDVfV2I2LWhtSDdrbGc0dllzWUZuWG1BekQ4UGU2WGxHTW1Ddm01cU8xSHZ6TFlmVXZwejdVN1RNTW8xaV9KRnROZHhrdlhFam5CVFozLTEtOXdRaERlSTdINXRfV1dkckhVTWFVNEZr?oc=5",
       "source": "CBS News",
       "pubDate": "Fri, 06 Mar 2026 20:15:00 GMT"
     },
     {
+      "title": "Foxborough official: No agreement on 2026 World Cup funding - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1JDekpVLTN2bXlVRzRWV2ZLTjdYOWZLSHZnU2h3eGwyWnNEQklCZzBSYjVIdUp3ZTkyZUV4ODFJcmhXT0txb2NJa2xFZ0JIU3JvLXBESlpMOUYzMmZiQ2EwOGEzakFDb3dwdjRGZEFwZkVRcWFHUWdJRU5mWTNsM2tzRDJSWFZEVG1lRmdRSXNJM1FodGctWnRZWmhjMWNOMmFyQXgyTGJ0em9tR09hMg?oc=5",
+      "source": "ESPN",
+      "pubDate": "Fri, 06 Mar 2026 17:46:00 GMT"
+    },
+    {
+      "title": "Team USA World Baseball Classic roster: Lineup, rotation as Americans aim for 2026 WBC title - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVdlQkR0R0U1M1hXX2NpZ1lnVEFRemFfWFFrVEp1XzBXMDVHSjQ1RDhTLWt5QlVFWHBrYWdHWTdVMnVZS3d5aGJqTGRwSXJwLWtZeGhMNERWTy1mNktVRk8zUUdvTGtsYUZzdlZoNXF2SmRBaDVMaFpPRl9ZU1BMNk9YaGhMSHRCSTFORE1R?oc=5",
+      "source": "CBS Sports",
+      "pubDate": "Fri, 06 Mar 2026 21:58:51 GMT"
+    },
+    {
+      "title": "Boston’s World Cup games still in doubt after funding shortfall proposal rejected - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQckZ5QnpzX3BESUtnWGRRT280MWJSbHpHa1F2cFVMYXVtejZmTHNvTm5XeHZYMU1fc3MwZkJXdFJzQkR5Sm00S3laRGNjaGQxLUlrekl1cjlVLTFBWVVYaGRRb0pMRVVvN0lXWlVZd3pxMk5QcG0yY05xQS1DTTVGSko2SFRZSzRKMUFPeVhFbjFERkNSdUE?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Fri, 06 Mar 2026 19:12:25 GMT"
+    },
+    {
       "title": "Canada 2026 World Baseball Classic roster, schedule and pool - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVBHamZSYXdCeHpUcW5SVTVDbWc5bEFNMXU4R1VINzlxd0NuUVVnYmhVNWF0WmVjaEUzQmRFMzZhQURGYUkxZkw2QmwxOGdpdDhDZnU3MDQwT0k2LXE1RWdqWVVCVnNKSWl0dmdPWnBDUTJHTUlFcTNpSDRzaWt5WlMySHZmNmw4cnE1Yldkc3FHXzlVaVUwOXU5c1B2RnhSN2JIM2hfd05RTFRob0t0b3RMTnNLdkFaM1ptTjlsMEd6Vi1zc05lOUVn?oc=5",
       "source": "USA Today",
       "pubDate": "Fri, 06 Mar 2026 22:30:00 GMT"
+    },
+    {
+      "title": "Deafness and hearing loss - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WY3U4NUd6WDgyRzlka016ZGFEOWpsdEljZVdhR1l2S0tOYngwTVpMZFVHQXUzOGFRaDdLYmZkekZwdElRYVdJUVczbnZtd25FSzJTbVAydEVTWEh1cTJtZ2g5dk94NmdDUk5DYVp5RFRadG9lYUg4MW1ob1RJUW8?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
     },
     {
       "title": "How to watch Team USA in 2026 World Baseball Classic: Pool play schedule, TV, roster - The New York Times",
@@ -251,34 +245,22 @@
       "pubDate": "Fri, 06 Mar 2026 16:06:00 GMT"
     },
     {
+      "title": "USA vs. Great Britain World Baseball Classic: Starters, Lineups, How to Watch - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWNZa1ZFekpKTUpUUnFlZzVRWlFteUh2dWlNa01qWjJYZU9JcDl6Smo2aVZOVFhfN2hCTU9HR2dVVHZFb1N0VXBqUkR3aE1SdG9tZVlmLTAwMmVtbWs3blBBenhuNXVuenlyUlR6YmRRMVBJaXVZT2tfczNSZjVGRmh6aE84ZXBaLXNpZG12NHA5d3A3ZlhqbFBDYldWWFNLYnk2aG1US2RoeEpkVDRKZFJWZjVDc3IyZllRMUY2Z3duN2xfNnfSAcYBQVVfeXFMT3JwYkphb0dNb1h1Q2xrYmpKampVN3kyRzlYOG9Na3laajBwa2lxMlFNQ1BJdkdPdmJFc2ZFNTZWQjFncWdSYWN6ek15YmplelE3X18yUnVaSzI5WnhaLTNaLUZPZFlzYUlta1lPaFhub1hVOXZBWmZ4ZHBXQ0dUQU52Z1MtazQ5VUxLektRRG9pcGMzaFhkUjFRcjRweV8yM0tpSE5tVDhVZGRWeTJmelV0YlU0ZVl6MTlvWG0taXBKTVNaREhR?oc=5",
+      "source": "FOX Sports",
+      "pubDate": "Sat, 07 Mar 2026 01:20:14 GMT"
+    },
+    {
+      "title": "Freshest gear from 2026 World Baseball Classic 😎 - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NWi1ZelFCRUZ1Ry1hd09Wcm11VzZRNFp5RG5FNDA5NHFPeUp0RnoxU0lIbWoyQkZ2cGRzNDJLdnQ5UDdjR1htQXFoTmhRRlpHRl9MM0FENWMxZ0lUZHhLS1JuOEw0TmQ3a1ZqWmM5QTFEa2hFbW5XdmR2MXFhdEk?oc=5",
+      "source": "MLB.com",
+      "pubDate": "Fri, 06 Mar 2026 19:01:10 GMT"
+    },
+    {
       "title": "Brazil seeks first Classic win as Italy makes '26 tourney debut (1 p.m. ET, FOX Sports App) - MLB.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44NUFyZ01jTVVoUUNuZ0JWdi02dFpZbEd2UEtWekVLS0RiaDBfSWk0cm01bF80UzVIZWtPWXFtd2VhZG9nU2JUUnI1NVEzODkzdGlYeEdUV2dSYlZYNkQ0QWtXeFJlT1RDTkRsd0laYlA0SWV6OTAwTkRQb9IBhwFBVV95cUxNMGE2U2VSbG1YV3hJMU9xcXhTdHBEaFRmamFjSUVVZmRQU0pUUHlESmlCX3B5S0xETnhCd0ZTWmIxOTFYMmVYTHRiMU0yOC1tN0F2NTJqOWJ5M3E4Ni1WX2E1bTlaNnpSTGpTZ05iLW9KOS1ranQ1R2JWYnlpSmZOeFJLbFBtRzg?oc=5",
       "source": "MLB.com",
       "pubDate": "Sat, 07 Mar 2026 07:00:48 GMT"
-    },
-    {
-      "title": "2026 World Baseball Classic predictions: Will USA win it all? - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRFYtWkhIVVFnUFdtMGxjX1dvS2M0TU9TenRZZHgwNGpLS0tESWxmdkRHWWUtUk5GNWlTZEFDRVp4b1I1ZGlHSlRRNzRaY0lYeWtoV3JOc0RPODY3T2Y1UGR6NVFVYWFLYXphLS1fd2ZmZ1pFVUdxZERaaWdTRVA4b0VYdEtPR0F0MVo0V0x0dHhkNndwOWFOSXE1UDBRdmx4OElzUEhHN2RwZ2xaNWxhZURUVXgtM0duVFRaeEFpbGlySktFOVdvWGxkU2VVRmh0Unc?oc=5",
-      "source": "ESPN",
-      "pubDate": "Fri, 06 Mar 2026 12:00:00 GMT"
-    },
-    {
-      "title": "As Trump takes out world leaders, democracy takes a back seat - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYWp6dG1INEMtZTBZYUtVcVFDX0xaMUFKVlE2bkhvZUgwWkVscW1vX1NqWEtVUGswalQtWTk5emdnNWFfbmFnZXpwU2lwZEFhNmdBTExORzRFX0tCVFhIbzZDRUxRQUoxcnA3VEdTYUFDeExoeXlDQklLWkk3ZnU0WGNNbXZJZw?oc=5",
-      "source": "CNN",
-      "pubDate": "Fri, 06 Mar 2026 22:03:28 GMT"
-    },
-    {
-      "title": "Reinvigorated Korea ready to renew rivalry with Japan (5 a.m. ET, FS1) - MLB.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nODl3MDBGRFBsRk8zRXBxOVdwV0t6Xy15MVZ5Z1V1a1d2T2hVZ3pUdkN5bDhWdDdyVzA1RDJwYUNXMXFVYWJibzRUWlBtMEF0M24yNHZFaTJRYVpsNDhscEJnVkhjYUYtQmdCTklfNHFRNERUMHRwRTV30gGGAUFVX3lxTE5hYk9EVXlPV1pRYnk5UmNNWS1mV2JFVW1LUEJicm9fanJXSldMdV9lWVBDazdQMW5IemwtZTVTQmtsT0lMMzczaDdmMzVnMnVVUDVqTkJBMGF6SFB4N1JmZm1IYmpDRDVkZ1lZRFRYc01KUFdKZVVxSW83SWdfYWtieTdRaFlB?oc=5",
-      "source": "MLB.com",
-      "pubDate": "Fri, 06 Mar 2026 16:39:21 GMT"
-    },
-    {
-      "title": "USA Basketball Women's World Cup Qualifying Tournament Roster Update - USA Basketball",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNczVsNlhWMnM5dnhjTGJ4SW9LSTdpREJjSWpnLWtMd3F0WkhSclRuWFdwb1ROR1VrVWVfNWZ5TUJaTTZ4OGxQNElNZFI0akFHQ1B6MWNLLU5LaGtYdHFUdW9ucHNlQWZ1TVlLWEtGWnViUVpnYmNBbkZXZXV2Zk5HbUExVEs1elNzRUZvTE1vR2lBcy14MHFGNGdTQXppRFpXM1M4?oc=5",
-      "source": "USA Basketball",
-      "pubDate": "Thu, 05 Mar 2026 16:01:05 GMT"
     },
     {
       "title": "He's just 17 years old, but he got Aaron Judge out with the bases loaded - MLB.com",
@@ -287,10 +269,34 @@
       "pubDate": "Sat, 07 Mar 2026 07:14:47 GMT"
     },
     {
+      "title": "USA Basketball Women's World Cup Qualifying Tournament Roster Update - USA Basketball",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNczVsNlhWMnM5dnhjTGJ4SW9LSTdpREJjSWpnLWtMd3F0WkhSclRuWFdwb1ROR1VrVWVfNWZ5TUJaTTZ4OGxQNElNZFI0akFHQ1B6MWNLLU5LaGtYdHFUdW9ucHNlQWZ1TVlLWEtGWnViUVpnYmNBbkZXZXV2Zk5HbUExVEs1elNzRUZvTE1vR2lBcy14MHFGNGdTQXppRFpXM1M4?oc=5",
+      "source": "USA Basketball",
+      "pubDate": "Thu, 05 Mar 2026 16:01:05 GMT"
+    },
+    {
+      "title": "As Trump takes out world leaders, democracy takes a back seat - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYWp6dG1INEMtZTBZYUtVcVFDX0xaMUFKVlE2bkhvZUgwWkVscW1vX1NqWEtVUGswalQtWTk5emdnNWFfbmFnZXpwU2lwZEFhNmdBTExORzRFX0tCVFhIbzZDRUxRQUoxcnA3VEdTYUFDeExoeXlDQklLWkk3ZnU0WGNNbXZJZw?oc=5",
+      "source": "CNN",
+      "pubDate": "Fri, 06 Mar 2026 22:03:28 GMT"
+    },
+    {
       "title": "World marks International Day of Remembrance for Fallen Officers - Interpol",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYmxpZjIycjEtbG5aY1NyYS1lVlNZM1hsOUdCQVNNZGNDMjFNS2xKSllqaDlIeFRzd2hpZjd0OVZDSjFra1FfcVdncVRJUWRQajhhV09IVjhmQlRvdWRCTjVvMjMyWUV5S0FxVVhPSF9zWGJUR195VE5VYU9yOEV0aENDU09VcmpEeERxVGxtVkp0QlhpQ21xYUs3RWFWVFUwZ015S25lcTdBcThVSF9Hb3BQcWU4dw?oc=5",
       "source": "Interpol",
       "pubDate": "Sat, 07 Mar 2026 09:56:14 GMT"
+    },
+    {
+      "title": "Reinvigorated Korea ready to renew rivalry with Japan (5 a.m. ET, FS1) - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nODl3MDBGRFBsRk8zRXBxOVdwV0t6Xy15MVZ5Z1V1a1d2T2hVZ3pUdkN5bDhWdDdyVzA1RDJwYUNXMXFVYWJibzRUWlBtMEF0M24yNHZFaTJRYVpsNDhscEJnVkhjYUYtQmdCTklfNHFRNERUMHRwRTV30gGGAUFVX3lxTE5hYk9EVXlPV1pRYnk5UmNNWS1mV2JFVW1LUEJicm9fanJXSldMdV9lWVBDazdQMW5IemwtZTVTQmtsT0lMMzczaDdmMzVnMnVVUDVqTkJBMGF6SFB4N1JmZm1IYmpDRDVkZ1lZRFRYc01KUFdKZVVxSW83SWdfYWtieTdRaFlB?oc=5",
+      "source": "MLB.com",
+      "pubDate": "Fri, 06 Mar 2026 16:39:21 GMT"
+    },
+    {
+      "title": "2026 World Baseball Classic predictions: Will USA win it all? - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRFYtWkhIVVFnUFdtMGxjX1dvS2M0TU9TenRZZHgwNGpLS0tESWxmdkRHWWUtUk5GNWlTZEFDRVp4b1I1ZGlHSlRRNzRaY0lYeWtoV3JOc0RPODY3T2Y1UGR6NVFVYWFLYXphLS1fd2ZmZ1pFVUdxZERaaWdTRVA4b0VYdEtPR0F0MVo0V0x0dHhkNndwOWFOSXE1UDBRdmx4OElzUEhHN2RwZ2xaNWxhZURUVXgtM0duVFRaeEFpbGlySktFOVdvWGxkU2VVRmh0Unc?oc=5",
+      "source": "ESPN",
+      "pubDate": "Fri, 06 Mar 2026 12:00:00 GMT"
     },
     {
       "title": "Ohtani's slam in historic 10-run inning catapults Japan past Chinese Taipei - MLB.com",
@@ -299,10 +305,10 @@
       "pubDate": "Fri, 06 Mar 2026 14:26:32 GMT"
     },
     {
-      "title": "USA vs. Great Britain World Baseball Classic: Starters, Lineups, How to Watch - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWNZa1ZFekpKTUpUUnFlZzVRWlFteUh2dWlNa01qWjJYZU9JcDl6Smo2aVZOVFhfN2hCTU9HR2dVVHZFb1N0VXBqUkR3aE1SdG9tZVlmLTAwMmVtbWs3blBBenhuNXVuenlyUlR6YmRRMVBJaXVZT2tfczNSZjVGRmh6aE84ZXBaLXNpZG12NHA5d3A3ZlhqbFBDYldWWFNLYnk2aG1US2RoeEpkVDRKZFJWZjVDc3IyZllRMUY2Z3duN2xfNnfSAcYBQVVfeXFMT3JwYkphb0dNb1h1Q2xrYmpKampVN3kyRzlYOG9Na3laajBwa2lxMlFNQ1BJdkdPdmJFc2ZFNTZWQjFncWdSYWN6ek15YmplelE3X18yUnVaSzI5WnhaLTNaLUZPZFlzYUlta1lPaFhub1hVOXZBWmZ4ZHBXQ0dUQU52Z1MtazQ5VUxLektRRG9pcGMzaFhkUjFRcjRweV8yM0tpSE5tVDhVZGRWeTJmelV0YlU0ZVl6MTlvWG0taXBKTVNaREhR?oc=5",
-      "source": "FOX Sports",
-      "pubDate": "Sat, 07 Mar 2026 01:20:14 GMT"
+      "title": "Who does USA play next in World Baseball Classic 2026? Time, TV schedule - Bergen Record",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM3dwQWhiOW9OZXRhb3h5MmpwM0ZFZmQ2NmFFSkw5Q0xJTVZYcGV3a2hfcmNuX0dSZFRBQVFneHlsUDVqNWdldGZoTzdNYTVZZzFJQkF3NmF6QWRnSmtGYUZTUmRhRXhsSmZ4WU5PQkpoQWVia2NFLVMxXzlJSEtfUGV6VVJGQ01ZSzRMUEJZMHRtMHp1Y01OWU92eG9LMW1IN2gtY2x3cVRvVGVwbERKRDZfbzNUc3hOMXZPeDcyVzZwbjNqUHVQZjd3R3VTZw?oc=5",
+      "source": "Bergen Record",
+      "pubDate": "Sat, 07 Mar 2026 09:02:00 GMT"
     },
     {
       "title": "Inside Team USA's 2026 World Baseball Classic arrival - ESPN",
@@ -311,16 +317,16 @@
       "pubDate": "Fri, 06 Mar 2026 12:00:00 GMT"
     },
     {
+      "title": "Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzJRdTRIblNhYS1XbDZUUlN0VEV2a1NkMTZKeDBIRE9ncllHQ1pZcHFxRmtGdV9NaHJBZExLVE81YVR0Q290RWY3ODJoN1pybDhqM2U5ZTVBWjVXblZyUC1tcUg3c0wzZGFFSVlTWko5cXJHWm9kN192ZWlzR1p3LXgtYllMaWVTUVo3VFU1VmdvRThn?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Sat, 07 Mar 2026 10:43:44 GMT"
+    },
+    {
       "title": "Mexico to deploy 100,000 security personnel for World Cup - BBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BNWdmQ2ZsNzZhNjJiSkVjMjd6X21BNG1FbXhVSWJXb0JVaUJVamloTklXcU9UZURVMVcxME9JUTdWTHozYUVkMkgtWl9NNlRQU3dlTlNfdzd3M3VkU0ZaSFhKMTBNZXM?oc=5",
       "source": "BBC",
       "pubDate": "Fri, 06 Mar 2026 19:24:59 GMT"
-    },
-    {
-      "title": "Deafness and hearing loss - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WY3U4NUd6WDgyRzlka016ZGFEOWpsdEljZVdhR1l2S0tOYngwTVpMZFVHQXUzOGFRaDdLYmZkekZwdElRYVdJUVczbnZtd25FSzJTbVAydEVTWEh1cTJtZ2g5dk94NmdDUk5DYVp5RFRadG9lYUg4MW1ob1RJUW8?oc=5",
-      "source": "World Health Organization (WHO)",
-      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
     },
     {
       "title": "WST Skateboarding World Championships São Paulo 2025: Double Olympic champion Horigome Yuto eliminated in men’s street quarter-finals - olympics.com",
@@ -353,10 +359,10 @@
       "pubDate": "Sat, 07 Mar 2026 06:25:00 GMT"
     },
     {
-      "title": "What the world is getting wrong about what Iranians think - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGhPNkFYd1N0WVdld2NKNUJXSF9fU1JaUEN2Q0Y2SE1LUjRVMDMyb3dUeEM3aGw5dzgwbWphc1ZuRi14YUo3V1BCb1ZOR3ZUeFZRcjd6UkFSSngxQXQ5WVo0dXFLYmZQUlk4dmVGYVZORVdBSUlENncwZS1ta3BKRm1YTHRDLUo1bWtPVmt1UdIBlAFBVV95cUxON2NtbzVBR0JZMllHVDFORFlMdzR0OUNsUjFZbHRCZUVWbUIxdUx4STYxdWxGaEc3VVVvWlRBdTlhbTcwQ1loWHF5LVdPTDJoWE90Y05hZmFZUnhHeXlEeEtqRml2OVRKbHMyb3MwaTFBWVhGNFVLNWpXS2pmYnU3bGVKUHI5bnprNUFFMXN4cU5SSXJO?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Fri, 06 Mar 2026 19:43:11 GMT"
+      "title": "There Are Few Things Harry Styles Has to Himself. Running Is One of Them. - Runner's World",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVWt6Xy1TZ0JOZjNHb3JTMUU0RXktWFpoS0NJRHN3dy1HaHdJajhLa2dySHFVRnZXS0VRWG9DSXlCd0p0YXdpR2podnVwMVZCb1ZFdW10ODBtemNrQlYtQWE5bjFyeFg3cm5NYmVBMTFBMFZtZ0F2MjAwUGl0ZWNVald1R0FncEpaYllMTnBFQUNJTDdwMkFRbA?oc=5",
+      "source": "Runner's World",
+      "pubDate": "Tue, 03 Mar 2026 17:00:00 GMT"
     },
     {
       "title": "World Baseball Classic: 17-year-old Joseph Contreras is still in high school, and got Aaron Judge to ground into a double play - Yahoo Sports",
@@ -365,16 +371,16 @@
       "pubDate": "Sat, 07 Mar 2026 06:45:50 GMT"
     },
     {
-      "title": "World Baseball Classic odds: USA favored over defending champion Japan - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYWJESHd4SFhwMHU4Z0REY0Jia2tCYXpScnNHUHdmb3FocU54bjRNbTZ1ajhNWVdXX0tMTGFiUTQydWJRNlRqQ3RWUXNJUzYzRXdzalBWOUNjM0d6ZEFVbW56enoyOXNZazNFNllxbTlycHZxbXg4WU1zb3F1SmVKN3pYZlM1T0ZUbzF2TTY4U09WazRh?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Fri, 06 Mar 2026 14:23:12 GMT"
-    },
-    {
       "title": "Colby jumps to Junior World Championship bronze in Lillehammer - Steamboat Pilot",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXpPWThlU1FpcC1XRUhPOW1NQmtEU1BNeUtUQ2VGMHdNTjBMTXhFcE9KWTZzNXJiMGc0eGxGd0JOVTVEUkJ6TkZkWXNwMmFNMzkwaDcxdnNoZV82YkduVTViZzBNQVcxZzJkazVadW5ielZzcGFPeTBZaVBhN3M2Y1FfSnlPZXJvb2QzRHlkVVFaTFdJMk5tcHJyaFYwNmVz?oc=5",
       "source": "Steamboat Pilot",
       "pubDate": "Fri, 06 Mar 2026 22:14:41 GMT"
+    },
+    {
+      "title": "What the world is getting wrong about what Iranians think - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGhPNkFYd1N0WVdld2NKNUJXSF9fU1JaUEN2Q0Y2SE1LUjRVMDMyb3dUeEM3aGw5dzgwbWphc1ZuRi14YUo3V1BCb1ZOR3ZUeFZRcjd6UkFSSngxQXQ5WVo0dXFLYmZQUlk4dmVGYVZORVdBSUlENncwZS1ta3BKRm1YTHRDLUo1bWtPVmt1UdIBlAFBVV95cUxON2NtbzVBR0JZMllHVDFORFlMdzR0OUNsUjFZbHRCZUVWbUIxdUx4STYxdWxGaEc3VVVvWlRBdTlhbTcwQ1loWHF5LVdPTDJoWE90Y05hZmFZUnhHeXlEeEtqRml2OVRKbHMyb3MwaTFBWVhGNFVLNWpXS2pmYnU3bGVKUHI5bnprNUFFMXN4cU5SSXJO?oc=5",
+      "source": "Al Jazeera",
+      "pubDate": "Fri, 06 Mar 2026 19:43:11 GMT"
     },
     {
       "title": "Parent University – “Planning for LOTE (World Languages) Credits and Graduation” - Richardson ISD",
@@ -383,16 +389,22 @@
       "pubDate": "Fri, 06 Mar 2026 20:19:58 GMT"
     },
     {
-      "title": "There Are Few Things Harry Styles Has to Himself. Running Is One of Them. - Runner's World",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVWt6Xy1TZ0JOZjNHb3JTMUU0RXktWFpoS0NJRHN3dy1HaHdJajhLa2dySHFVRnZXS0VRWG9DSXlCd0p0YXdpR2podnVwMVZCb1ZFdW10ODBtemNrQlYtQWE5bjFyeFg3cm5NYmVBMTFBMFZtZ0F2MjAwUGl0ZWNVald1R0FncEpaYllMTnBFQUNJTDdwMkFRbA?oc=5",
-      "source": "Runner's World",
-      "pubDate": "Tue, 03 Mar 2026 17:00:00 GMT"
-    },
-    {
       "title": "96 days to the World Cup: When the U.S. shocked England - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRTFZbGhJZXdPV3BGQlBIdW0tWGowN0M3MGtwdjJhdThaNFZ3QkpRQTFuRnhWNnBLLWxlaVhuanNpQTJwNHRLNHhwRUNaSF9Edkd6WWZwX1IwRk85NHEtQXRqaTI0c1A5TTNWdVUxWWV1dEpOQ2pkN2hvbnVNRldIR0VwbkJBVnJacTNxZUtub3N1R1BHaTRuMU4zUE9vMTFBNnFDb0I1MnpzRlE?oc=5",
       "source": "Yahoo Sports",
       "pubDate": "Sat, 07 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "World Baseball Classic odds: USA favored over defending champion Japan - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYWJESHd4SFhwMHU4Z0REY0Jia2tCYXpScnNHUHdmb3FocU54bjRNbTZ1ajhNWVdXX0tMTGFiUTQydWJRNlRqQ3RWUXNJUzYzRXdzalBWOUNjM0d6ZEFVbW56enoyOXNZazNFNllxbTlycHZxbXg4WU1zb3F1SmVKN3pYZlM1T0ZUbzF2TTY4U09WazRh?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Fri, 06 Mar 2026 14:23:12 GMT"
+    },
+    {
+      "title": "Aussies improve to 2-0 at Classic after topping Czechia - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUndwMFJ1a1AyVEE0VWJyRnRGc2xYc1BXdklsVTh3YWVuZjc1OHJFTzJ2cklRUVdWUW0tYW12ZGtxQWdGMDBlSjhONjEtRmZaQUp3LVZiUlVvZUJYR3doX0tQbExxeDhVbzlwcGZUck9XRG1lT3BzOTg0elQ1d0tIYkt3?oc=5",
+      "source": "MLB.com",
+      "pubDate": "Fri, 06 Mar 2026 07:16:26 GMT"
     },
     {
       "title": "WBC 2026: How insurance mess shaped World Baseball Classic - ESPN",
@@ -401,28 +413,16 @@
       "pubDate": "Fri, 06 Mar 2026 12:00:00 GMT"
     },
     {
-      "title": "Why Tigers' Tarik Skubal joined Team USA for World Baseball Classic - Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZTRnQVRUZnR2bkFpVDQ4ZUpfc0hqODVjamkwV2Y0RUxVOTA4WjJSbDRNc3Zhc0hJRDNWQlhnV3JyQ3JPd3ZEZ1drYUtaNTFNeC01aXNaZm1yWU5CVW96LXluejlrVl9wRnBqV09MM3dHWG8xTnA2SkV4UGp0NndaU0FoSG00Q192VXcyOTljOVNHOG5Eai03RmZ3OFctWVBRMVN4dk5qRy16elYyaTR3cEE0c3NaUkpqYmVDM3NldUNWdldqU2pVTw?oc=5",
-      "source": "Detroit Free Press",
-      "pubDate": "Sat, 07 Mar 2026 10:06:00 GMT"
-    },
-    {
-      "title": "Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base - The New York Times - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzJRdTRIblNhYS1XbDZUUlN0VEV2a1NkMTZKeDBIRE9ncllHQ1pZcHFxRmtGdV9NaHJBZExLVE81YVR0Q290RWY3ODJoN1pybDhqM2U5ZTVBWjVXblZyUC1tcUg3c0wzZGFFSVlTWko5cXJHWm9kN192ZWlzR1p3LXgtYllMaWVTUVo3VFU1VmdvRThn?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Sat, 07 Mar 2026 06:37:00 GMT"
-    },
-    {
-      "title": "Who does USA play next in World Baseball Classic 2026? Time, TV schedule - Bergen Record",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM3dwQWhiOW9OZXRhb3h5MmpwM0ZFZmQ2NmFFSkw5Q0xJTVZYcGV3a2hfcmNuX0dSZFRBQVFneHlsUDVqNWdldGZoTzdNYTVZZzFJQkF3NmF6QWRnSmtGYUZTUmRhRXhsSmZ4WU5PQkpoQWVia2NFLVMxXzlJSEtfUGV6VVJGQ01ZSzRMUEJZMHRtMHp1Y01OWU92eG9LMW1IN2gtY2x3cVRvVGVwbERKRDZfbzNUc3hOMXZPeDcyVzZwbjNqUHVQZjd3R3VTZw?oc=5",
-      "source": "Bergen Record",
-      "pubDate": "Sat, 07 Mar 2026 09:02:00 GMT"
-    },
-    {
       "title": "Every top 100 player in the 2026 World Baseball Classic - ESPN",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTU9xOEtDUzI2TTVsNndFTXVDcVFvWTg4Vkd6Uy1YQVRrY3pXdTl1UG54dzIxOTlKOE9sYnhUMkZoRTdhSmUxMGRfZ0dhMS1YNlZ6enNoVkQ0dmN5U1MzOWE3akg3Uk9fNWFpQk5vNmFQdUZfcmVZMUY5aC1fU1VMSjQxWUFNRWhSMjZiN3MzbUxySF9jOTVzaGtvUE5KREpYYS1HcjBVaXoySjlG?oc=5",
       "source": "ESPN",
       "pubDate": "Thu, 05 Mar 2026 19:00:00 GMT"
+    },
+    {
+      "title": "Bangladesh seek 'new start' after setback with eyes on 2027 World Cup - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGhkSlpZRl9FYi1Gc0w4b19uZnJQMnJYOGZqa2tDbWVDVVk0UVAxTGJFaUFIUFdobE5HbHI3NmZOYzRPMEpwWmpzU2JpSVRrX25vLWpJMEtoTVoyVWpFcGY4QTg5UDdLcUZxekwtbHFUd0pseUh1OUJnRDJXT3c5RHkwME9zODVXRm4tUWktS0hVMVA2VXlMS09oQlRiVFNzTzFSUFZ5ZEpQZHlfeU9PY2k3TEQ4UVk?oc=5",
+      "source": "ESPN",
+      "pubDate": "Sat, 07 Mar 2026 09:54:44 GMT"
     },
     {
       "title": "Jordan Stolz takes second in 2026 ISU World Sprints championship - Milwaukee Journal Sentinel",
@@ -431,10 +431,10 @@
       "pubDate": "Fri, 06 Mar 2026 23:04:00 GMT"
     },
     {
-      "title": "Inside the World of ‘La La Land’ - The Santa Barbara Independent",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yR3dvQ255TktHQjd0eG9pX1VYUnRob0VqYktEY0dvWmRFR3hqLVV6N3ZHQUtTOG1MWWMtWmJ6NlpEWmtSMGxrYUhvT3lqR0pVWmM0TUI0UE1OeVR6ODFydnJXX2NEOWxrX2ZHWm9ycnlqanZCTFZpYkdR?oc=5",
-      "source": "The Santa Barbara Independent",
-      "pubDate": "Fri, 06 Mar 2026 21:31:01 GMT"
+      "title": "2026 World Baseball Classic preview: Rankings, keys, more - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYVZ0UUVkT2RtTnVROWMyaU9IbWlERDBsUkk1ZzM1NkQ1UHBZWlZxV0tGLUlmM2l3VEdESWx6a2pNa2lYZnlSVlhOZDY1SEgxUWVKRS1MZGdlZkE0OWJxVFNpMWVxUkpSOHBZMFVTcDBzTnJlSU1IY2I3Z0lkS09rMW5RTjdhbldEZTJlbHVQVWRzZWVCeG11cy0zaWtYbHpuUW9oVTdiXzZ0QWtDcFRDWXVGR2VjdkZ4WlFIbDgtWm95cllfWVMxTDM4Zk5wUlMwcnVCRQ?oc=5",
+      "source": "ESPN",
+      "pubDate": "Thu, 05 Mar 2026 12:00:00 GMT"
     },
     {
       "title": "Puerto Rico seeking 2-0 start in Pool A against Panama (6 p.m. ET on FS1) - MLB.com",
@@ -449,16 +449,10 @@
       "pubDate": "Sat, 07 Mar 2026 02:43:53 GMT"
     },
     {
-      "title": "Heavy Rain, Severe Weather Threat Cancel Saturday’s Black Ice Brawl - World of Outlaws",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeGZRcG9JUHdxSzNBMnhlQnZtdWFJaWVWYzNuWkJJTXY1dTJOcm5ma3FJdEd1UUEzbVdKRFh2NUdIdzlzMF9JUXUwMjdIZERZaU9OaVVXb0RTYXBUMGMyU0F5TlBjVFhXU2phUnd4LTFYdk1od3NCb2FVdEtBZ2wwR0d2U2NfYklfM0ZoZHY1eWdmZ1RQTUY0bTRaeEhqc1YxQjNTSVBpQQ?oc=5",
-      "source": "World of Outlaws",
-      "pubDate": "Sat, 07 Mar 2026 02:03:47 GMT"
-    },
-    {
-      "title": "2026 World Baseball Classic preview: Rankings, keys, more - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYVZ0UUVkT2RtTnVROWMyaU9IbWlERDBsUkk1ZzM1NkQ1UHBZWlZxV0tGLUlmM2l3VEdESWx6a2pNa2lYZnlSVlhOZDY1SEgxUWVKRS1MZGdlZkE0OWJxVFNpMWVxUkpSOHBZMFVTcDBzTnJlSU1IY2I3Z0lkS09rMW5RTjdhbldEZTJlbHVQVWRzZWVCeG11cy0zaWtYbHpuUW9oVTdiXzZ0QWtDcFRDWXVGR2VjdkZ4WlFIbDgtWm95cllfWVMxTDM4Zk5wUlMwcnVCRQ?oc=5",
-      "source": "ESPN",
-      "pubDate": "Thu, 05 Mar 2026 12:00:00 GMT"
+      "title": "'Dream team': Pujols says his '26 Classic lineup could be the DR's best ever - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXlaYkVvUHJwb3poaFlKTzdjUUxEelNmdUNDbjNfajR3SERjUzI5Wm9hRDZEajZ6Q0p2X3FmNnZZZEpJRktQOWZGdlU0TUt4eTR1eVZadGhYekZRTmpsMWN2MDBHOFhjcFY4T1BJR1RnOFp6S3kwaUUtMlRtUmtQbEZYUnFDdTh3VGc5dGl2NTNDWTk1UnZYVFFRZjVkZVHSAasBQVVfeXFMTUx6SlJNYm8tdzRUVWhZODZvV29BUVpSRzZhQk1lbmVXMGY5VUpqVklCMUVsWUcyZFIzaXJWaW50T1hQTW52Mi05YUZMM3dGeTlmaDZQWC1zVlhHaVZyQmw1TTJ0aE9DYmJ5S0JEdjlCRy0yYkZtYkc1aEFXOHNLaldfa3NRLVkzSFFabVVwdHpzX3FiQk1hZnJEdW1VYUhjZFZWYkNwZVJELVVN?oc=5",
+      "source": "MLB.com",
+      "pubDate": "Fri, 06 Mar 2026 07:16:25 GMT"
     },
     {
       "title": "Foxborough town officials deny there's a deal in place over World Cup security costs - WBUR",
@@ -467,22 +461,22 @@
       "pubDate": "Fri, 06 Mar 2026 20:30:56 GMT"
     },
     {
-      "title": "World Baseball Classic: Shohei Ohtani puts on offensive show as Japan shuts out Chinese Taipei 13-0 - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ2kzbkZ0S1ptbVEtdDNwLTQtQmFmWlF5UVRIZUxjMmNMd1JWbXVRcHQ4TF8ySUZGSHY3OWlUTHd0eFFzaDNQYnpMbUJtUlpEcHdNcHJ6cXotYnh2Z2xYQlliTFU1OHJRV3lMN2I3UG51U0pMbl9zZEdOOUMxNU80N3pIazlDUUgtZDdoRHhSSlctWk0wU19CM0J1alJnZVI3b3ZKeG9XUFJxanNKUnJtODM4WFhpSGJlM2k5eFNJbG5YNkVSOWhKTl9BYmNLS3h3eVctUnZpRnVnRllET1YtVC0xQW0?oc=5",
-      "source": "Yahoo Sports",
-      "pubDate": "Fri, 06 Mar 2026 14:04:39 GMT"
-    },
-    {
-      "title": "'Dream team': Pujols says his '26 Classic lineup could be the DR's best ever - MLB.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXlaYkVvUHJwb3poaFlKTzdjUUxEelNmdUNDbjNfajR3SERjUzI5Wm9hRDZEajZ6Q0p2X3FmNnZZZEpJRktQOWZGdlU0TUt4eTR1eVZadGhYekZRTmpsMWN2MDBHOFhjcFY4T1BJR1RnOFp6S3kwaUUtMlRtUmtQbEZYUnFDdTh3VGc5dGl2NTNDWTk1UnZYVFFRZjVkZVHSAasBQVVfeXFMTUx6SlJNYm8tdzRUVWhZODZvV29BUVpSRzZhQk1lbmVXMGY5VUpqVklCMUVsWUcyZFIzaXJWaW50T1hQTW52Mi05YUZMM3dGeTlmaDZQWC1zVlhHaVZyQmw1TTJ0aE9DYmJ5S0JEdjlCRy0yYkZtYkc1aEFXOHNLaldfa3NRLVkzSFFabVVwdHpzX3FiQk1hZnJEdW1VYUhjZFZWYkNwZVJELVVN?oc=5",
-      "source": "MLB.com",
-      "pubDate": "Fri, 06 Mar 2026 07:16:25 GMT"
-    },
-    {
       "title": "IRAN’S WORLD WAR - The Jerusalem Strategic Tribune",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zRWhNaXhDZ0Y4MTRXaUZ4SDctQS1IQmt3dHJKcDRXWmFRRVl0ank5S0hJU3N0ZGZHQktTLWVoTTJTaTFiQlQybE9lb3d5T00?oc=5",
       "source": "The Jerusalem Strategic Tribune",
       "pubDate": "Sat, 07 Mar 2026 09:59:51 GMT"
+    },
+    {
+      "title": "Heavy Rain, Severe Weather Threat Cancel Saturday’s Black Ice Brawl - World of Outlaws",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeGZRcG9JUHdxSzNBMnhlQnZtdWFJaWVWYzNuWkJJTXY1dTJOcm5ma3FJdEd1UUEzbVdKRFh2NUdIdzlzMF9JUXUwMjdIZERZaU9OaVVXb0RTYXBUMGMyU0F5TlBjVFhXU2phUnd4LTFYdk1od3NCb2FVdEtBZ2wwR0d2U2NfYklfM0ZoZHY1eWdmZ1RQTUY0bTRaeEhqc1YxQjNTSVBpQQ?oc=5",
+      "source": "World of Outlaws",
+      "pubDate": "Sat, 07 Mar 2026 02:03:47 GMT"
+    },
+    {
+      "title": "Salem creamery's string cheese wins world 'Best of Class' award - Statesman Journal",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcGd6aGZUcnhuc2tkdlpqQUFTSGFvdkdnY25nNlZXcU14QnQxVTlVNVZuVTNITXhnY0E2bHJyd1M2T2Z0SnRrZERrS3NrWXpBcWcyVFN3WklrSTBHUEltaGY2Nl9PS3ZjUG5qWkxfc096Tl9MRGdLWWpUbEFFQnptT1JuMzJqenZXZUpGczYwQkhWQjZaVk1WTVY0c2dab0RFdE5CVFdDVXRsaTB4NWJ6cjJqUWJEQzFPMlhtSQ?oc=5",
+      "source": "Statesman Journal",
+      "pubDate": "Fri, 06 Mar 2026 18:57:00 GMT"
     },
     {
       "title": "How is the Iran war reshaping the world and politics here at home? - NPR",
@@ -491,28 +485,10 @@
       "pubDate": "Fri, 06 Mar 2026 22:56:39 GMT"
     },
     {
-      "title": "Aussies improve to 2-0 at Classic after topping Czechia - MLB.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUndwMFJ1a1AyVEE0VWJyRnRGc2xYc1BXdklsVTh3YWVuZjc1OHJFTzJ2cklRUVdWUW0tYW12ZGtxQWdGMDBlSjhONjEtRmZaQUp3LVZiUlVvZUJYR3doX0tQbExxeDhVbzlwcGZUck9XRG1lT3BzOTg0elQ1d0tIYkt3?oc=5",
-      "source": "MLB.com",
-      "pubDate": "Fri, 06 Mar 2026 07:16:26 GMT"
-    },
-    {
       "title": "SC native who shocked political world with U.S. Senate run dies at 48 - FOX Carolina",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUGVseWVEazk0TVRkWXJXTVRUVDVwZVhVVl9oRDBUU2NUMmJydFJieWJyNzlNQ2tSbG1aeTU4blVORkRBRklSTVlCSV96ODNITzBTYUp4N3IwZEU2TzQ4aFI1UlFXdFprdzdndzlLdkI2c0ktZ3JkMjhhT0RYdFNHRW8ydHh1VkxrWHZ5V0t2ZXI2dGh5TFBjTU1qQzZYRUJXenhhekRFQQ?oc=5",
       "source": "FOX Carolina",
       "pubDate": "Sat, 07 Mar 2026 00:50:00 GMT"
-    },
-    {
-      "title": "March Events at Arizona Snowbowl: World’s Best Spring Break, SNOW JAMZ & More - Arizona Snowbowl Ski Resort",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHJBa3hGLVctVnlqLURuOW5PdXZEWGVvd1prT1JfVVRFWnA1TW9EUk5zTW1rZ3gzSDV6STJBYXlIcERBYXNBd0tIWDFqY3BMcDlTMzJiWlNkUUlyYkRNeVd0UXlCODRjQXA2a2dFaW9iZHB6YzZvVkF4QVhKMGRXcDNLdnk1RGF3UlFMZ1QzUUJBU0NwclJPNlVWRmw1SzA?oc=5",
-      "source": "Arizona Snowbowl Ski Resort",
-      "pubDate": "Fri, 06 Mar 2026 20:42:40 GMT"
-    },
-    {
-      "title": "Aaron Judge launches 405-foot homer in World Baseball Classic debut - ABC7 New York",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlVRUFpBYmd0dHdZdkZSeXN6YXk4VTlFWTBjVmNWT0xSc2pfNXUyUzBxMF9wS2dNZ3ROSmIwa0IxdVY0S0d0YmlWUWVWazVvUWprQ1BEV0duMXgzUjhLUW9ob3dDMUFxcGdWVEtrWURJWHZwWEExY2NoaXJ6eDRhN1lfMDluYURnY2FwUzhkUENXaVAtM2g2b2IxNUVacVU?oc=5",
-      "source": "ABC7 New York",
-      "pubDate": "Sat, 07 Mar 2026 07:39:43 GMT"
     },
     {
       "title": "USMNT 2026 World Cup big board 5.0: Predicting squad for March camp - ESPN",
@@ -521,10 +497,22 @@
       "pubDate": "Thu, 05 Mar 2026 13:25:00 GMT"
     },
     {
-      "title": "Bangladesh seek 'new start' after setback with eyes on 2027 World Cup - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGhkSlpZRl9FYi1Gc0w4b19uZnJQMnJYOGZqa2tDbWVDVVk0UVAxTGJFaUFIUFdobE5HbHI3NmZOYzRPMEpwWmpzU2JpSVRrX25vLWpJMEtoTVoyVWpFcGY4QTg5UDdLcUZxekwtbHFUd0pseUh1OUJnRDJXT3c5RHkwME9zODVXRm4tUWktS0hVMVA2VXlMS09oQlRiVFNzTzFSUFZ5ZEpQZHlfeU9PY2k3TEQ4UVk?oc=5",
-      "source": "ESPN",
-      "pubDate": "Sat, 07 Mar 2026 09:54:44 GMT"
+      "title": "March Events at Arizona Snowbowl: World’s Best Spring Break, SNOW JAMZ & More - Arizona Snowbowl Ski Resort",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHJBa3hGLVctVnlqLURuOW5PdXZEWGVvd1prT1JfVVRFWnA1TW9EUk5zTW1rZ3gzSDV6STJBYXlIcERBYXNBd0tIWDFqY3BMcDlTMzJiWlNkUUlyYkRNeVd0UXlCODRjQXA2a2dFaW9iZHB6YzZvVkF4QVhKMGRXcDNLdnk1RGF3UlFMZ1QzUUJBU0NwclJPNlVWRmw1SzA?oc=5",
+      "source": "Arizona Snowbowl Ski Resort",
+      "pubDate": "Fri, 06 Mar 2026 20:42:40 GMT"
+    },
+    {
+      "title": "World Baseball Classic: Shohei Ohtani puts on offensive show as Japan shuts out Chinese Taipei 13-0 - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ2kzbkZ0S1ptbVEtdDNwLTQtQmFmWlF5UVRIZUxjMmNMd1JWbXVRcHQ4TF8ySUZGSHY3OWlUTHd0eFFzaDNQYnpMbUJtUlpEcHdNcHJ6cXotYnh2Z2xYQlliTFU1OHJRV3lMN2I3UG51U0pMbl9zZEdOOUMxNU80N3pIazlDUUgtZDdoRHhSSlctWk0wU19CM0J1alJnZVI3b3ZKeG9XUFJxanNKUnJtODM4WFhpSGJlM2k5eFNJbG5YNkVSOWhKTl9BYmNLS3h3eVctUnZpRnVnRllET1YtVC0xQW0?oc=5",
+      "source": "Yahoo Sports",
+      "pubDate": "Fri, 06 Mar 2026 14:04:39 GMT"
+    },
+    {
+      "title": "Aaron Judge launches 405-foot homer in World Baseball Classic debut - ABC7 New York",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlVRUFpBYmd0dHdZdkZSeXN6YXk4VTlFWTBjVmNWT0xSc2pfNXUyUzBxMF9wS2dNZ3ROSmIwa0IxdVY0S0d0YmlWUWVWazVvUWprQ1BEV0duMXgzUjhLUW9ob3dDMUFxcGdWVEtrWURJWHZwWEExY2NoaXJ6eDRhN1lfMDluYURnY2FwUzhkUENXaVAtM2g2b2IxNUVacVU?oc=5",
+      "source": "ABC7 New York",
+      "pubDate": "Sat, 07 Mar 2026 07:39:43 GMT"
     },
     {
       "title": "Cain Culto is more than a character in a world of confrontation - Radio Milwaukee",
@@ -545,28 +533,22 @@
       "pubDate": "Fri, 06 Mar 2026 18:57:28 GMT"
     },
     {
-      "title": "Philadelphia receives $8.47 million for public transportation ahead of World Cup - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMzJQNUdyUzh6V3duc2pWTS11Zk42cXZHYTlzWFlXU1dLaVB0Z0wxOHQ0YnRvYlRrb0dsOXA4cldsRDVjbWFKcVFhRzRwaTBfNWlreW9JMXpKblpEQWRaWDdXeDF6Snc1b0tKY29QMlh3NS1XZnVwR0VsM1d0QU5qTjFlZ0VYVFlQaXB4UGxhY2RjZnFHeHZGVHA4Z0hxZ2FTMUlYekhPZmx1LXZBN3BSR1h0OXBBUVN2NnNqa3czRUZNMFo5WFloci1Gbmd2TE15UEFj0gHbAUFVX3lxTE54Zmc1SHEycTR2NzJmTkZkN3JNT2lHWFhJV3pMdWs2RTUxTm9EOTVsTkk1R290YXVuQzhhVW5ydVZsNmtkTVRwOHFPTUVRNmxsUkEtRXYxZnJWaVJITm8waTJJVXBlMGdRcVFzdmhibnZ5NjBmbFRUeHF3WUszeGtsTDVsMFZSVHUxbDJINHV0eHVfa0ZHOVJ3NWRMMkJ0eUlfNmxhNVlUOGRJVjNFWGthdS0xOHRDWlpDaTB5R0F6eXR6RGh5NmtYdHc4c0tLM0lseklrUV93U3VIMA?oc=5",
-      "source": "NBC10 Philadelphia",
-      "pubDate": "Fri, 06 Mar 2026 16:37:52 GMT"
-    },
-    {
       "title": "Why haven't World Cup host cities received critical funding? - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZExBOFM4Znlnc3dYT0hJNk5iMExYWTlfTXJQdmk3THhtSU9LZ3dtazVZdmhFMU93Z2lQdllQcDJZZF84clhENTlzVHdDZmxPT3QzaERpTW5ya0c2akY1dzgteXhid3ZzbXdfMTRWcHFKeU1FLVItaVlzT1B3Q0t6aUVVNEFoZnFoTnFCUEMyLWhUckpUMEg3cUlyNkxnd2JPc2lMRFhPV1hPdw?oc=5",
       "source": "ESPN",
       "pubDate": "Wed, 04 Mar 2026 14:52:00 GMT"
     },
     {
-      "title": "Salem creamery's string cheese wins world 'Best of Class' award - Statesman Journal",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcGd6aGZUcnhuc2tkdlpqQUFTSGFvdkdnY25nNlZXcU14QnQxVTlVNVZuVTNITXhnY0E2bHJyd1M2T2Z0SnRrZERrS3NrWXpBcWcyVFN3WklrSTBHUEltaGY2Nl9PS3ZjUG5qWkxfc096Tl9MRGdLWWpUbEFFQnptT1JuMzJqenZXZUpGczYwQkhWQjZaVk1WTVY0c2dab0RFdE5CVFdDVXRsaTB4NWJ6cjJqUWJEQzFPMlhtSQ?oc=5",
-      "source": "Statesman Journal",
-      "pubDate": "Fri, 06 Mar 2026 18:57:00 GMT"
-    },
-    {
       "title": "World Baseball Classic begins in Miami - NBC 6 South Florida",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlNweU1MVnlOWW5taU5lRThtZ3E0RXJGVnExbnltemZWZ2t1ajhDOEQ0UU5MdkE3Wld0WlYySEdIT0pHUW42UkNubTM5U2hQRTVfa1dmQzZMd2x4UFVzTGVQb05ERU1oQk5xZUdNa3lkUVNUMkdyYnFSS3ViLW1ERDFRdGJqWlVDanJrczVKRTc1QmfSAZsBQVVfeXFMTzRRMEEtOGlZZnkxdndqcU5oeXVBZVpENnE4SGdEZHBOMENpa2FfRGZ4d1hwazEza2tpUGs4NFM3bXpIdk9ZS0ZDbHlDSXJLbWxYZVNyTlR4R2NnaWVMTmZ2VUpGVnY1S25uejJMc3V4d29aNjZ6Zkx6aktBTkZYZHNLS05TQ0dweXZVSVlTOXhsSkpTU1pkLVgtV2c?oc=5",
       "source": "NBC 6 South Florida",
       "pubDate": "Fri, 06 Mar 2026 22:31:46 GMT"
+    },
+    {
+      "title": "Philadelphia receives $8.47 million for public transportation ahead of World Cup - NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMzJQNUdyUzh6V3duc2pWTS11Zk42cXZHYTlzWFlXU1dLaVB0Z0wxOHQ0YnRvYlRrb0dsOXA4cldsRDVjbWFKcVFhRzRwaTBfNWlreW9JMXpKblpEQWRaWDdXeDF6Snc1b0tKY29QMlh3NS1XZnVwR0VsM1d0QU5qTjFlZ0VYVFlQaXB4UGxhY2RjZnFHeHZGVHA4Z0hxZ2FTMUlYekhPZmx1LXZBN3BSR1h0OXBBUVN2NnNqa3czRUZNMFo5WFloci1Gbmd2TE15UEFj0gHbAUFVX3lxTE54Zmc1SHEycTR2NzJmTkZkN3JNT2lHWFhJV3pMdWs2RTUxTm9EOTVsTkk1R290YXVuQzhhVW5ydVZsNmtkTVRwOHFPTUVRNmxsUkEtRXYxZnJWaVJITm8waTJJVXBlMGdRcVFzdmhibnZ5NjBmbFRUeHF3WUszeGtsTDVsMFZSVHUxbDJINHV0eHVfa0ZHOVJ3NWRMMkJ0eUlfNmxhNVlUOGRJVjNFWGthdS0xOHRDWlpDaTB5R0F6eXR6RGh5NmtYdHc4c0tLM0lseklrUV93U3VIMA?oc=5",
+      "source": "NBC10 Philadelphia",
+      "pubDate": "Fri, 06 Mar 2026 16:37:52 GMT"
     },
     {
       "title": "Latest on Yankees in World Baseball Classic: Aaron Judge's homer leads Team USA to win over Brazil - Yahoo Sports",
@@ -581,10 +563,10 @@
       "pubDate": "Sat, 07 Mar 2026 04:22:50 GMT"
     },
     {
-      "title": "Latest on Mets in World Baseball Classic: Juan Soto picks up two hits, Huascar Brazoban dominates for Team DR - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdVd1d29LRUFHbXhQNGxlNDkxclNKVGtIeVdNZ0hsLTlhR2lMbGtQY25Tc2otdFZQTVZBWlU4N3lIWW1LbjI4VE9ZdURsZ0U1TkJtUTJobDlwYkpQb1FDb1JhQmpGTzRnU2RxMXZ4bllhRWZsMkw4ZTFGbklZWTlxQ1QxbEIyTXVKTXhZ?oc=5",
-      "source": "Yahoo Sports",
-      "pubDate": "Sat, 07 Mar 2026 04:42:03 GMT"
+      "title": "Hartford City girl meets people from all over the world - theechonews.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUEtqc1VWN3lLOXdVS3ZPU1oyb2lYaW82NUdsaFhFLVpPQ2trVHhra3REWWUwRklZXzM2bkdlaXRUTmhYVUE3LWhUNGhXQV9LaGtDQ21XMVNDNUIwV0hiWlZGSmVfMkNtUG90VV9zN2FvVkdsWE9MeGdtUUVnRDRaTmxJcHNTQjBWQ0NSRzZxNE93OGFfOTJtaktuUS02ZzJO?oc=5",
+      "source": "theechonews.com",
+      "pubDate": "Fri, 06 Mar 2026 05:45:21 GMT"
     },
     {
       "title": "Dimash Qudaibergen Named Ambassador of Turkic World Culture by TURKSOY - The Astana Times",
@@ -593,16 +575,22 @@
       "pubDate": "Sat, 07 Mar 2026 05:05:35 GMT"
     },
     {
+      "title": "Latest on Mets in World Baseball Classic: Juan Soto picks up two hits, Huascar Brazoban dominates for Team DR - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdVd1d29LRUFHbXhQNGxlNDkxclNKVGtIeVdNZ0hsLTlhR2lMbGtQY25Tc2otdFZQTVZBWlU4N3lIWW1LbjI4VE9ZdURsZ0U1TkJtUTJobDlwYkpQb1FDb1JhQmpGTzRnU2RxMXZ4bllhRWZsMkw4ZTFGbklZWTlxQ1QxbEIyTXVKTXhZ?oc=5",
+      "source": "Yahoo Sports",
+      "pubDate": "Sat, 07 Mar 2026 04:42:03 GMT"
+    },
+    {
       "title": "Stuart Fairchild's grand slam leads Taiwan over Czech Republic at the World Baseball Classic - News4JAX",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQclJ3ZGYzS3Q0WTBGREJHV1FsMktYNHo0eWZZSU91ci1VUHVkdUJZYlF3LXNJRzMtQW9oYXlfeVVucjR5S21ETXpJMU9HOThTM1BOcnhPNW9TMjZBYXZtbDR6RjJ1cDh4c1AtY3haR3pjakpCY2F1ck9walpQOXJTNFdKbS1pUHFtb2JranNxN1psalFoTEIxaTJfX1hVVjVxZGZfckRTNWNvN0Rtb3BWMm81ZXRFeWdxTDJMbVJWcU9LSWllaGFVd0c0ckxaMXBE?oc=5",
       "source": "News4JAX",
       "pubDate": "Sat, 07 Mar 2026 05:50:56 GMT"
     },
     {
-      "title": "High schooler retires three-time MVP in stunning World Baseball Classic moment - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjB6UTJkOXpnVDVLSVRINDRrS0REWTQyN0cxRVZYTVdTRlZpMzBub1NZTWVZaWZ1NHViMDVIRGk4NGtCVW5JV3JGWXYyUGNINjEtNU53bHlZMU96c0EwZy1CZ19rSDQ0ejlqWjVVTFJNWV9uanM1LXJoVzZBSjJhSl91UlFfNE9OckE?oc=5",
+      "title": "Judge homers as USA cruise past Brazil in World Baseball Classic - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmpwNVNBaVNlaWNFbzFVMWJzTXNZZk5GR19zQ25wNEFJX19ZbUZzSUo0cGlLSWZ1RHliR2RSSVRyNU9Wc1FaY0dQcUFZRExzLTByMXFVal9yMzNaUmFKcEZvN0dlemxpdGtYc2dkM3VqMTZzeEgzV1RBLVBoQm5MVUlIWQ?oc=5",
       "source": "Yahoo Sports",
-      "pubDate": "Sat, 07 Mar 2026 02:00:02 GMT"
+      "pubDate": "Sat, 07 Mar 2026 05:19:40 GMT"
     },
     {
       "title": "Team USA Facing Backlash for Gunnar Henderson Decision at World Baseball Classic - Yahoo Sports",
